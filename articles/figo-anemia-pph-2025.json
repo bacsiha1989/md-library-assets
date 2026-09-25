@@ -1,0 +1,677 @@
+{
+  "id": "figo-anemia-pph-2025",
+  "title": {
+    "en": "FIGO Good Practice Recommendations on Anemia in Pregnancy, to Reduce the Incidence and Impact of Postpartum Hemorrhage (PPH)",
+    "vi": "Hướng dẫn Thực hành Lâm sàng Toàn văn của FIGO: Quản trị Toàn diện Thiếu máu trong Thai kỳ nhằm Ngăn ngừa Băng huyết Sau sinh (PPH)"
+  },
+  "title_vi": "Hướng dẫn Thực hành Lâm sàng Toàn văn của FIGO: Quản trị Toàn diện Thiếu máu trong Thai kỳ nhằm Ngăn ngừa Băng huyết Sau sinh (PPH)",
+  "authors": "FIGO Committee on Postpartum Hemorrhage & Maternal Health (Ubom AE, Begum F, Ramasauskaite D, Nieto-Calvache OJ, et al.)",
+  "source_org": "International Federation of Gynecology and Obstetrics (FIGO)",
+  "category": "Hướng dẫn FIGO & Sản khoa",
+  "verified_by": "MomDiary Clinical Academic Review · BS. Phạm Ngọc Hà",
+  "public_source_url": "https://doi.org/10.1002/ijgo.70529",
+  "citation": {
+    "doi": "10.1002/ijgo.70529",
+    "journal": "International Journal of Gynecology & Obstetrics (IJGO / Wiley)",
+    "authors": "FIGO Committee on Postpartum Hemorrhage & Maternal Health (Ubom AE, Begum F, Ramasauskaite D, Nieto-Calvache OJ, et al.)",
+    "year": "2025",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "original_url": "https://doi.org/10.1002/ijgo.70529",
+    "disclaimer": "Tài liệu xuất bản dưới giấy phép truy cập mở quốc tế CC BY 4.0. Toàn văn hướng dẫn lâm sàng được biên dịch và đối chiếu thuật ngữ song ngữ bởi AI Minh Translate phục vụ đào tạo và hỗ trợ quyết định lâm sàng cho Bác sĩ MomDiary."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "id": "citation-header",
+      "en": "Official Academic Citation & Licensing Information",
+      "vi": "Thông tin Trích dẫn Nguồn & Bản quyền Xuất bản Chính thức"
+    },
+    {
+      "type": "paragraph",
+      "id": "citation-meta",
+      "sentences": [
+        {
+          "id": "cit-s1",
+          "en": "Original Document: FIGO Good Practice Recommendations on Anemia in Pregnancy, to Reduce the Incidence and Impact of Postpartum Hemorrhage (PPH). Published in International Journal of Gynecology & Obstetrics (IJGO / Wiley) (2025). Authors: FIGO Committee on Postpartum Hemorrhage & Maternal Health (Ubom AE, Begum F, Ramasauskaite D, Nieto-Calvache OJ, et al.).",
+          "vi": "Tài liệu gốc: FIGO Good Practice Recommendations on Anemia in Pregnancy, to Reduce the Incidence and Impact of Postpartum Hemorrhage (PPH). Xuất bản trên tạp chí/tổ chức International Journal of Gynecology & Obstetrics (IJGO / Wiley) (2025). Tác giả: FIGO Committee on Postpartum Hemorrhage & Maternal Health (Ubom AE, Begum F, Ramasauskaite D, Nieto-Calvache OJ, et al.)."
+        },
+        {
+          "id": "cit-s2",
+          "en": "Official Source / DOI: https://doi.org/10.1002/ijgo.70529 | License: Creative Commons Attribution 4.0 International (CC BY 4.0).",
+          "vi": "Nguồn trích dẫn chính thức (DOI): https://doi.org/10.1002/ijgo.70529 | Giấy phép xuất bản: Creative Commons Attribution 4.0 International (CC BY 4.0)."
+        }
+      ],
+      "terms": {
+        "Open Access": "Truy cập mở: Hình thức xuất bản khoa học cho phép tiếp cận, phân phối và sử dụng hợp pháp.",
+        "Attribution": "Ghi nhận công trạng: Yêu cầu trích dẫn đầy đủ tác giả và nguồn gốc xuất bản ban đầu."
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "citation-disclaimer",
+      "sentences": [
+        {
+          "id": "cit-disc-1",
+          "en": "Academic & Clinical Disclaimer: This translation is produced for non-commercial educational and clinical reference. It does not replace the official original publication.",
+          "vi": "Tuyên bố Miễn trừ & Trách nhiệm Học thuật: Tài liệu xuất bản dưới giấy phép truy cập mở quốc tế CC BY 4.0. Toàn văn hướng dẫn lâm sàng được biên dịch và đối chiếu thuật ngữ song ngữ bởi AI Minh Translate phục vụ đào tạo và hỗ trợ quyết định lâm sàng cho Bác sĩ MomDiary."
+        }
+      ],
+      "terms": {}
+    },
+    {
+      "type": "heading",
+      "id": "sec-rec-summary",
+      "en": "Summary of FIGO Core Practice Recommendations",
+      "vi": "Tóm tắt các Khuyến cáo Thực hành Cốt lõi của FIGO"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-rec-1",
+      "sentences": [
+        {
+          "id": "s-rec-1-1",
+          "en": "All pregnant women should be screened for anemia with a full blood count (FBC) at booking and again at 28 weeks of gestation (strong recommendation, high-quality evidence).",
+          "vi": "Tất cả phụ nữ mang thai nên được sàng lọc thiếu máu bằng xét nghiệm tổng phân tích tế bào máu ngoại vi (FBC) tại lần khám thai đầu tiên và kiểm tra lại ở tuần thứ 28 của thai kỳ (khuyến cáo mạnh, bằng chứng chất lượng cao)."
+        },
+        {
+          "id": "s-rec-1-2",
+          "en": "Serum ferritin should be routinely evaluated alongside FBC at booking to detect latent iron deficiency before anemia develops (strong recommendation, moderate-quality evidence).",
+          "vi": "Ferritin huyết thanh cần được đánh giá thường quy cùng với tổng phân tích máu tại lần khám thai đầu tiên để phát hiện tình trạng thiếu sắt tiềm ẩn trước khi thiếu máu thực sự tiến triển (khuyến cáo mạnh, bằng chứng chất lượng trung bình)."
+        },
+        {
+          "id": "s-rec-1-3",
+          "en": "A serum ferritin threshold of less than 30 mcg/L defines iron depletion in pregnancy and mandates therapeutic iron repletion even if hemoglobin remains within the normal range.",
+          "vi": "Ngưỡng ferritin huyết thanh dưới 30 mcg/L xác định tình trạng cạn kiệt dự trữ sắt trong thai kỳ và bắt buộc phải bổ sung sắt điều trị ngay cả khi nồng độ hemoglobin vẫn còn trong giới hạn bình thường."
+        }
+      ],
+      "terms": {
+        "Full blood count (FBC)": "Tổng phân tích tế bào máu ngoại vi: Xét nghiệm đo số lượng hồng cầu, hemoglobin, hematocrit và các chỉ số hồng cầu.",
+        "Serum ferritin": "Ferritin huyết thanh: Xét nghiệm chuẩn vàng đánh giá dự trữ sắt cơ thể."
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "p-rec-2",
+      "sentences": [
+        {
+          "id": "s-rec-2-1",
+          "en": "Anemia in pregnancy is defined as hemoglobin less than 11.0 g/dL in the first and third trimesters, and less than 10.5 g/dL in the second trimester.",
+          "vi": "Thiếu máu thai kỳ được định nghĩa khi hemoglobin dưới 11,0 g/dL trong quý I và quý III, và dưới 10,5 g/dL trong quý II."
+        },
+        {
+          "id": "s-rec-2-2",
+          "en": "Anemia severity is categorized as mild (10.0–10.9 g/dL), moderate (7.0–9.9 g/dL), and severe (< 7.0 g/dL). Very severe anemia (< 4.0 g/dL) represents an imminent life-threatening emergency.",
+          "vi": "Mức độ thiếu máu được phân loại thành nhẹ (10,0–10,9 g/dL), trung bình (7,0–9,9 g/dL) và nặng (< 7,0 g/dL). Thiếu máu rất nặng (< 4,0 g/dL) là tình trạng đe dọa tính mạng khẩn cấp."
+        }
+      ],
+      "terms": {
+        "Hemoglobin (Hb)": "Huyết sắc tố: Protein vận chuyển oxy thiết yếu của hồng cầu.",
+        "Severe anemia": "Thiếu máu nặng: Khi Hb < 7,0 g/dL, làm tăng gấp nhiều lần nguy cơ tử vong mẹ do sốc và suy tim."
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "p-rec-3",
+      "sentences": [
+        {
+          "id": "s-rec-3-1",
+          "en": "To prevent iron deficiency, all pregnant women should receive 30–60 mg of elemental iron daily, starting as early as possible in pregnancy.",
+          "vi": "Để dự phòng thiếu sắt, tất cả phụ nữ mang thai nên được bổ sung 30–60 mg sắt nguyên tố mỗi ngày, bắt đầu càng sớm càng tốt trong thai kỳ."
+        },
+        {
+          "id": "s-rec-3-2",
+          "en": "In women experiencing intolerable gastrointestinal side effects from daily iron, alternate-day dosing (60–120 mg elemental iron every other day) should be prescribed to maintain efficacy while significantly improving tolerability.",
+          "vi": "Ở những phụ nữ gặp tác dụng phụ đường tiêu hóa không dung nạp được do uống sắt hàng ngày, nên chuyển sang phác đồ uống sắt cách ngày (60–120 mg sắt nguyên tố cách ngày) nhằm duy trì hiệu quả hấp thu đồng thời cải thiện đáng kể khả năng dung nạp."
+        },
+        {
+          "id": "s-rec-3-3",
+          "en": "Oral iron should be taken on an empty stomach in the morning with water or a vitamin C-rich beverage to maximize gastrointestinal absorption.",
+          "vi": "Sắt đường uống nên được uống vào buổi sáng lúc bụng đói với nước lọc hoặc đồ uống giàu vitamin C để tối ưu hóa sự hấp thu qua đường tiêu hóa."
+        }
+      ],
+      "terms": {
+        "Elemental iron": "Sắt nguyên tố: Lượng sắt thực tế có thể hấp thu được từ các muối sắt (ví dụ: Ferrous sulfate, Ferrous fumarate).",
+        "Alternate-day dosing": "Liều cách ngày: Uống cách ngày giúp nồng độ hepcidin trở về mức nền, tránh hiện tượng nghẽn hấp thu sắt."
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "p-rec-4",
+      "sentences": [
+        {
+          "id": "s-rec-4-1",
+          "en": "Treatment of mild-to-moderate iron deficiency anemia in early pregnancy should initiate with oral therapeutic iron (100–200 mg elemental iron daily or alternate-day equivalent).",
+          "vi": "Điều trị thiếu máu thiếu sắt mức độ nhẹ đến trung bình trong giai đoạn đầu thai kỳ nên bắt đầu bằng sắt uống liều điều trị (100–200 mg sắt nguyên tố hàng ngày hoặc liều cách ngày tương đương)."
+        },
+        {
+          "id": "s-rec-4-2",
+          "en": "Hemoglobin concentration should be re-evaluated after 2–4 weeks of oral therapy; a rise of at least 1.0 g/dL indicates an adequate therapeutic response.",
+          "vi": "Nồng độ hemoglobin cần được đánh giá lại sau 2–4 tuần điều trị sắt uống; sự gia tăng ít nhất 1,0 g/dL chỉ điểm đáp ứng điều trị thỏa đáng."
+        },
+        {
+          "id": "s-rec-4-3",
+          "en": "Intravenous (IV) iron is indicated when oral iron is not tolerated, when compliance is poor, in malabsorption syndromes, or when moderate-to-severe anemia is diagnosed after 34 weeks of gestation.",
+          "vi": "Sắt truyền tĩnh mạch (IV) được chỉ định khi người bệnh không dung nạp sắt uống, tuân thủ điều trị kém, mắc hội chứng kém hấp thu, hoặc khi thiếu máu mức độ trung bình đến nặng được chẩn đoán sau tuần 34 của thai kỳ."
+        }
+      ],
+      "terms": {
+        "Intravenous (IV) iron": "Sắt truyền tĩnh mạch: Liệu pháp bù nhanh lượng sắt thiếu hụt bằng các phức hợp sắt cao phân tử.",
+        "Therapeutic response": "Đáp ứng điều trị: Sự phục hồi hemoglobin ít nhất 1,0 g/dL sau 2-4 tuần."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-epidemiology",
+      "en": "2. Global Burden and Epidemiology of Anemia in Pregnancy",
+      "vi": "2. Gánh nặng Toàn cầu và Dịch tễ học Thiếu máu Thai kỳ"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-epi-1",
+      "sentences": [
+        {
+          "id": "s-epi-1-1",
+          "en": "Anemia is a profound global health crisis, affecting approximately 32 million pregnant women worldwide, with a global prevalence exceeding 36%.",
+          "vi": "Thiếu máu là một cuộc khủng hoảng y tế toàn cầu nghiêm trọng, ảnh hưởng đến khoảng 32 triệu phụ nữ mang thai trên toàn thế giới, với tỷ lệ hiện mắc toàn cầu vượt quá 36%."
+        },
+        {
+          "id": "s-epi-1-2",
+          "en": "Maternal anemia contributes annually to more than 115,000 maternal deaths and approximately 591,000 perinatal deaths worldwide.",
+          "vi": "Thiếu máu ở người mẹ hàng năm góp phần gây ra hơn 115.000 ca tử vong mẹ và khoảng 591.000 ca tử vong chu sinh trên toàn thế giới."
+        },
+        {
+          "id": "s-epi-1-3",
+          "en": "Severe anemia increases the odds of maternal death by more than four-fold, primarily mediated through postpartum hemorrhage and infectious complications.",
+          "vi": "Thiếu máu nặng làm tăng nguy cơ tử vong mẹ lên hơn 4 lần, chủ yếu thông qua cơ chế băng huyết sau sinh và các biến chứng nhiễm trùng."
+        }
+      ],
+      "terms": {
+        "Maternal mortality": "Tử vong mẹ: Tử vong trong thai kỳ hoặc trong vòng 42 ngày sau sinh do các nguyên nhân liên quan sản khoa.",
+        "Perinatal mortality": "Tử vong chu sinh: Bao gồm thai chết lưu muộn và tử vong sơ sinh sớm."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-etiology-iron",
+      "en": "3. Etiology and Pathophysiology of Iron Deficiency Anemia",
+      "vi": "3. Căn nguyên và Sinh lý bệnh của Thiếu máu Thiếu sắt"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-iron-1",
+      "sentences": [
+        {
+          "id": "s-iron-1-1",
+          "en": "Iron deficiency accounts for more than 50% of all anemia cases in pregnancy globally.",
+          "vi": "Thiếu sắt là nguyên nhân gây ra hơn 50% tổng số ca thiếu máu thai kỳ trên toàn cầu."
+        },
+        {
+          "id": "s-iron-1-2",
+          "en": "Total maternal iron requirements throughout singleton pregnancy average approximately 1000–1200 mg, including 300–350 mg for the fetus and placenta, 500 mg for expanded maternal red cell mass, and 250 mg for basal and delivery blood loss.",
+          "vi": "Tổng nhu cầu sắt của người mẹ trong suốt một thai kỳ đơn thai trung bình khoảng 1000–1200 mg, bao gồm 300–350 mg cho thai nhi và bánh nhau, 500 mg cho việc mở rộng khối lượng hồng cầu mẹ, và 250 mg cho mất sắt cơ bản và mất máu khi sinh."
+        },
+        {
+          "id": "s-iron-1-3",
+          "en": "Because dietary iron absorption cannot realistically meet this steep physiologic demand, iron deficiency will inevitably develop unless supplemental iron is provided.",
+          "vi": "Bởi vì sự hấp thu sắt từ chế độ ăn uống thông thường không thể đáp ứng được nhu cầu sinh lý tăng vọt này, tình trạng thiếu sắt chắc chắn sẽ xảy ra nếu không được bổ sung sắt từ bên ngoài."
+        }
+      ],
+      "terms": {
+        "Red cell mass expansion": "Mở rộng khối lượng hồng cầu: Hiện tượng tăng thể tích hồng cầu mẹ khoảng 20-30% trong thai kỳ.",
+        "Maternal iron demand": "Nhu cầu sắt của mẹ: Nhu cầu sắt tăng cao nhất vào quý 2 và quý 3 của thai kỳ."
+      }
+    },
+    {
+      "type": "paragraph",
+      "id": "p-iron-2",
+      "sentences": [
+        {
+          "id": "s-iron-2-1",
+          "en": "The liver-derived hormone hepcidin tightly regulates systemic iron homeostasis by binding to ferroportin and inducing its degradation.",
+          "vi": "Hormone hepcidin do gan sản xuất kiểm soát chặt chẽ cân bằng nội môi sắt trong cơ thể bằng cách gắn vào ferroportin và kích hoạt sự thoái giáng của protein này."
+        },
+        {
+          "id": "s-iron-2-2",
+          "en": "Daily ingestion of large doses of iron triggers a sharp, sustained spike in serum hepcidin for up to 24–48 hours, blocking subsequent iron absorption from the duodenum.",
+          "vi": "Việc uống liều cao sắt hàng ngày gây ra sự tăng vọt kéo dài của nồng độ hepcidin huyết thanh trong 24–48 giờ, làm tắc nghẽn sự hấp thu sắt tiếp theo từ tá tràng."
+        },
+        {
+          "id": "s-iron-2-3",
+          "en": "Consequently, alternate-day oral iron dosing prevents sustained hepcidin elevation, resulting in superior fractional iron absorption and markedly fewer gastrointestinal adverse events.",
+          "vi": "Do đó, phác đồ uống sắt cách ngày ngăn ngừa sự gia tăng hepcidin kéo dài, dẫn đến hiệu suất hấp thu sắt từng phần vượt trội và giảm rõ rệt các biến cố bất lợi đường tiêu hóa."
+        }
+      ],
+      "terms": {
+        "Hepcidin": "Hormone điều hòa hấp thu sắt chính của cơ thể, do tế bào gan tiết ra.",
+        "Ferroportin": "Kênh vận chuyển sắt duy nhất đưa sắt từ trong tế bào ruột và đại thực bào vào lòng mạch máu."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-algorithm",
+      "en": "4. FIGO Clinical Decision Algorithm for Anemia in Pregnancy",
+      "vi": "4. Lưu đồ Ra Quyết định Lâm sàng của FIGO về Thiếu máu trong Thai kỳ"
+    },
+    {
+      "type": "figure",
+      "id": "fig-1",
+      "tag": "Figure 1",
+      "caption": {
+        "en": "FIGURE 1: FIGO Clinical Algorithm for the screening, diagnosis, and treatment of iron deficiency anemia in pregnancy.",
+        "vi": "HÌNH 1: Lưu đồ Thực hành Lâm sàng của FIGO về Sàng lọc, Chẩn đoán và Điều trị Thiếu máu Thiếu sắt trong Thai kỳ."
+      },
+      "src": "/library-images/figo-anemia-pph-2025/figure_1.jpg",
+      "imageUrl": "https://it5ye4pm8jcbxfiy.public.blob.vercel-storage.com/library-images/figo-anemia-pph-2025/figure_1.jpg"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-fig-desc",
+      "sentences": [
+        {
+          "id": "s-fig-1",
+          "en": "Figure 1 outlines the structured step-by-step diagnostic and therapeutic pathways recommended by FIGO.",
+          "vi": "Hình 1 phác thảo các con đường chẩn đoán và điều trị từng bước có cấu trúc được khuyến cáo bởi FIGO."
+        },
+        {
+          "id": "s-fig-2",
+          "en": "Routine booking screening bifurcates patients based on hemoglobin and ferritin concentrations into prophylaxis, oral therapy, or intravenous iron escalation.",
+          "vi": "Quy trình sàng lọc ban đầu phân loại sản phụ dựa trên nồng độ hemoglobin và ferritin thành các nhánh dự phòng, điều trị bằng sắt uống hoặc nâng bậc lên sắt truyền tĩnh mạch."
+        }
+      ],
+      "terms": {
+        "Diagnostic pathway": "Con đường chẩn đoán: Quy trình từng bước giúp bác sĩ ra quyết định điều trị chính xác."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-iv-iron",
+      "en": "5. Modern Intravenous (IV) Iron Therapy in Obstetrics",
+      "vi": "5. Liệu pháp Sắt Truyền Tĩnh mạch Hiện đại trong Sản khoa"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-iv-1",
+      "sentences": [
+        {
+          "id": "s-iv-1-1",
+          "en": "Modern intravenous iron formulations, such as ferric carboxymaltose (FCM) and iron derisomaltose, have revolutionised obstetrical anemia management due to their excellent safety profiles and ability to deliver complete dose repletion in a single or two rapid infusions.",
+          "vi": "Các chế phẩm sắt truyền tĩnh mạch hiện đại, chẳng hạn như ferric carboxymaltose (FCM) và iron derisomaltose, đã tạo nên cuộc cách mạng trong quản lý thiếu máu sản khoa nhờ hồ sơ an toàn xuất sắc và khả năng bù đủ toàn bộ liều sắt thiếu hụt chỉ trong một hoặc hai lần truyền nhanh."
+        },
+        {
+          "id": "s-iv-1-2",
+          "en": "IV iron bypasses the intestinal absorption barrier and elevated hepcidin levels, directly loading the reticuloendothelial system and achieving a substantially faster hemoglobin increment compared to oral formulations.",
+          "vi": "Sắt truyền tĩnh mạch vượt qua rào cản hấp thu tại ruột non và tình trạng nồng độ hepcidin tăng cao, nạp trực tiếp sắt vào hệ thống lưới nội mô và mang lại tốc độ gia tăng hemoglobin nhanh hơn đáng kể so với các chế phẩm đường uống."
+        },
+        {
+          "id": "s-iv-1-3",
+          "en": "Intravenous iron is contraindicated during the first trimester due to lack of fetal safety data, but is strongly endorsed by FIGO in the second and third trimesters when indicated.",
+          "vi": "Sắt truyền tĩnh mạch chống chỉ định trong 3 tháng đầu thai kỳ do chưa có đủ dữ liệu an toàn trên phôi thai, nhưng được FIGO khuyến cáo mạnh mẽ trong quý II và quý III khi có chỉ định."
+        }
+      ],
+      "terms": {
+        "Ferric carboxymaltose (FCM)": "Phức hợp sắt carboxymaltose: Chế phẩm sắt tĩnh mạch cho phép truyền liều cao (tới 1000 mg) trong thời gian ngắn (15 phút).",
+        "Reticuloendothelial system": "Hệ thống lưới nội mô: Hệ thống đại thực bào tại lách, gan và tủy xương chịu trách nhiệm xử lý và lưu trữ sắt."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-pph-link",
+      "en": "6. Pathophysiological Mechanisms: How Anemia Exacerbates Postpartum Hemorrhage",
+      "vi": "6. Cơ chế Sinh lý bệnh: Thiếu máu Làm trầm trọng Băng huyết Sau sinh như thế nào"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-pph-1",
+      "sentences": [
+        {
+          "id": "s-pph-1-1",
+          "en": "Maternal anemia is both a direct predisposing factor for the development of PPH and a major determinant of death when PPH occurs.",
+          "vi": "Thiếu máu ở mẹ vừa là một yếu tố nguy cơ trực tiếp dẫn đến sự khởi phát của PPH, vừa là yếu tố then chốt quyết định tử vong khi PPH xảy ra."
+        },
+        {
+          "id": "s-pph-1-2",
+          "en": "First, chronic tissue hypoxia diminishes intracellular ATP generation in myometrial cells, directly impairing uterine smooth muscle contractility and predisposing to refractory uterine atony.",
+          "vi": "Thứ nhất, tình trạng thiếu oxy mô mạn tính làm suy giảm sản xuất ATP nội bào trong các tế bào cơ tử cung, làm suy yếu trực tiếp khả năng co bóp của cơ trơn tử cung và dẫn đến đờ tử cung kháng trị."
+        },
+        {
+          "id": "s-pph-1-3",
+          "en": "Second, reduced blood viscosity in anemic parturients increases turbulent blood flow and bleeding velocity from open placental bed vessels.",
+          "vi": "Thứ hai, độ nhớt máu bị giảm ở sản phụ thiếu máu làm tăng dòng chảy xoáy và vận tốc chảy máu từ các mạch máu hở tại diện nhau bám."
+        },
+        {
+          "id": "s-pph-1-4",
+          "en": "Third, an anemic woman cannot tolerate normal physiological blood loss; loss of merely 500 mL of blood in a woman with Hb 7.0 g/dL can deplete over 30% of her remaining circulating red cell volume, precipitating lethal shock.",
+          "vi": "Thứ ba, một phụ nữ thiếu máu không thể dung nạp được lượng máu mất sinh lý bình thường; chỉ cần mất 500 mL máu ở một sản phụ có Hb 7,0 g/dL đã có thể làm mất hơn 30% thể tích hồng cầu lưu hành còn lại, đẩy người bệnh vào tình trạng sốc mất máu tử vong."
+        }
+      ],
+      "terms": {
+        "Postpartum hemorrhage (PPH)": "Băng huyết sau sinh: Mất máu trên 500 mL sau sinh ngả âm đạo hoặc trên 1000 mL sau mổ lấy thai.",
+        "Uterine atony": "Đờ tử cung: Sự thất bại trong việc co hồi cơ tử cung sau sinh, chiếm 70-80% các ca PPH.",
+        "Blood viscosity": "Độ nhớt của máu: Giảm độ nhớt máu do thiếu hồng cầu làm tăng tốc độ thất thoát máu."
+      }
+    },
+    {
+      "type": "heading",
+      "id": "sec-conclusions",
+      "en": "7. FIGO Action Plan and Clinical Takeaways",
+      "vi": "7. Kế hoạch Hành động của FIGO và Thông điệp Thực hành"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-concl-1",
+      "sentences": [
+        {
+          "id": "s-concl-1-1",
+          "en": "Universal antenatal screening with FBC and ferritin represents an essential, cost-effective standard of care to eradicate preventable maternal mortality.",
+          "vi": "Sàng lọc tiền sản phổ cập bằng tổng phân tích tế bào máu và ferritin huyết thanh là tiêu chuẩn chăm sóc thiết yếu và hiệu quả chi phí cao nhất nhằm xóa bỏ tử vong mẹ có thể phòng ngừa được."
+        },
+        {
+          "id": "s-concl-1-2",
+          "en": "Clinicians must adopt proactive iron replenishment, utilize alternate-day oral regimens to optimize compliance, and seamlessly escalate to intravenous iron when delivery approaches.",
+          "vi": "Các bác sĩ lâm sàng cần chủ động bù đủ sắt, áp dụng phác đồ uống sắt cách ngày để tối ưu hóa sự tuân thủ điều trị, và chủ động chuyển bậc sang sắt truyền tĩnh mạch khi ngày dự sinh cận kề."
+        },
+        {
+          "id": "s-concl-1-3",
+          "en": "Eliminating maternal anemia is the single most powerful strategy to prevent catastrophic postpartum hemorrhage and protect maternal and child health worldwide.",
+          "vi": "Triệt tiêu thiếu máu thai kỳ là chiến lược đơn lẻ mạnh mẽ nhất để ngăn chặn thảm họa băng huyết sau sinh và bảo vệ tính mạng cho hàng triệu bà mẹ và trẻ sơ sinh trên toàn thế giới."
+        }
+      ],
+      "terms": {
+        "Antenatal care": "Chăm sóc tiền sản: Hệ thống theo dõi y tế toàn diện cho thai phụ trong suốt thai kỳ.",
+        "Standard of care": "Tiêu chuẩn chăm sóc: Mức độ thực hành y khoa tối ưu được quốc tế công nhận."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-citation",
+      "title": "Official Academic Citation & Licensing",
+      "title_vi": "Thông tin Trích dẫn Nguồn & Bản quyền Xuất bản",
+      "paragraphs": [
+        {
+          "id": "p-cit-1",
+          "en": "Original Document: FIGO Good Practice Recommendations on Anemia in Pregnancy, to Reduce the Incidence and Impact of Postpartum Hemorrhage (PPH). Published in International Journal of Gynecology & Obstetrics (IJGO / Wiley) (2025). DOI: https://doi.org/10.1002/ijgo.70529. License: Creative Commons Attribution 4.0 International (CC BY 4.0).",
+          "vi": "Tài liệu gốc: Hướng dẫn Thực hành Lâm sàng Toàn văn của FIGO: Quản trị Toàn diện Thiếu máu trong Thai kỳ nhằm Ngăn ngừa Băng huyết Sau sinh (PPH). Xuất bản trên International Journal of Gynecology & Obstetrics (IJGO / Wiley) (2025). DOI: https://doi.org/10.1002/ijgo.70529. Giấy phép: Creative Commons Attribution 4.0 International (CC BY 4.0).",
+          "terms": {}
+        }
+      ]
+    },
+    {
+      "id": "sec-full-guideline",
+      "title": "Comprehensive FIGO Practice Recommendations",
+      "title_vi": "Toàn văn Khuyến cáo Thực hành Lâm sàng FIGO",
+      "paragraphs": [
+        {
+          "type": "paragraph",
+          "id": "p-rec-1",
+          "sentences": [
+            {
+              "id": "s-rec-1-1",
+              "en": "All pregnant women should be screened for anemia with a full blood count (FBC) at booking and again at 28 weeks of gestation (strong recommendation, high-quality evidence).",
+              "vi": "Tất cả phụ nữ mang thai nên được sàng lọc thiếu máu bằng xét nghiệm tổng phân tích tế bào máu ngoại vi (FBC) tại lần khám thai đầu tiên và kiểm tra lại ở tuần thứ 28 của thai kỳ (khuyến cáo mạnh, bằng chứng chất lượng cao)."
+            },
+            {
+              "id": "s-rec-1-2",
+              "en": "Serum ferritin should be routinely evaluated alongside FBC at booking to detect latent iron deficiency before anemia develops (strong recommendation, moderate-quality evidence).",
+              "vi": "Ferritin huyết thanh cần được đánh giá thường quy cùng với tổng phân tích máu tại lần khám thai đầu tiên để phát hiện tình trạng thiếu sắt tiềm ẩn trước khi thiếu máu thực sự tiến triển (khuyến cáo mạnh, bằng chứng chất lượng trung bình)."
+            },
+            {
+              "id": "s-rec-1-3",
+              "en": "A serum ferritin threshold of less than 30 mcg/L defines iron depletion in pregnancy and mandates therapeutic iron repletion even if hemoglobin remains within the normal range.",
+              "vi": "Ngưỡng ferritin huyết thanh dưới 30 mcg/L xác định tình trạng cạn kiệt dự trữ sắt trong thai kỳ và bắt buộc phải bổ sung sắt điều trị ngay cả khi nồng độ hemoglobin vẫn còn trong giới hạn bình thường."
+            }
+          ],
+          "terms": {
+            "Full blood count (FBC)": "Tổng phân tích tế bào máu ngoại vi: Xét nghiệm đo số lượng hồng cầu, hemoglobin, hematocrit và các chỉ số hồng cầu.",
+            "Serum ferritin": "Ferritin huyết thanh: Xét nghiệm chuẩn vàng đánh giá dự trữ sắt cơ thể."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-rec-2",
+          "sentences": [
+            {
+              "id": "s-rec-2-1",
+              "en": "Anemia in pregnancy is defined as hemoglobin less than 11.0 g/dL in the first and third trimesters, and less than 10.5 g/dL in the second trimester.",
+              "vi": "Thiếu máu thai kỳ được định nghĩa khi hemoglobin dưới 11,0 g/dL trong quý I và quý III, và dưới 10,5 g/dL trong quý II."
+            },
+            {
+              "id": "s-rec-2-2",
+              "en": "Anemia severity is categorized as mild (10.0–10.9 g/dL), moderate (7.0–9.9 g/dL), and severe (< 7.0 g/dL). Very severe anemia (< 4.0 g/dL) represents an imminent life-threatening emergency.",
+              "vi": "Mức độ thiếu máu được phân loại thành nhẹ (10,0–10,9 g/dL), trung bình (7,0–9,9 g/dL) và nặng (< 7,0 g/dL). Thiếu máu rất nặng (< 4,0 g/dL) là tình trạng đe dọa tính mạng khẩn cấp."
+            }
+          ],
+          "terms": {
+            "Hemoglobin (Hb)": "Huyết sắc tố: Protein vận chuyển oxy thiết yếu của hồng cầu.",
+            "Severe anemia": "Thiếu máu nặng: Khi Hb < 7,0 g/dL, làm tăng gấp nhiều lần nguy cơ tử vong mẹ do sốc và suy tim."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-rec-3",
+          "sentences": [
+            {
+              "id": "s-rec-3-1",
+              "en": "To prevent iron deficiency, all pregnant women should receive 30–60 mg of elemental iron daily, starting as early as possible in pregnancy.",
+              "vi": "Để dự phòng thiếu sắt, tất cả phụ nữ mang thai nên được bổ sung 30–60 mg sắt nguyên tố mỗi ngày, bắt đầu càng sớm càng tốt trong thai kỳ."
+            },
+            {
+              "id": "s-rec-3-2",
+              "en": "In women experiencing intolerable gastrointestinal side effects from daily iron, alternate-day dosing (60–120 mg elemental iron every other day) should be prescribed to maintain efficacy while significantly improving tolerability.",
+              "vi": "Ở những phụ nữ gặp tác dụng phụ đường tiêu hóa không dung nạp được do uống sắt hàng ngày, nên chuyển sang phác đồ uống sắt cách ngày (60–120 mg sắt nguyên tố cách ngày) nhằm duy trì hiệu quả hấp thu đồng thời cải thiện đáng kể khả năng dung nạp."
+            },
+            {
+              "id": "s-rec-3-3",
+              "en": "Oral iron should be taken on an empty stomach in the morning with water or a vitamin C-rich beverage to maximize gastrointestinal absorption.",
+              "vi": "Sắt đường uống nên được uống vào buổi sáng lúc bụng đói với nước lọc hoặc đồ uống giàu vitamin C để tối ưu hóa sự hấp thu qua đường tiêu hóa."
+            }
+          ],
+          "terms": {
+            "Elemental iron": "Sắt nguyên tố: Lượng sắt thực tế có thể hấp thu được từ các muối sắt (ví dụ: Ferrous sulfate, Ferrous fumarate).",
+            "Alternate-day dosing": "Liều cách ngày: Uống cách ngày giúp nồng độ hepcidin trở về mức nền, tránh hiện tượng nghẽn hấp thu sắt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-rec-4",
+          "sentences": [
+            {
+              "id": "s-rec-4-1",
+              "en": "Treatment of mild-to-moderate iron deficiency anemia in early pregnancy should initiate with oral therapeutic iron (100–200 mg elemental iron daily or alternate-day equivalent).",
+              "vi": "Điều trị thiếu máu thiếu sắt mức độ nhẹ đến trung bình trong giai đoạn đầu thai kỳ nên bắt đầu bằng sắt uống liều điều trị (100–200 mg sắt nguyên tố hàng ngày hoặc liều cách ngày tương đương)."
+            },
+            {
+              "id": "s-rec-4-2",
+              "en": "Hemoglobin concentration should be re-evaluated after 2–4 weeks of oral therapy; a rise of at least 1.0 g/dL indicates an adequate therapeutic response.",
+              "vi": "Nồng độ hemoglobin cần được đánh giá lại sau 2–4 tuần điều trị sắt uống; sự gia tăng ít nhất 1,0 g/dL chỉ điểm đáp ứng điều trị thỏa đáng."
+            },
+            {
+              "id": "s-rec-4-3",
+              "en": "Intravenous (IV) iron is indicated when oral iron is not tolerated, when compliance is poor, in malabsorption syndromes, or when moderate-to-severe anemia is diagnosed after 34 weeks of gestation.",
+              "vi": "Sắt truyền tĩnh mạch (IV) được chỉ định khi người bệnh không dung nạp sắt uống, tuân thủ điều trị kém, mắc hội chứng kém hấp thu, hoặc khi thiếu máu mức độ trung bình đến nặng được chẩn đoán sau tuần 34 của thai kỳ."
+            }
+          ],
+          "terms": {
+            "Intravenous (IV) iron": "Sắt truyền tĩnh mạch: Liệu pháp bù nhanh lượng sắt thiếu hụt bằng các phức hợp sắt cao phân tử.",
+            "Therapeutic response": "Đáp ứng điều trị: Sự phục hồi hemoglobin ít nhất 1,0 g/dL sau 2-4 tuần."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-epi-1",
+          "sentences": [
+            {
+              "id": "s-epi-1-1",
+              "en": "Anemia is a profound global health crisis, affecting approximately 32 million pregnant women worldwide, with a global prevalence exceeding 36%.",
+              "vi": "Thiếu máu là một cuộc khủng hoảng y tế toàn cầu nghiêm trọng, ảnh hưởng đến khoảng 32 triệu phụ nữ mang thai trên toàn thế giới, với tỷ lệ hiện mắc toàn cầu vượt quá 36%."
+            },
+            {
+              "id": "s-epi-1-2",
+              "en": "Maternal anemia contributes annually to more than 115,000 maternal deaths and approximately 591,000 perinatal deaths worldwide.",
+              "vi": "Thiếu máu ở người mẹ hàng năm góp phần gây ra hơn 115.000 ca tử vong mẹ và khoảng 591.000 ca tử vong chu sinh trên toàn thế giới."
+            },
+            {
+              "id": "s-epi-1-3",
+              "en": "Severe anemia increases the odds of maternal death by more than four-fold, primarily mediated through postpartum hemorrhage and infectious complications.",
+              "vi": "Thiếu máu nặng làm tăng nguy cơ tử vong mẹ lên hơn 4 lần, chủ yếu thông qua cơ chế băng huyết sau sinh và các biến chứng nhiễm trùng."
+            }
+          ],
+          "terms": {
+            "Maternal mortality": "Tử vong mẹ: Tử vong trong thai kỳ hoặc trong vòng 42 ngày sau sinh do các nguyên nhân liên quan sản khoa.",
+            "Perinatal mortality": "Tử vong chu sinh: Bao gồm thai chết lưu muộn và tử vong sơ sinh sớm."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-iron-1",
+          "sentences": [
+            {
+              "id": "s-iron-1-1",
+              "en": "Iron deficiency accounts for more than 50% of all anemia cases in pregnancy globally.",
+              "vi": "Thiếu sắt là nguyên nhân gây ra hơn 50% tổng số ca thiếu máu thai kỳ trên toàn cầu."
+            },
+            {
+              "id": "s-iron-1-2",
+              "en": "Total maternal iron requirements throughout singleton pregnancy average approximately 1000–1200 mg, including 300–350 mg for the fetus and placenta, 500 mg for expanded maternal red cell mass, and 250 mg for basal and delivery blood loss.",
+              "vi": "Tổng nhu cầu sắt của người mẹ trong suốt một thai kỳ đơn thai trung bình khoảng 1000–1200 mg, bao gồm 300–350 mg cho thai nhi và bánh nhau, 500 mg cho việc mở rộng khối lượng hồng cầu mẹ, và 250 mg cho mất sắt cơ bản và mất máu khi sinh."
+            },
+            {
+              "id": "s-iron-1-3",
+              "en": "Because dietary iron absorption cannot realistically meet this steep physiologic demand, iron deficiency will inevitably develop unless supplemental iron is provided.",
+              "vi": "Bởi vì sự hấp thu sắt từ chế độ ăn uống thông thường không thể đáp ứng được nhu cầu sinh lý tăng vọt này, tình trạng thiếu sắt chắc chắn sẽ xảy ra nếu không được bổ sung sắt từ bên ngoài."
+            }
+          ],
+          "terms": {
+            "Red cell mass expansion": "Mở rộng khối lượng hồng cầu: Hiện tượng tăng thể tích hồng cầu mẹ khoảng 20-30% trong thai kỳ.",
+            "Maternal iron demand": "Nhu cầu sắt của mẹ: Nhu cầu sắt tăng cao nhất vào quý 2 và quý 3 của thai kỳ."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-iron-2",
+          "sentences": [
+            {
+              "id": "s-iron-2-1",
+              "en": "The liver-derived hormone hepcidin tightly regulates systemic iron homeostasis by binding to ferroportin and inducing its degradation.",
+              "vi": "Hormone hepcidin do gan sản xuất kiểm soát chặt chẽ cân bằng nội môi sắt trong cơ thể bằng cách gắn vào ferroportin và kích hoạt sự thoái giáng của protein này."
+            },
+            {
+              "id": "s-iron-2-2",
+              "en": "Daily ingestion of large doses of iron triggers a sharp, sustained spike in serum hepcidin for up to 24–48 hours, blocking subsequent iron absorption from the duodenum.",
+              "vi": "Việc uống liều cao sắt hàng ngày gây ra sự tăng vọt kéo dài của nồng độ hepcidin huyết thanh trong 24–48 giờ, làm tắc nghẽn sự hấp thu sắt tiếp theo từ tá tràng."
+            },
+            {
+              "id": "s-iron-2-3",
+              "en": "Consequently, alternate-day oral iron dosing prevents sustained hepcidin elevation, resulting in superior fractional iron absorption and markedly fewer gastrointestinal adverse events.",
+              "vi": "Do đó, phác đồ uống sắt cách ngày ngăn ngừa sự gia tăng hepcidin kéo dài, dẫn đến hiệu suất hấp thu sắt từng phần vượt trội và giảm rõ rệt các biến cố bất lợi đường tiêu hóa."
+            }
+          ],
+          "terms": {
+            "Hepcidin": "Hormone điều hòa hấp thu sắt chính của cơ thể, do tế bào gan tiết ra.",
+            "Ferroportin": "Kênh vận chuyển sắt duy nhất đưa sắt từ trong tế bào ruột và đại thực bào vào lòng mạch máu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-fig-desc",
+          "sentences": [
+            {
+              "id": "s-fig-1",
+              "en": "Figure 1 outlines the structured step-by-step diagnostic and therapeutic pathways recommended by FIGO.",
+              "vi": "Hình 1 phác thảo các con đường chẩn đoán và điều trị từng bước có cấu trúc được khuyến cáo bởi FIGO."
+            },
+            {
+              "id": "s-fig-2",
+              "en": "Routine booking screening bifurcates patients based on hemoglobin and ferritin concentrations into prophylaxis, oral therapy, or intravenous iron escalation.",
+              "vi": "Quy trình sàng lọc ban đầu phân loại sản phụ dựa trên nồng độ hemoglobin và ferritin thành các nhánh dự phòng, điều trị bằng sắt uống hoặc nâng bậc lên sắt truyền tĩnh mạch."
+            }
+          ],
+          "terms": {
+            "Diagnostic pathway": "Con đường chẩn đoán: Quy trình từng bước giúp bác sĩ ra quyết định điều trị chính xác."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-iv-1",
+          "sentences": [
+            {
+              "id": "s-iv-1-1",
+              "en": "Modern intravenous iron formulations, such as ferric carboxymaltose (FCM) and iron derisomaltose, have revolutionised obstetrical anemia management due to their excellent safety profiles and ability to deliver complete dose repletion in a single or two rapid infusions.",
+              "vi": "Các chế phẩm sắt truyền tĩnh mạch hiện đại, chẳng hạn như ferric carboxymaltose (FCM) và iron derisomaltose, đã tạo nên cuộc cách mạng trong quản lý thiếu máu sản khoa nhờ hồ sơ an toàn xuất sắc và khả năng bù đủ toàn bộ liều sắt thiếu hụt chỉ trong một hoặc hai lần truyền nhanh."
+            },
+            {
+              "id": "s-iv-1-2",
+              "en": "IV iron bypasses the intestinal absorption barrier and elevated hepcidin levels, directly loading the reticuloendothelial system and achieving a substantially faster hemoglobin increment compared to oral formulations.",
+              "vi": "Sắt truyền tĩnh mạch vượt qua rào cản hấp thu tại ruột non và tình trạng nồng độ hepcidin tăng cao, nạp trực tiếp sắt vào hệ thống lưới nội mô và mang lại tốc độ gia tăng hemoglobin nhanh hơn đáng kể so với các chế phẩm đường uống."
+            },
+            {
+              "id": "s-iv-1-3",
+              "en": "Intravenous iron is contraindicated during the first trimester due to lack of fetal safety data, but is strongly endorsed by FIGO in the second and third trimesters when indicated.",
+              "vi": "Sắt truyền tĩnh mạch chống chỉ định trong 3 tháng đầu thai kỳ do chưa có đủ dữ liệu an toàn trên phôi thai, nhưng được FIGO khuyến cáo mạnh mẽ trong quý II và quý III khi có chỉ định."
+            }
+          ],
+          "terms": {
+            "Ferric carboxymaltose (FCM)": "Phức hợp sắt carboxymaltose: Chế phẩm sắt tĩnh mạch cho phép truyền liều cao (tới 1000 mg) trong thời gian ngắn (15 phút).",
+            "Reticuloendothelial system": "Hệ thống lưới nội mô: Hệ thống đại thực bào tại lách, gan và tủy xương chịu trách nhiệm xử lý và lưu trữ sắt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-pph-1",
+          "sentences": [
+            {
+              "id": "s-pph-1-1",
+              "en": "Maternal anemia is both a direct predisposing factor for the development of PPH and a major determinant of death when PPH occurs.",
+              "vi": "Thiếu máu ở mẹ vừa là một yếu tố nguy cơ trực tiếp dẫn đến sự khởi phát của PPH, vừa là yếu tố then chốt quyết định tử vong khi PPH xảy ra."
+            },
+            {
+              "id": "s-pph-1-2",
+              "en": "First, chronic tissue hypoxia diminishes intracellular ATP generation in myometrial cells, directly impairing uterine smooth muscle contractility and predisposing to refractory uterine atony.",
+              "vi": "Thứ nhất, tình trạng thiếu oxy mô mạn tính làm suy giảm sản xuất ATP nội bào trong các tế bào cơ tử cung, làm suy yếu trực tiếp khả năng co bóp của cơ trơn tử cung và dẫn đến đờ tử cung kháng trị."
+            },
+            {
+              "id": "s-pph-1-3",
+              "en": "Second, reduced blood viscosity in anemic parturients increases turbulent blood flow and bleeding velocity from open placental bed vessels.",
+              "vi": "Thứ hai, độ nhớt máu bị giảm ở sản phụ thiếu máu làm tăng dòng chảy xoáy và vận tốc chảy máu từ các mạch máu hở tại diện nhau bám."
+            },
+            {
+              "id": "s-pph-1-4",
+              "en": "Third, an anemic woman cannot tolerate normal physiological blood loss; loss of merely 500 mL of blood in a woman with Hb 7.0 g/dL can deplete over 30% of her remaining circulating red cell volume, precipitating lethal shock.",
+              "vi": "Thứ ba, một phụ nữ thiếu máu không thể dung nạp được lượng máu mất sinh lý bình thường; chỉ cần mất 500 mL máu ở một sản phụ có Hb 7,0 g/dL đã có thể làm mất hơn 30% thể tích hồng cầu lưu hành còn lại, đẩy người bệnh vào tình trạng sốc mất máu tử vong."
+            }
+          ],
+          "terms": {
+            "Postpartum hemorrhage (PPH)": "Băng huyết sau sinh: Mất máu trên 500 mL sau sinh ngả âm đạo hoặc trên 1000 mL sau mổ lấy thai.",
+            "Uterine atony": "Đờ tử cung: Sự thất bại trong việc co hồi cơ tử cung sau sinh, chiếm 70-80% các ca PPH.",
+            "Blood viscosity": "Độ nhớt của máu: Giảm độ nhớt máu do thiếu hồng cầu làm tăng tốc độ thất thoát máu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "id": "p-concl-1",
+          "sentences": [
+            {
+              "id": "s-concl-1-1",
+              "en": "Universal antenatal screening with FBC and ferritin represents an essential, cost-effective standard of care to eradicate preventable maternal mortality.",
+              "vi": "Sàng lọc tiền sản phổ cập bằng tổng phân tích tế bào máu và ferritin huyết thanh là tiêu chuẩn chăm sóc thiết yếu và hiệu quả chi phí cao nhất nhằm xóa bỏ tử vong mẹ có thể phòng ngừa được."
+            },
+            {
+              "id": "s-concl-1-2",
+              "en": "Clinicians must adopt proactive iron replenishment, utilize alternate-day oral regimens to optimize compliance, and seamlessly escalate to intravenous iron when delivery approaches.",
+              "vi": "Các bác sĩ lâm sàng cần chủ động bù đủ sắt, áp dụng phác đồ uống sắt cách ngày để tối ưu hóa sự tuân thủ điều trị, và chủ động chuyển bậc sang sắt truyền tĩnh mạch khi ngày dự sinh cận kề."
+            },
+            {
+              "id": "s-concl-1-3",
+              "en": "Eliminating maternal anemia is the single most powerful strategy to prevent catastrophic postpartum hemorrhage and protect maternal and child health worldwide.",
+              "vi": "Triệt tiêu thiếu máu thai kỳ là chiến lược đơn lẻ mạnh mẽ nhất để ngăn chặn thảm họa băng huyết sau sinh và bảo vệ tính mạng cho hàng triệu bà mẹ và trẻ sơ sinh trên toàn thế giới."
+            }
+          ],
+          "terms": {
+            "Antenatal care": "Chăm sóc tiền sản: Hệ thống theo dõi y tế toàn diện cho thai phụ trong suốt thai kỳ.",
+            "Standard of care": "Tiêu chuẩn chăm sóc: Mức độ thực hành y khoa tối ưu được quốc tế công nhận."
+          }
+        }
+      ]
+    }
+  ]
+}

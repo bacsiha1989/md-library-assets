@@ -1,0 +1,102 @@
+{
+  "id": "pmc-pmc_isuog_fgr_2026",
+  "title": {
+    "en": "ISUOG Practice Guidelines: Diagnosis and management of small-for-gestational-age fetus and fetal growth restriction",
+    "vi": "Hướng dẫn Thực hành Lâm sàng"
+  },
+  "authors": "Ultrasound in Obstetrics & Gynecology (ISUOG)",
+  "category": "Nghiên cứu Lâm sàng &amp; Guidelines",
+  "verified_by": "Bác sĩ Nội trú AI An đã thẩm định",
+  "public_source_url": "https://europepmc.org/article/MED/PMC_ISUOG_FGR_2026",
+  "blocks": [
+    {
+      "type": "heading",
+      "en": "Key Findings & Clinical Guidance — Ultrasound in Obstetrics & Gynecology (ISUOG)",
+      "vi": "Các Phát Hiện Chính & Hướng Dẫn Lâm Sàng — Siêu âm trong Sản Phụ khoa (ISUOG)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-1-1",
+      "sentences": [
+        {
+          "id": "s-1-1-1",
+          "en": "Fetal growth restriction is associated with stillbirth and perinatal morbidity.",
+          "vi": "Tình trạng hạn chế tăng trưởng thai nhi có liên quan đến thai lưu và bệnh suất chu sinh."
+        },
+        {
+          "id": "s-1-1-2",
+          "en": "Accurate estimation of fetal weight and biometric assessment is essential.",
+          "vi": "Việc ước tính chính xác trọng lượng thai và đánh giá các số đo sinh trắc học là điều thiết yếu."
+        }
+      ],
+      "terms": {}
+    },
+    {
+      "type": "paragraph",
+      "id": "p-1-2",
+      "sentences": [
+        {
+          "id": "s-1-2-1",
+          "en": "Doppler evaluation of the umbilical artery, middle cerebral artery, and ductus venosus guides clinical surveillance and delivery timing.",
+          "vi": "Đánh giá Doppler động mạch rốn, động mạch não giữa và ống tĩnh mạch định hướng theo dõi lâm sàng và thời điểm sinh."
+        }
+      ],
+      "terms": {}
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-1",
+      "title": "Key Findings & Clinical Guidance — Ultrasound in Obstetrics & Gynecology (ISUOG)",
+      "title_vi": "Các Phát Hiện Chính & Hướng Dẫn Lâm Sàng — Siêu âm trong Sản Phụ khoa (ISUOG)",
+      "paragraphs": [
+        {
+          "id": "p-1-1",
+          "en": "Fetal growth restriction is associated with stillbirth and perinatal morbidity. Accurate estimation of fetal weight and biometric assessment is essential.",
+          "vi": "Tình trạng hạn chế tăng trưởng thai nhi có liên quan đến thai lưu và bệnh suất chu sinh. Việc ước tính chính xác trọng lượng thai và đánh giá các số đo sinh trắc học là điều thiết yếu.",
+          "terms": {},
+          "neurons": [
+            {
+              "id": "ductus_venosus",
+              "label": "Ductus Venosus",
+              "category": "shunt"
+            },
+            {
+              "id": "enos",
+              "label": "eNOS",
+              "category": "biomarker"
+            },
+            {
+              "id": "middle_cerebral_artery_doppler_m_n_",
+              "label": "Middle Cerebral Artery Doppler (ĐM Não Giữa)",
+              "category": "biomarker"
+            }
+          ]
+        },
+        {
+          "id": "p-1-2",
+          "en": "Doppler evaluation of the umbilical artery, middle cerebral artery, and ductus venosus guides clinical surveillance and delivery timing.",
+          "vi": "Đánh giá Doppler động mạch rốn, động mạch não giữa và ống tĩnh mạch định hướng theo dõi lâm sàng và thời điểm sinh.",
+          "terms": {},
+          "neurons": [
+            {
+              "id": "ductus_venosus",
+              "label": "Ductus Venosus",
+              "category": "shunt"
+            },
+            {
+              "id": "enos",
+              "label": "eNOS",
+              "category": "biomarker"
+            },
+            {
+              "id": "middle_cerebral_artery_doppler_m_n_",
+              "label": "Middle Cerebral Artery Doppler (ĐM Não Giữa)",
+              "category": "biomarker"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
