@@ -768,7 +768,21 @@
       ]
     }
   ],
-  "figures": [],
+  "figures": [
+    {
+      "id": "fig-1",
+      "tag": "Figure 1",
+      "caption": "Figure 1: Standardized prenatal screening and clinical care pathway for congenital heart disease (CHD)",
+      "caption_vi": "Hình 1: Lưu đồ quy trình chuẩn hóa sàng lọc trước sinh và quản lý tim thai dị tật bẩm sinh (CHD)",
+      "filename": "fig_01.jpg",
+      "local_path": "/Volumes/Build AI /Minh Translate/output/fetal-cardiac-care-chd-screening-2026/images/fig_01.jpg",
+      "src": "library-images/fetal-cardiac-care-chd-screening-2026/fig_01.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/bacsiha1989/md-library-assets@main/images/fetal-cardiac-care-chd-screening-2026/fig_01.jpg?v=20260927",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/bacsiha1989/md-library-assets@main/images/fetal-cardiac-care-chd-screening-2026/fig_01.jpg?v=20260927",
+      "width": 1600,
+      "height": 512
+    }
+  ],
   "sentence_pairs": [
     {
       "sid": "s-1",
