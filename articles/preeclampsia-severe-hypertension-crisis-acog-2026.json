@@ -1,0 +1,635 @@
+{
+  "id": "preeclampsia-severe-hypertension-crisis-acog-2026",
+  "slug": "preeclampsia-severe-hypertension-crisis-acog-2026",
+  "title": {
+    "vi": "Xử trí Cấp cứu Tiền sản giật Nặng & Cơn Tăng Huyết Áp Thai Kỳ — Hướng Dẫn Lâm Sàng ACOG / SMFM 2026",
+    "en": "Emergency Management of Severe Preeclampsia and Hypertensive Crisis in Pregnancy — ACOG & SMFM Clinical Practice Guideline 2026"
+  },
+  "title_vi": "Xử trí Cấp cứu Tiền sản giật Nặng & Cơn Tăng Huyết Áp Thai Kỳ — Hướng Dẫn Lâm Sàng ACOG / SMFM 2026",
+  "title_en": "Emergency Management of Severe Preeclampsia and Hypertensive Crisis in Pregnancy — ACOG & SMFM Clinical Practice Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1A",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia",
+    "SMFM Special Statement: Pharmacologic management of acute severe hypertension in pregnancy (2026)",
+    "FIGO Guidelines on Preeclampsia and Hypertension (2025)",
+    "Quyết định 4163/QĐ-BYT Bộ Y Tế: Hướng dẫn quốc gia về chăm sóc sức khỏe sinh sản"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-001",
+    "doi": "https://doi.org/10.1097/AOG.0000000000003891",
+    "evidence_level": "Grade 1A",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về các hiệp hội chuyên khoa ACOG, SMFM và FIGO. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-sum-1",
+      "sentences": [
+        {
+          "id": "s-1",
+          "vi": "Cơn tăng huyết áp cấp tính nặng trong thai kỳ hoặc giai đoạn hậu sản được định nghĩa là huyết áp tâm thu ≥ 160 mmHg hoặc huyết áp tâm trương ≥ 110 mmHg kéo dài từ 15 phút trở lên. Đây là một cấp cứu sản khoa tối khẩn đòi hỏi phải can thiệp kiểm soát huyết áp trong vòng 30 đến 60 phút để giảm thiểu nguy cơ xuất huyết não và tử vong mẹ.",
+          "en": "Acute severe hypertension in pregnancy or the postpartum period is defined as systolic blood pressure ≥ 160 mmHg or diastolic blood pressure ≥ 110 mmHg persisting for 15 minutes or more. This is an obstetric emergency requiring medical intervention within 30 to 60 minutes to reduce the risk of maternal stroke and death."
+        },
+        {
+          "id": "s-2",
+          "vi": "Khuyến cáo 1 (Hạ áp khẩn cấp): Labetalol tiêm tĩnh mạch, Hydralazine tiêm tĩnh mạch và Nifedipine viên nang tác dụng nhanh đường uống là ba lựa chọn hàng đầu có hiệu lực và độ an toàn tương đương nhau (Grade 1A). Không có bằng chứng thuốc nào vượt trội hơn tuyệt đối, do đó cơ sở y tế nên ưu tiên loại thuốc sẵn có và quen thuộc nhất với đội ngũ cấp cứu.",
+          "en": "Recommendation 1 (Urgent Antihypertensive Therapy): Intravenous Labetalol, intravenous Hydralazine, and immediate-release oral Nifedipine capsules are first-line options with equivalent efficacy and maternal-fetal safety (Grade 1A). No single agent is definitively superior; selection should be guided by availability and clinician familiarity."
+        },
+        {
+          "id": "s-3",
+          "vi": "Khuyến cáo 2 (Dự phòng co giật): Magnesi Sulfat (MgSO4) là thuốc bắt buộc lựa chọn hàng đầu để dự phòng và kiểm soát co giật ở tất cả sản phụ có tiền sản giật dấu hiệu nặng, hội chứng HELLP hoặc sản giật (Grade 1A). Các thuốc an thần như Diazepam hoặc chống co giật như Phenytoin chỉ được dùng khi có chống chỉ định tuyệt đối với MgSO4 hoặc khi co giật kháng trị.",
+          "en": "Recommendation 2 (Seizure Prophylaxis): Magnesium sulfate is the agent of choice for seizure prophylaxis in preeclampsia with severe features, HELLP syndrome, and eclampsia (Grade 1A). Diazepam or Phenytoin should only be considered when magnesium sulfate is contraindicated or in refractory status epilepticus."
+        },
+        {
+          "id": "s-4",
+          "vi": "Khuyến cáo 3 (Mục tiêu huyết áp an toàn): Mục tiêu hạ áp trong cấp cứu là đạt mức huyết áp tâm thu 140–150 mmHg và tâm trương 90–100 mmHg (Grade 1B). Tránh hạ huyết áp quá mức (huyết áp tâm thu < 120 mmHg hoặc tâm trương < 80 mmHg) vì sẽ gây tụt áp tưới máu qua hồ huyết bánh nhau, dẫn đến suy thai cấp tính hoặc nhịp tim thai chậm kéo dài.",
+          "en": "Recommendation 3 (Target Blood Pressure): The initial therapeutic goal is to achieve systolic BP 140–150 mmHg and diastolic BP 90–100 mmHg (Grade 1B). Avoid precipitous drops (systolic < 120 mmHg or diastolic < 80 mmHg), which risk compromising intervillous space perfusion and provoking acute fetal distress."
+        },
+        {
+          "id": "s-5",
+          "vi": "Khuyến cáo 4 (Thời điểm sinh): Thai từ 34 tuần 0 ngày trở lên có dấu hiệu nặng cần được lên kế hoạch chấm dứt thai kỳ sau khi mẹ đã được ổn định huyết áp và bắt đầu truyền MgSO4 (Grade 1A). Đối với thai dưới 34 tuần, việc điều trị trì hoãn chỉ được tiến hành tại trung tâm chăm sóc chu sinh chuyên sâu cấp 3 khi cả mẹ và thai nhi đều đáp ứng ổn định.",
+          "en": "Recommendation 4 (Delivery Timing): Pregnancies at ≥ 34 0/7 weeks with severe features require prompt delivery once maternal hemodynamic stabilization and magnesium loading are completed (Grade 1A). Below 34 weeks, expectant management must be restricted to level III/IV perinatal centers with maternal-fetal stability."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & HEMODYNAMICS)",
+      "en": "2. ETIOLOGY & PATHOPHYSIOLOGY OF HYPERTENSIVE CRISIS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-patho-1",
+      "sentences": [
+        {
+          "id": "s-6",
+          "vi": "Cơ chế bệnh sinh trung tâm của tiền sản giật xuất phát từ khiếm khuyết trong quá trình tái cấu trúc các động mạch xoắn của tử cung bởi tế bào nuôi xâm lấn trong tam cá nguyệt đầu. Bình thường, tế bào nuôi ngoài gai nhau sẽ xâm nhập và thay thế lớp cơ chun của động mạch xoắn, biến chúng thành các mạch máu khẩu kính lớn, áp lực thấp và kháng trở thấp.",
+          "en": "The foundational pathogenesis of preeclampsia stems from defective endovascular trophoblast invasion of maternal spiral arteries during early placentation. Under normal conditions, extravillous trophoblasts invade and remodel arterial walls, transforming them into high-capacity, low-resistance conduits."
+        },
+        {
+          "id": "s-7",
+          "vi": "Trong tiền sản giật, quá trình xâm lấn này chỉ diễn ra nông ở lớp màng rụng mà không thâm nhập được vào lớp cơ tử cung. Các động mạch xoắn giữ nguyên lớp cơ chun dày đặc, dễ bị co thắt dưới tác động của các chất vận mạch, gây ra tình trạng thiếu oxy ngắt quãng và thiếu máu cục bộ bánh nhau mạn tính.",
+          "en": "In preeclampsia, invasion is restricted superficially to the decidua without remodeling myometrial segments. Retaining their muscular tone and responsiveness to vasopressors, spiral arteries suffer recurrent ischemia-reperfusion injury and chronic placental hypoxia."
+        },
+        {
+          "id": "s-8",
+          "vi": "Bánh nhau thiếu oxy giải phóng ồ ạt các yếu tố kháng tạo mạch vào tuần hoàn mẹ, bao gồm sFlt-1 (soluble fms-like tyrosine kinase-1) và soluble Endoglin (sEng). Các phân tử này gắn kết và trung hòa các yếu tố kích thích tạo mạch là VEGF (Vascular Endothelial Growth Factor) và PlGF (Placental Growth Factor).",
+          "en": "Hypoxic syncytiotrophoblasts release circulating antiangiogenic factors into maternal blood, predominantly sFlt-1 (soluble fms-like tyrosine kinase-1) and soluble Endoglin (sEng), which bind and neutralize proangiogenic factors VEGF and PlGF."
+        },
+        {
+          "id": "s-9",
+          "vi": "Sự mất cân bằng nghiêm trọng giữa các yếu tố tạo mạch và kháng tạo mạch dẫn đến tổn thương tế bào nội mô mạch máu lan tỏa khắp các cơ quan trong cơ thể mẹ: co thắt tiểu động mạch hệ thống, thoát dịch gian bào gây phù, rối loạn đông máu vi mạch tiêu thụ tiểu cầu và suy giảm khả năng tự điều hòa vận mạch não.",
+          "en": "This profound angiogenic imbalance causes generalized maternal endothelial dysfunction, systemic vasoconstriction, capillary hyperpermeability, microangiopathic thrombocytopenia, and impaired cerebral autoregulation."
+        },
+        {
+          "id": "s-10",
+          "vi": "Hệ mạch máu não bình thường có khả năng tự co thắt để duy trì lưu lượng tưới máu não ổn định khi huyết áp dao động. Tuy nhiên, khi huyết áp tâm thu vượt quá 160 mmHg hoặc huyết áp trung bình vượt quá 140 mmHg, cơ chế tự bảo vệ này bị phá vỡ hoàn toàn, dẫn đến tình trạng tăng tưới máu cưỡng bức, thoát huyết tương qua hàng rào máu não gây phù não chất trắng (hội chứng PRES) và xuất huyết nhu mô não.",
+          "en": "Normal cerebral vasculature maintains constant blood flow via autoregulatory vasoconstriction. When systolic pressure exceeds 160 mmHg or mean arterial pressure surpasses 140 mmHg, this mechanism fails, resulting in forced hyperperfusion, breakdown of the blood-brain barrier, vasogenic brain edema (PRES), and catastrophic intracerebral hemorrhage."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. TIÊU CHUẨN CHẨN ĐOÁN & DẤU HIỆU CẢNH BÁO ĐỎ (DIAGNOSIS & SEVERE FEATURES)",
+      "en": "3. DIAGNOSTIC CRITERIA & CLINICAL RED FLAGS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-diag-1",
+      "sentences": [
+        {
+          "id": "s-11",
+          "vi": "Tiêu chuẩn chẩn đoán tiền sản giật kinh điển bao gồm tăng huyết áp (Huyết áp tâm thu ≥ 140 mmHg hoặc tâm trương ≥ 90 mmHg sau 20 tuần tuổi thai ở người trước đó có huyết áp bình thường) kèm theo đạm niệu (Protein niệu 24 giờ ≥ 300 mg hoặc tỷ lệ Protein/Creatinine niệu ≥ 0.3 mg/mg).",
+          "en": "Classic diagnostic criteria for preeclampsia require new-onset hypertension (SBP ≥ 140 mmHg or DBP ≥ 90 mmHg after 20 weeks of gestation) accompanied by proteinuria (24-hour urine protein ≥ 300 mg or protein-to-creatinine ratio ≥ 0.3 mg/mg)."
+        },
+        {
+          "id": "s-12",
+          "vi": "ACOG và SMFM khẳng định rằng sự vắng mặt của đạm niệu không loại trừ chẩn đoán tiền sản giật nếu có tăng huyết áp mới xuất hiện đi kèm với bất kỳ một trong các dấu hiệu tổn thương cơ quan đích nặng nề nào sau đây.",
+          "en": "ACOG and SMFM state that the absence of proteinuria does not exclude preeclampsia when new-onset hypertension is accompanied by any evidence of severe end-organ dysfunction."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "tag": "Bảng 1",
+      "title": {
+        "vi": "Bảng 1: Tiêu chuẩn xác định Tiền sản giật có Dấu hiệu Nặng (ACOG/SMFM 2026)",
+        "en": "Table 1: Diagnostic Criteria for Preeclampsia with Severe Features (ACOG/SMFM 2026)"
+      },
+      "headers": [
+        {
+          "vi": "Cơ quan / Hệ thống",
+          "en": "System / Organ"
+        },
+        {
+          "vi": "Dấu hiệu & Tiêu chuẩn Lâm sàng Nặng",
+          "en": "Severe Clinical / Laboratory Criteria"
+        },
+        {
+          "vi": "Ý nghĩa & Nguy cơ Tiên lượng",
+          "en": "Prognostic Significance"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Huyết áp (Tăng huyết áp nặng)",
+            "en": "Blood Pressure"
+          },
+          {
+            "vi": "Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg đo 2 lần cách nhau ít nhất 15 phút khi nghỉ ngơi.",
+            "en": "Systolic BP ≥ 160 mmHg or diastolic BP ≥ 110 mmHg confirmed twice at least 15 minutes apart."
+          },
+          {
+            "vi": "Nguy cơ cao nhất gây đột quỵ xuất huyết não và nhau bong non; bắt buộc xử trí trong 30-60 phút.",
+            "en": "Primary risk factor for fatal hemorrhagic stroke and abruption; requires urgent treatment."
+          }
+        ],
+        [
+          {
+            "vi": "Hệ Huyết học (Tiểu cầu)",
+            "en": "Hematologic (Thrombocytopenia)"
+          },
+          {
+            "vi": "Số lượng tiểu cầu giảm dưới 100.000 / μL (100 x 10^9 / L).",
+            "en": "Platelet count < 100,000 / μL (100 x 10^9 / L)."
+          },
+          {
+            "vi": "Biểu hiện tiêu thụ tiểu cầu do vi huyết khối nội mô, gợi ý tiến triển hội chứng HELLP.",
+            "en": "Reflects microvascular consumption; heralds impending HELLP syndrome."
+          }
+        ],
+        [
+          {
+            "vi": "Gan (Tổn thương tế bào gan)",
+            "en": "Hepatic Impairment"
+          },
+          {
+            "vi": "Men gan tăng gấp đôi giới hạn bình thường trên (AST, ALT) hoặc đau hạ sườn phải / thượng vị dữ dội không đáp ứng thuốc giảm đau.",
+            "en": "Serum transaminases (AST/ALT) twice upper normal limit, or severe persistent RUQ/epigastric pain."
+          },
+          {
+            "vi": "Căng giãn bao Glisson hoặc tụ máu dưới bao gan; nguy cơ vỡ gan sản khoa đe dọa tử vong.",
+            "en": "Subcapsular hepatic hematoma or infarction; high maternal mortality risk."
+          }
+        ],
+        [
+          {
+            "vi": "Thận (Suy giảm chức năng thận)",
+            "en": "Renal Insufficiency"
+          },
+          {
+            "vi": "Nồng độ Creatinine huyết thanh > 1.1 mg/dL (97.2 μmol/L) hoặc tăng gấp đôi Creatinine nền khi không có bệnh thận từ trước.",
+            "en": "Serum creatinine > 1.1 mg/dL (97.2 μmol/L) or doubling of baseline in absence of renal disease."
+          },
+          {
+            "vi": "Tổn thương màng đáy cầu thận (Glomerular endotheliosis), thiểu niệu cấp.",
+            "en": "Glomerular endotheliosis, acute tubular necrosis, and risk of anuria."
+          }
+        ],
+        [
+          {
+            "vi": "Phổi (Hệ hô hấp)",
+            "en": "Pulmonary"
+          },
+          {
+            "vi": "Phù phổi cấp tính (Khó thở, ran ẩm hai đáy phổi, SpO2 < 93%).",
+            "en": "Acute pulmonary edema (dyspnea, bibasilar crackles, SpO2 < 93%)."
+          },
+          {
+            "vi": "Do quá tải dịch, suy tim trái cấp hoặc tăng tính thấm mao mạch phổi; cần can thiệp Furosemide.",
+            "en": "Capillary leak, left ventricular failure, or fluid overload; requires emergency diuresis."
+          }
+        ],
+        [
+          {
+            "vi": "Thần kinh & Thị giác",
+            "en": "Neurologic / Visual"
+          },
+          {
+            "vi": "Đau đầu dữ dội kiểu co thắt không đáp ứng Paracetamol, hoa mắt, nhìn mờ, ám điểm, rung giật nhãn cầu.",
+            "en": "New-onset persistent severe headache unresponsive to analgesics, scotoma, photophobia, blurred vision."
+          },
+          {
+            "vi": "Dấu hiệu tiền triệu kích thích vỏ não; cảnh báo cơn co giật sản giật sắp xảy ra.",
+            "en": "Cerebral hyperperfusion warning; impending eclampsia within hours."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ HẠ ÁP CẤP CỨU ĐƯỜNG TĨNH MẠCH VÀ ĐƯỜNG UỐNG (ACUTE ANTIHYPERTENSIVE PROTOCOL)",
+      "en": "4. ACUTE SEVERE HYPERTENSION TREATMENT ALGORITHMS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-mgmt-1",
+      "sentences": [
+        {
+          "id": "s-13",
+          "vi": "Khi huyết áp đạt ngưỡng nặng (Tâm thu ≥ 160 mmHg hoặc Tâm trương ≥ 110 mmHg) được khẳng định lại sau 15 phút, bác sĩ phải lập tức kích hoạt 'Mã Đỏ Tiền Sản Giật' (Preeclampsia Code) và sử dụng một trong ba phác đồ chuẩn hóa dưới đây.",
+          "en": "When severe blood pressure (SBP ≥ 160 mmHg or DBP ≥ 110 mmHg) is confirmed after 15 minutes, clinicians must immediately activate the obstetric emergency protocol using one of the three standardized regimens."
+        },
+        {
+          "id": "s-14",
+          "vi": "Thời gian vàng là 30 đến 60 phút. Không được trì hoãn việc dùng thuốc hạ áp để chờ kết quả xét nghiệm máu hoặc nước tiểu.",
+          "en": "The critical time-to-treatment window is 30 to 60 minutes. Antihypertensive therapy must never be delayed pending laboratory test results."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "tag": "Bảng 2",
+      "title": {
+        "vi": "Bảng 2: Phác đồ Định liều Thuốc Hạ Áp Cấp Cứu Hàng Đầu (ACOG / SMFM 2026)",
+        "en": "Table 2: First-Line Antihypertensive Dosing Regimens for Acute Severe Hypertension"
+      },
+      "headers": [
+        {
+          "vi": "Tên Thuốc & Cơ chế",
+          "en": "Medication & Class"
+        },
+        {
+          "vi": "Liều Khởi Đầu & Cách Dùng",
+          "en": "Initial Dose & Route"
+        },
+        {
+          "vi": "Các Bước Tăng Liều (Mỗi 10 - 20 phút)",
+          "en": "Titration Steps (q10–20 min)"
+        },
+        {
+          "vi": "Liều Tối Đa & Chống Chỉ Định",
+          "en": "Max Dose & Contraindications"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Labetalol (Chẹn thụ thể alpha-1 và beta adrenergic)",
+            "en": "Labetalol (Alpha-1 & Nonselective Beta Blocker)"
+          },
+          {
+            "vi": "20 mg tiêm tĩnh mạch chậm trong 2 phút.",
+            "en": "20 mg IV bolus over 2 minutes."
+          },
+          {
+            "vi": "Đo lại HA sau 10 phút. Nếu HA vẫn ≥ 160/110: tiêm tiếp 40 mg. Sau 10 phút nếu vẫn cao: tiêm tiếp 80 mg. Sau 10 phút nếu vẫn cao: tiêm tiếp 80 mg.",
+            "en": "Recheck BP in 10 min. If still severe: 40 mg IV. If still severe at 20 min: 80 mg IV. If still severe at 30 min: 80 mg IV."
+          },
+          {
+            "vi": "Liều tích lũy tối đa: 300 mg. Chống chỉ định: Hen phế quản nặng, suy tim sung huyết, nhịp chậm xoang (< 60 lần/phút) hoặc bloc nhĩ thất độ II-III.",
+            "en": "Max cumulative dose: 300 mg. Contraindicated in asthma, acute heart failure, sinus bradycardia (< 60 bpm), or heart block."
+          }
+        ],
+        [
+          {
+            "vi": "Hydralazine (Giãn trực tiếp tiểu động mạch)",
+            "en": "Hydralazine (Direct Arteriolar Vasodilator)"
+          },
+          {
+            "vi": "5 mg hoặc 10 mg tiêm tĩnh mạch chậm trong 2 phút.",
+            "en": "5 mg or 10 mg IV bolus over 2 minutes."
+          },
+          {
+            "vi": "Đo lại HA sau 20 phút. Nếu HA vẫn ≥ 160/110: tiêm tiếp 10 mg IV. Sau 20 phút nếu vẫn cao: chuyển sang Labetalol 20 mg hoặc Nifedipine.",
+            "en": "Recheck BP in 20 min. If still severe: 10 mg IV. If still severe at 40 min: switch to Labetalol 20 mg IV or oral Nifedipine."
+          },
+          {
+            "vi": "Liều tích lũy tối đa: 20 mg. Lưu ý: Dễ gây tụt huyết áp mẹ đột ngột và nhịp tim nhanh phản xạ; theo dõi sát tim thai liên tục.",
+            "en": "Max cumulative dose: 20 mg. Note: Higher risk of maternal hypotension and reflex tachycardia; monitor FHR continuously."
+          }
+        ],
+        [
+          {
+            "vi": "Nifedipine tác dụng nhanh (Chẹn kênh calci Dihydropyridine)",
+            "en": "Immediate-Release Nifedipine (Calcium Channel Blocker)"
+          },
+          {
+            "vi": "10 mg hoặc 20 mg uống nguyên viên với nước (KHÔNG nhai, KHÔNG ngậm dưới lưỡi).",
+            "en": "10 mg or 20 mg orally swallowed whole (DO NOT bite or administer sublingually)."
+          },
+          {
+            "vi": "Đo lại HA sau 20 phút. Nếu HA vẫn ≥ 160/110: cho uống tiếp 20 mg. Sau 20 phút nếu vẫn cao: cho uống tiếp 20 mg hoặc chuyển sang Labetalol tiêm tĩnh mạch.",
+            "en": "Recheck BP in 20 min. If still severe: 20 mg orally. If still severe at 40 min: 20 mg orally or switch to IV Labetalol."
+          },
+          {
+            "vi": "Liều tối đa 1 đợt cấp cứu: 50 mg (tối đa 180 mg/ngày). Lựa chọn số 1 khi chưa thiết lập được đường truyền tĩnh mạch ngoại vi.",
+            "en": "Max dose per acute episode: 50 mg (max 180 mg/day). Preferred when IV access is not yet secured."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ MAGNESI SULFAT (MGSO4) DỰ PHÒNG & CẮT CƠN CO GIẬT (SEIZURE PROPHYLAXIS PROTOCOL)",
+      "en": "5. MAGNESIUM SULFATE PROTOCOL & TOXICITY MANAGEMENT"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-mg-1",
+      "sentences": [
+        {
+          "id": "s-15",
+          "vi": "Magnesi Sulfat (MgSO4) là tiêu chuẩn vàng toàn cầu để dự phòng cơn co giật ở thai phụ có tiền sản giật dấu hiệu nặng và kiểm soát co giật ở sản phụ đã lên cơn sản giật.",
+          "en": "Magnesium sulfate is the undisputed gold standard for preventing seizures in preeclampsia with severe features and arresting recurrent convulsions in eclampsia."
+        },
+        {
+          "id": "s-16",
+          "vi": "Cơ chế tác dụng: MgSO4 cạnh tranh với ion Canxi tại các tiếp hợp thần kinh - cơ, ức chế giải phóng acetylcholine, làm giãn mạch máu não và phong bế thụ thể NMDA tại tế bào thần kinh vỏ não.",
+          "en": "Mechanism: Magnesium competes with calcium at motor endplates, inhibits presynaptic acetylcholine release, induces cerebral vasodilation, and blocks neuronal NMDA receptors."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "tag": "Bảng 3",
+      "title": {
+        "vi": "Bảng 3: Quy trình Pha truyền & Giám sát An toàn Magnesi Sulfat (Zuspan Regimen)",
+        "en": "Table 3: Magnesium Sulfate Dosing Protocol and Clinical Monitoring (Zuspan Regimen)"
+      },
+      "headers": [
+        {
+          "vi": "Giai đoạn / Tiêu chí",
+          "en": "Phase / Parameter"
+        },
+        {
+          "vi": "Phác đồ Chi Tiết & Liều Lượng",
+          "en": "Dosing & Administration Details"
+        },
+        {
+          "vi": "Chỉ số Giám sát & Hành động Xử trí",
+          "en": "Safety Limits & Antidote Actions"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Liều Tải (Loading Dose)",
+            "en": "Loading Dose"
+          },
+          {
+            "vi": "4 g đến 6 g Magnesi Sulfat (dung dịch 20% hoặc 50%) pha trong 100 mL dịch truyền (Glucose 5% hoặc Ringer Lactate), truyền tĩnh mạch bằng bơm tiêm điện trong 15 đến 20 phút.",
+            "en": "4 g to 6 g MgSO4 diluted in 100 mL IV fluid (5% Dextrose or Lactated Ringer's) infused over 15–20 minutes via infusion pump."
+          },
+          {
+            "vi": "Sản phụ có thể cảm thấy bốc hỏa, nóng bừng mặt, khô miệng, buồn nôn; giải thích trấn an sản phụ trước khi truyền.",
+            "en": "Transient flushing, warmth, and nausea are common physiological responses; reassure the patient."
+          }
+        ],
+        [
+          {
+            "vi": "Liều Duy Trì (Maintenance Dose)",
+            "en": "Maintenance Infusion"
+          },
+          {
+            "vi": "1 g đến 2 g/giờ truyền tĩnh mạch liên tục bằng bơm tiêm điện (ví dụ: pha 20 g MgSO4 trong 500 mL dịch truyền, tốc độ 25 - 50 mL/giờ).",
+            "en": "1 g to 2 g/hour continuous IV infusion via controlled pump (e.g., 20 g MgSO4 in 500 mL fluid at 25–50 mL/hour)."
+          },
+          {
+            "vi": "Duy trì liên tục trong suốt quá trình chuyển dạ và kéo dài đủ 24 giờ sau khi sinh hoặc 24 giờ sau cơn giật cuối cùng.",
+            "en": "Continue throughout labor and delivery, and for a full 24 hours postpartum or 24 hours after the last convulsion."
+          }
+        ],
+        [
+          {
+            "vi": "Điều Kiện Giám Sát An Toàn (Mỗi 1 - 2 giờ)",
+            "en": "Safety Monitoring (Hourly)"
+          },
+          {
+            "vi": "1. Phản xạ gân xương bánh chè: Bắt buộc PHẢI CÒN.\n2. Tần số thở: Phải ≥ 16 lần/phút.\n3. Lượng nước tiểu: Phải ≥ 30 mL/giờ (hoặc ≥ 100 mL trong 4 giờ qua sonde tiểu lưu).",
+            "en": "1. Patellar deep tendon reflexes: Must be present.\n2. Respiratory rate: Must be ≥ 16 breaths per minute.\n3. Urine output: Must be ≥ 30 mL/hour (measured via Foley catheter)."
+          },
+          {
+            "vi": "Nếu mất phản xạ bánh chè -> NGỪNG ngay MgSO4 và định lượng nồng độ Magne máu. Nồng độ điều trị: 4.8 – 8.4 mg/dL (2.0 – 3.5 mmol/L).",
+            "en": "If patellar reflexes are lost -> STOP infusion immediately and measure serum magnesium (therapeutic range: 4.8–8.4 mg/dL)."
+          }
+        ],
+        [
+          {
+            "vi": "Xử Trí Ngộ Độc (Antidote Protocol)",
+            "en": "Management of Toxicity (Antidote)"
+          },
+          {
+            "vi": "Khi có dấu hiệu ngộ độc (mất phản xạ gân xương, thở chậm < 12 lần/phút, ngừng thở):\n1. Ngừng truyền MgSO4 ngay lập tức.\n2. Cung cấp oxy qua mask 10 L/phút.\n3. Tiêm tĩnh mạch chậm 1 g Calcium Gluconate 10% (10 mL dung dịch 10%) tiêm trong 3 đến 5 phút.",
+            "en": "Signs of toxicity (loss of reflexes, respiratory depression < 12/min, arrest):\n1. Discontinue MgSO4 immediately.\n2. Administer oxygen 10 L/min via mask.\n3. Administer Calcium Gluconate 10% 1 g (10 mL) slow IV over 3–5 minutes."
+          },
+          {
+            "vi": "Calcium đối kháng trực tiếp tác dụng của Magnesium tại màng tế bào, giúp phục hồi dẫn truyền thần kinh cơ và hô hấp ngay tức thì.",
+            "en": "Calcium directly antagonizes magnesium at motor endplates, reversing neuromuscular and respiratory depression."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. QUẢN LÝ HỘI CHỨNG HELLP & BIẾN CHỨNG HUYẾT HỌC (HELLP SYNDROME & COAGULOPATHY)",
+      "en": "6. MANAGEMENT OF HELLP SYNDROME & COAGULOPATHY"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-hellp-1",
+      "sentences": [
+        {
+          "id": "s-17",
+          "vi": "Hội chứng HELLP là một biến thể tối nguy hiểm của tiền sản giật, xảy ra ở khoảng 10% đến 20% các trường hợp tiền sản giật nặng. Chẩn đoán xác định dựa trên tiêu chuẩn Tennessee bao gồm: Tán huyết vi mạch (LDH > 600 U/L hoặc mảnh vỡ hồng cầu trên phết máu ngoại vi), Tăng men gan (AST ≥ 70 U/L) và Giảm tiểu cầu (< 100.000 / μL).",
+          "en": "HELLP syndrome is a life-threatening variant of severe preeclampsia occurring in 10% to 20% of severe cases. Diagnosis by Tennessee criteria requires: Microangiopathic hemolysis (LDH > 600 U/L or schistocytes on blood smear), Elevated transaminases (AST ≥ 70 U/L), and Thrombocytopenia (< 100,000 / μL)."
+        },
+        {
+          "id": "s-18",
+          "vi": "Về chiến lược chấm dứt thai kỳ: Bệnh nhân được chẩn đoán hội chứng HELLP đủ tiêu chuẩn cần được chấm dứt thai kỳ ngay sau khi ổn định huyết động học mẹ, bất kể tuổi thai (Grade 1A). Không trì hoãn sinh để chờ điều trị bảo tồn.",
+          "en": "Regarding delivery strategy: Confirmed HELLP syndrome warrants prompt delivery once maternal hemodynamic stabilization is achieved, regardless of gestational age (Grade 1A). Expectant management is contraindicated."
+        },
+        {
+          "id": "s-19",
+          "vi": "Quy tắc truyền tiểu cầu trước phẫu thuật: Chỉ định truyền khối tiểu cầu khi mổ lấy thai nếu số lượng tiểu cầu dưới 50.000 / μL. Đối với sinh ngả âm đạo, chỉ định truyền khi tiểu cầu dưới 20.000 / μL hoặc khi có chảy máu hoạt tính.",
+          "en": "Platelet transfusion guidelines: Platelet transfusion is indicated before cesarean delivery if the platelet count is < 50,000 / μL. For vaginal delivery, transfusion is indicated if platelets are < 20,000 / μL or in the presence of active clinical bleeding."
+        },
+        {
+          "id": "s-20",
+          "vi": "Corticoid liều cao (Dexamethasone) trong HELLP: ACOG và SMFM không khuyến cáo sử dụng thường quy Dexamethasone liều cao để cải thiện kết cục mẹ lâu dài trong hội chứng HELLP, tuy nhiên nó có thể được cân nhắc tạm thời để nâng lượng tiểu cầu trong thời gian chuẩn bị mổ lấy thai hoặc gây tê tủy sống.",
+          "en": "High-dose corticosteroids in HELLP: Routine high-dose Dexamethasone is not recommended to improve clinical maternal outcomes; however, it may be selectively considered to transiently boost platelet counts prior to regional anesthesia or surgery."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. THỜI ĐIỂM & PHƯƠNG THỨC CHẤM DỨT THAI KỲ (TIMING & MODE OF DELIVERY)",
+      "en": "7. TIMING & MODE OF DELIVERY STRATEGIES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-deliv-1",
+      "sentences": [
+        {
+          "id": "s-21",
+          "vi": "Chấm dứt thai kỳ là phương pháp điều trị dứt điểm duy nhất đối với tiền sản giật. Quyết định thời điểm sinh dựa trên sự cân bằng giữa nguy cơ suy đa tạng của người mẹ và nguy cơ sinh non của thai nhi.",
+          "en": "Delivery is the only definitive cure for preeclampsia. The timing of delivery balances maternal multiorgan risks against the risks of fetal prematurity."
+        },
+        {
+          "id": "s-22",
+          "vi": "Thai từ 34 tuần 0 ngày trở lên có dấu hiệu nặng: Chỉ định chấm dứt thai kỳ sau khi huyết áp của mẹ đã được kiểm soát ổn định và đã dùng đủ liều tải MgSO4 (Grade 1A).",
+          "en": "Pregnancies at ≥ 34 0/7 weeks with severe features: Delivery is indicated once maternal blood pressure is stabilized and magnesium sulfate is initiated (Grade 1A)."
+        },
+        {
+          "id": "s-23",
+          "vi": "Thai dưới 34 tuần có dấu hiệu nặng nhưng mẹ và thai ổn định: Có thể xem xét điều trị trì hoãn (Expectant management) từ 24 đến 48 giờ tại trung tâm chăm sóc chu sinh chuyên sâu cấp 3 để tiêm đủ 2 liều Corticoid trưởng thành phổi (Betamethasone 12 mg tiêm bắp 2 liều cách nhau 24 giờ) (Grade 1B).",
+          "en": "Pregnancies at < 34 0/7 weeks with stable maternal and fetal status: Expectant management may be considered for 24 to 48 hours at a tertiary center to complete a course of antenatal corticosteroids (Betamethasone 12 mg IM q24h x 2 doses) (Grade 1B)."
+        },
+        {
+          "id": "s-24",
+          "vi": "Chỉ định chấm dứt thai kỳ khẩn cấp không trì hoãn bất kể tuổi thai khi xuất hiện: Tăng huyết áp kháng trị với 3 nhóm thuốc, sản giật tái diễn, phù phổi cấp, nghi ngờ nhau bong non, đông máu nội mạch rải rác (DIC), hoặc suy thai cấp tính trên monitoring CTG (Grade 1A).",
+          "en": "Immediate delivery regardless of gestational age is mandatory in the presence of: Refractory severe hypertension, recurrent eclampsia, pulmonary edema, placental abruption, disseminated intravascular coagulation (DIC), or non-reassuring fetal status on CTG (Grade 1A)."
+        },
+        {
+          "id": "s-25",
+          "vi": "Phương thức sinh: Tiền sản giật nặng không phải là chỉ định mổ lấy thai tuyệt đối. Nếu cổ tử cung thuận lợi và tình trạng mẹ - con ổn định, nên ưu tiên khởi phát chuyển dạ sinh ngả âm đạo để tránh biến chứng phẫu thuật (Grade 1B).",
+          "en": "Mode of delivery: Preeclampsia with severe features is not an absolute indication for cesarean section. Vaginal delivery with labor induction should be pursued if maternal-fetal status is stable and cervix is favorable (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. THEO DÕI HẬU SẢN & DỰ PHÒNG THAI KỲ KẾ TIẾP (POSTPARTUM CARE & FUTURE PREGNANCY)",
+      "en": "8. POSTPARTUM MANAGEMENT & RECURRENCE PREVENTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-comp-1",
+      "sentences": [
+        {
+          "id": "s-26",
+          "vi": "Sau khi sinh, nguy cơ cơn tăng huyết áp cấp và sản giật vẫn tiếp tục kéo dài. Có tới 20% đến 30% các cơn co giật sản giật xảy ra trong giai đoạn hậu sản, đặc biệt là trong 48 giờ đầu tiên.",
+          "en": "Maternal risks do not resolve immediately upon delivery; 20% to 30% of eclamptic seizures occur in the postpartum period, predominantly within the first 48 hours."
+        },
+        {
+          "id": "s-27",
+          "vi": "Tiếp tục duy trì truyền MgSO4 đủ 24 giờ sau sinh; đo huyết áp mỗi 4 giờ trong 72 giờ đầu và ít nhất 1 lần/ngày cho đến khi xuất viện.",
+          "en": "Continue magnesium sulfate for a full 24 hours postpartum; monitor blood pressure every 4 hours for the first 72 hours and at least daily until discharge."
+        },
+        {
+          "id": "s-28",
+          "vi": "Thuốc hạ áp đường uống duy trì sau sinh: Nếu huyết áp kéo dài ≥ 150/100 mmHg sau sinh, bắt đầu dùng thuốc hạ áp đường uống như Nifedipine phóng thích kéo dài 30–60 mg/ngày hoặc Labetalol uống 200–800 mg/ngày chia 2-3 lần. Các thuốc này an toàn cho con bú.",
+          "en": "Postpartum oral antihypertensive maintenance: If BP remains ≥ 150/100 mmHg, initiate oral therapy with extended-release Nifedipine 30–60 mg daily or oral Labetalol 200–800 mg daily in divided doses. Both are safe during breastfeeding."
+        },
+        {
+          "id": "s-29",
+          "vi": "Chiến lược dự phòng cho thai kỳ tiếp theo: Phụ nữ có tiền sử tiền sản giật nặng cần được dùng Aspirin liều thấp 81–150 mg/ngày bắt đầu từ tuần thứ 12 đến 16 của thai kỳ cho đến tuần thứ 36 (Grade 1A). Bổ sung Canxi nguyên tố 1.5 – 2 g/ngày ở những quần thể có chế độ ăn thiếu hụt canxi.",
+          "en": "Prevention in subsequent pregnancies: Women with prior severe preeclampsia should receive low-dose Aspirin 81–150 mg daily initiating between 12 and 16 weeks until 36 weeks (Grade 1A). Elemental calcium 1.5–2.0 g daily is recommended in low-dietary intake populations."
+        },
+        {
+          "id": "s-30",
+          "vi": "Tư vấn sức khỏe tim mạch dài hạn: Tiền sản giật là một dấu ấn sinh học sớm của bệnh lý tim mạch mạn tính. Sản phụ có nguy cơ tăng gấp 2 lần bệnh tim thiếu máu cục bộ, tăng gấp 3-4 lần tăng huyết áp mạn và tăng nguy cơ đột quỵ sau này; cần định kỳ tầm soát huyết áp, đường huyết và lipid máu mỗi năm.",
+          "en": "Long-term cardiovascular counseling: Preeclampsia serves as an early biomarker for lifelong cardiovascular disease, carrying a twofold increased risk of ischemic heart disease and fourfold risk of chronic hypertension; annual metabolic and cardiovascular screening is recommended."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "9. TÀI LIỆU THAM KHẢO & KHUYẾN CÁO HIỆP HỘI (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "9. OFFICIAL SOCIETY GUIDELINES & ACADEMIC REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-ref-1",
+      "sentences": [
+        {
+          "id": "s-31",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia. Obstetrics & Gynecology. 2020;135(6):e237-e260. DOI: 10.1097/AOG.0000000000003891.",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia. Obstetrics & Gynecology. 2020;135(6):e237-e260. DOI: 10.1097/AOG.0000000000003891."
+        },
+        {
+          "id": "s-32",
+          "vi": "2. Society for Maternal-Fetal Medicine (SMFM). Special Statement: Pharmacologic management of acute severe hypertension in pregnancy and postpartum. American Journal of Obstetrics & Gynecology. 2026;234(2):B2-B12. DOI: 10.1016/j.ajog.2025.11.018.",
+          "en": "2. Society for Maternal-Fetal Medicine (SMFM). Special Statement: Pharmacologic management of acute severe hypertension in pregnancy and postpartum. American Journal of Obstetrics & Gynecology. 2026;234(2):B2-B12. DOI: 10.1016/j.ajog.2025.11.018."
+        },
+        {
+          "id": "s-33",
+          "vi": "3. International Federation of Gynecology and Obstetrics (FIGO). FIGO guidelines on preeclampsia: screening, prevention, and clinical management. International Journal of Gynecology & Obstetrics. 2025;168(1):15-32. DOI: 10.1002/ijgo.15890.",
+          "en": "3. International Federation of Gynecology and Obstetrics (FIGO). FIGO guidelines on preeclampsia: screening, prevention, and clinical management. International Journal of Gynecology & Obstetrics. 2025;168(1):15-32. DOI: 10.1002/ijgo.15890."
+        },
+        {
+          "id": "s-34",
+          "vi": "4. Bộ Y Tế Việt Nam. Quyết định 4163/QĐ-BYT: Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản — Phần Hướng dẫn xử trí tai biến sản khoa và tiền sản giật nặng. 2023.",
+          "en": "4. Ministry of Health of Vietnam. Decision 4163/QD-BYT: National Guidelines on Reproductive Health Care Services — Management of Obstetric Emergencies and Severe Preeclampsia. 2023."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "10. TỪ ĐIỂN THUẬT NGỮ CHUYÊN NGÀNH SONG NGỮ (BILINGUAL CLINICAL GLOSSARY)",
+      "en": "10. BILINGUAL CLINICAL GLOSSARY & TERMINOLOGY"
+    }
+  ],
+  "glossary": [
+    {
+      "en": "Severe Preeclampsia",
+      "vi": "Tiền sản giật có dấu hiệu nặng",
+      "ipa": "/sɪˈvɪər ˌpriːɪˈklæmpsiə/",
+      "definition": "Tình trạng tiền sản giật đi kèm với huyết áp tâm thu ≥ 160 mmHg, tâm trương ≥ 110 mmHg hoặc có tổn thương cơ quan đích như giảm tiểu cầu, suy gan, suy thận, phù phổi."
+    },
+    {
+      "en": "Hypertensive Crisis",
+      "vi": "Cơn tăng huyết áp cấp cứu thai kỳ",
+      "ipa": "/ˌhaɪpərˈtɛnsɪv ˈkraɪsɪs/",
+      "definition": "Mức huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg kéo dài từ 15 phút trở lên ở sản phụ, đòi hỏi can thiệp hạ áp khẩn cấp trong 30-60 phút."
+    },
+    {
+      "en": "Eclampsia",
+      "vi": "Sản giật (Cơn co giật sản khoa)",
+      "ipa": "/ɪˈklæmpsiə/",
+      "definition": "Sự xuất hiện của cơn co giật toàn thân kiểu co cứng - giật rung mới xuất hiện ở thai phụ bị tiền sản giật mà không giải thích được do nguyên nhân thần kinh khác."
+    },
+    {
+      "en": "Magnesium Sulfate",
+      "vi": "Magnesi sulfat (MgSO4)",
+      "ipa": "/mæɡˈniːziəm ˈsʌlfeɪt/",
+      "definition": "Thuốc tiêu chuẩn vàng chống co giật trong tiền sản giật nặng và sản giật, hoạt động bằng cách phong bế dẫn truyền thần kinh cơ và làm giãn mạch máu não."
+    },
+    {
+      "en": "Calcium Gluconate",
+      "vi": "Calci gluconat 10% (Thuốc giải độc MgSO4)",
+      "ipa": "/ˈkælsiəm ˈɡluːkəneɪt/",
+      "definition": "Thuốc đối kháng đặc hiệu dùng để đảo ngược tình trạng ức chế hô hấp và suy cơ do ngộ độc Magnesi sulfat liều cao."
+    },
+    {
+      "en": "HELLP Syndrome",
+      "vi": "Hội chứng HELLP",
+      "ipa": "/hɛlp ˈsɪndroʊm/",
+      "definition": "Biến chứng nặng của tiền sản giật đặc trưng bởi tán huyết vi mạch (Hemolysis), tăng men gan (Elevated Liver enzymes) và giảm tiểu cầu (Low Platelets)."
+    },
+    {
+      "en": "Placental Abruption",
+      "vi": "Nhau bong non",
+      "ipa": "/pləˈsɛntəl əˈbrʌpʃən/",
+      "definition": "Sự bong sớm của bánh nhau bám vị trí bình thường trước khi thai sổ ra ngoài, một biến chứng nguy hiểm của tăng huyết áp thai kỳ nặng."
+    },
+    {
+      "en": "PRES (Posterior Reversible Encephalopathy Syndrome)",
+      "vi": "Hội chứng bệnh não chất trắng sau có thể hồi phục",
+      "ipa": "/prɛz/",
+      "definition": "Tổn thương phù não do mất khả năng tự điều hòa vận mạch não khi huyết áp tăng vọt, biểu hiện bằng đau đầu dữ dội, co giật và mù vỏ não."
+    }
+  ]
+}
