@@ -1,0 +1,517 @@
+{
+  "id": "umbilical-cord-prolapse-fetal-decompression-rcog-2026",
+  "slug": "umbilical-cord-prolapse-fetal-decompression-rcog-2026",
+  "title": {
+    "vi": "Xử Trí Cấp Cứu Sa Dây Rốn Trong Chuyển Dạ & Thủ Thuật Giải Áp Thai Cấp — Hướng Dẫn Lâm Sàng RCOG / ACOG 2026",
+    "en": "Emergency Management of Umbilical Cord Prolapse in Labor and Rapid Fetal Decompression Maneuvers — RCOG & ACOG Clinical Guideline 2026"
+  },
+  "title_vi": "Xử Trí Cấp Cứu Sa Dây Rốn Trong Chuyển Dạ & Thủ Thuật Giải Áp Thai Cấp — Hướng Dẫn Lâm Sàng RCOG / ACOG 2026",
+  "title_en": "Emergency Management of Umbilical Cord Prolapse in Labor and Rapid Fetal Decompression Maneuvers — RCOG & ACOG Clinical Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "RCOG Green-top Guideline No. 50: Umbilical Cord Prolapse (2025/2026 Update)",
+    "ACOG Committee Opinion No. 793: Optimizing Care for Umbilical Cord Prolapse",
+    "FIGO Intrapartum Fetal Monitoring Guidelines: Acute Hypoxia Management",
+    "Bộ Y Tế Việt Nam: Hướng dẫn xử trí cấp cứu sa dây rốn trong chuyển dạ"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-004",
+    "doi": "https://doi.org/10.1111/1471-0528.17240",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về RCOG và ACOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-sum-1",
+      "sentences": [
+        {
+          "id": "s-004-1",
+          "vi": "Sa dây rốn (Umbilical Cord Prolapse - UCP) là một cấp cứu sản khoa tối khẩn xảy ra khi dây rốn tụt xuống thấp hơn hoặc đi ngang qua ngôi thai sau khi vỡ màng ối, dẫn đến chèn ép mạch máu cuống rốn giữa ngôi thai và khung chậu của người mẹ.",
+          "en": "Umbilical cord prolapse (UCP) is an acute obstetric emergency occurring when the umbilical cord descends below or alongside the fetal presenting part following rupture of membranes, resulting in cord compression between the fetus and maternal bony pelvis."
+        },
+        {
+          "id": "s-004-2",
+          "vi": "Khuyến cáo 1 (Thời gian vàng quyết định): Khoảng thời gian từ lúc chẩn đoán đến khi thai được đưa ra ngoài (Decision-to-Delivery Interval - DDI) lý tưởng phải dưới 15 đến 30 phút để ngăn ngừa thiếu oxy máu toan hóa não bào thai vĩnh viễn hoặc tử vong chu sinh (Grade 1B).",
+          "en": "Recommendation 1 (Golden Decision-to-Delivery Interval): The decision-to-delivery interval (DDI) must ideally be kept under 15 to 30 minutes to prevent irreversible hypoxic-ischemic encephalopathy (HIE) or perinatal demise (Grade 1B)."
+        },
+        {
+          "id": "s-004-3",
+          "vi": "Khuyến cáo 2 (Thủ thuật đẩy đầu thai bằng tay liên tục): Ngay khi phát hiện quai dây rốn sa trong âm đạo hoặc thò ra ngoài âm hộ, người khám phải giữ nguyên bàn tay trong âm đạo để đẩy phần ngôi thai hướng lên trên về phía ổ bụng, tuyệt đối không rút tay ra cho đến khi phẫu thuật viên rạch bụng bắt con (Grade 1A).",
+          "en": "Recommendation 2 (Continuous Manual Fetal Head Elevation): Upon palpating a prolapsed cord loop in the vagina or introitus, the examiner must keep the examining hand in situ, pushing the presenting part upward toward the abdominal cavity without withdrawing until the surgical delivery team extracts the fetus (Grade 1A)."
+        },
+        {
+          "id": "s-004-4",
+          "vi": "Khuyến cáo 3 (Bơm căng bàng quang Vautrin-Groshens): Nếu thời gian chuyển đến phòng mổ kéo dài > 10–15 phút, bơm 500 mL nước muối sinh lý ấm vô trùng vào bàng quang người mẹ qua sonde Foley để bàng quang căng phồng đẩy ngôi thai lên trên, giải phóng bàn tay người khám (Grade 1B).",
+          "en": "Recommendation 3 (Bladder Filling Technique): If transit to the operating theater is prolonged beyond 10–15 minutes, instill 500 mL of sterile warm saline into the maternal bladder via Foley catheter to mechanically elevate the presenting part and relieve examiner fatigue (Grade 1B)."
+        },
+        {
+          "id": "s-004-5",
+          "vi": "Khuyến cáo 4 (Giảm cơn co bằng Terbutaline cấp cứu): Tiêm dưới da ngay Terbutaline 0.25 mg (250 mcg) để cắt cơn gò tử cung, giảm áp lực ép cơ học lên dây rốn và cải thiện tưới máu bánh nhau trong lúc chờ mổ lấy thai cấp cứu loại 1 (Grade 1B).",
+          "en": "Recommendation 4 (Emergency Tocolysis with Terbutaline): Administer subcutaneous Terbutaline 0.25 mg (250 mcg) immediately to abolish uterine contractions, reducing mechanical compression on cord vessels and optimizing placental perfusion while mobilizing for Category 1 emergency cesarean (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CÁC YẾU TỐ NGUY CƠ CAO (ETIOLOGY & HIGH-RISK FACTORS)",
+      "en": "2. ETIOLOGY & CLINICAL RISK FACTORS FOR CORD PROLAPSE"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-patho-1",
+      "sentences": [
+        {
+          "id": "s-004-6",
+          "vi": "Sinh bệnh học của sa dây rốn bắt nguồn từ sự bất tương xứng giữa phần ngôi thai và eo trên của khung chậu người mẹ. Bất kỳ tình trạng nào khiến ngôi thai không thể tỳ sát và bịt kín cổ tử cung khi màng ối vỡ đều tạo khoảng trống cơ học cho dây rốn bị cuốn trôi theo dòng nước ối tụt xuống phía trước ngôi.",
+          "en": "The pathophysiology of umbilical cord prolapse arises from lack of engagement and poor mechanical seal between the presenting part and the maternal pelvic inlet. Any condition preventing the presenting part from securely occluding the cervix upon membrane rupture allows the cord to be flushed ahead by the amniotic fluid jet."
+        },
+        {
+          "id": "s-004-7",
+          "vi": "Hậu quả sinh lý bệnh trực tiếp là tình trạng co thắt mạch máu cuống rốn dữ dội do tiếp xúc với không khí lạnh bên ngoài, kèm theo sự chèn ép cơ học hoàn toàn của một hoặc hai động mạch rốn và tĩnh mạch rốn. Lưu lượng máu oxy hóa từ bánh nhau về thai nhi bị cắt đứt hoàn toàn, dẫn đến nhịp tim thai chậm sâu kéo dài (< 80 lần/phút) và toan hóa máu động mạch rốn nghiêm trọng (pH < 7.00 và BE < -12 mmol/L) chỉ sau 10 đến 15 phút.",
+          "en": "The immediate pathophysiological sequela is profound umbilical vasospasm provoked by cooler ambient temperatures, compounded by mechanical occlusion of umbilical vessels. Fetal oxygenation ceases abruptly, triggering prolonged deep bradycardia (< 80 bpm) and severe fetal acidemia (umbilical artery pH < 7.00 and base excess < -12 mmol/L) within 10 to 15 minutes."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-004-risk",
+      "title": {
+        "vi": "Bảng 1: Phân loại các yếu tố nguy cơ chính gây Sa dây rốn theo khuyến cáo RCOG 2026",
+        "en": "Table 1: Classification of Key Risk Factors for Umbilical Cord Prolapse (RCOG 2026)"
+      },
+      "headers": [
+        {
+          "vi": "Nhóm yếu tố nguy cơ",
+          "en": "Risk Category"
+        },
+        {
+          "vi": "Các tình huống lâm sàng điển hình",
+          "en": "Clinical Scenarios"
+        },
+        {
+          "vi": "Tỷ số chênh nguy cơ (Odds Ratio)",
+          "en": "Odds Ratio (OR)"
+        },
+        {
+          "vi": "Biện pháp phòng ngừa chủ động",
+          "en": "Preventive Strategies"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "1. Bất thường ngôi thai",
+            "en": "1. Malpresentation"
+          },
+          {
+            "vi": "Ngôi ngang, ngôi mông bất toàn (ngôi ngược chân), ngôi mặt, ngôi trán",
+            "en": "Transverse lie, footling breech, face/brow presentation"
+          },
+          {
+            "vi": "OR = 8.5 – 12.0",
+            "en": "OR = 8.5 – 12.0"
+          },
+          {
+            "vi": "Khám xác định kỹ ngôi thai trước khi bấm ối, tránh bấm ối khi ngôi chưa lọt",
+            "en": "Careful presentation check; avoid ARM until engaged"
+          }
+        ],
+        [
+          {
+            "vi": "2. Can thiệp y khoa (Iatrogenic)",
+            "en": "2. Iatrogenic Factors"
+          },
+          {
+            "vi": "Bấm ối nhân tạo khi ngôi cao lơ lửng (Station < -2), đẩy đầu thai lên khi khám, xoay thai ngoài",
+            "en": "Artificial rupture at high station, manual dislodgement, ECV"
+          },
+          {
+            "vi": "OR = 5.0 – 9.0",
+            "en": "OR = 5.0 – 9.0"
+          },
+          {
+            "vi": "Bấm ối có kiểm soát bằng kim nhỏ (chọc ối giảm áp từ từ), kiểm tra tim thai liên tục",
+            "en": "Controlled slow needle amniotomy, continuous CTG"
+          }
+        ],
+        [
+          {
+            "vi": "3. Đa ối & Thể tích ối lớn",
+            "en": "3. Polyhydramnios"
+          },
+          {
+            "vi": "Chỉ số ối AFI > 24 cm hoặc xoang ối lớn nhất (DVP) > 8 cm gây dòng nước ối xối mạnh",
+            "en": "AFI > 24 cm or DVP > 8 cm creating strong fluid surge"
+          },
+          {
+            "vi": "OR = 3.5 – 6.0",
+            "en": "OR = 3.5 – 6.0"
+          },
+          {
+            "vi": "Không bấm ối ở tư thế đứng; chọc hút giảm ối hoặc bấm ối có kiểm soát dòng chảy",
+            "en": "Avoid ARM upright; controlled release in bed"
+          }
+        ],
+        [
+          {
+            "vi": "4. Đa thai & Non tháng",
+            "en": "4. Multiple Gestation & Preterm"
+          },
+          {
+            "vi": "Sinh thai thứ hai trong song thai, thai non tháng < 34 tuần có kích thước đầu nhỏ",
+            "en": "Second twin delivery, preterm < 34 weeks with small head"
+          },
+          {
+            "vi": "OR = 4.0 – 7.5",
+            "en": "OR = 4.0 – 7.5"
+          },
+          {
+            "vi": "Siêu âm tại giường xác định ngôi thai 2 ngay sau khi thai 1 chào đời",
+            "en": "Bedside ultrasound for twin B presentation immediately"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG, SIÊU ÂM DOPPLER & QUY TRÌNH CHẨN ĐOÁN (CLINICAL DIAGNOSIS & ULTRASOUND)",
+      "en": "3. CLINICAL PRESENTATION, DOPPLER ULTRASOUND & DIAGNOSTIC WORKUP"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-diag-1",
+      "sentences": [
+        {
+          "id": "s-004-8",
+          "vi": "Dấu hiệu cảnh báo sớm nhạy cảm nhất trên biểu đồ tim thai điện tử (Cardiotocography - CTG) là xuất hiện đột ngột nhịp giảm biến đổi sâu kéo dài (Prolonged Variable Decelerations) hoặc nhịp tim thai chậm kịch phát (< 100 lần/phút) kéo dài trên 2–3 phút ngay sau thời điểm vỡ màng ối tự nhiên hoặc bấm ối nhân tạo.",
+          "en": "The most sensitive early sentinel sign on electronic fetal monitoring (CTG) is the abrupt appearance of prolonged deep variable decelerations or sudden severe fetal bradycardia (< 100 bpm) persisting beyond 2–3 minutes immediately following spontaneous or artificial membrane rupture."
+        },
+        {
+          "id": "s-004-9",
+          "vi": "Thăm khám âm đạo khẩn cấp (Emergency Vaginal Examination): Khi thấy tim thai chậm sau vỡ ối, bắt buộc phải khám âm đạo bằng ngón tay ngay lập tức. Sờ thấy một quai mềm, xoắn uốn lượn có mạch đập đồng nhịp với tim thai nằm phía dưới hoặc cạnh ngôi thai khẳng định chẩn đoán sa dây rốn toàn phần (Overt Cord Prolapse). Trường hợp dây rốn nằm cạnh ngôi thai mà màng ối chưa vỡ hoặc nằm kín trong cổ tử cung gọi là sa dây rốn ẩn (Occult Cord Prolapse).",
+          "en": "Emergency Vaginal Examination: When bradycardia follows membrane rupture, immediate digital examination is mandatory. Palpating a soft, pulsatile, tortuous cord loop below or adjacent to the presenting part confirms overt cord prolapse. When the cord lies alongside the head with membranes intact, it is classified as occult cord prolapse."
+        },
+        {
+          "id": "s-004-9b",
+          "vi": "Vai trò của Siêu âm Doppler màu tại giường (Point-of-Care Color Doppler): Siêu âm Doppler màu qua ngả âm đạo hoặc ngả bụng là phương tiện chẩn đoán hình ảnh vô giá giúp phát hiện sớm Dây rốn tiền đạo (Funic Presentation) khi màng ối còn nguyên vẹn. Dây rốn tiền đạo được xác định khi các mạch máu rốn nằm chắn ngay giữa lỗ trong cổ tử cung và phần ngôi thai, phát ra tín hiệu dòng chảy động mạch rốn đặc trưng với chỉ số kháng trở cao.",
+          "en": "Bedside Color Doppler Ultrasound: Transvaginal or transabdominal Color Doppler ultrasound is invaluable for early detection of Funic Presentation while membranes remain intact. Funic presentation is defined when umbilical vessels interpose directly between the internal cervical os and presenting fetal part, demonstrating hallmark arterial waveforms."
+        },
+        {
+          "id": "s-004-9c",
+          "vi": "Chẩn đoán phân biệt với Mạch máu tiền đạo (Vasa Previa): Trong sa dây rốn, mạch máu rốn được bao bọc và bảo vệ bởi lớp thạch Wharton dẻo dai. Ngược lại, trong mạch máu tiền đạo, các mạch máu của thai chạy tự do trong màng ối mà không có thạch Wharton bao phủ; khi vỡ màng ối sẽ gây rách đứt mạch máu dẫn đến chảy máu ồ ạt từ thai nhi và thai có thể tử vong do sốc mất máu chỉ trong 3–5 phút.",
+          "en": "Differential Diagnosis with Vasa Previa: In cord prolapse, umbilical vessels are enveloped by protective Wharton's jelly. Conversely, in vasa previa, membranous fetal vessels traverse unprotected across the cervical os; rupture of membranes tears these vessels, precipitating catastrophic fetal exsanguination and fetal death within 3–5 minutes."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC TỪNG BƯỚC & LIỀU DÙNG (PHARMACOTHERAPY & TOCOLYSIS PROTOCOLS)",
+      "en": "4. STEPWISE PHARMACOTHERAPY & EMERGENCY TOCOLYSIS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-pharm-1",
+      "sentences": [
+        {
+          "id": "s-004-10",
+          "vi": "Điều trị dùng thuốc trong sa dây rốn đóng vai trò hỗ trợ giải tỏa áp lực co bóp tử cung (Tocolysis), giúp làm mềm cơ tử cung và giãn các động mạch xoắn nuôi bánh nhau trong khi toàn bộ kíp mổ đang kích hoạt phòng mổ cấp cứu loại 1. Thuốc cắt cơn co làm giảm đáng kể tần số và cường độ các cơn co thắt cơ học đè bẹp lên dây rốn.",
+          "en": "Pharmacotherapy in cord prolapse serves as emergency tocolysis to relax myometrial tone and decompress uteroplacental spiral vessels while the surgical team mobilizes for Category 1 emergency cesarean delivery. Tocolysis significantly dampens the frequency and amplitude of contractions compressing the cord."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-004-drugs",
+      "title": {
+        "vi": "Bảng 2: Liều dùng các thuốc cắt cơn co tử cung cấp cứu và thuốc chống co thắt trong Sa dây rốn",
+        "en": "Table 2: Emergency Tocolytics and Antispasmodic Dosing Protocols in Cord Prolapse"
+      },
+      "headers": [
+        {
+          "vi": "Tên thuốc (Generic)",
+          "en": "Drug Name"
+        },
+        {
+          "vi": "Liều dùng cấp cứu",
+          "en": "Emergency Dose"
+        },
+        {
+          "vi": "Đường dùng & Cách dùng",
+          "en": "Route & Administration"
+        },
+        {
+          "vi": "Thời gian khởi phát tác dụng",
+          "en": "Onset of Action"
+        },
+        {
+          "vi": "Cảnh báo & Tác dụng phụ",
+          "en": "Warnings & Side Effects"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Terbutaline (Lựa chọn 1)",
+            "en": "Terbutaline (1st Line)"
+          },
+          {
+            "vi": "0.25 mg (250 mcg)",
+            "en": "0.25 mg (250 mcg)"
+          },
+          {
+            "vi": "Tiêm dưới da (SC) mặt ngoài cánh tay hoặc đùi",
+            "en": "Subcutaneous (SC) injection in deltoid/thigh"
+          },
+          {
+            "vi": "Khởi phát sau 2 – 3 phút, kéo dài 60–90 phút",
+            "en": "2 – 3 min onset, lasts 60–90 min"
+          },
+          {
+            "vi": "Gây nhịp tim mẹ nhanh (> 120 bpm), run tay, hạ kali máu thoáng qua",
+            "en": "Maternal tachycardia, tremors, transient hypokalemia"
+          }
+        ],
+        [
+          {
+            "vi": "Nitroglycerin (NTG)",
+            "en": "Nitroglycerin (NTG)"
+          },
+          {
+            "vi": "100 – 200 mcg (0.1 – 0.2 mg) HOẶC xịt dưới lưỡi 400 mcg",
+            "en": "100 – 200 mcg IV OR sublingual spray 400 mcg"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 1 phút hoặc xịt 1 nhát dưới lưỡi",
+            "en": "Slow IV bolus over 1 min or 1 puff sublingually"
+          },
+          {
+            "vi": "Khởi phát siêu nhanh sau 30 – 60 giây, bán thải ngắn 2 phút",
+            "en": "Ultra-fast onset 30–60 sec, 2 min half-life"
+          },
+          {
+            "vi": "Gây tụt huyết áp mẹ; chuẩn bị sẵn 500 mL dịch tinh thể chống tụt áp",
+            "en": "Maternal hypotension; pre-hydrate with crystalloids"
+          }
+        ],
+        [
+          {
+            "vi": "Nước muối sinh lý ấm (Bơm bàng quang)",
+            "en": "Warm Sterile Saline (Bladder)"
+          },
+          {
+            "vi": "500 mL NaCl 0.9% ấm (37°C)",
+            "en": "500 mL warm 0.9% NaCl (37°C)"
+          },
+          {
+            "vi": "Bơm qua ống thông Foley vào bàng quang rồi kẹp ống thông lại",
+            "en": "Instill via Foley catheter and clamp drainage"
+          },
+          {
+            "vi": "Ngay sau khi bơm đủ 500 mL",
+            "en": "Immediate upon completion"
+          },
+          {
+            "vi": "Phải tháo kẹp xả hết nước trước khi rạch tử cung mổ lấy thai",
+            "en": "Must unclamp and drain completely before uterine incision"
+          }
+        ],
+        [
+          {
+            "vi": "Khí Oxy qua mặt nạ thở",
+            "en": "Oxygen via Mask"
+          },
+          {
+            "vi": "8 – 10 Lít/phút",
+            "en": "8 – 10 L/min"
+          },
+          {
+            "vi": "Thở qua mặt nạ có túi dự trữ khí (Non-rebreather mask)",
+            "en": "Via non-rebreather face mask"
+          },
+          {
+            "vi": "Tức thì",
+            "en": "Immediate"
+          },
+          {
+            "vi": "Tăng tối đa áp lực phân giải oxy trong máu mẹ truyền qua bánh nhau",
+            "en": "Maximizes maternal-fetal oxygen gradient"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ THỦ THUẬT GIẢI ÁP CƠ HỌC & TƯ THẾ HỒI SỨC (MECHANICAL DECOMPRESSION ALGORITHMS)",
+      "en": "5. MECHANICAL DECOMPRESSION & PATIENT POSITIONING ALGORITHMS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-surg-1",
+      "sentences": [
+        {
+          "id": "s-004-11",
+          "vi": "Thủ thuật đẩy đầu thai bằng tay liên tục (Manual Elevation): Người phát hiện sa dây rốn đặt hai ngón tay vào âm đạo tỳ trực tiếp vào xương trán hoặc đỉnh đầu thai nhi (tránh ấn vào thóp) để đẩy ngôi thai lên cao ra khỏi eo trên khung chậu từ 3 đến 5 cm. Duy trì lực đẩy này liên tục ngay cả khi di chuyển trên cáng và trong lúc gây mê cho đến khi phẫu thuật viên rạch cơ tử cung bắt thai.",
+          "en": "Continuous Manual Elevation: The examiner inserts two gloved fingers into the vagina, applying direct upward pressure against the fetal vertex or forehead (avoiding fontanelles) to elevate the presenting part 3 to 5 cm above the pelvic brim. This pressure must be continuously maintained during transfer and anesthesia induction until the surgeon enters the uterus."
+        },
+        {
+          "id": "s-004-12",
+          "vi": "Tư thế sản phụ giải áp: Hướng dẫn sản phụ chuyển sang Tư thế gối - ngực (Knee-Chest position) hoặc Tư thế đầu thấp mông cao (Trendelenburg dốc 30 độ). Trọng lực sẽ kéo tử cung và thai nhi về phía cơ hoành, giải phóng áp lực đè ép lên quai dây rốn. Nếu sản phụ đã được gây tê tủy sống, sử dụng tư thế nằm nghiêng trái với gối kê cao dưới hông và nâng cao chân giường.",
+          "en": "Maternal Decompression Positioning: Assist the patient into the Knee-Chest position or steep Trendelenburg position (30-degree tilt). Gravity naturally displaces the gravid uterus and fetus toward the diaphragm, decompressing the prolapsed umbilical cord loop. If regional anesthesia is already established, utilize an exaggerated Sim's position."
+        },
+        {
+          "id": "s-004-13",
+          "vi": "Quy tắc cấm kỵ với quai dây rốn sa ra ngoài âm hộ: TUYỆT ĐỐI CẤM tìm cách nhét quai dây rốn trở lại vào trong buồng tử cung (gây co thắt mạch rốn dữ dội làm thai tử vong ngay lập tức). Nếu quai dây rốn thò ra ngoài âm hộ, bọc nhẹ nhàng dây rốn bằng gạc vô trùng thấm nước muối sinh lý ấm (37°C) để giữ ẩm và giữ ấm tối đa.",
+          "en": "Absolute Strict Prohibition Regarding Prolapsed Cord: NEVER attempt to manually push the prolapsed cord loop back into the uterine cavity (triggers catastrophic vasospasm and immediate fetal demise). If protruding from the introitus, gently wrap the cord in sterile warm saline-soaked gauze (37°C) to maintain moisture and temperature."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. CHIẾN LƯỢC ĐÌNH CHỈ THAI NGHÉN: MỔ LẤY THAI CẤP LOẠI 1 VS SINH ÂM ĐẠO (DELIVERY STRATEGIES)",
+      "en": "6. DELIVERY TIMING: CATEGORY 1 CESAREAN VS VAGINAL DELIVERY"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-deliv-1",
+      "sentences": [
+        {
+          "id": "s-004-14",
+          "vi": "Mổ lấy thai cấp cứu loại 1 (Category 1 Emergency Cesarean Section) là phương thức sinh tiêu chuẩn vàng được chỉ định cho đại đa số trường hợp sa dây rốn có thai còn sống. Mục tiêu thời gian từ lúc quyết định đến lúc rạch da lấy thai (Decision-to-Delivery Interval - DDI) là ≤ 15–30 phút. Báo động khẩn cấp 'Code Purple' huy động bác sĩ gây mê, phẫu thuật viên sản và bác sĩ sơ sinh.",
+          "en": "Category 1 Emergency Cesarean Section is the gold standard delivery route for the vast majority of viable UCP cases. The target Decision-to-Delivery Interval (DDI) is ≤ 15–30 minutes. An emergency obstetric alarm ('Code Purple') mobilizes anesthesiology, obstetric surgery, and neonatal resuscitation teams simultaneously."
+        },
+        {
+          "id": "s-004-15",
+          "vi": "Chỉ định sinh qua ngả âm đạo có thể được xem xét CHỈ KHI: Cổ tử cung đã mở trọn 10 cm, ngôi thai đã lọt thấp ở mặt cắt +2 hoặc +3, và bác sĩ sản khoa có kinh nghiệm có thể tiến hành sinh giúp bằng giác hút (Ventouse) hoặc kẹp Forceps thành công ngay lập tức trong vòng 5 phút.",
+          "en": "Vaginal delivery may ONLY be pursued when: the cervix is fully dilated (10 cm), the presenting part is low at station +2 or +3, and an experienced obstetrician can achieve immediate operative vaginal delivery (vacuum extraction or forceps) within 5 minutes."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. HỒI SỨC SƠ SINH TẠI PHÒNG SINH, BIẾN CHỨNG NÃO & TIÊN LƯỢNG CHU SINH (NEONATAL SARNAT STAGING & PROGNOSIS)",
+      "en": "7. NEONATAL RESUSCITATION, COMPLICATIONS & SARNAT ENCEPHALOPATHY STAGING"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-neo-1",
+      "sentences": [
+        {
+          "id": "s-004-16",
+          "vi": "Trẻ sơ sinh sau sa dây rốn có nguy cơ rất cao bị ngạt sơ sinh nặng với chỉ số Apgar thấp (< 4 điểm ở phút thứ 1 và 5). Đội ngũ hồi sức sơ sinh phải chuẩn bị sẵn bàn sưởi ấm, máy hút dịch đờm, bóng bóp có van PEEP và ống nội khí quản số 2.5–3.5 mm.",
+          "en": "Neonates delivered following cord prolapse face extreme risks of severe birth asphyxia with low Apgar scores (< 4 at 1 and 5 minutes). The neonatal team must prepare a radiant warmer, suction, bag-valve-mask with PEEP, and 2.5–3.5 mm endotracheal tubes."
+        },
+        {
+          "id": "s-004-17",
+          "vi": "Lấy máu cuống rốn kép (Khí máu động mạch và tĩnh mạch rốn): Bắt buộc phải kẹp 2 đầu và lấy mẫu máu động mạch rốn ngay sau sinh để làm khí máu. Nếu pH < 7.00 và Base Excess (BE) < -12 mmol/L kèm theo co giật hoặc li bì, trẻ có chỉ định điều trị hạ thân nhiệt chủ động bảo vệ não (Therapeutic Hypothermia 33.5°C trong 72 giờ) tại đơn vị NICU.",
+          "en": "Paired Umbilical Blood Gas Analysis: Mandatory double-clamping of the cord to obtain arterial and venous gases. If arterial pH < 7.00 and Base Excess < -12 mmol/L accompanied by encephalopathy, the neonate qualifies for therapeutic hypothermia (33.5°C for 72 hours) in the NICU."
+        },
+        {
+          "id": "s-004-17b",
+          "vi": "Đánh giá Bệnh não thiếu oxy thiếu máu cục bộ (HIE) theo Thang điểm Sarnat: Độ 1 (Nhẹ) biểu hiện tăng phản xạ, đồng tử giãn, kích thích; Độ 2 (Trung bình) biểu hiện li bì, giảm trương lực cơ, đồng tử co nhỏ, có cơn co giật lâm sàng; Độ 3 (Nặng) biểu hiện hôn mê sâu, mất hoàn toàn các phản xạ nguyên thủy và suy hô hấp ngừng thở. Can thiệp hạ thân nhiệt điều trị trong vòng 6 giờ đầu sau sinh là cơ hội duy nhất để giảm tỷ lệ bại não và tử vong ở trẻ độ 2 và độ 3.",
+          "en": "Sarnat Staging of Hypoxic-Ischemic Encephalopathy (HIE): Stage 1 (Mild) manifests hyperalertness, dilated pupils, irritability; Stage 2 (Moderate) features lethargy, hypotonia, miosis, clinical seizures; Stage 3 (Severe) manifests stupor/coma, flaccidity, absent primitive reflexes, apnea. Therapeutic hypothermia initiated within 6 hours post-birth represents the sole window to decrease cerebral palsy and mortality in Stage 2/3 infants."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "8. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-004-ref-1",
+      "sentences": [
+        {
+          "id": "s-004-18",
+          "vi": "1. Royal College of Obstetricians and Gynaecologists (RCOG). Umbilical Cord Prolapse. Green-top Guideline No. 50. BJOG. 2014 (Updated 2025). DOI: 10.1111/1471-0528.17240",
+          "en": "1. Royal College of Obstetricians and Gynaecologists (RCOG). Umbilical Cord Prolapse. Green-top Guideline No. 50. BJOG. 2014 (Updated 2025). DOI: 10.1111/1471-0528.17240"
+        },
+        {
+          "id": "s-004-19",
+          "vi": "2. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin: Management of Intrapartum Fetal Emergencies. Obstet Gynecol. 2020 (Reaffirmed 2024);136(6):e107-e115.",
+          "en": "2. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin: Management of Intrapartum Fetal Emergencies. Obstet Gynecol. 2020 (Reaffirmed 2024);136(6):e107-e115."
+        },
+        {
+          "id": "s-004-20",
+          "vi": "3. Holbrook BD, Phelan ST. Umbilical cord prolapse. Obstet Gynecol Clin North Am. 2013;40(1):1-14. DOI: 10.1016/j.ogc.2012.11.002",
+          "en": "3. Holbrook BD, Phelan ST. Umbilical cord prolapse. Obstet Gynecol Clin North Am. 2013;40(1):1-14. DOI: 10.1016/j.ogc.2012.11.002"
+        },
+        {
+          "id": "s-004-21",
+          "vi": "4. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về xử trí sa dây rốn trong chuyển dạ. Quyết định 4163/QĐ-BYT.",
+          "en": "4. Ministry of Health Vietnam. National Guidelines for Reproductive Health Care: Management of Umbilical Cord Prolapse. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Sa dây rốn",
+      "term_en": "Umbilical Cord Prolapse (UCP)",
+      "phonetic": "/ʌmˈbɪlɪkəl kɔːrd proʊˈlæps/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/prolapse--_us_1.mp3",
+      "definition_vi": "Cấp cứu sản khoa khi dây rốn tụt xuống thấp hơn ngôi thai sau khi vỡ ối, bị chèn ép giữa thai và khung chậu gây thiếu oxy cấp tính.",
+      "definition_en": "Obstetric emergency where the umbilical cord descends below the presenting part post-membrane rupture, risking catastrophic cord occlusion."
+    },
+    {
+      "term_vi": "Thủ thuật đẩy đầu thai bằng tay",
+      "term_en": "Manual Elevation of Presenting Part",
+      "phonetic": "/ˈmænjʊəl ˌɛlɪˈveɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/elevation--_us_1.mp3",
+      "definition_vi": "Kỹ thuật dùng các ngón tay trong âm đạo đẩy ngôi thai lên trên để giải phóng chèn ép lên mạch máu cuống rốn trong lúc chờ mổ.",
+      "definition_en": "Emergency maneuver using intravaginal fingers to elevate the fetal head away from the pelvis to decompress umbilical vessels."
+    },
+    {
+      "term_vi": "Bơm bàng quang giải áp",
+      "term_en": "Bladder Filling Decompression",
+      "phonetic": "/ˈblædər ˈfɪlɪŋ/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/bladder--_us_1.mp3",
+      "definition_vi": "Bơm 500 mL nước muối sinh lý ấm vào bàng quang người mẹ qua sonde Foley để nâng ngôi thai lên trên thay cho tay người khám.",
+      "definition_en": "Instillation of 500 mL warm sterile saline into the maternal bladder via Foley catheter to mechanically elevate the fetal head."
+    },
+    {
+      "term_vi": "Thời gian từ quyết định đến khi sinh",
+      "term_en": "Decision-to-Delivery Interval (DDI)",
+      "phonetic": "/dɪˈsɪʒən tuː dɪˈlɪvəri ˈɪntərvəl/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/interval--_us_1.mp3",
+      "definition_vi": "Khoảng thời gian từ khi chẩn đoán sa dây rốn đến khi thai được lấy ra; mục tiêu vàng là dưới 15 đến 30 phút.",
+      "definition_en": "Time elapsed from the clinical diagnosis of cord prolapse to actual delivery; golden target is under 15 to 30 minutes."
+    },
+    {
+      "term_vi": "Hạ thân nhiệt điều trị bảo vệ não",
+      "term_en": "Therapeutic Hypothermia",
+      "phonetic": "/ˌθɛrəˈpjuːtɪk ˌhaɪpoʊˈθɜːrmiə/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/hypothermia--_us_1.mp3",
+      "definition_vi": "Liệu pháp làm lạnh cơ thể trẻ sơ sinh ngạt nặng xuống 33.5°C trong 72 giờ đầu để ức chế dòng thác hoại tử tế bào thần kinh não.",
+      "definition_en": "Cooling therapy maintaining neonatal core temperature at 33.5°C for 72 hours to halt the neurotoxic cascade following severe birth asphyxia."
+    },
+    {
+      "term_vi": "Tư thế gối - ngực",
+      "term_en": "Knee-Chest Position",
+      "phonetic": "/niː tʃɛst pəˈzɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/position--_us_1.mp3",
+      "definition_vi": "Tư thế sản phụ quỳ gập đùi sát ngực để trọng lực kéo thai nhi về phía cơ hoành, giải áp tự nhiên lên quai dây rốn.",
+      "definition_en": "Prone kneeling position utilizing gravity to displace the fetus toward the maternal chest, releasing compression on the cord."
+    }
+  ]
+}

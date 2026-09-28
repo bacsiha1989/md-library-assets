@@ -1,0 +1,523 @@
+{
+  "id": "severe-hellp-syndrome-hepatic-hematoma-2026",
+  "slug": "severe-hellp-syndrome-hepatic-hematoma-2026",
+  "title": {
+    "vi": "Hội Chứng HELLP Thể Nặng & Xử Trí Khẩn Tụ Máu Dưới Bao Gan Vỡ — Đồng Thuận Lâm Sàng ACOG / SMFM 2026",
+    "en": "Severe HELLP Syndrome and Emergency Management of Hepatic Subcapsular Hematoma Rupture — ACOG & SMFM Clinical Consensus 2026"
+  },
+  "title_vi": "Hội Chứng HELLP Thể Nặng & Xử Trí Khẩn Tụ Máu Dưới Bao Gan Vỡ — Đồng Thuận Lâm Sàng ACOG / SMFM 2026",
+  "title_en": "Severe HELLP Syndrome and Emergency Management of Hepatic Subcapsular Hematoma Rupture — ACOG & SMFM Clinical Consensus 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Gan Mật",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 222: Gestational Hypertension and Preeclampsia",
+    "SMFM Consult Series: Diagnosis and Management of HELLP Syndrome",
+    "EASL Clinical Practice Guidelines: Liver Diseases in Pregnancy",
+    "Bộ Y Tế Việt Nam: Hướng dẫn chẩn đoán và điều trị hội chứng HELLP và vỡ bao Glisson gan"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-010",
+    "doi": "https://doi.org/10.1097/AOG.0000000000003891",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về ACOG và SMFM. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-sum-1",
+      "sentences": [
+        {
+          "id": "s-010-1",
+          "vi": "Hội chứng HELLP (Hemolysis, Elevated Liver enzymes, Low Platelet count) là một biến thể tối cấp tính đặc biệt nghiêm trọng của tiền sản giật nặng, đặc trưng bởi tam chứng kinh điển: Tan máu vi mạch (Hemolysis), Tăng men gan (Elevated Liver enzymes) và Hạ tiểu cầu máu (Low Platelets), xảy ra ở khoảng 0.5–0.9% tổng số thai phụ và 10–20% sản phụ có tiền sản giật nặng.",
+          "en": "HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelet count) represents a fulminant systemic variant of severe preeclampsia characterized by the classic diagnostic triad of microangiopathic hemolytic anemia, hepatic transaminase elevation, and severe thrombocytopenia, complicating 0.5–0.9% of all pregnancies and 10–20% of severe preeclampsia gestations."
+        },
+        {
+          "id": "s-010-2",
+          "vi": "Đau vùng thượng vị hoặc hạ sườn phải dữ dội là dấu hiệu cảnh báo đỏ (Red Flag) tối khẩn cấp: Triệu chứng này phản ánh tình trạng tắc nghẽn vi mạch xoang gan, thiếu máu hoại tử nhu mô gan và căng giãn bao Glisson cấp tính, cảnh báo nguy cơ tụ máu dưới bao gan (Hepatic Subcapsular Hematoma) sắp vỡ đe dọa tử vong.",
+          "en": "Severe right upper quadrant or epigastric pain serves as a critical red flag: This symptom directly reflects hepatic sinusoidal microthrombosis, parenchymal necrosis, and acute distension of Glisson's capsule, heralding impending rupture of a hepatic subcapsular hematoma with catastrophic mortality."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-sum-2",
+      "sentences": [
+        {
+          "id": "s-010-3",
+          "vi": "Nguyên tắc xử trí dứt điểm: Chấm dứt thai kỳ là biện pháp điều trị căn nguyên duy nhất hiệu quả để đảo ngược tiến trình bệnh lý, bất kể tuổi thai nếu thai >= 34 tuần hoặc khi có suy cơ quan đích mẹ, đông máu nội mạch rải rác (DIC), phù phổi cấp, suy thận cấp, thai suy hoặc nghi ngờ vỡ bao gan.",
+          "en": "Definitive management imperative: Expeditious delivery represents the only definitive therapeutic intervention to reverse the microvascular cascade, indicated unconditionally at >= 34 weeks of gestation or immediately at any viable gestational age in the presence of maternal multiorgan failure, DIC, pulmonary edema, renal impairment, fetal compromise, or impending hepatic rupture."
+        },
+        {
+          "id": "s-010-4",
+          "vi": "Dự phòng co giật sản giật bằng Magnesi sulfat: Phải truyền ngay Magnesi sulfat (liều tải 4–6 g tiêm tĩnh mạch trong 20 phút, sau đó duy trì 1–2 g/giờ truyền tĩnh mạch liên tục) và kéo dài ít nhất 24–48 giờ sau sinh hoặc cho đến khi tiểu cầu có xu hướng hồi phục ổn định.",
+          "en": "Eclamptic seizure prophylaxis with Magnesium Sulfate: Administer an immediate IV loading dose of Magnesium Sulfate 4–6 g over 20 minutes, followed by continuous infusion at 1–2 g/hr for at least 24–48 hours postpartum or until clear clinical and platelet recovery is demonstrated."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. PHÂN LOẠI MISSISSIPPI / TENNESSEE & TIÊU CHUẨN CHẨN ĐOÁN LÂM SÀNG (CLASSIFICATION & DIAGNOSTIC CRITERIA)",
+      "en": "2. MISSISSIPPI & TENNESSEE CLASSIFICATIONS & DIAGNOSTIC CRITERIA"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-etio-1",
+      "sentences": [
+        {
+          "id": "s-010-5",
+          "vi": "Cơ chế sinh bệnh học vi mạch (Microvascular Pathophysiology): Khiếm khuyết xâm nhập nguyên bào nuôi gây giải phóng ồ ạt các yếu tố kháng tạo mạch (sFlt-1 và Soluble Endoglin) vào tuần hoàn mẹ, gây tổn thương tế bào nội mô mạch máu toàn thân.",
+          "en": "Microvascular pathophysiology: Defective trophoblastic invasion triggers massive maternal systemic release of antiangiogenic soluble fms-like tyrosine kinase-1 (sFlt-1) and soluble endoglin, driving generalized vascular endothelial injury."
+        },
+        {
+          "id": "s-010-6",
+          "vi": "Lắng đọng vi huyết khối fibrin trong các mao mạch và xoang gan gây thiếu máu cục bộ tế bào gan, hoại tử nhu mô quanh khoảng cửa và tích tụ dịch xuất huyết dưới bao Glisson. Đồng thời, hồng cầu bị biến dạng và vỡ vụn khi di chuyển qua các lưới fibrin bị tắc nghẽn tạo nên mảnh vỡ hồng cầu (schistocytes) trên tiêu bản máu ngoại vi.",
+          "en": "Intrasinusoidal fibrin microthrombi provoke localized hepatic hypoperfusion, periportal ischemic necrosis, and subcapsular hemorrhage. Simultaneously, erythrocytes fragment mechanically across endovascular fibrin strands, yielding characteristic schistocytes on peripheral blood smears."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-diag-1",
+      "sentences": [
+        {
+          "id": "s-010-7",
+          "vi": "Tiêu chuẩn chẩn đoán xác định theo Hệ thống Tennessee (Tennessee Complete Criteria):",
+          "en": "Definitive diagnosis per the Tennessee Complete Diagnostic Criteria:"
+        },
+        {
+          "id": "s-010-8",
+          "vi": "1. Tan máu vi mạch: Bilirubin toàn phần >= 1.2 mg/dL (>= 20.5 umol/L), Lactate Dehydrogenase (LDH) > 600 UI/L, giảm Haptoglobin huyết thanh và xuất hiện mảnh vỡ hồng cầu trên lam máu.",
+          "en": "1. Microangiopathic hemolysis: Total serum bilirubin >= 1.2 mg/dL (>= 20.5 umol/L), serum Lactate Dehydrogenase (LDH) > 600 IU/L, profoundly decreased haptoglobin, and presence of schistocytes on peripheral blood smear."
+        },
+        {
+          "id": "s-010-9",
+          "vi": "2. Tăng men gan: AST (SGOT) hoặc ALT (SGPT) tăng cao gấp đôi giới hạn trên bình thường của phòng xét nghiệm (thường >= 70 UI/L).",
+          "en": "2. Hepatic dysfunction: Serum AST (SGOT) or ALT (SGPT) elevated to >= twice the upper limit of institutional normal (typically >= 70 IU/L)."
+        },
+        {
+          "id": "s-010-10",
+          "vi": "3. Giảm tiểu cầu máu: Số lượng tiểu cầu < 100,000/uL (< 100 x 10^9/L).",
+          "en": "3. Thrombocytopenia: Platelet count < 100,000/uL (< 100 x 10^9/L)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-diff-1",
+      "sentences": [
+        {
+          "id": "s-010-10b",
+          "vi": "Chẩn đoán phân biệt lâm sàng quan trọng (Differential Diagnosis): Cần phân biệt rõ hội chứng HELLP với các bệnh lý vi mạch huyết khối và gan mật cấp tính khác trong thai kỳ, bao gồm Gan nhiễm mỡ cấp thai kỳ (AFLP - Acute Fatty Liver of Pregnancy), Ban xuất huyết giảm tiểu cầu huyết khối (TTP - Thrombotic Thrombocytopenic Purpura), Hội chứng tăng urê máu tán huyết (HUS), và Đợt bùng phát Lupus ban đỏ hệ thống (SLE Flare).",
+          "en": "Critical differential diagnosis: HELLP syndrome must be rigorously distinguished from other microangiopathic and acute hepatic disorders in pregnancy, notably Acute Fatty Liver of Pregnancy (AFLP), Thrombotic Thrombocytopenic Purpura (TTP), Hemolytic Uremic Syndrome (HUS), and Systemic Lupus Erythematosus (SLE) flare."
+        },
+        {
+          "id": "s-010-10c",
+          "vi": "Trong Gan nhiễm mỡ cấp thai kỳ (AFLP), sản phụ thường có hạ đường huyết nặng, tăng amoniac máu (NH3) và suy giảm chức năng đông máu xuất hiện rất sớm trước khi men gan tăng vọt, trong khi tan máu vi mạch và hạ tiểu cầu là dấu ấn ưu thế của HELLP. Thử nghiệm đo độ đàn hồi cục máu đông (TEG / ROTEM) tại giường được khuyến cáo để đánh giá toàn diện động học đông máu và hướng dẫn truyền chế phẩm máu mục tiêu.",
+          "en": "In AFLP, profound hypoglycemia, hyperammonemia, and coagulopathy emerge early before extreme transaminase surges, whereas microangiopathic hemolysis and thrombocytopenia dominate HELLP. Bedside viscoelastic testing (TEG / ROTEM) is strongly recommended to characterize coagulation kinetics and guide targeted component therapy."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-010-mississippi",
+      "caption_vi": "Bảng 1: Phân Loại Mức Độ Nặng Hội Chứng HELLP Theo Hệ Thống Mississippi 3 Tầng",
+      "caption_en": "Table 1: Mississippi Triple-Class System for HELLP Syndrome Severity Stratification",
+      "headers": [
+        {
+          "vi": "Phân Tầng Mississippi",
+          "en": "Mississippi Class"
+        },
+        {
+          "vi": "Tiểu Cầu (Platelets)",
+          "en": "Platelet Count (uL)"
+        },
+        {
+          "vi": "Men Gan AST / ALT",
+          "en": "Serum AST / ALT (UI/L)"
+        },
+        {
+          "vi": "Lactate Dehydrogenase (LDH)",
+          "en": "Serum LDH (UI/L)"
+        },
+        {
+          "vi": "Tiên Lượng & Nguy Cơ Biến Chứng",
+          "en": "Prognosis & Complication Risk"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Class 1 (Rất nặng)",
+            "en": "Class 1 (Severe)"
+          },
+          {
+            "vi": "< 50,000 / uL",
+            "en": "< 50,000 / uL"
+          },
+          {
+            "vi": ">= 70 UI/L",
+            "en": ">= 70 IU/L"
+          },
+          {
+            "vi": "> 600 UI/L",
+            "en": "> 600 IU/L"
+          },
+          {
+            "vi": "Nguy cơ xuất huyết nội tạng, tụ máu gan và tử vong mẹ cao nhất",
+            "en": "Highest risk for visceral hemorrhage, hepatic rupture, and maternal death"
+          }
+        ],
+        [
+          {
+            "vi": "Class 2 (Nặng vừa)",
+            "en": "Class 2 (Moderate)"
+          },
+          {
+            "vi": "50,000 – 100,000 / uL",
+            "en": "50,000 – 100,000 / uL"
+          },
+          {
+            "vi": ">= 70 UI/L",
+            "en": ">= 70 IU/L"
+          },
+          {
+            "vi": "> 600 UI/L",
+            "en": "> 600 IU/L"
+          },
+          {
+            "vi": "Dễ tiến triển nhanh sang Class 1 trong vòng 24–48 giờ",
+            "en": "High propensity for rapid escalation to Class 1 within 24–48 hours"
+          }
+        ],
+        [
+          {
+            "vi": "Class 3 (Nhẹ / Chớm)",
+            "en": "Class 3 (Mild)"
+          },
+          {
+            "vi": "100,000 – 150,000 / uL",
+            "en": "100,000 – 150,000 / uL"
+          },
+          {
+            "vi": ">= 40 UI/L",
+            "en": ">= 40 IU/L"
+          },
+          {
+            "vi": "> 600 UI/L",
+            "en": "> 600 IU/L"
+          },
+          {
+            "vi": "Cần theo dõi sát tiểu cầu mỗi 6–12 giờ; chuẩn bị sẵn sàng chấm dứt thai",
+            "en": "Serial labs q6-12h; anticipate progression and plan controlled delivery"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. PHÁC ĐỒ XỬ TRÍ KHẨN CẤP, KIỂM SOÁT TIỂU CẦU & CAN THIỆP NGOẠI KHOA GAN (MANAGEMENT & SURGICAL PACKING)",
+      "en": "3. EMERGENCY RESUSCITATION, TRANSFUSION PROTOCOLS & HEPATIC INTERVENTIONS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-proc-1",
+      "sentences": [
+        {
+          "id": "s-010-11",
+          "vi": "Hạ huyết áp cấp cứu và bảo vệ tuần hoàn não: Nếu huyết áp tâm thu >= 160 mmHg hoặc huyết áp tâm trương >= 110 mmHg, phải dùng ngay thuốc hạ áp tác dụng nhanh trong vòng 30–60 phút: Labetalol 20 mg tiêm tĩnh mạch chậm trong 2 phút (tăng gấp đôi liều 40 mg, 80 mg mỗi 10–20 phút, tối đa 300 mg); hoặc Hydralazine 5–10 mg tiêm tĩnh mạch; hoặc Nicardipine truyền tĩnh mạch 5–15 mg/giờ để duy trì huyết áp mục tiêu 130–150/80–100 mmHg.",
+          "en": "Urgent antihypertensive therapy for cerebral protection: For systolic BP >= 160 mmHg or diastolic BP >= 110 mmHg, immediately administer rapid-acting antihypertensives within 30–60 minutes: IV Labetalol 20 mg slow push (doubling to 40 mg, 80 mg q10-20 min, cumulative max 300 mg); IV Hydralazine 5–10 mg; or IV Nicardipine 5–15 mg/hr, targeting a blood pressure of 130–150/80–100 mmHg."
+        },
+        {
+          "id": "s-010-12",
+          "vi": "Liệu pháp Corticoid liều cao (Dexamethasone Protocol): Chỉ định Dexamethasone 10 mg tiêm tĩnh mạch mỗi 12 giờ trong 2 liều, sau đó giảm xuống 5 mg mỗi 12 giờ trong 2 liều tiếp theo. Nghiên cứu cho thấy Dexamethasone liều cao giúp tăng số lượng tiểu cầu nhanh hơn, giảm nồng độ men gan và rút ngắn thời gian nằm viện hồi sức tích cực (ICU).",
+          "en": "High-dose corticosteroid therapy (Mississippi Dexamethasone Protocol): Administer IV Dexamethasone 10 mg q12h for two doses, followed by 5 mg q12h for two doses. Evidence confirms high-dose dexamethasone accelerates platelet recovery, reduces transaminases, and diminishes ICU length of stay."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-transfuse-1",
+      "sentences": [
+        {
+          "id": "s-010-13",
+          "vi": "Chiến lược truyền máu và chế phẩm máu an toàn (Transfusion Triggers):",
+          "en": "Evidence-based blood component transfusion thresholds:"
+        },
+        {
+          "id": "s-010-14",
+          "vi": "1. Truyền khối tiểu cầu (Platelet Transfusion): Chỉ định khi tiểu cầu < 20,000/uL bất kể phương thức sinh để phòng ngừa xuất huyết tự phát; truyền khi tiểu cầu < 50,000/uL nếu có chỉ định mổ lấy thai hoặc đang có chảy máu hoạt tính; duy trì tiểu cầu >= 70,000–80,000/uL nếu dự kiến gây tê tủy sống hoặc ngoài màng cứng (chống chỉ định gây tê vùng tuyệt đối nếu tiểu cầu < 50,000/uL hoặc đang giảm nhanh).",
+          "en": "1. Platelet transfusion: Mandatory for counts < 20,000/uL regardless of delivery mode to prevent spontaneous hemorrhage; maintain >= 50,000/uL prior to cesarean delivery or in the presence of active bleeding; and aim for >= 70,000–80,000/uL for neuraxial anesthesia (neuraxial block is strictly contraindicated if platelets < 50,000/uL or plummeting rapidly)."
+        },
+        {
+          "id": "s-010-15",
+          "vi": "2. Truyền huyết tương tươi đông lạnh (FFP) và Tủa lạnh (Cryoprecipitate): Truyền FFP 15 mL/kg khi tỷ lệ INR > 1.5 hoặc PT/aPTT kéo dài; truyền tủa lạnh (Cryoprecipitate) 1–2 túi/10 kg cân nặng nếu nồng độ Fibrinogen huyết tương < 150–200 mg/dL.",
+          "en": "2. Fresh Frozen Plasma (FFP) and Cryoprecipitate: Transfuse FFP at 15 mL/kg if INR > 1.5 or PT/aPTT prolonged; infuse cryoprecipitate (1–2 units per 10 kg) if plasma fibrinogen drops below 150–200 mg/dL."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-liver-1",
+      "sentences": [
+        {
+          "id": "s-010-16",
+          "vi": "Xử trí cấp cứu Tụ máu dưới bao Glisson và Vỡ gan (Subcapsular Hepatic Hematoma & Rupture): Đây là tai biến ngoại khoa sản khoa kinh hoàng với tỷ lệ tử vong mẹ lên tới 50%. Biểu hiện bằng đau hạ sườn phải dội ngược, đau lan lên vai phải, tụt huyết áp đột ngột và chướng bụng xuất huyết nội.",
+          "en": "Emergency management of subcapsular hepatic hematoma and rupture: A catastrophic surgical catastrophe carrying maternal mortality up to 50%, manifested by severe right upper quadrant rebound tenderness, pain radiating to the right shoulder, sudden hemodynamic collapse, and hemoperitoneum."
+        },
+        {
+          "id": "s-010-17",
+          "vi": "Chẩn đoán hình ảnh khẩn cấp: Siêu âm FAST tại giường phát hiện dịch tự do ổ bụng và khối tụ máu nhu mô gan. Chụp cắt lớp vi tính bụng có cản quang (Contrast-Enhanced CT) là tiêu chuẩn vàng xác định vị trí, kích thước khối tụ máu và phát hiện dấu hiệu thoát mạch thuốc cản quang (Active Extravasation).",
+          "en": "Urgent imaging diagnostic protocol: Bedside FAST ultrasound promptly confirms hemoperitoneum and intrahepatic hematoma. Contrast-enhanced abdominal CT represents the gold standard for defining hematoma volume, anatomical liver segment involvement, and active arterial contrast extravasation (blush)."
+        },
+        {
+          "id": "s-010-18",
+          "vi": "Chiến lược điều trị theo bậc can thiệp (Algorithmic Intervention):",
+          "en": "Tiered therapeutic strategy for hepatic hematoma:"
+        },
+        {
+          "id": "s-010-19",
+          "vi": "Bậc 1 — Bệnh nhân huyết động ổn định và bao gan chưa vỡ: Điều trị bảo tồn không phẫu thuật tại ICU, truyền chế phẩm máu bù đông máu, theo dõi sát sinh hiệu và chụp CT kiểm tra nối tiếp. Hạn chế tối đa mọi động tác khám nắn thô bạo vào vùng gan để tránh làm vỡ bao Glisson.",
+          "en": "Tier 1 — Hemodynamically stable with unruptured capsule: Conservative non-operative ICU management, aggressive coagulopathy reversal, serial CT surveillance, and strict avoidance of abdominal palpation or excessive manual movement to prevent traumatic capsular disruption."
+        },
+        {
+          "id": "s-010-20",
+          "vi": "Bậc 2 — Thoát mạch hoạt tính qua chẩn đoán hình ảnh: Can thiệp thuyên tắc động mạch gan qua da (Transcatheter Arterial Embolization - TAE) là biện pháp xâm lấn tối thiểu cứu cánh cực kỳ hiệu quả để cầm máu mà không cần mổ hở.",
+          "en": "Tier 2 — Active contrast extravasation on angiography: Transcatheter Arterial Embolization (TAE) performed by interventional radiology represents the premier minimally invasive modality to achieve selective arterial hemostasis without open laparotomy."
+        },
+        {
+          "id": "s-010-21",
+          "vi": "Bậc 3 — Vỡ bao gan, xuất huyết ổ bụng ồ ạt hoặc huyết động sụp đổ: Mổ mở bụng cấp cứu khẩn cấp phối hợp liên chuyên khoa Sản - Ngoại Gan Mật - Gây Mê Hồi Sức. Thủ thuật kiểm soát tổn thương (Damage Control Surgery): Tiến hành chèn ép chặt gạc quanh gan (Perihepatic Packing) để ép cơ học diện vỡ cầm máu, dẫn lưu ổ bụng, khâu tạm thành bụng và hồi sức ICU; sau 48–72 giờ khi đông máu ổn định sẽ mở lại rút gạc. Ghép gan cấp cứu (Emergency Liver Transplantation) là giải pháp cuối cùng khi gan hoại tử diện rộng không thể hồi phục.",
+          "en": "Tier 3 — Capsular rupture, massive hemoperitoneum, or shock decompensation: Immediate crash laparotomy with a multidisciplinary team (Obstetrics, Hepatobiliary Surgery, and Critical Care). Execute Damage Control Surgery: Perform tight perihepatic packing around the bleeding hepatic lobes, temporary abdominal closure, and intensive resuscitation; re-explore after 48–72 hours for pack removal once coagulopathy resolves. Emergency liver transplantation is the ultimate salvage therapy for irreversible massive hepatic parenchymal necrosis."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-010-liver-mgmt",
+      "caption_vi": "Bảng 2: Chiến Lược Phân Tầng Xử Trí Tụ Máu Dưới Bao Gan Trong Hội Chứng HELLP",
+      "caption_en": "Table 2: Tiered Management Strategy for Hepatic Subcapsular Hematoma in HELLP Syndrome",
+      "headers": [
+        {
+          "vi": "Tình Trạng Lâm Sàng & Bao Gan",
+          "en": "Clinical Status & Capsule Integrity"
+        },
+        {
+          "vi": "Chiến Lược Điều Trị Lựa Chọn",
+          "en": "Primary Treatment Modality"
+        },
+        {
+          "vi": "Kỹ Thuật Can Thiệp Chi Tiết",
+          "en": "Detailed Procedural Technique"
+        },
+        {
+          "vi": "Tiêu Chuẩn Theo Dõi & Dự Phòng",
+          "en": "Monitoring & Critical Precautions"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Bao gan nguyên vẹn, huyết động ổn định",
+            "en": "Intact capsule, hemodynamically stable"
+          },
+          {
+            "vi": "Điều trị bảo tồn nội khoa tại ICU",
+            "en": "Conservative medical management in ICU"
+          },
+          {
+            "vi": "Nghỉ tuyệt đối tại giường, truyền FFP và tiểu cầu, chống tăng huyết áp",
+            "en": "Strict bedrest, aggressive blood product resuscitation, BP control"
+          },
+          {
+            "vi": "Cấm sờ nắn vùng gan; siêu âm/CT mỗi 24–48 giờ phát hiện dọa vỡ",
+            "en": "Zero liver palpation; serial ultrasound/CT scans every 24–48 hours"
+          }
+        ],
+        [
+          {
+            "vi": "Bao gan nguyên vẹn nhưng có thoát mạch",
+            "en": "Intact capsule with active arterial blush"
+          },
+          {
+            "vi": "Thuyên tắc mạch can thiệp (TAE)",
+            "en": "Transcatheter Arterial Embolization (TAE)"
+          },
+          {
+            "vi": "Luồn ống thông qua động mạch đùi nút tắc nhánh động mạch gan nuôi",
+            "en": "Selective femoral artery catheterization and microcoil embolization"
+          },
+          {
+            "vi": "Bảo tồn tối đa nhu mô gan lành; dự phòng nhồi máu gan thứ phát",
+            "en": "Preserves healthy liver parenchyma; watch for secondary hepatic infarction"
+          }
+        ],
+        [
+          {
+            "vi": "Vỡ bao gan, xuất huyết nội ồ ạt",
+            "en": "Ruptured capsule with massive hemoperitoneum"
+          },
+          {
+            "vi": "Phẫu thuật chèn gạc kiểm soát tổn thương (Packing)",
+            "en": "Damage Control Surgery with Perihepatic Packing"
+          },
+          {
+            "vi": "Đặt 6–10 miếng gạc lớn chèn ép hai mặt gan; khâu tạm da bụng",
+            "en": "Pack 6–10 laparotomy sponges tightly around liver; temporary skin closure"
+          },
+          {
+            "vi": "Rút gạc sau 48–72 giờ khi tiểu cầu > 50,000/uL và đông máu bình thường",
+            "en": "Pack removal at 48–72 hrs after platelet and coagulation normalization"
+          }
+        ],
+        [
+          {
+            "vi": "Hoại tử gan diện rộng, suy gan tối cấp",
+            "en": "Massive liver necrosis, fulminant hepatic failure"
+          },
+          {
+            "vi": "Ghép gan cấp cứu (Liver Transplant)",
+            "en": "Emergency Liver Transplantation"
+          },
+          {
+            "vi": "Kích hoạt danh sách ghép gan khẩn cấp quốc gia (Status 1A)",
+            "en": "Immediate activation on super-urgent national organ transplant registry"
+          },
+          {
+            "vi": "Tỷ lệ sống sót sau ghép gan thành công đạt 60–80%",
+            "en": "Post-transplant survival rates reach 60–80% in specialized centers"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. BIẾN CHỨNG NGUY KỊCH, TIÊN LƯỢNG CHU SINH & QUẢN LÝ DÀI HẠN (COMPLICATIONS & PERINATAL PROGNOSIS)",
+      "en": "4. CRITICAL COMPLICATIONS, PERINATAL PROGNOSIS & LONG-TERM OUTCOMES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-comp-1",
+      "sentences": [
+        {
+          "id": "s-010-22",
+          "vi": "Các biến chứng toàn thân nguy hiểm đe dọa tính mạng mẹ: Bao gồm đông máu nội mạch rải rác (DIC) gặp ở 20% ca bệnh, bong rau non (Placental Abruption) gặp ở 16%, suy thận cấp (Acute Renal Failure) đòi hỏi lọc máu cấp cứu gặp ở 7–10%, phù phổi cấp (Pulmonary Edema) gặp ở 6%, và hội chứng não cấp tính do phù não hoặc đột quỵ xuất huyết não.",
+          "en": "Maternal systemic life-threatening catastrophes: Encompass disseminated intravascular coagulation (DIC) occurring in 20% of cases, placental abruption in 16%, acute kidney injury requiring hemodialysis in 7–10%, acute pulmonary edema in 6%, and eclamptic encephalopathy or hemorrhagic cerebrovascular stroke."
+        },
+        {
+          "id": "s-010-23",
+          "vi": "Tỷ lệ tử vong mẹ và chu sinh: Tỷ lệ tử vong mẹ chung của hội chứng HELLP dao động từ 1% đến 5%, nhưng tăng vọt lên 30–50% khi xảy ra biến chứng vỡ bao Glisson gan. Tỷ lệ tử vong chu sinh dao động từ 10% đến 30%, nguyên nhân chủ yếu do sinh non bắt buộc, suy dinh dưỡng trong tử cung (FGR) và ngạt thai cấp tính.",
+          "en": "Maternal and perinatal mortality: Global maternal mortality in HELLP ranges from 1% to 5%, but escalates to 30–50% upon hepatic capsular rupture. Perinatal mortality ranges between 10% and 30%, predominantly driven by extreme iatrogenic prematurity, severe fetal growth restriction (FGR), and acute intrapartum asphyxia."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-long-1",
+      "sentences": [
+        {
+          "id": "s-010-24",
+          "vi": "Tư vấn và tiên lượng cho các lần mang thai sau: Phụ nữ có tiền sử hội chứng HELLP có nguy cơ tái phát hội chứng HELLP ở lần mang thai tiếp theo là 3–7%, nguy cơ mắc tiền sản giật từ 20–25% và nguy cơ tăng huyết áp thai kỳ từ 30–40%.",
+          "en": "Subsequent pregnancy recurrence risk and preconception counseling: Women with a history of HELLP syndrome harbor a 3–7% risk of recurrent HELLP, a 20–25% risk of subsequent preeclampsia, and up to 40% risk of gestational hypertension in future pregnancies."
+        },
+        {
+          "id": "s-010-25",
+          "vi": "Chiến lược dự phòng cấp 2: Khuyến cáo sử dụng Aspirin liều thấp 150 mg/ngày bắt đầu từ tuần thứ 12 đến tuần thứ 36 thai kỳ, phối hợp bổ sung Canxi 1.5–2.0 g/ngày cho những phụ nữ có tiền sử HELLP khi mang thai lại.",
+          "en": "Secondary prevention protocol: Prescribe prophylactic low-dose Aspirin 150 mg daily initiated between 12 and 16 weeks of gestation and continued until 36 weeks, paired with oral Calcium supplementation (1.5–2.0 g/day) in all subsequent pregnancies."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. HƯỚNG DẪN HIỆP HỘI & TÀI LIỆU THAM KHẢO CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "5. SOCIETY GUIDELINES & ACADEMIC REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-010-ref-1",
+      "sentences": [
+        {
+          "id": "s-010-26",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Gestational Hypertension and Preeclampsia. ACOG Practice Bulletin No. 222. Obstet Gynecol 2020; 135(6): e237-e260. Reaffirmed 2024.",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Gestational Hypertension and Preeclampsia. ACOG Practice Bulletin No. 222. Obstet Gynecol 2020; 135(6): e237-e260. Reaffirmed 2024."
+        },
+        {
+          "id": "s-010-27",
+          "vi": "2. Society for Maternal-Fetal Medicine (SMFM). Diagnosis and Management of HELLP Syndrome. Am J Obstet Gynecol 2022/2026. DOI: 10.1016/j.ajog.2022.08.012.",
+          "en": "2. Society for Maternal-Fetal Medicine (SMFM). Diagnosis and Management of HELLP Syndrome. Am J Obstet Gynecol 2022/2026. DOI: 10.1016/j.ajog.2022.08.012."
+        },
+        {
+          "id": "s-010-28",
+          "vi": "3. European Association for the Study of the Liver (EASL). Clinical Practice Guidelines: Liver Diseases in Pregnancy. J Hepatol 2023; 79(3): 768-828. DOI: 10.1016/j.jhep.2023.05.008.",
+          "en": "3. European Association for the Study of the Liver (EASL). Clinical Practice Guidelines: Liver Diseases in Pregnancy. J Hepatol 2023; 79(3): 768-828. DOI: 10.1016/j.jhep.2023.05.008."
+        },
+        {
+          "id": "s-010-29",
+          "vi": "4. Martin JN Jr, Rose CH, Briery CM. Understanding and Managing HELLP Syndrome: The Mississippi Experience. Clin Obstet Gynecol 2006; 49(2): 304-319.",
+          "en": "4. Martin JN Jr, Rose CH, Briery CM. Understanding and Managing HELLP Syndrome: The Mississippi Experience. Clin Obstet Gynecol 2006; 49(2): 304-319."
+        },
+        {
+          "id": "s-010-30",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn chẩn đoán và điều trị tiền sản giật, sản giật và hội chứng HELLP. Quyết định số 3982/QĐ-BYT.",
+          "en": "5. Ministry of Health of Vietnam. Guidelines for Diagnosis and Treatment of Preeclampsia, Eclampsia, and HELLP Syndrome. Decision No. 3982/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Hội chứng HELLP",
+      "term_en": "HELLP Syndrome",
+      "phonetic": "/hɛlp ˈsɪndroʊm/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/syndrome--_us_1.mp3",
+      "definition_vi": "Biến thể nặng của tiền sản giật đặc trưng bởi tam chứng tan máu vi mạch, tăng men gan và hạ tiểu cầu máu nghiêm trọng.",
+      "definition_en": "Severe preeclampsia variant characterized by microangiopathic hemolysis, elevated liver enzymes, and low platelet count."
+    },
+    {
+      "term_vi": "Tụ máu dưới bao gan",
+      "term_en": "Hepatic Subcapsular Hematoma",
+      "phonetic": "/hɪˈpætɪk sʌbˈkæpsjʊlər ˌhiːməˈtoʊmə/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/hematoma--_us_1.mp3",
+      "definition_vi": "Khối máu đọng dưới bao Glisson của gan do hoại tử và xuất huyết vi mạch xoang gan, có nguy cơ vỡ gây sốc mất máu.",
+      "definition_en": "Blood accumulation beneath Glisson's capsule secondary to sinusoidal microthrombosis and hepatic parenchymal necrosis."
+    },
+    {
+      "term_vi": "Thuyên tắc động mạch gan (TAE)",
+      "term_en": "Transcatheter Arterial Embolization (TAE)",
+      "phonetic": "/trænzˈkæθɪtər ɑːrˈtɪəriəl ˌɛmbəlɪˈzeɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/embolization--_us_1.mp3",
+      "definition_vi": "Thủ thuật can thiệp mạch luồn ống thông nút tắc nhánh mạch máu đang chảy máu trong gan dưới hướng dẫn X-quang tăng sáng.",
+      "definition_en": "Minimally invasive catheter procedure deploying coils to occlude bleeding hepatic arterial branches under fluoroscopy."
+    },
+    {
+      "term_vi": "Chèn ép gạc quanh gan (Packing)",
+      "term_en": "Perihepatic Packing",
+      "phonetic": "/ˌpɛrihɪˈpætɪk ˈpækɪŋ/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/packing--_us_1.mp3",
+      "definition_vi": "Kỹ thuật phẫu thuật kiểm soát tổn thương nhét chặt gạc ép cơ học vào hai mặt của gan để cầm máu khi vỡ gan.",
+      "definition_en": "Damage control surgical maneuver tightly packing laparotomy pads around the liver to achieve mechanical tamponade."
+    },
+    {
+      "term_vi": "Tan máu vi mạch",
+      "term_en": "Microangiopathic Hemolysis",
+      "phonetic": "/ˌmaɪkroʊˌændʒiəˈpæθɪk hiːˈmɒlɪsɪs/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/hemolysis--_us_1.mp3",
+      "definition_vi": "Hiện tượng hồng cầu bị phá hủy cơ học khi va đập qua các vi huyết khối fibrin trong lòng vi mạch bị tổn thương.",
+      "definition_en": "Mechanical fragmentation of red blood cells passing through sheared, fibrin-occluded microvascular beds."
+    }
+  ]
+}

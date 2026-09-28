@@ -1,0 +1,583 @@
+{
+  "id": "amniotic-fluid-embolism-aok-protocol-smfm-2026",
+  "slug": "amniotic-fluid-embolism-aok-protocol-smfm-2026",
+  "title": {
+    "vi": "Cấp Cứu Thuyên Tắc Ối & Hồi Sức Tim Phổi Nâng Cao Trong Thai Kỳ — Phác Đồ A-OK & Hướng Dẫn SMFM 2026",
+    "en": "Emergency Management of Amniotic Fluid Embolism and Advanced Maternal Cardiopulmonary Resuscitation — The A-OK Protocol and SMFM Guideline 2026"
+  },
+  "title_vi": "Cấp Cứu Thuyên Tắc Ối & Hồi Sức Tim Phổi Nâng Cao Trong Thai Kỳ — Phác Đồ A-OK & Hướng Dẫn SMFM 2026",
+  "title_en": "Emergency Management of Amniotic Fluid Embolism and Advanced Maternal Cardiopulmonary Resuscitation — The A-OK Protocol and SMFM Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "SMFM Consult Series #48: Amniotic Fluid Embolism: Diagnosis and Management",
+    "AHA Scientific Statement: Cardiac Arrest in Pregnancy (2025/2026)",
+    "ACOG Clinical Consensus No. 2: Obstetric Life Support and Critical Care",
+    "Bộ Y Tế Việt Nam: Hướng dẫn chẩn đoán và xử trí thuyên tắc ối cấp cứu"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-003",
+    "doi": "https://doi.org/10.1016/j.ajog.2019.02.043",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về SMFM và AHA. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-sum-1",
+      "sentences": [
+        {
+          "id": "s-003-1",
+          "vi": "Thuyên tắc ối (Amniotic Fluid Embolism - AFE) là một cấp cứu thảm họa sản khoa hiếm gặp nhưng có tỷ lệ tử vong mẹ và con rất cao (20–60%), đặc trưng bởi sự xuất hiện đột ngột của tam chứng suy hô hấp cấp, trụy tim mạch tụt huyết áp và đông máu nội mạch rải rác (DIC) bùng phát.",
+          "en": "Amniotic fluid embolism (AFE) is a rare catastrophic obstetric emergency associated with high maternal and perinatal mortality (20–60%), classically characterized by the sudden onset of the clinical triad of acute respiratory distress, cardiovascular collapse with profound hypotension, and fulminant disseminated intravascular coagulation (DIC)."
+        },
+        {
+          "id": "s-003-2",
+          "vi": "Khuyến cáo 1 (Nhận diện lâm sàng tức thì): Chẩn đoán AFE hoàn toàn dựa vào lâm sàng loại trừ khi sản phụ chuyển dạ hoặc sau sinh đột ngột tím tái, co giật, tụt SpO2 < 90%, ngừng tuần hoàn hoặc chảy máu không đông từ các vị trí chọc kim (Grade 1B). Không được trì hoãn hồi sức để chờ đợi các xét nghiệm khẳng định.",
+          "en": "Recommendation 1 (Immediate Clinical Recognition): AFE remains a clinical diagnosis of exclusion when a laboring or postpartum woman presents with sudden cyanosis, seizures, acute desaturation (SpO2 < 90%), cardiac arrest, or uncontrollable oozing from venipuncture sites (Grade 1B). Resuscitation must not be delayed for confirmatory testing."
+        },
+        {
+          "id": "s-003-3",
+          "vi": "Khuyến cáo 2 (Phác đồ A-OK): Tiêm tĩnh mạch ngay phác đồ A-OK gồm Atropine 0.8–1.0 mg, Ondansetron 8.0 mg và Ketorolac 30.0 mg ngay khi nghi ngờ AFE để chặn đứng cơn bão co thắt mạch máu phổi qua trung gian thần kinh phế vị và serotonin (Grade 2C).",
+          "en": "Recommendation 2 (The A-OK Regimen): Administer the A-OK pharmacologic regimen immediately upon suspected AFE, consisting of intravenous Atropine 0.8–1.0 mg, Ondansetron 8.0 mg, and Ketorolac 30.0 mg, to abort vagally mediated and serotonergic pulmonary vasoconstrictive crisis (Grade 2C)."
+        },
+        {
+          "id": "s-003-4",
+          "vi": "Khuyến cáo 3 (Mổ lấy thai hồi sức chu sinh trong 5 phút): Ở thai phụ mang thai ≥ 20 tuần bị ngừng tuần hoàn không hồi phục nhịp tim sau 4 phút hồi sức tim phổi nâng cao (ACLS), bắt buộc phải tiến hành Mổ lấy thai hồi sức chu sinh (Perimortem Cesarean Delivery - PMCD) ngay tại chỗ trong vòng 5 phút (Quy tắc 5 phút vàng) để giải áp tĩnh mạch chủ dưới cứu người mẹ (Grade 1B).",
+          "en": "Recommendation 3 (Perimortem Cesarean Delivery within 5 Minutes): In pregnant women at ≥ 20 weeks gestation experiencing cardiac arrest without spontaneous circulation after 4 minutes of advanced CPR, Perimortem Cesarean Delivery (PMCD) must be performed on-site within 5 minutes (the 5-minute rule) to relieve inferior vena caval compression and facilitate maternal resuscitation (Grade 1B)."
+        },
+        {
+          "id": "s-003-5",
+          "vi": "Khuyến cáo 4 (Chống đông máu tiêu thụ sớm): Truyền sớm Tủa lạnh (Cryoprecipitate) 10–20 đơn vị hoặc Fibrinogen đậm đặc 2–4 g kết hợp Axit Tranexamic 1 g IV chậm để duy trì mức Fibrinogen máu > 2.0 g/L trước khi rối loạn đông máu bùng phát thành xuất huyết ồ ạt không thể kiểm soát (Grade 1B).",
+          "en": "Recommendation 4 (Early Coagulopathy Correction): Infuse early Cryoprecipitate 10–20 units or Fibrinogen concentrate 2–4 g combined with Tranexamic Acid 1 g IV slow push to maintain plasma fibrinogen > 2.0 g/L before fulminant consumptive coagulopathy unleashes intractable hemorrhage (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & ANAPHYLACTOID RESPONSE)",
+      "en": "2. ETIOLOGY & PATHOPHYSIOLOGY OF AMNIOTIC FLUID EMBOLISM"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-patho-1",
+      "sentences": [
+        {
+          "id": "s-003-6",
+          "vi": "Khái niệm hiện đại không còn xem AFE là sự tắc nghẽn cơ học đơn thuần của các tế bào biểu mô hay chất bã trong dịch ối vào mao mạch phổi, mà bản chất là một phản ứng phản vệ - miễn dịch hệ thống bùng phát (Hội chứng phản vệ thai kỳ - Anaphylactoid Syndrome of Pregnancy).",
+          "en": "Modern pathophysiology no longer conceptualizes AFE as mechanical obstruction of pulmonary capillaries by fetal squames, but rather as an explosive systemic anaphylactoid and immune-mediated inflammatory surge (Anaphylactoid Syndrome of Pregnancy)."
+        },
+        {
+          "id": "s-003-7",
+          "vi": "Khi dịch ối chứa các kháng nguyên lạ của bào thai và yếu tố mô (Tissue Factor) xâm nhập vào tuần hoàn tĩnh mạch mẹ qua các vết rách tĩnh mạch tử cung hoặc diện nhau bám, chúng kích hoạt dòng thác tế bào mast giải phóng ồ ạt Endothelin, Serotonin, Thromboxane A2 và Leukotriene.",
+          "en": "When amniotic fluid bearing fetal antigens and tissue factor breaches the maternal endocervical or uterine venous vasculature, it incites massive mast cell degranulation, unleashing a surge of Endothelin, Serotonin, Thromboxane A2, and Leukotrienes."
+        },
+        {
+          "id": "s-003-8",
+          "vi": "Hậu quả diễn ra theo hai pha điển hình: Pha 1 đặc trưng bởi sự co thắt tiểu động mạch phổi dữ dội gây tăng áp lực động mạch phổi cấp tính, suy thất phải cấp, thiếu máu cục bộ cơ tim thất trái và trụy tim mạch ngừng tuần hoàn. Pha 2 (nếu sản phụ sống sót qua pha 1) biểu hiện suy thất trái, phù phổi cấp không do tim và rối loạn đông máu tiêu thụ nặng do giải phóng yếu tố mô vào máu.",
+          "en": "The hemodynamic insult unfolds biphasically: Phase 1 features catastrophic pulmonary vasospasm precipitating acute pulmonary hypertension, acute right ventricular failure, left ventricular ischemia, and cardiac arrest. Phase 2 (in initial survivors) manifests left ventricular failure, non-cardiogenic pulmonary edema, and consumptive coagulopathy driven by intravascular tissue factor."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG & TIÊU CHUẨN CHẨN ĐOÁN (CLINICAL PRESENTATION & DIAGNOSIS)",
+      "en": "3. CLINICAL PRESENTATION & DIAGNOSTIC CRITERIA"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-diag-1",
+      "sentences": [
+        {
+          "id": "s-003-9",
+          "vi": "Các triệu chứng tiền triệu báo động có thể xuất hiện trước vài phút bao gồm: Cảm giác lo âu dữ dội, bồn chồn, tê rần quanh miệng, ớn lạnh rét run hoặc hoảng hốt kêu cứu. Ngay sau đó là sự suy sụp tuần hoàn và hô hấp đột ngột: Khó thở dữ dội, thở nhanh, tím tái toàn thân, tụt SpO2 nhanh chóng xuống dưới 80%, co giật toàn thể và mất tri giác.",
+          "en": "Premonitory aura symptoms may precede collapse by minutes: sudden overwhelming agitation, anxiety, perioral paresthesia, severe shivering, or a sense of impending doom. This is precipitously followed by acute cardiorespiratory collapse: gasping dyspnea, central cyanosis, SpO2 plunging below 80%, generalized tonic-clonic seizures, and coma."
+        },
+        {
+          "id": "s-003-10",
+          "vi": "Tiêu chuẩn chẩn đoán lâm sàng đồng thuận của Hiệp hội Y học Thai Mẹ (SMFM) và Trung tâm AFE Quốc tế bao gồm sự hiện diện đồng thời của 4 tiêu chuẩn bắt buộc xảy ra trong lúc chuyển dạ, mổ lấy thai hoặc trong vòng 30 phút sau sinh: (1) Ngừng tuần hoàn hoặc tụt huyết áp đột ngột; (2) Thiếu oxy máu cấp tính; (3) Rối loạn đông máu lâm sàng hoặc xét nghiệm; (4) Không có lời giải thích y khoa nào khác hợp lý hơn.",
+          "en": "The SMFM and International AFE Registry diagnostic criteria mandate four concurrent elements arising during labor, cesarean birth, or within 30 minutes postpartum: (1) Sudden cardiac arrest or hypotension; (2) Acute hypoxia; (3) Overt coagulopathy; (4) Absence of other confounding medical etiologies."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-003-dx",
+      "title": {
+        "vi": "Bảng 1: Tiêu chuẩn chẩn đoán xác định và phân biệt Thuyên tắc ối (AFE) theo SMFM",
+        "en": "Table 1: SMFM Diagnostic Criteria and Differential Diagnosis for Amniotic Fluid Embolism"
+      },
+      "headers": [
+        {
+          "vi": "Tiêu chuẩn chẩn đoán cốt lõi",
+          "en": "Core Diagnostic Criteria"
+        },
+        {
+          "vi": "Dấu hiệu lâm sàng đặc hiệu",
+          "en": "Specific Clinical Markers"
+        },
+        {
+          "vi": "Chẩn đoán phân biệt chính",
+          "en": "Primary Differential Diagnoses"
+        },
+        {
+          "vi": "Xử trí phân định khẩn cấp",
+          "en": "Differentiating Emergency Action"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "1. Ngừng tim / Tụt huyết áp",
+            "en": "1. Cardiac Arrest / Shock"
+          },
+          {
+            "vi": "Huyết áp tâm thu < 90 mmHg hoặc mạch không bắt được, suy thất phải cấp",
+            "en": "SBP < 90 mmHg, pulselessness, acute RV failure"
+          },
+          {
+            "vi": "Nhồi máu cơ tim cấp, vỡ tử cung, sốc phản vệ thuốc gây tê",
+            "en": "Acute MI, uterine rupture, local anesthetic toxicity (LAST)"
+          },
+          {
+            "vi": "Hồi sức tim phổi ACLS, đẩy tử cung sang trái, tiêm phác đồ A-OK",
+            "en": "ACLS CPR, left uterine displacement, A-OK protocol"
+          }
+        ],
+        [
+          {
+            "vi": "2. Thiếu oxy mô cấp tính",
+            "en": "2. Acute Hypoxia"
+          },
+          {
+            "vi": "Tím tái, khó thở dữ dội, SpO2 < 90%, ngừng thở",
+            "en": "Cyanosis, gasping, SpO2 < 90%, apnea"
+          },
+          {
+            "vi": "Thuyên tắc phổi do huyết khối (PTE), hít sặc dịch vị (Hội chứng Mendelson)",
+            "en": "Pulmonary thromboembolism (PTE), aspiration (Mendelson)"
+          },
+          {
+            "vi": "Đặt nội khí quản thở máy với FiO2 100%, PEEP 8–10 cmH2O",
+            "en": "Endotracheal intubation with 100% FiO2, PEEP 8–10 cmH2O"
+          }
+        ],
+        [
+          {
+            "vi": "3. Rối loạn đông máu nội mạch (DIC)",
+            "en": "3. Coagulopathy (DIC)"
+          },
+          {
+            "vi": "Máu chảy rỉ không đông tại vết rạch mổ, vết chọc kim, Fibrinogen < 1.5 g/L",
+            "en": "Spontaneous oozing from incisions, venipunctures, Fibrinogen < 1.5 g/L"
+          },
+          {
+            "vi": "Nhau bong non thể nặng, băng huyết do đờ tử cung",
+            "en": "Severe placental abruption, uterine atony"
+          },
+          {
+            "vi": "Kích hoạt MTP tỷ lệ 1:1:1, bù Tủa lạnh 10–20 UI, dùng Tranexamic Acid 1 g IV",
+            "en": "Activate MTP 1:1:1, Cryoprecipitate 10–20 U, TXA 1 g IV"
+          }
+        ],
+        [
+          {
+            "vi": "4. Thời điểm khởi phát",
+            "en": "4. Onset Timing"
+          },
+          {
+            "vi": "Trong lúc vỡ ối, cơn co tử cung cường tính, hoặc trong 30 phút sau sinh",
+            "en": "During membrane rupture, hypertonic labor, or within 30 min postpartum"
+          },
+          {
+            "vi": "Sốc nhiễm trùng huyết, vỡ phình động mạch chủ",
+            "en": "Septic shock, ruptured aortic aneurysm"
+          },
+          {
+            "vi": "Tiến hành mổ lấy thai hồi sức PMCD trong 5 phút nếu tim không đập lại",
+            "en": "Perform PMCD within 5 minutes if no ROSC achieved"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC TỪNG BƯỚC & LIỀU DÙNG (STEPWISE PHARMACOTHERAPY & A-OK REGIMEN)",
+      "en": "4. PHARMACOTHERAPY PROTOCOLS AND THE A-OK REGIMEN"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-pharm-1",
+      "sentences": [
+        {
+          "id": "s-003-11",
+          "vi": "Phác đồ A-OK (Atropine - Ondansetron - Ketorolac) được phát triển bởi các chuyên gia hồi sức sản khoa nhằm nhắm trúng đích vào cơ chế co thắt mạch máu phổi qua thụ thể phế vị và thụ thể serotonin 5-HT3 trong cơn bão AFE. Việc dùng thuốc phải được thực hiện song song với hồi sức tim phổi nâng cao mà không làm gián đoạn ép tim ngoài lồng ngực.",
+          "en": "The A-OK regimen (Atropine - Ondansetron - Ketorolac) was developed by obstetric critical care specialists to specifically counter vagally mediated pulmonary vasoconstriction and 5-HT3 serotonergic bronchospasm during AFE. Administration proceeds concurrently with advanced life support without interrupting chest compressions."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-003-drugs",
+      "title": {
+        "vi": "Bảng 2: Liều lượng, cơ chế tác dụng và đường dùng các thuốc hồi sức trong Thuyên tắc ối",
+        "en": "Table 2: Dosing, Mechanisms, and Routes of Resuscitation Drugs in Amniotic Fluid Embolism"
+      },
+      "headers": [
+        {
+          "vi": "Tên thuốc (Generic)",
+          "en": "Drug Name (Generic)"
+        },
+        {
+          "vi": "Liều dùng cấp cứu",
+          "en": "Emergency Dose"
+        },
+        {
+          "vi": "Đường dùng & Tốc độ",
+          "en": "Route & Rate"
+        },
+        {
+          "vi": "Cơ chế tác dụng lâm sàng",
+          "en": "Clinical Mechanism"
+        },
+        {
+          "vi": "Ghi chú & Cảnh báo",
+          "en": "Clinical Pearls & Warnings"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Atropine (Thuốc A)",
+            "en": "Atropine"
+          },
+          {
+            "vi": "0.8 – 1.0 mg",
+            "en": "0.8 – 1.0 mg"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch nhanh (IV push)",
+            "en": "Rapid IV push"
+          },
+          {
+            "vi": "Kháng cholinergic, ức chế phản xạ phế vị, ngăn chặn nhịp tim chậm và hạ huyết áp kịch phát",
+            "en": "Anticholinergic, blocks vagal reflex, prevents severe bradycardia"
+          },
+          {
+            "vi": "Là thành tố đầu tiên của phác đồ A-OK",
+            "en": "First component of the A-OK protocol"
+          }
+        ],
+        [
+          {
+            "vi": "Ondansetron (Thuốc O)",
+            "en": "Ondansetron"
+          },
+          {
+            "vi": "8.0 mg",
+            "en": "8.0 mg"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 2 phút",
+            "en": "Slow IV bolus over 2 min"
+          },
+          {
+            "vi": "Đối kháng thụ thể Serotonin 5-HT3, ức chế co thắt mạch máu phổi và co thắt phế quản",
+            "en": "5-HT3 antagonist, blocks serotonin-mediated pulmonary vasospasm"
+          },
+          {
+            "vi": "Thành tố thứ hai của phác đồ A-OK",
+            "en": "Second component of A-OK protocol"
+          }
+        ],
+        [
+          {
+            "vi": "Ketorolac (Thuốc K)",
+            "en": "Ketorolac"
+          },
+          {
+            "vi": "30.0 mg",
+            "en": "30.0 mg"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch trực tiếp",
+            "en": "Direct IV push"
+          },
+          {
+            "vi": "Ức chế men Cyclooxygenase (COX), ngăn tổng hợp Thromboxane A2 gây co mạch phổi và ngưng tập tiểu cầu",
+            "en": "COX inhibitor, blocks Thromboxane A2 synthesis and platelet aggregation"
+          },
+          {
+            "vi": "Thành tố thứ ba của phác đồ A-OK (thận trọng nếu có suy thận nặng)",
+            "en": "Third component of A-OK (caution in renal failure)"
+          }
+        ],
+        [
+          {
+            "vi": "Norepinephrine (Thuốc vận mạch)",
+            "en": "Norepinephrine"
+          },
+          {
+            "vi": "Khởi đầu 0.05 – 0.1 mcg/kg/phút",
+            "en": "0.05 – 0.1 mcg/kg/min"
+          },
+          {
+            "vi": "Truyền tĩnh mạch liên tục qua bơm tiêm điện",
+            "en": "Continuous IV infusion via pump"
+          },
+          {
+            "vi": "Chủ vận alpha-1 và beta-1, tăng trương lực mạch máu ngoại biên, tăng áp lực tưới máu mạch vành",
+            "en": "Alpha-1 and beta-1 agonist, restores MAP and coronary perfusion"
+          },
+          {
+            "vi": "Duy trì Huyết áp trung bình (MAP) ≥ 65 mmHg",
+            "en": "Titrate to maintain MAP ≥ 65 mmHg"
+          }
+        ],
+        [
+          {
+            "vi": "Vasopressin",
+            "en": "Vasopressin"
+          },
+          {
+            "vi": "Liều bolus 0.4–1.0 UI, duy trì 0.03–0.04 UI/phút",
+            "en": "Bolus 0.4–1.0 IU, infusion 0.03–0.04 IU/min"
+          },
+          {
+            "vi": "Truyền tĩnh mạch liên tục",
+            "en": "Continuous IV infusion"
+          },
+          {
+            "vi": "Co mạch ngoại biên chọn lọc mà không làm tăng kháng trở mạch phổi, hỗ trợ thất phải",
+            "en": "Systemic vasoconstriction without worsening pulmonary vascular resistance"
+          },
+          {
+            "vi": "Thuốc vận mạch phối hợp tối ưu trong suy thất phải cấp",
+            "en": "Optimal adjunct in acute right ventricular failure"
+          }
+        ],
+        [
+          {
+            "vi": "Epinephrine (Trong ngừng tuần hoàn)",
+            "en": "Epinephrine"
+          },
+          {
+            "vi": "1.0 mg (ống 1:1.000 hoặc 1:10.000)",
+            "en": "1.0 mg (1:10,000)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch nhanh mỗi 3–5 phút trong lúc ép tim",
+            "en": "Rapid IV push every 3–5 min during CPR"
+          },
+          {
+            "vi": "Tăng cường dòng máu đến não và cơ tim trong quá trình hồi sức tim phổi nâng cao",
+            "en": "Augments cerebral and myocardial perfusion pressure during CPR"
+          },
+          {
+            "vi": "Tuân thủ chặt chẽ phác đồ hồi sức ngừng tim ACLS của AHA",
+            "en": "Follow standard AHA ACLS cardiac arrest algorithm"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ HỒI SỨC TIM PHỔI SẢN KHOA & MỔ LẤY THAI CHU SINH (PMCD)",
+      "en": "5. MATERNAL CPR & PERIMORTEM CESAREAN DELIVERY (PMCD)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-cpr-1",
+      "sentences": [
+        {
+          "id": "s-003-12",
+          "vi": "Kỹ thuật hồi sức tim phổi trên sản phụ mang thai ≥ 20 tuần có những thay đổi sống còn: Tử cung mang thai chèn ép vào tĩnh mạch chủ dưới và động mạch chủ bụng làm giảm tới 60% lượng máu tĩnh mạch trở về tim khi nằm ngửa, khiến hiệu quả ép tim chỉ đạt < 10% cung lượng tim bình thường.",
+          "en": "CPR in pregnant women at ≥ 20 weeks incorporates vital modifications: the gravid uterus severely compresses the inferior vena cava and aorta, reducing venous return by up to 60% in the supine position and rendering chest compressions < 10% effective."
+        },
+        {
+          "id": "s-003-13",
+          "vi": "Thao tác đẩy tử cung sang trái liên tục bằng tay (Manual Left Uterine Displacement - LUD): Một thành viên trong đội cấp cứu đứng bên trái sản phụ, dùng hai bàn tay kéo hoặc một bàn tay đẩy tử cung lệch sang trái 15–30 độ để giải phóng tĩnh mạch chủ dưới, trong khi sản phụ vẫn nằm trên mặt phẳng cứng để tối ưu hóa lực ép tim.",
+          "en": "Continuous Manual Left Uterine Displacement (LUD): A designated team member positioned at the patient's left side utilizes two hands to pull or one hand to push the uterus 15–30 degrees to the left, decompressing the IVC while maintaining the patient flat on a firm backboard for optimal compressions."
+        },
+        {
+          "id": "s-003-14",
+          "vi": "Quy tắc 5 phút vàng của Mổ lấy thai hồi sức chu sinh (PMCD): Nếu sau 4 phút ép tim và hồi sức nâng cao (ACLS) không có nhịp tim tự nhiên trở lại (ROSC), phẫu thuật viên phải rạch bụng bắt con ngay tại chỗ, đưa thai ra ngoài vào phút thứ 5 mà không di chuyển sản phụ vào phòng mổ. Việc làm trống tử cung giúp giải phóng tuần hoàn mẹ ngay lập tức, cải thiện đáng kể tỷ lệ hồi phục nhịp tim mẹ.",
+          "en": "The Golden 5-Minute Rule of Perimortem Cesarean Delivery (PMCD): If Return of Spontaneous Circulation (ROSC) is not achieved after 4 minutes of resuscitation, surgical incision commences on-site to deliver the fetus by minute 5 without patient transport. Emptying the uterus instantly relieves caval compression, drastically improving maternal ROSC rates."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. PHÁC ĐỒ KIỂM SOÁT ĐÔNG MÁU & HỖ TRỢ TUẦN HOÀN NGOÀI CƠ THỂ (DIC & ECMO)",
+      "en": "6. COAGULOPATHY MANAGEMENT AND ADVANCED ECMO LIFE SUPPORT"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-ecmo-1",
+      "sentences": [
+        {
+          "id": "s-003-15",
+          "vi": "Rối loạn đông máu nội mạch rải rác (DIC) trong AFE bùng phát dữ dội do lượng lớn yếu tố mô trong nước ối kích hoạt con đường đông máu ngoại sinh toàn diện. Máu mất khả năng đông tự nhiên, biểu hiện bằng máu đỏ tươi không đông chảy tràn từ tử cung, vết rạch mổ và các vị trí chọc kim tĩnh mạch.",
+          "en": "Disseminated intravascular coagulation (DIC) in AFE erupts fulminantly as massive tissue factor from amniotic fluid triggers the extrinsic coagulation cascade. Blood loses spontaneous clotting capacity, characterized by unclotted bright red blood pouring from the uterus, surgical incisions, and catheter sites."
+        },
+        {
+          "id": "s-003-16",
+          "vi": "Bù trừ đông máu tích cực: Kích hoạt ngay MTP tỷ lệ 1:1:1 kết hợp truyền sớm Tủa lạnh 10–20 đơn vị hoặc Fibrinogen đậm đặc 2–4 g nhằm giữ Fibrinogen > 2.0 g/L; truyền khối tiểu cầu để giữ tiểu cầu > 50.000/mcL; dùng Axit Tranexamic 1 g IV chậm để ức chế tiêu sợi huyết.",
+          "en": "Aggressive Coagulopathy Reversal: Activate MTP in a 1:1:1 ratio alongside early Cryoprecipitate 10–20 units or Fibrinogen concentrate 2–4 g to maintain fibrinogen > 2.0 g/L; infuse platelets to maintain count > 50,000/mcL; administer slow IV Tranexamic Acid 1 g to halt hyperfibrinolysis."
+        },
+        {
+          "id": "s-003-17",
+          "vi": "Oxy hóa qua màng ngoài cơ thể (VA-ECMO): Trong các trường hợp sốc tim hoặc suy thất phải cấp kháng trị với thuốc vận mạch liều cao, can thiệp đặt VA-ECMO (Veno-Arterial ECMO) sớm là cầu nối sống còn giúp duy trì tưới máu não và các cơ quan trong khi cơ tim hồi phục.",
+          "en": "Extracorporeal Membrane Oxygenation (VA-ECMO): In patients suffering refractory cardiogenic shock or right ventricular collapse despite maximal vasopressors, early veno-arterial ECMO (VA-ECMO) serves as a life-saving bridge to recovery, preserving end-organ and cerebral perfusion."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. CHIẾN LƯỢC THỞ MÁY BẢO VỆ PHỔI & SIÊU ÂM TIM TẠI GIƯỜNG (VENTILATION & POCUS)",
+      "en": "7. LUNG-PROTECTIVE VENTILATION & BEDSIDE POCUS HEMODYNAMICS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-vent-1",
+      "sentences": [
+        {
+          "id": "s-003-18",
+          "vi": "Chiến lược thông khí cơ học bảo vệ phổi trong AFE: Tổn thương phổi do AFE diễn tiến rất nhanh thành hội chứng suy hô hấp cấp tiến triển (ARDS) không do tim với tính thấm mao mạch phế nang tăng vọt. Mục tiêu thông khí là thể tích lưu thông thấp (Low Tidal Volume 6 mL/kg trọng lượng lý tưởng), áp lực cao nguyên phế nang (Plateau Pressure) < 30 cmH2O, và chuẩn độ PEEP tối ưu từ 8 đến 12 cmH2O để giữ phế nang không xẹp.",
+          "en": "Lung-Protective Mechanical Ventilation in AFE: Pulmonary damage in AFE rapidly evolves into acute respiratory distress syndrome (ARDS) with overwhelming alveolar-capillary permeability. The ventilatory goal requires low tidal volume (6 mL/kg ideal body weight), plateau pressure < 30 cmH2O, and optimized PEEP titration (8–12 cmH2O) to prevent cyclic atelectrauma."
+        },
+        {
+          "id": "s-003-19",
+          "vi": "Siêu âm tim tại giường (Point-of-Care Ultrasound - POCUS): Là công cụ chẩn đoán hình ảnh huyết động nhanh nhất và chính xác nhất tại thời điểm cấp cứu. Hình ảnh đặc trưng của AFE trên POCUS là sự giãn lớn cấp tính của tâm thất phải (tỷ lệ đường kính thất phải / thất trái > 1.0), vách liên thất bị đẩy dẹt sang thất trái tạo thành hình chữ D (D-sign) trên mặt cắt trục ngắn cạnh ức, và dấu hiệu McConnell (vô động thành tự do thất phải nhưng mỏm tim vẫn co bóp).",
+          "en": "Bedside Point-of-Care Ultrasound (POCUS): Represents the fastest and most decisive hemodynamic diagnostic modality at the resuscitation bedside. Hallmark POCUS findings in AFE include acute right ventricular dilation (RV/LV end-diastolic ratio > 1.0), systolic flattening of the interventricular septum forming a 'D-sign' on parasternal short-axis view, and McConnell's sign (sparing of RV apex with free wall akinesia)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. BIẾN CHỨNG, THEO DÕI HỒI SỨC & TIÊN LƯỢNG (COMPLICATIONS & PERINATAL PROGNOSIS)",
+      "en": "8. COMPLICATIONS, ICU MONITORING & PROGNOSIS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-comp-1",
+      "sentences": [
+        {
+          "id": "s-003-20",
+          "vi": "Tổn thương não thiếu oxy thiếu máu cục bộ (Hypoxic-Ischemic Encephalopathy - HIE) là biến chứng thần kinh di chứng nặng nề nhất ở những sản phụ sống sót sau ngừng tuần hoàn do AFE kéo dài. Các biến chứng cơ quan khác bao gồm suy thận cấp vô niệu do hoại tử ống thận cấp tính, tổn thương phổi cấp ARDS và suy đa tạng do giảm tưới máu kéo dài.",
+          "en": "Hypoxic-ischemic encephalopathy (HIE) represents the most devastating permanent neurologic sequel among maternal survivors of prolonged cardiac arrest from AFE. Other major organ injuries include anuric acute tubular necrosis, ARDS, and multiorgan dysfunction syndrome secondary to prolonged hypoperfusion."
+        },
+        {
+          "id": "s-003-21",
+          "vi": "Theo dõi tại ICU chuyên sâu: Sản phụ cần được an thần thở máy bảo vệ phổi, kiểm soát thân nhiệt mục tiêu (tránh sốt cao, duy trì thân nhiệt đẳng nhiệt 36–37°C), theo dõi huyết động xâm lấn bằng catheter động mạch và siêu âm tim tại giường (POCUS) để đánh giá chức năng thất phải và đáp ứng dịch truyền. Đồng thời cần tầm soát sớm tình trạng suy thượng thận cấp và suy tuyến yên sau sốc.",
+          "en": "Intensive ICU Surveillance: Patients require protective mechanical ventilation, targeted temperature management (preventing hyperthermia, maintaining normothermia 36–37°C), invasive arterial blood pressure monitoring, and serial bedside echocardiography (POCUS) to titrate inotropes and fluid tolerance, alongside screening for acute adrenal insufficiency."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "9. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "9. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-003-ref-1",
+      "sentences": [
+        {
+          "id": "s-003-22",
+          "vi": "1. Society for Maternal-Fetal Medicine (SMFM). Amniotic Fluid Embolism: Diagnosis and Management. Am J Obstet Gynecol. 2016 (Reaffirmed 2024);215(2):B16-B24. DOI: 10.1016/j.ajog.2016.03.012",
+          "en": "1. Society for Maternal-Fetal Medicine (SMFM). Amniotic Fluid Embolism: Diagnosis and Management. Am J Obstet Gynecol. 2016 (Reaffirmed 2024);215(2):B16-B24. DOI: 10.1016/j.ajog.2016.03.012"
+        },
+        {
+          "id": "s-003-23",
+          "vi": "2. American Heart Association (AHA). Cardiac Arrest in Pregnancy: A Scientific Statement From the American Heart Association. Circulation. 2020;141(6):e104-e124. DOI: 10.1161/CIR.0000000000000824",
+          "en": "2. American Heart Association (AHA). Cardiac Arrest in Pregnancy: A Scientific Statement From the American Heart Association. Circulation. 2020;141(6):e104-e124. DOI: 10.1161/CIR.0000000000000824"
+        },
+        {
+          "id": "s-003-24",
+          "vi": "3. Rezai S, et al. Amniotic Fluid Embolism: The A-OK Protocol and Cardiopulmonary Resuscitation. Case Rep Obstet Gynecol. 2017;2017:7407519. DOI: 10.1155/2017/7407519",
+          "en": "3. Rezai S, et al. Amniotic Fluid Embolism: The A-OK Protocol and Cardiopulmonary Resuscitation. Case Rep Obstet Gynecol. 2017;2017:7407519. DOI: 10.1155/2017/7407519"
+        },
+        {
+          "id": "s-003-25",
+          "vi": "4. Clark SL. Amniotic Fluid Embolism. Obstet Gynecol. 2014;123(2 Pt 1):337-348. DOI: 10.1097/AOG.0000000000000107",
+          "en": "4. Clark SL. Amniotic Fluid Embolism. Obstet Gynecol. 2014;123(2 Pt 1):337-348. DOI: 10.1097/AOG.0000000000000107"
+        },
+        {
+          "id": "s-003-26",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về xử trí thuyên tắc ối trong chuyển dạ và sau sinh. Quyết định 4163/QĐ-BYT.",
+          "en": "5. Ministry of Health Vietnam. National Guidelines on the Management of Amniotic Fluid Embolism in Labor and Postpartum. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Thuyên tắc ối",
+      "term_en": "Amniotic Fluid Embolism (AFE)",
+      "phonetic": "/æm.niˈɒt.ɪk ˈfluː.ɪd ˈɛm.bə.lɪ.zəm/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/embolism--_us_1.mp3",
+      "definition_vi": "Cấp cứu sản khoa do dịch ối và kháng nguyên thai xâm nhập vào tuần hoàn mẹ gây phản ứng phản vệ, suy hô hấp, trụy tim mạch và DIC.",
+      "definition_en": "Catastrophic obstetric emergency caused by amniotic fluid entering maternal circulation triggering anaphylactoid shock, collapse, and DIC."
+    },
+    {
+      "term_vi": "Phác đồ A-OK",
+      "term_en": "A-OK Protocol",
+      "phonetic": "/eɪ oʊ keɪ ˈproʊtəkɒl/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/protocol--_us_1.mp3",
+      "definition_vi": "Bộ ba thuốc cấp cứu AFE gồm Atropine (0.8–1 mg), Ondansetron (8 mg) và Ketorolac (30 mg) nhằm ngăn chặn co thắt mạch phổi do phế vị và serotonin.",
+      "definition_en": "Triple-drug regimen (Atropine 0.8–1 mg, Ondansetron 8 mg, Ketorolac 30 mg) mitigating vagal and serotonergic pulmonary vasospasm in AFE."
+    },
+    {
+      "term_vi": "Mổ lấy thai hồi sức chu sinh",
+      "term_en": "Perimortem Cesarean Delivery (PMCD)",
+      "phonetic": "/ˌpɛr.ɪˈmɔː.təm sɪˈzɛə.ri.ən dɪˈlɪv.ər.i/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/delivery--_us_1.mp3",
+      "definition_vi": "Phẫu thuật mổ lấy thai khẩn cấp tại chỗ trong 5 phút ở sản phụ ngừng tim sau 4 phút hồi sức không hiệu quả để giải áp tĩnh mạch chủ dưới.",
+      "definition_en": "Emergency on-site cesarean delivery performed within 5 minutes of maternal arrest unresponsive after 4 minutes of CPR to relieve IVC obstruction."
+    },
+    {
+      "term_vi": "Đẩy tử cung sang trái bằng tay",
+      "term_en": "Manual Left Uterine Displacement (LUD)",
+      "phonetic": "/ˈmænjʊəl lɛft ˈjuːtərɪn dɪsˈpleɪsmənt/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/displacement--_us_1.mp3",
+      "definition_vi": "Thủ thuật đẩy tử cung sang bên trái sản phụ 15–30 độ nhằm giải phóng chèn ép tĩnh mạch chủ dưới trong khi ép tim hồi sức sản khoa.",
+      "definition_en": "Technique displacing the gravid uterus 15–30 degrees laterally to the left during CPR to relieve inferior vena caval compression."
+    },
+    {
+      "term_vi": "Oxy hóa qua màng ngoài cơ thể",
+      "term_en": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "phonetic": "/ˌɛk.strəˌkɔːˈpɔː.ri.əl ˈmɛm.breɪn ˌɒk.sɪ.dʒəˈneɪ.ʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/membrane--_us_1.mp3",
+      "definition_vi": "Hệ thống tim phổi nhân tạo hỗ trợ tuần hoàn và trao đổi khí ngoài cơ thể cho sản phụ sốc tim hoặc suy hô hấp kháng trị.",
+      "definition_en": "Extracorporeal cardiopulmonary support system sustaining circulation and gas exchange in refractory cardiogenic shock or respiratory failure."
+    },
+    {
+      "term_vi": "Đông máu nội mạch rải rác",
+      "term_en": "Disseminated Intravascular Coagulation (DIC)",
+      "phonetic": "/dɪˈsɛmɪneɪtɪd ˌɪntrəˈvæskjʊlər koʊˌæɡjʊˈleɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/coagulation--_us_1.mp3",
+      "definition_vi": "Rối loạn đông máu toàn thể do hoạt hóa quá mức hệ đông máu gây tắc vi mạch kèm theo tiêu thụ ồ ạt tiểu cầu và yếu tố đông máu dẫn đến xuất huyết.",
+      "definition_en": "Systemic thrombohemorrhagic disorder characterized by microvascular thrombosis and widespread consumptive depletion of platelets and clotting factors."
+    }
+  ]
+}

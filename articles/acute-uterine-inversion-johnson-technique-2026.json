@@ -1,0 +1,559 @@
+{
+  "id": "acute-uterine-inversion-johnson-technique-2026",
+  "slug": "acute-uterine-inversion-johnson-technique-2026",
+  "title": {
+    "vi": "Cấp Cứu Lộn Tử Cung Cấp Tính Sau Sinh & Kỹ Thuật Nắn Phục Hồi Johnson — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+    "en": "Management of Acute Postpartum Uterine Inversion and The Johnson Maneuver — ACOG & RCOG Clinical Guideline 2026"
+  },
+  "title_vi": "Cấp Cứu Lộn Tử Cung Cấp Tính Sau Sinh & Kỹ Thuật Nắn Phục Hồi Johnson — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+  "title_en": "Management of Acute Postpartum Uterine Inversion and The Johnson Maneuver — ACOG & RCOG Clinical Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Phẫu thuật Tái tạo",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 183: Postpartum Hemorrhage & Uterine Inversion",
+    "RCOG Green-top Guideline No. 52: Prevention and Management of Postpartum Haemorrhage",
+    "WHO Guidelines for the Management of Postpartum Haemorrhage and Retained Placenta",
+    "Bộ Y Tế Việt Nam: Hướng dẫn xử trí cấp cứu lộn tử cung cấp tính sau đẻ"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-009",
+    "doi": "https://doi.org/10.1097/AOG.0000000000002351",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về ACOG và RCOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-sum-1",
+      "sentences": [
+        {
+          "id": "s-009-1",
+          "vi": "Lộn tử cung cấp tính sau sinh (Acute Postpartum Uterine Inversion) là một trong những biến chứng tối khẩn cấp hiếm gặp nhưng đe dọa trực tiếp tính mạng trong thời kỳ chuyển dạ sổ rau, với tần suất dao động từ 1/2,000 đến 1/20,000 ca sinh.",
+          "en": "Acute postpartum uterine inversion is an exceptionally rare but immediately life-threatening obstetric catastrophe during the third stage of labor, with an estimated incidence ranging from 1 in 2,000 to 1 in 20,000 deliveries."
+        },
+        {
+          "id": "s-009-2",
+          "vi": "Đặc trưng lâm sàng cốt lõi là sự xuất hiện đột ngột của khối u mềm màu đỏ tím ở âm đạo hoặc thò ra ngoài âm hộ, kết hợp với tình trạng đáy tử cung biến mất hoàn toàn khi khám nắn bụng, kèm theo xuất huyết dữ dội và sốc trụy mạch không tương xứng với lượng máu mất ra ngoài (sốc thần kinh do căng kéo các thụ thể phó giao cảm ở dây chằng rộng và phúc mạc).",
+          "en": "The classic clinical hallmark is the sudden appearance of a dark red, soft fleshy mass in the vagina or protruding through the vulva, complete absence of the uterine fundus on abdominal palpation, massive hemorrhage, and profound neurogenic-hypovolemic shock out of proportion to visible blood loss (driven by visceral parasympathetic traction on the broad ligaments and peritoneum)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-sum-2",
+      "sentences": [
+        {
+          "id": "s-009-3",
+          "vi": "Nguyên tắc vàng sống còn: Nắn phục hồi tử cung bằng tay theo thủ thuật Johnson (Johnson Maneuver) càng sớm càng tốt, ngay tại thời điểm phát hiện trước khi vòng thắt cổ tử cung co bóp nghẹt lại.",
+          "en": "Golden rule of survival: Manual uterine replacement using the Johnson maneuver must be attempted immediately upon diagnosis, before a rigid cervical constriction ring develops."
+        },
+        {
+          "id": "s-009-4",
+          "vi": "Lệnh ngừng thuốc co hồi tử cung: Lập tức NGỪNG toàn bộ các thuốc co bóp tử cung (Oxytocin, Ergometrine, Prostaglandin) ngay khi phát hiện lộn tử cung. Chỉ dùng lại các thuốc co hồi tử cung SAU KHI đáy tử cung đã được nắn đưa trở về đúng vị trí giải phẫu bình thường trong ổ bụng.",
+          "en": "Immediate uterotonic cessation: Cease all uterotonic infusions (Oxytocin, Ergometrine, Prostaglandins) the instant inversion is suspected. Uterotonics are strictly contraindicated until the fundus has been successfully restored to its anatomical position within the peritoneal cavity."
+        },
+        {
+          "id": "s-009-5",
+          "vi": "Nếu bánh rau chưa bong: Tuyệt đối KHÔNG cố bóc bánh rau đang bám chặt trên diện tử cung lộn ngược vì sẽ gây chảy máu xối xả ồ ạt và tăng nguy cơ thủng tử cung; chỉ bóc rau sau khi đã đẩy tử cung về vị trí hoặc dưới sự kiểm soát chặt chẽ của gây mê hồi sức.",
+          "en": "If the placenta remains attached: Do NOT attempt manual removal of the placenta from the inverted fundus before repositioning; premature placental detachment provokes catastrophic exsanguinating hemorrhage."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN, CƠ CHẾ SINH BỆNH HỌC & CHẨN ĐOÁN LÂM SÀNG (ETIOLOGY & DIAGNOSTIC CRITERIA)",
+      "en": "2. ETIOLOGY, PATHOPHYSIOLOGY & CLINICAL PRESENTATION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-etio-1",
+      "sentences": [
+        {
+          "id": "s-009-6",
+          "vi": "Yếu tố nguy cơ và căn nguyên y sinh học (Iatrogenic & Anatomic Etiologies): Yếu tố khởi phát phổ biến nhất là lực kéo dây rốn quá mức hoặc kéo dây rốn khi tử cung chưa co bóp cứng trong giai đoạn 3 của chuyển dạ (đặc biệt khi dây rốn bám ở đáy tử cung).",
+          "en": "Risk factors and etiologies: The most frequent iatrogenic trigger is premature or excessive cord traction combined with fundal pressure applied to a relaxed, uncontracted uterus during the third stage of labor, particularly when the placenta implants directly at the fundus."
+        },
+        {
+          "id": "s-009-7",
+          "vi": "Các yếu tố nguy cơ khác bao gồm: Rau bám chặt hoặc rau cài răng lược (Placenta Accreta Spectrum), đờ tử cung sau chuyển dạ kéo dài, thai to, đa thai, đa ối, sử dụng thuốc giãn cơ tử cung liều cao trong chuyển dạ (như Magnesi sulfat), và bất thường cấu trúc thành cơ tử cung bẩm sinh.",
+          "en": "Additional predisposing factors include morbidly adherent placenta (Placenta Accreta Spectrum), uterine atony following prolonged labor, fetal macrosomia, multiple gestation, polyhydramnios, intrapartum tocolytic administration (such as magnesium sulfate), and intrinsic uterine structural laxity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-diag-1",
+      "sentences": [
+        {
+          "id": "s-009-8",
+          "vi": "Phân loại giai đoạn lâm sàng theo mức độ lộn (Classification of Uterine Inversion):",
+          "en": "Clinical staging according to anatomical severity of inversion:"
+        },
+        {
+          "id": "s-009-9",
+          "vi": "Độ 1 (Không hoàn toàn - Incomplete): Đáy tử cung lõm vào lòng tử cung nhưng chưa vượt qua lỗ trong cổ tử cung.",
+          "en": "Stage 1 (Incomplete): The inverted fundus depresses into the uterine cavity but does not extend through the internal cervical os."
+        },
+        {
+          "id": "s-009-10",
+          "vi": "Độ 2 (Hoàn toàn - Complete): Đáy tử cung lộn ngược hoàn toàn, tụt qua lỗ ngoài cổ tử cung và nằm trọn trong âm đạo.",
+          "en": "Stage 2 (Complete): The fundus inverts completely, prolapsing through the external cervical os to reside within the vaginal vault."
+        },
+        {
+          "id": "s-009-11",
+          "vi": "Độ 3 (Sa ra ngoài - Prolapsed): Khối đáy tử cung lộn ngược sa hẳn ra ngoài khe âm hộ, bộc lộ toàn bộ bề mặt nội mạc hoặc bánh rau bám.",
+          "en": "Stage 3 (Prolapsed): The inverted uterine fundus protrudes completely outside the vulva, exposing the endometrium or adherent placenta."
+        },
+        {
+          "id": "s-009-12",
+          "vi": "Độ 4 (Toàn bộ - Total): Toàn bộ thành tử cung và âm đạo bị lộn ngược ra ngoài cơ thể (cực kỳ hiếm gặp).",
+          "en": "Stage 4 (Total): Total inversion involving both the uterus and vagina flipping completely inside-out (exceedingly rare)."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-009-stages",
+      "caption_vi": "Bảng 1: Phân Loại & Đặc Điểm Lâm Sàng 4 Giai Đoạn Lộn Tử Cung Sau Sinh",
+      "caption_en": "Table 1: Staging and Diagnostic Hallmarks of Postpartum Uterine Inversion",
+      "headers": [
+        {
+          "vi": "Mức Độ / Giai Đoạn",
+          "en": "Stage / Degree"
+        },
+        {
+          "vi": "Vị Trí Đáy Tử Cung",
+          "en": "Fundal Anatomical Position"
+        },
+        {
+          "vi": "Khám Khung Chậu & Bụng",
+          "en": "Pelvic & Abdominal Findings"
+        },
+        {
+          "vi": "Mức Độ Nguy Hiểm & Can Thiệp",
+          "en": "Severity & Intervention"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Độ 1 (Không hoàn toàn)",
+            "en": "Stage 1 (Incomplete)"
+          },
+          {
+            "vi": "Lõm xuống trong lòng tử cung, trên lỗ cổ tử cung",
+            "en": "Depressed within cavity above the internal os"
+          },
+          {
+            "vi": "Đáy tử cung hình chiếc chén lõm trên thành bụng",
+            "en": "Cup-like depression palpable on abdominal examination"
+          },
+          {
+            "vi": "Dễ bị bỏ sót; nắn phục hồi bằng tay ngay qua đường âm đạo",
+            "en": "Frequently underdiagnosed; prompt digital fundal elevation"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 2 (Hoàn toàn)",
+            "en": "Stage 2 (Complete)"
+          },
+          {
+            "vi": "Tụt qua lỗ cổ tử cung nằm trong âm đạo",
+            "en": "Protrudes through cervix into vaginal vault"
+          },
+          {
+            "vi": "Không sờ thấy đáy tử cung trên bụng; sờ thấy khối tròn trong âm đạo",
+            "en": "Absence of abdominal fundus; round firm mass in vagina"
+          },
+          {
+            "vi": "Chảy máu vừa đến nặng; thực hiện thủ thuật Johnson khẩn cấp",
+            "en": "Moderate-to-severe hemorrhage; urgent manual Johnson maneuver"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 3 (Sa ra ngoài âm hộ)",
+            "en": "Stage 3 (Prolapsed)"
+          },
+          {
+            "vi": "Thò hẳn ra ngoài khe âm hộ sản phụ",
+            "en": "Extrudes completely outside the introitus"
+          },
+          {
+            "vi": "Khối thịt màu đỏ sẫm nhìn thấy rõ ở tầng sinh môn",
+            "en": "Visible dark-red fleshy vascular mass between thighs"
+          },
+          {
+            "vi": "Chảy máu dữ dội + Sốc trụy mạch; báo động đỏ phẫu thuật",
+            "en": "Massive hemorrhage + neurogenic shock; code red resuscitation"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 4 (Toàn bộ tử cung & âm đạo)",
+            "en": "Stage 4 (Total)"
+          },
+          {
+            "vi": "Cả tử cung và các thành âm đạo lộn ngược ra ngoài",
+            "en": "Uterus and vaginal walls completely inverted externally"
+          },
+          {
+            "vi": "Tổn thương rách phúc mạc và căng kéo niệu quản nghiêm trọng",
+            "en": "Peritoneal disruption and severe ureteral traction"
+          },
+          {
+            "vi": "Cực kỳ nguy kịch; thường đòi hỏi mở bụng xử trí ngoại khoa",
+            "en": "Extreme surgical emergency; usually requires laparotomy"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. PHÁC ĐỒ XỬ TRÍ KHẨN CẤP, THỦ THUẬT NẮN JOHNSON & CAN THIỆP PHẪU THUẬT (MANAGEMENT & SURGICAL REPOSITIONING)",
+      "en": "3. EMERGENCY MANAGEMENT, THE JOHNSON MANEUVER & SURGICAL CORRECTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-proc-1",
+      "sentences": [
+        {
+          "id": "s-009-13",
+          "vi": "Hồi sức sốc và thiết lập đường truyền lớn: Kích hoạt ngay Đội cấp cứu sản khoa (Code Blue / Code Red) gồm bác sĩ sản, gây mê hồi sức và huyết học truyền máu. Thiết lập ngay 2 đường truyền tĩnh mạch ngoại vi kim lớn (14G–16G) và truyền nhanh dịch tinh thể ấm (Ringer Lactate) kết hợp kích hoạt quy trình truyền máu khối lượng lớn (Massive Transfusion Protocol - MTP) nếu huyết áp tụt sâu.",
+          "en": "Aggressive shock resuscitation and vascular access: Immediately activate the multidisciplinary obstetric emergency team (obstetricians, anesthesiologists, and transfusion medicine). Secure two large-bore IV lines (14G–16G) and initiate rapid warm balanced crystalloid infusions, concurrently triggering the massive transfusion protocol (MTP) if uncorrected profound hypotension persists."
+        },
+        {
+          "id": "s-009-14",
+          "vi": "Kỹ thuật nắn hoàn hồi bằng tay Johnson (Johnson Maneuver): Là biện pháp điều trị bảo tồn đầu tay, thành công nhất khi thực hiện trong vài phút đầu trước khi vòng thắt cổ tử cung thắt chặt.",
+          "en": "The Johnson Manual Repositioning Maneuver: Represents the primary first-line conservative intervention, carrying the highest success rates when performed within minutes before the cervical constriction ring clamps shut."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-proc-2",
+      "sentences": [
+        {
+          "id": "s-009-15",
+          "vi": "Trình tự thực hiện thủ thuật Johnson từng bước:",
+          "en": "Step-by-step execution of the Johnson maneuver:"
+        },
+        {
+          "id": "s-009-16",
+          "vi": "Bước 1: Người thực hiện dùng cả bàn tay thuận ôm trọn đáy tử cung bị lộn, các đầu ngón tay hướng về phía túi cùng âm đạo và ngón cái/lòng bàn tay nâng đỡ phần trung tâm đáy tử cung.",
+          "en": "Step 1: The clinician grasps the inverted fundus in the palm of the dominant hand, with fingertips directed toward the posterior vaginal fornix and the palm cupping the center of the fundus."
+        },
+        {
+          "id": "s-009-17",
+          "vi": "Bước 2: Đẩy toàn bộ khối tử cung theo trục của âm đạo hướng lên trên ổ bụng, hướng về phía rốn của sản phụ. Lực đẩy phải liên tục và vững chắc nhằm kéo căng các dây chằng rộng và dây chằng tròn, tạo lực phản hồi gián tiếp kéo mở rộng vòng thắt cổ tử cung.",
+          "en": "Step 2: Push the entire inverted uterine mass upward along the long axis of the vagina toward the maternal umbilicus; steady, sustained upward pressure stretches the broad and round ligaments, creating tension that mechanically dilates the constricting cervical ring."
+        },
+        {
+          "id": "s-009-18",
+          "vi": "Bước 3: Tiếp tục đẩy cho đến khi toàn bộ khối đáy tử cung vượt qua vòng thắt cổ tử cung và trở về vị trí giải phẫu bình thường trên khớp mu. Tay trong âm đạo vẫn giữ nguyên vị trí trong buồng tử cung cho đến khi tử cung co hồi cứng cáp.",
+          "en": "Step 3: Continue progressive cephalad pressure until the fundus pops back through the cervical ring into its normal intraperitoneal anatomy. Maintain the intrauterine hand in place until firm uterine contractility is re-established."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-med-1",
+      "sentences": [
+        {
+          "id": "s-009-19",
+          "vi": "Sử dụng thuốc giãn cơ tử cung có kiểm soát (Tocolytic Administration): Nếu vòng thắt cổ tử cung co thắt chặt làm thủ thuật Johnson thất bại, bác sĩ gây mê cần cho thuốc giãn cơ tử cung tác dụng nhanh để làm chùng vòng thắt:",
+          "en": "Controlled pharmacological tocolysis: If cervical ring constriction resists manual replacement, the anesthesiologist administers rapid-acting tocolytics to relax the tight myometrial ring:"
+        },
+        {
+          "id": "s-009-20",
+          "vi": "1. Nitroglycerin: Tiêm tĩnh mạch chậm liều 50–100 mcg (có thể lặp lại đến 200 mcg), thuốc có tác dụng giãn cơ trơn tử cung tức thì trong 60 giây và bán thải cực ngắn; hoặc Terbutaline 0.25 mg tiêm dưới da hoặc tĩnh mạch chậm.",
+          "en": "1. Intravenous Nitroglycerin: 50–100 mcg IV bolus (titrated up to 200 mcg), producing rapid myometrial relaxation within 60 seconds with an ultra-short half-life; or subcutaneous/IV Terbutaline 0.25 mg."
+        },
+        {
+          "id": "s-009-21",
+          "vi": "2. Thuốc mê đường hô hấp bốc hơi (Halogenated Inhalation Agents): Sevoflurane hoặc Isoflurane ở nồng độ cao trong phòng mổ là biện pháp giãn cơ tử cung cực kỳ hiệu quả để nắn hoàn hồi.",
+          "en": "2. Volatile halogenated anesthetic agents: High-concentration Sevoflurane or Isoflurane in the operating suite provides potent, instantaneous uterine relaxation for refractory manual repositioning."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-post-1",
+      "sentences": [
+        {
+          "id": "s-009-22",
+          "vi": "Tái kích hoạt co hồi tử cung ngay sau khi hoàn hồi thành công: Lập tức NGỪNG thuốc giãn cơ và truyền ngay Oxytocin liều cao 20–40 UI trong 500 mL dung dịch tinh thể truyền tĩnh mạch với tốc độ 250 mL/giờ, kết hợp tiêm bắp hoặc tĩnh mạch Carbetocin 100 mcg hoặc tiêm bắp Methylergonovine 0.2 mg (nếu huyết áp bình thường) để kích thích tử cung co cứng, ngăn ngừa tái lộn.",
+          "en": "Immediate uterotonic reinstitution post-repositioning: Cease tocolytics immediately and commence high-dose IV Oxytocin 20–40 units in 500 mL crystalloid at 250 mL/hr, accompanied by Carbetocin 100 mcg or intramuscular Methylergonovine 0.2 mg (in normotensive patients) to maintain tetanic uterine contraction and prevent re-inversion."
+        },
+        {
+          "id": "s-009-23",
+          "vi": "Bổ sung Tranexamic acid 1 g tiêm tĩnh mạch trong vòng 10 phút để giảm thiểu nguy cơ rối loạn đông máu tiêu sợi huyết.",
+          "en": "Administer IV Tranexamic acid 1 g over 10 minutes to counteract hyperfibrinolytic consumptive coagulopathy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-surg-1",
+      "sentences": [
+        {
+          "id": "s-009-24",
+          "vi": "Can thiệp phẫu thuật mở bụng khi nắn hoàn hồi đường dưới thất bại: Kỹ thuật Huntington (Huntington Procedure) — Mở bụng đường trắng giữa dưới rốn, bộc lộ vòng thắt cổ tử cung, dùng 2 kẹp Allis kẹp vào đáy tử cung trong phễu lộn rồi kéo dần từng bước lên trên ổ bụng trong khi người phụ đẩy tử cung từ dưới âm đạo lên.",
+          "en": "Surgical laparotomy for failed vaginal repositioning: The Huntington Procedure involves a midline infraumbilical laparotomy exposing the constriction crater; sequential traction is applied to the invaginated fundus using Allis clamps while an assistant applies upward vaginal pressure."
+        },
+        {
+          "id": "s-009-25",
+          "vi": "Kỹ thuật Haultain (Haultain Procedure): Nếu kỹ thuật Huntington thất bại do vòng thắt quá chặt, phẫu thuật viên rạch một đường dọc nhỏ ở thành sau cổ tử cung tại vị trí vòng thắt để giải phóng lực co thắt, nắn đẩy tử cung lên rồi khâu phục hồi lại vết rạch cổ tử cung hai lớp.",
+          "en": "The Haultain Procedure: If Huntington traction fails due to an unyielding constriction ring, a vertical incisional release is made through the posterior cervical ring, allowing effortless fundal elevation followed by two-layer anatomical myometrial closure."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-009-drugs",
+      "caption_vi": "Bảng 2: Phác Đồ Dược Lý Phối Hợp Trong Xử Trí Cấp Cứu Lộn Tử Cung",
+      "caption_en": "Table 2: Pharmacological Protocol in Uterine Inversion Management",
+      "headers": [
+        {
+          "vi": "Giai Đoạn Can Thiệp",
+          "en": "Clinical Phase"
+        },
+        {
+          "vi": "Thuốc & Liều Dùng",
+          "en": "Agent & Dosage"
+        },
+        {
+          "vi": "Cơ Chế & Mục Tiêu",
+          "en": "Mechanism & Objective"
+        },
+        {
+          "vi": "Cảnh Báo & Chống Chỉ Định",
+          "en": "Warnings & Contraindications"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Pha 1: Trước hoàn hồi (Giãn vòng thắt)",
+            "en": "Phase 1: Pre-reduction (Ring Relaxation)"
+          },
+          {
+            "vi": "Nitroglycerin 50 – 200 mcg IV bolus chậm",
+            "en": "Nitroglycerin 50 – 200 mcg slow IV bolus"
+          },
+          {
+            "vi": "Giãn cơ trơn tử cung tức thì để vượt qua vòng thắt nghẹt",
+            "en": "Immediate myometrial relaxation to permit fundal passage"
+          },
+          {
+            "vi": "Tụt huyết áp; chuẩn bị sẵn Phenylephrine hoặc Ephedrine",
+            "en": "Hypotension; have vasopressors ready to support BP"
+          }
+        ],
+        [
+          {
+            "vi": "Pha 1 (Lựa chọn thay thế)",
+            "en": "Phase 1: Alternative Tocolytic"
+          },
+          {
+            "vi": "Terbutaline 0.25 mg tiêm dưới da hoặc tĩnh mạch",
+            "en": "Terbutaline 0.25 mg subcutaneous or slow IV"
+          },
+          {
+            "vi": "Đồng vận beta-2 gây giãn cơ tử cung kéo dài",
+            "en": "Beta-2 agonist relaxing uterine myometrium"
+          },
+          {
+            "vi": "Nhịp tim mẹ nhanh; thận trọng nếu có bệnh lý tim mạch",
+            "en": "Maternal tachycardia; caution with underlying cardiac disease"
+          }
+        ],
+        [
+          {
+            "vi": "Pha 2: Sau hoàn hồi (Co hồi dự phòng tái lộn)",
+            "en": "Phase 2: Post-reduction (Uterotonic)"
+          },
+          {
+            "vi": "Oxytocin 20 – 40 UI truyền tĩnh mạch liên tục",
+            "en": "Oxytocin 20 – 40 units continuous IV infusion"
+          },
+          {
+            "vi": "Gây co cứng cơ tử cung giữ vững đáy không bị thụt lộn lại",
+            "en": "Sustained tetanic myometrial contraction to lock fundus"
+          },
+          {
+            "vi": "Không bolus tĩnh mạch nhanh trực tiếp (gây hạ huyết áp cấp)",
+            "en": "Do not give rapid IV bolus (causes severe hypotension)"
+          }
+        ],
+        [
+          {
+            "vi": "Pha 2 (Tăng cường co hồi)",
+            "en": "Phase 2: Long-acting Uterotonic"
+          },
+          {
+            "vi": "Carbetocin 100 mcg IV hoặc Methylergonovine 0.2 mg IM",
+            "en": "Carbetocin 100 mcg IV or Methylergonovine 0.2 mg IM"
+          },
+          {
+            "vi": "Duy trì trương lực cơ tử cung kéo dài nhiều giờ",
+            "en": "Extended myometrial tone maintenance over several hours"
+          },
+          {
+            "vi": "Chống chỉ định Ergometrine ở người tăng huyết áp hoặc tiền sản giật",
+            "en": "Ergometrine contraindicated in hypertension or preeclampsia"
+          }
+        ],
+        [
+          {
+            "vi": "Pha 2 (Chống tiêu sợi huyết)",
+            "en": "Phase 2: Antifibrinolytic"
+          },
+          {
+            "vi": "Tranexamic acid 1 g truyền tĩnh mạch trong 10 phút",
+            "en": "Tranexamic acid 1 g IV infusion over 10 minutes"
+          },
+          {
+            "vi": "Ức chế plasminogen, giảm lượng máu mất sau hoàn hồi",
+            "en": "Inhibits plasminogen activation, reducing severe blood loss"
+          },
+          {
+            "vi": "Tiêm trong vòng 3 giờ đầu sau sinh để đạt hiệu quả tối ưu",
+            "en": "Administer within 3 hours of delivery for maximal benefit"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. BIẾN CHỨNG SỐC THẦN KINH - MẤT MÁU, KẾT CỤC CHU SINH & TIÊN LƯỢNG (COMPLICATIONS & PERINATAL PROGNOSIS)",
+      "en": "4. NEUROGENIC-HEMORRHAGIC SHOCK, PERINATAL PROGNOSIS & LONG-TERM OUTCOMES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-comp-1",
+      "sentences": [
+        {
+          "id": "s-009-26",
+          "vi": "Sốc phối hợp thần kinh và mất máu (Combined Neurogenic and Hypovolemic Shock): Đây là cơ chế bệnh sinh đặc thù và nguy hiểm nhất của lộn tử cung. Sự co kéo đột ngột vào dây chằng rộng, vòi tử cung và buồng trứng kích thích các thụ thể phó giao cảm nội tạng gây phản xạ ức chế tim mạch mạnh, dẫn đến tụt huyết áp sâu kèm theo nhịp tim chậm nghịch thường.",
+          "en": "Combined neurogenic and hemorrhagic shock: This represents the unique and devastating pathophysiologic hallmark of uterine inversion. Acute traction on the broad ligaments, fallopian tubes, and ovaries triggers visceral parasympathetic stimulation, provoking deep hypotension paradoxical with relative bradycardia."
+        },
+        {
+          "id": "s-009-27",
+          "vi": "Tổn thương cơ quan do thiếu máu nuôi: Nếu chậm trễ nắn hoàn hồi, thân tử cung lộn ngược sẽ bị vòng thắt cổ tử cung bóp nghẹt dẫn tới ứ trệ tĩnh mạch, phù nề hoại tử vô mạch thành tử cung và đông máu nội mạch rải rác (DIC), buộc phải phẫu thuật cắt tử cung cấp cứu để cứu sống tính mạng sản phụ.",
+          "en": "Ischemic organ necrosis: Delayed repositioning permits the cervical constriction ring to act as a tourniquet, strangulating uterine venous return and inducing extensive myometrial edema, ischemic necrosis, and DIC, ultimately compelling emergency hysterectomy as a lifesaving measure."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-comp-2",
+      "sentences": [
+        {
+          "id": "s-009-28",
+          "vi": "Tiên lượng chức năng sinh sản và nguy cơ tái phát ở lần mang thai sau: Sản phụ được nắn hoàn hồi bảo tồn tử cung thành công vẫn có khả năng mang thai bình thường. Tuy nhiên, nguy cơ lộn tử cung tái phát ở những lần sinh tiếp theo được ước tính từ 2% đến 4%.",
+          "en": "Fertility preservation and recurrence risk in future pregnancies: Women undergoing successful conservative uterine replacement retain normal reproductive potential. However, the risk of recurrent uterine inversion in subsequent deliveries is estimated at 2% to 4%."
+        },
+        {
+          "id": "s-009-29",
+          "vi": "Tư vấn quản lý thai kỳ tiếp theo: Cần ghi rõ tiền sử lộn tử cung trong hồ sơ sản khoa, quản lý tích cực giai đoạn 3 chuyển dạ có kiểm soát chặt chẽ bởi bác sĩ sản phụ khoa giàu kinh nghiệm và chuẩn bị sẵn sàng phòng mổ cho trường hợp khẩn cấp.",
+          "en": "Subsequent pregnancy counseling: Detailed documentation of prior inversion is imperative; subsequent third-stage labor management must be actively conducted by senior obstetricians with surgical teams immediately on standby."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. HƯỚNG DẪN HIỆP HỘI & TÀI LIỆU THAM KHẢO CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "5. SOCIETY GUIDELINES & ACADEMIC REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-009-ref-1",
+      "sentences": [
+        {
+          "id": "s-009-30",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol 2017; 130(4): e168-e186. Reaffirmed 2024.",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Postpartum Hemorrhage. Obstet Gynecol 2017; 130(4): e168-e186. Reaffirmed 2024."
+        },
+        {
+          "id": "s-009-31",
+          "vi": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Prevention and Management of Postpartum Haemorrhage. Green-top Guideline No. 52. BJOG 2016/2026.",
+          "en": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Prevention and Management of Postpartum Haemorrhage. Green-top Guideline No. 52. BJOG 2016/2026."
+        },
+        {
+          "id": "s-009-32",
+          "vi": "3. World Health Organization (WHO). WHO Guidelines for the Management of Postpartum Haemorrhage and Retained Placenta. Geneva: World Health Organization; 2012/2024.",
+          "en": "3. World Health Organization (WHO). WHO Guidelines for the Management of Postpartum Haemorrhage and Retained Placenta. Geneva: World Health Organization; 2012/2024."
+        },
+        {
+          "id": "s-009-33",
+          "vi": "4. Johnson AB. A New Concept in the Replacement of the Inverted Uterus and a Report of Nine Cases. Am J Obstet Gynecol 1949; 57(3): 557-562.",
+          "en": "4. Johnson AB. A New Concept in the Replacement of the Inverted Uterus and a Report of Nine Cases. Am J Obstet Gynecol 1949; 57(3): 557-562."
+        },
+        {
+          "id": "s-009-34",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản: Xử trí lộn tử cung cấp tính sau đẻ. Quyết định số 4128/QĐ-BYT.",
+          "en": "5. Ministry of Health of Vietnam. National Guidelines for Reproductive Health Care: Management of Acute Postpartum Uterine Inversion. Decision No. 4128/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Lộn tử cung cấp tính sau sinh",
+      "term_en": "Acute Uterine Inversion",
+      "phonetic": "/əˈkjuːt ˈjuːtəraɪn ɪnˈvɜːrʒən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/inversion--_us_1.mp3",
+      "definition_vi": "Tình trạng đáy tử cung lộn ngược vào trong lòng tử cung hoặc tụt hẳn ra ngoài âm đạo ngay sau khi sinh con.",
+      "definition_en": "Collapse and invagination of the fundus into the uterine cavity or prolapsing completely through the vagina post-delivery."
+    },
+    {
+      "term_vi": "Thủ thuật Johnson",
+      "term_en": "Johnson Maneuver",
+      "phonetic": "/ˈdʒɒnsən məˈnuːvər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/maneuver--_us_1.mp3",
+      "definition_vi": "Kỹ thuật dùng lòng bàn tay ôm đáy tử cung lộn ngược đẩy theo trục âm đạo hướng về phía rốn để hoàn hồi tử cung.",
+      "definition_en": "Manual repositioning technique cupping the inverted fundus in the palm and elevating it toward the umbilicus to restore anatomy."
+    },
+    {
+      "term_vi": "Vòng thắt cổ tử cung",
+      "term_en": "Constriction Ring",
+      "phonetic": "/kənˈstrɪkʃən rɪŋ/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/constriction--_us_1.mp3",
+      "definition_vi": "Vòng cơ cổ tử cung co cứng thắt nghẹt quanh đáy tử cung lộn, cản trở việc nắn hoàn hồi bằng tay.",
+      "definition_en": "Spastic muscular band of the cervix clamping tightly around the inverted fundus, impeding manual reduction."
+    },
+    {
+      "term_vi": "Sốc thần kinh phản xạ",
+      "term_en": "Neurogenic Shock",
+      "phonetic": "/ˌnjʊəroʊˈdʒɛnɪk ʃɒk/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/shock--_us_1.mp3",
+      "definition_vi": "Tình trạng tụt huyết áp và chậm nhịp tim nghịch thường do căng kéo thụ thể phó giao cảm dây chằng rộng trong lộn tử cung.",
+      "definition_en": "Severe hypotension and paradoxical bradycardia triggered by visceral parasympathetic peritoneal stretch reflexes."
+    },
+    {
+      "term_vi": "Phẫu thuật Huntington",
+      "term_en": "Huntington Procedure",
+      "phonetic": "/ˈhʌntɪŋtən prəˈsiːdʒər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/procedure--_us_1.mp3",
+      "definition_vi": "Phẫu thuật mở bụng kẹp kéo dần từng nấc đáy tử cung lên trên ổ bụng để giải quyết lộn tử cung thất bại qua đường dưới.",
+      "definition_en": "Abdominal surgical correction applying progressive clamp traction to the inverted fundus to elevate it from the constriction ring."
+    }
+  ]
+}

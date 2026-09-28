@@ -1,0 +1,583 @@
+{
+  "id": "maternal-sepsis-septic-shock-bundle-2026",
+  "slug": "maternal-sepsis-septic-shock-bundle-2026",
+  "title": {
+    "vi": "Nhiễm Trùng Huyết Thai Kỳ, Sốc Nhiễm Khuẩn & Gói Can Thiệp 1 Giờ Đầu — Hướng Dẫn SMFM / Surviving Sepsis Campaign 2026",
+    "en": "Maternal Sepsis, Septic Shock and The Hour-1 Bundle Protocol — SMFM & Surviving Sepsis Campaign Clinical Guideline 2026"
+  },
+  "title_vi": "Nhiễm Trùng Huyết Thai Kỳ, Sốc Nhiễm Khuẩn & Gói Can Thiệp 1 Giờ Đầu — Hướng Dẫn SMFM / Surviving Sepsis Campaign 2026",
+  "title_en": "Maternal Sepsis, Septic Shock and The Hour-1 Bundle Protocol — SMFM & Surviving Sepsis Campaign Clinical Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Hồi sinh",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "SMFM Consult Series #51: Maternal Sepsis (Update 2024/2026)",
+    "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock",
+    "ACOG Practice Bulletin No. 211: Critical Care in Pregnancy",
+    "Bộ Y Tế Việt Nam: Hướng dẫn chẩn đoán và điều trị sốc nhiễm khuẩn trong sản phụ khoa"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-008",
+    "doi": "https://doi.org/10.1016/j.ajog.2019.01.218",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về SMFM và Surviving Sepsis Campaign. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-sum-1",
+      "sentences": [
+        {
+          "id": "s-008-1",
+          "vi": "Nhiễm trùng huyết thai kỳ (Maternal Sepsis) là tình trạng rối loạn chức năng cơ quan đe dọa trực tiếp tính mạng do đáp ứng mất điều hòa của cơ thể mẹ trước tình trạng nhiễm trùng trong quá trình mang thai, chuyển dạ hoặc trong thời kỳ hậu sản.",
+          "en": "Maternal sepsis is a life-threatening organ dysfunction caused by a dysregulated maternal host response to infection during pregnancy, childbirth, or the postpartum period."
+        },
+        {
+          "id": "s-008-2",
+          "vi": "Khác biệt căn bản với bệnh nhân không mang thai: Các biến đổi sinh lý học bình thường trong thai kỳ (như nhịp tim nhanh cơ bản, giảm sức cản mạch máu hệ thống, tăng cung lượng tim, hạ huyết áp sinh lý nhẹ và tăng bạch cầu trung tính) rất dễ làm lu mờ hoặc che giấu các dấu hiệu cảnh báo sớm của suy giảm tuần hoàn do nhiễm trùng.",
+          "en": "Fundamental difference from non-pregnant individuals: Normal maternal physiological adaptations (baseline tachycardia, reduced systemic vascular resistance, increased cardiac output, physiologic hypotension, and neutrophilic leukocytosis) frequently mask or delay early clinical recognition of septic circulatory compromise."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-sum-2",
+      "sentences": [
+        {
+          "id": "s-008-3",
+          "vi": "Thang điểm cảnh báo sớm sản khoa cải tiến (Modified Obstetric Early Warning System - MEOWS) hoặc Thang điểm Sepsis Sản khoa (Obstetric Sepsis Score - S.O.S) phải được áp dụng ngay tại phòng sinh và khoa sản để phát hiện sớm các trường hợp nghi ngờ nhiễm trùng huyết chuyển nặng.",
+          "en": "The Modified Obstetric Early Warning System (MEOWS) or Sepsis in Obstetrics Score (S.O.S) must be systematically deployed in labor and postpartum wards to facilitate prompt detection of occult septic deterioration."
+        },
+        {
+          "id": "s-008-4",
+          "vi": "Gói can thiệp Sepsis 1 Giờ Đầu (Hour-1 Bundle) là mệnh lệnh lâm sàng bắt buộc: Phải hoàn tất 5 bước gồm đo lactate máu ban đầu, cấy máu trước khi dùng kháng sinh, truyền kháng sinh phổ rộng đường tĩnh mạch trong vòng 60 phút, truyền nhanh dịch tinh thể đẳng trương 30 mL/kg nếu có hạ huyết áp hoặc lactate >= 4 mmol/L, và khởi động sớm thuốc vận mạch Norepinephrine để duy trì huyết áp động mạch trung bình (MAP) >= 65 mmHg.",
+          "en": "The Hour-1 Sepsis Bundle is an urgent clinical imperative: Complete 5 core interventions including initial lactate measurement, blood cultures prior to antibiotics, empiric broad-spectrum IV antibiotics within 60 minutes, rapid crystalloid resuscitation of 30 mL/kg for hypotension or lactate >= 4 mmol/L, and prompt Norepinephrine titration to sustain mean arterial pressure (MAP) >= 65 mmHg."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN VI SINH & CHẨN ĐOÁN XÁC ĐỊNH (ETIOLOGY & DIAGNOSTIC CRITERIA)",
+      "en": "2. MICROBIOLOGICAL ETIOLOGY & DIAGNOSTIC CRITERIA"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-etio-1",
+      "sentences": [
+        {
+          "id": "s-008-5",
+          "vi": "Các ổ nhiễm trùng nguyên phát thường gặp nhất trong sản khoa bao gồm: Viêm màng ối và nhiễm trùng ối trong chuyển dạ (Intraamniotic infection / Chorioamnionitis), viêm nội mạc tử cung hậu sản (Postpartum endometritis), nhiễm khuẩn huyết sau mổ lấy thai hoặc rách tầng sinh môn, viêm đài bể thận cấp thai kỳ (Pyelonephritis), viêm phổi hít hoặc cúm nặng, và nhiễm trùng mô mềm vùng chậu do liên cầu khuẩn nhóm A (Streptococcus pyogenes - GAS).",
+          "en": "The most frequent primary septic foci in obstetrics encompass intraamniotic infection (chorioamnionitis), postpartum endometritis, wound or perineal infection following cesarean delivery or lacerations, acute pyelonephritis of pregnancy, aspiration pneumonia or severe viral illness, and fulminant pelvic soft-tissue necrosis secondary to Group A Streptococcus (GAS, Streptococcus pyogenes)."
+        },
+        {
+          "id": "s-008-6",
+          "vi": "Liên cầu khuẩn nhóm A (Group A Streptococcus) đặc biệt nguy hiểm và có độc lực cực cao trong thời kỳ hậu sản, có khả năng sản xuất ngoại độc tố gây hoại tử mô lan rộng và sốc nhiễm khuẩn tối cấp chỉ trong vài giờ sau sinh mà không biểu hiện sốt cao điển hình ban đầu.",
+          "en": "Group A Streptococcus carries exceptional virulence in the puerperium, producing pyrogenic exotoxins that provoke fulminant necrotizing pelvic soft tissue destruction and catastrophic septic shock within hours of delivery, frequently devoid of initial high fevers."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-diag-1",
+      "sentences": [
+        {
+          "id": "s-008-7",
+          "vi": "Chẩn đoán xác định Sốc nhiễm khuẩn (Septic Shock) được thiết lập khi sản phụ có nhiễm trùng huyết kèm theo tình trạng tụt huyết áp kéo dài cần duy trì thuốc vận mạch để giữ MAP >= 65 mmHg và nồng độ lactate huyết thanh > 2 mmol/L (18 mg/dL) dù đã được hồi sức bù đủ thể tích dịch tinh thể.",
+          "en": "A definitive diagnosis of septic shock is established when maternal sepsis features persistent hypotension requiring vasopressors to maintain a MAP >= 65 mmHg and a serum lactate level > 2 mmol/L (18 mg/dL) despite adequate crystalloid volume resuscitation."
+        },
+        {
+          "id": "s-008-8",
+          "vi": "Đánh giá rối loạn chức năng cơ quan đích theo tiêu chuẩn SOFA biến đổi cho sản khoa (Obstetric Modified SOFA Score): Giảm tỷ lệ PaO2/FiO2 < 300, giảm tiểu cầu < 100,000/uL, tăng Bilirubin toàn phần > 35 umol/L, tăng Creatinine huyết thanh > 1.2 mg/dL (> 106 umol/L, lưu ý mức bình thường ở thai phụ thấp hơn người thường khoảng 0.4-0.8 mg/dL), và rối loạn tri giác cấp tính.",
+          "en": "Target organ dysfunction assessment per obstetric-modified SOFA criteria includes: PaO2/FiO2 ratio < 300, thrombocytopenia with platelet count < 100,000/uL, hyperbilirubinemia with total bilirubin > 35 umol/L, serum creatinine elevation > 1.2 mg/dL (> 106 umol/L; noting normal pregnancy baseline is lowered to 0.4-0.8 mg/dL), and acute altered maternal mental status."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-008-sos",
+      "caption_vi": "Bảng 1: Thang điểm Đánh giá Sepsis Sản khoa Cải tiến (Obstetric Sepsis Score - S.O.S)",
+      "caption_en": "Table 1: Obstetric-Modified Sepsis Score (Sepsis in Obstetrics Score - S.O.S)",
+      "headers": [
+        {
+          "vi": "Thông số Sinh hiệu & Xét nghiệm",
+          "en": "Clinical Parameter"
+        },
+        {
+          "vi": "Ngưỡng Cảnh báo Lâm sàng (0 Điểm)",
+          "en": "Normal Range (0 Pts)"
+        },
+        {
+          "vi": "Ngưỡng Báo động Sản khoa (+1 đến +3 Điểm)",
+          "en": "Abnormal Trigger (+1 to +3 Pts)"
+        },
+        {
+          "vi": "Ý nghĩa Hành động Lâm sàng",
+          "en": "Clinical Management Action"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Nhiệt độ cơ thể (°C)",
+            "en": "Body Temperature (°C)"
+          },
+          {
+            "vi": "36.0 – 37.9 °C",
+            "en": "36.0 – 37.9 °C"
+          },
+          {
+            "vi": "< 36.0 °C hoặc >= 38.5 °C (+1) / >= 39.0 °C (+2)",
+            "en": "< 36.0 °C or >= 38.5 °C (+1) / >= 39.0 °C (+2)"
+          },
+          {
+            "vi": "Hạ thân nhiệt < 36°C là dấu hiệu sốc nặng nguy hiểm hơn sốt cao",
+            "en": "Hypothermia < 36°C heralds decompensated shock with worse prognosis"
+          }
+        ],
+        [
+          {
+            "vi": "Huyết áp tâm thu (mmHg)",
+            "en": "Systolic Blood Pressure (mmHg)"
+          },
+          {
+            "vi": "100 – 139 mmHg",
+            "en": "100 – 139 mmHg"
+          },
+          {
+            "vi": "90 – 99 mmHg (+1) / < 90 mmHg (+2) / < 70 mmHg (+3)",
+            "en": "90 – 99 mmHg (+1) / < 90 mmHg (+2) / < 70 mmHg (+3)"
+          },
+          {
+            "vi": "Tụt HA < 90 mmHg: Bù dịch tinh thể 30 mL/kg và chuẩn bị vận mạch",
+            "en": "SBP < 90: Rapid 30 mL/kg fluid load and prepare early vasopressors"
+          }
+        ],
+        [
+          {
+            "vi": "Nhịp tim mẹ (lần/phút)",
+            "en": "Maternal Heart Rate (bpm)"
+          },
+          {
+            "vi": "60 – 100 lần/phút",
+            "en": "60 – 100 bpm"
+          },
+          {
+            "vi": "101 – 119 l/p (+1) / 120 – 139 l/p (+2) / >= 140 l/p (+3)",
+            "en": "101 – 119 (+1) / 120 – 139 (+2) / >= 140 bpm (+3)"
+          },
+          {
+            "vi": "Nhịp tim nhanh trơ với bù dịch phản ánh giãn mạch hệ thống nặng",
+            "en": "Persistent tachycardia refractory to fluids indicates severe vasoplegia"
+          }
+        ],
+        [
+          {
+            "vi": "Tần số thở (lần/phút)",
+            "en": "Respiratory Rate (breaths/min)"
+          },
+          {
+            "vi": "14 – 20 lần/phút",
+            "en": "14 – 20 bpm"
+          },
+          {
+            "vi": "21 – 25 l/p (+1) / 26 – 30 l/p (+2) / >= 31 l/p (+3)",
+            "en": "21 – 25 (+1) / 26 – 30 (+2) / >= 31 bpm (+3)"
+          },
+          {
+            "vi": "Thở nhanh > 25 l/p là dấu hiệu nhạy nhất của toan chuyển hóa tiềm ẩn",
+            "en": "Tachypnea > 25 bpm is the most sensitive early sign of occult metabolic acidosis"
+          }
+        ],
+        [
+          {
+            "vi": "Bạch cầu máu (G/L) & Dạng dải (%)",
+            "en": "Leukocyte Count (G/L) & Bands (%)"
+          },
+          {
+            "vi": "6.0 – 14.9 G/L",
+            "en": "6.0 – 14.9 G/L"
+          },
+          {
+            "vi": "15.0 – 19.9 G/L (+1) / >= 20.0 G/L (+2) / Chuyển trái > 10% dải (+2)",
+            "en": "15.0 – 19.9 (+1) / >= 20.0 (+2) / Bandemia > 10% (+2)"
+          },
+          {
+            "vi": "Bạch cầu > 20 G/L ngoài chuyển dạ hoặc < 4 G/L gợi ý nhiễm trùng tối cấp",
+            "en": "WBC > 20 G/L outside labor or < 4 G/L denotes fulminant sepsis"
+          }
+        ],
+        [
+          {
+            "vi": "Lactate máu (mmol/L)",
+            "en": "Serum Lactate (mmol/L)"
+          },
+          {
+            "vi": "< 2.0 mmol/L",
+            "en": "< 2.0 mmol/L"
+          },
+          {
+            "vi": "2.0 – 3.9 mmol/L (+2) / >= 4.0 mmol/L (+3)",
+            "en": "2.0 – 3.9 (+2) / >= 4.0 mmol/L (+3)"
+          },
+          {
+            "vi": "Lactate >= 4.0 mmol/L: Thiếu oxy mô nghiêm trọng, kích hoạt mã đỏ hồi sức",
+            "en": "Lactate >= 4.0 mmol/L: Profound cellular hypoxia, trigger code red sepsis"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. PHÁC ĐỒ XỬ TRÍ KHẨN CẤP & GÓI CẤP CỨU SEPSIS 1 GIỜ ĐẦU (HOUR-1 BUNDLE MANAGEMENT)",
+      "en": "3. EMERGENCY MANAGEMENT & THE HOUR-1 SEPSIS BUNDLE PROTOCOL"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-bundle-1",
+      "sentences": [
+        {
+          "id": "s-008-9",
+          "vi": "Gói cấp cứu Sepsis 1 Giờ Đầu (Hour-1 Bundle) phải được kích hoạt ngay thời điểm phát hiện nghi ngờ nhiễm trùng huyết, không chờ đợi kết quả xét nghiệm khẳng định vi sinh:",
+          "en": "The Hour-1 Sepsis Bundle must be immediately executed upon recognizing suspected sepsis without awaiting confirmatory microbiologic cultures:"
+        },
+        {
+          "id": "s-008-10",
+          "vi": "Bước 1 — Đo nồng độ Lactate máu: Đo ngay bằng khí máu động mạch hoặc lactate tại giường. Nếu lactate ban đầu > 2 mmol/L, cần đo lại sau mỗi 2–4 giờ để theo dõi động học thanh thải lactate nhằm đánh giá đáp ứng hồi sức mô.",
+          "en": "Step 1 — Measure Serum Lactate: Obtain urgent point-of-care or arterial lactate. If initial lactate exceeds 2 mmol/L, remeasure serially every 2–4 hours to guide resuscitation efficacy based on lactate clearance kinetics."
+        },
+        {
+          "id": "s-008-11",
+          "vi": "Bước 2 — Cấy máu và bệnh phẩm trước khi cho kháng sinh: Lấy ít nhất 2 bộ cấy máu (mỗi bộ gồm 1 chai hiếu khí và 1 chai kỵ khí, lấy từ 2 vị trí tĩnh mạch khác nhau) kèm theo cấy nước tiểu, dịch ối hoặc dịch mủ vết mổ. Tuy nhiên, việc lấy bệnh phẩm không được làm trì hoãn thời gian tiêm kháng sinh quá 45 phút.",
+          "en": "Step 2 — Obtain Blood and Site Cultures Prior to Antimicrobials: Draw at least 2 blood culture sets (aerobic and anaerobic bottles from distinct venipuncture sites) alongside catheter urine, amniotic fluid, or wound exudates; culturing procedures must not delay antibiotic administration past 45 minutes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-bundle-2",
+      "sentences": [
+        {
+          "id": "s-008-12",
+          "vi": "Bước 3 — Kháng sinh tĩnh mạch phổ rộng trong vòng 60 phút: Sử dụng ngay phác đồ kháng sinh phổ rộng bao phủ vi khuẩn Gram dương, Gram âm và kỵ khí. Lựa chọn hàng đầu cho nhiễm trùng đường sinh dục hoặc ổ bụng: Ampicillin 2 g tiêm tĩnh mạch mỗi 6 giờ phối hợp Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ và Clindamycin 900 mg tiêm tĩnh mạch mỗi 8 giờ (hoặc Metronidazole 500 mg mỗi 8 giờ).",
+          "en": "Step 3 — Administer Broad-Spectrum IV Antibiotics Within 60 Minutes: Infuse empiric coverage against Gram-positive, Gram-negative, and anaerobic pathogens. First-line for chorioamnionitis or endometritis: IV Ampicillin 2 g q6h plus IV Gentamicin 5 mg/kg once daily plus IV Clindamycin 900 mg q8h (or IV Metronidazole 500 mg q8h)."
+        },
+        {
+          "id": "s-008-13",
+          "vi": "Nếu nghi ngờ nhiễm trùng đường vào từ da, vết mổ có tụ cầu kháng Methicillin (MRSA) hoặc nghi ngờ sốc độc tố do liên cầu GAS: Bổ sung Vancomycin truyền tĩnh mạch liều tải 25–30 mg/kg (tối đa 2 g, duy trì 15–20 mg/kg mỗi 8–12 giờ) và Clindamycin 900 mg mỗi 8 giờ (Clindamycin có tác dụng ức chế trực tiếp quá trình tổng hợp ngoại độc tố vi khuẩn tại ribosome). Nếu nghi ngờ trực khuẩn mủ xanh (Pseudomonas) hoặc nhiễm khuẩn bệnh viện nặng: Thay bằng Piperacillin-Tazobactam 4.5 g tiêm tĩnh mạch mỗi 6 giờ hoặc Meropenem 1 g tiêm tĩnh mạch mỗi 8 giờ.",
+          "en": "When MRSA or fulminant Group A Strep toxic shock is suspected: Add IV Vancomycin loading dose 25–30 mg/kg (max 2 g, maintenance 15–20 mg/kg q8-12h) plus IV Clindamycin 900 mg q8h (which exerts potent ribosomal antitoxin suppression). For nosocomial or Pseudomonas risks: Utilize Piperacillin-Tazobactam 4.5 g q6h or Meropenem 1 g q8h."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-bundle-3",
+      "sentences": [
+        {
+          "id": "s-008-14",
+          "vi": "Bước 4 — Hồi sức dịch tinh thể 30 mL/kg tĩnh mạch nhanh: Chỉ định cho sản phụ có hạ huyết áp (Huyết áp tâm thu < 90 mmHg hoặc MAP < 65 mmHg) hoặc nồng độ Lactate máu >= 4 mmol/L. Ưu tiên sử dụng dung dịch tinh thể cân bằng (Balanced Crystalloids như Ringer Lactate hoặc Plasma-Lyte) thay vì Natri Clorid 0.9% để giảm nguy cơ toan chuyển hóa tăng clo máu và tổn thương thận cấp.",
+          "en": "Step 4 — Rapid IV Crystalloid Resuscitation at 30 mL/kg: Mandatory for patients presenting with hypotension (SBP < 90 mmHg or MAP < 65 mmHg) or serum lactate >= 4 mmol/L. Prioritize balanced crystalloids (Lactated Ringer's or Plasma-Lyte) over normal saline 0.9% to mitigate hyperchloremic metabolic acidosis and acute kidney injury risks."
+        },
+        {
+          "id": "s-008-15",
+          "vi": "Lưu ý an toàn sản khoa đặc thù: Phải theo dõi sát thính chẩn phổi và SpO2 để phát hiện sớm phù phổi cấp (Pulmonary Edema), do thai phụ có áp lực keo huyết tương giảm sinh lý và tăng tính thấm thành mạch mao mạch phổi trong nhiễm trùng.",
+          "en": "Crucial obstetric safety caution: Frequently auscultate lung fields and track SpO2 to detect early pulmonary edema, given lowered baseline colloid oncotic pressure and heightened alveolar-capillary permeability in septic pregnancy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-bundle-4",
+      "sentences": [
+        {
+          "id": "s-008-16",
+          "vi": "Bước 5 — Sử dụng sớm thuốc vận mạch Norepinephrine: Nếu huyết áp động mạch trung bình (MAP) không đạt >= 65 mmHg trong hoặc ngay sau khi truyền dịch, phải khởi động ngay Norepinephrine qua đường truyền tĩnh mạch trung tâm (hoặc tĩnh mạch ngoại vi lớn tạm thời trong lúc đặt catheter trung tâm) với liều khởi đầu 0.05–0.1 mcg/kg/phút và chỉnh liều nhanh mỗi 5–10 phút để đạt mục tiêu MAP >= 65 mmHg.",
+          "en": "Step 5 — Prompt Norepinephrine Titration: If MAP fails to reach >= 65 mmHg during or immediately after fluid loading, immediately initiate Norepinephrine via central venous access (or large-bore peripheral vein bridging) at 0.05–0.1 mcg/kg/min, titrating every 5–10 minutes to sustain MAP >= 65 mmHg."
+        },
+        {
+          "id": "s-008-17",
+          "vi": "Nếu huyết áp vẫn trơ với Norepinephrine liều cao (> 0.25 mcg/kg/phút): Phối hợp thêm Vasopressin truyền tĩnh mạch liên tục liều cố định 0.03 UI/phút để phục hồi trương lực mạch và bổ sung Hydrocortisone 200 mg/ngày tiêm tĩnh mạch (chia 50 mg mỗi 6 giờ) trong sốc nhiễm khuẩn kháng trị.",
+          "en": "If refractory to high-dose Norepinephrine (> 0.25 mcg/kg/min): Add fixed-dose IV Vasopressin at 0.03 units/min to restore systemic vascular tone, and initiate stress-dose IV Hydrocortisone 200 mg/day (50 mg q6h) for vasopressor-refractory shock."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "table-008-drugs",
+      "caption_vi": "Bảng 2: Danh Mục Thuốc Vận Mạch & Kháng Sinh Trọng Yếu Trong Sốc Nhiễm Khuẩn Thai Kỳ",
+      "caption_en": "Table 2: Critical Vasopressors and Empiric Antimicrobial Regimens in Obstetric Septic Shock",
+      "headers": [
+        {
+          "vi": "Thuốc & Nhóm Điều Trị",
+          "en": "Medication & Class"
+        },
+        {
+          "vi": "Liều Dùng & Đường Dùng Lâm Sàng",
+          "en": "Dosage & Route"
+        },
+        {
+          "vi": "Mục Tiêu Điều Trị",
+          "en": "Therapeutic Target"
+        },
+        {
+          "vi": "Lưu Ý An Toàn & Độc Tính",
+          "en": "Safety & Toxicities"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Norepinephrine (Noradrenalin)",
+            "en": "Norepinephrine"
+          },
+          {
+            "vi": "0.05 – 0.5 mcg/kg/phút truyền tĩnh mạch liên tục",
+            "en": "0.05 – 0.5 mcg/kg/min continuous IV infusion"
+          },
+          {
+            "vi": "Vận mạch đầu tay, co mạch ngoại vi nâng MAP >= 65 mmHg",
+            "en": "First-line vasopressor to restore vascular tone and MAP >= 65 mmHg"
+          },
+          {
+            "vi": "Ưu tiên truyền catheter tĩnh mạch trung tâm để tránh hoại tử mô ngoại vi",
+            "en": "Central line mandatory to prevent peripheral extravasation necrosis"
+          }
+        ],
+        [
+          {
+            "vi": "Vasopressin",
+            "en": "Vasopressin"
+          },
+          {
+            "vi": "0.03 UI/phút truyền tĩnh mạch cố định (không chỉnh liều)",
+            "en": "0.03 units/min fixed IV infusion (no titration)"
+          },
+          {
+            "vi": "Thuốc vận mạch phối hợp bậc 2 khi cần giảm liều Norepinephrine",
+            "en": "Second-line adjunct to reduce catecholamine requirements"
+          },
+          {
+            "vi": "Không bolus; theo dõi co thắt mạch vành và tưới máu đầu chi",
+            "en": "Do not bolus; monitor for digital ischemia and coronary vasoconstriction"
+          }
+        ],
+        [
+          {
+            "vi": "Ampicillin",
+            "en": "Ampicillin"
+          },
+          {
+            "vi": "2 g tiêm tĩnh mạch chậm mỗi 6 giờ",
+            "en": "2 g IV slow push q6h"
+          },
+          {
+            "vi": "Diệt khuẩn Streptococcus nhóm B, Enterococcus, Listeria monocytogenes",
+            "en": "Bactericidal coverage for GBS, Enterococcus, and Listeria monocytogenes"
+          },
+          {
+            "vi": "Kiểm tra tiền sử dị ứng Penicillin và sốc phản vệ",
+            "en": "Screen strictly for penicillin hypersensitivity and anaphylaxis history"
+          }
+        ],
+        [
+          {
+            "vi": "Gentamicin",
+            "en": "Gentamicin"
+          },
+          {
+            "vi": "5 mg/kg truyền tĩnh mạch mỗi 24 giờ (hoặc 1.5 mg/kg mỗi 8 giờ)",
+            "en": "5 mg/kg IV once daily (or 1.5 mg/kg q8h)"
+          },
+          {
+            "vi": "Bao phủ trực khuẩn Gram âm đường ruột (E. coli, Klebsiella)",
+            "en": "Potent bactericidal coverage against Gram-negative coliforms"
+          },
+          {
+            "vi": "Độc tính thận và tai; chỉnh liều theo thanh thải Creatinine",
+            "en": "Nephrotoxic and ototoxic; adjust dose strictly per renal clearance"
+          }
+        ],
+        [
+          {
+            "vi": "Clindamycin",
+            "en": "Clindamycin"
+          },
+          {
+            "vi": "900 mg truyền tĩnh mạch mỗi 8 giờ",
+            "en": "900 mg IV infusion q8h"
+          },
+          {
+            "vi": "Bao phủ kỵ khí vùng chậu và ức chế sinh ngoại độc tố GAS",
+            "en": "Potent pelvic anaerobic coverage and GAS exotoxin ribosomal suppression"
+          },
+          {
+            "vi": "Cảnh giác viêm đại tràng giả mạc do Clostridioides difficile",
+            "en": "Monitor for pseudomembranous colitis secondary to C. difficile"
+          }
+        ],
+        [
+          {
+            "vi": "Piperacillin-Tazobactam",
+            "en": "Piperacillin-Tazobactam"
+          },
+          {
+            "vi": "4.5 g truyền tĩnh mạch trong 30 phút mỗi 6 giờ",
+            "en": "4.5 g IV infusion over 30 min q6h"
+          },
+          {
+            "vi": "Kháng sinh phổ rộng mở rộng bao phủ Pseudomonas và nhiễm khuẩn bệnh viện",
+            "en": "Extended-spectrum coverage for Pseudomonas and nosocomial sepsis"
+          },
+          {
+            "vi": "Điều chỉnh liều khi suy thận; tương tác tăng độc tính với Vancomycin",
+            "en": "Dose adjustment in renal impairment; synergy nephrotoxicity with vancomycin"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-source-1",
+      "sentences": [
+        {
+          "id": "s-008-18",
+          "vi": "Kiểm soát triệt để ổ nhiễm trùng (Source Control): Đây là điều kiện tiên quyết quyết định sống còn của sản phụ. Nếu chẩn đoán viêm màng ối hoặc nhiễm trùng ối trong tử cung, việc chấm dứt thai kỳ là biện pháp kiểm soát ổ nhiễm duy nhất hiệu quả, bất kể tuổi thai.",
+          "en": "Definitive source control is the paramount determinant of maternal survival: In established intraamniotic infection, delivery of the fetus and placenta represents the definitive source control intervention, regardless of gestational age."
+        },
+        {
+          "id": "s-008-19",
+          "vi": "Nếu có áp xe vùng chậu, ứ mủ buồng tử cung hoặc tụ dịch hoại tử vết mổ: Phải tiến hành dẫn lưu ngoại khoa khẩn cấp hoặc phẫu thuật làm sạch mô hoại tử trong vòng 6–12 giờ kể từ khi phát hiện.",
+          "en": "In the presence of pelvic abscess, pyometra, or necrotizing surgical site infection: Urgent surgical drainage or radical tissue debridement must be accomplished within 6 to 12 hours of recognition."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. BIẾN CHỨNG NGUY HIỂM, TIÊN LƯỢNG CHU SINH & PHỤC HỒI (COMPLICATIONS & PERINATAL PROGNOSIS)",
+      "en": "4. SEVERE COMPLICATIONS, PERINATAL PROGNOSIS & POST-INTENSIVE RECOVERY"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-comp-1",
+      "sentences": [
+        {
+          "id": "s-008-20",
+          "vi": "Hội chứng suy hô hấp cấp tiến triển (ARDS): Là biến chứng phổi thường gặp nhất trong sốc nhiễm khuẩn thai kỳ, khởi phát do độc tố vi khuẩn kích hoạt phản ứng viêm toàn thân phá hủy màng phế nang - mao mạch. Điều trị đòi hỏi thở máy bảo vệ phổi với thể tích khí lưu thông thấp 6 mL/kg trọng lượng lý tưởng và áp lực đẩy (driving pressure) < 15 cmH2O.",
+          "en": "Acute Respiratory Distress Syndrome (ARDS) represents the most common pulmonary catastrophe in maternal septic shock, driven by endotoxin-mediated systemic inflammatory destruction of the alveolar-capillary barrier. Management necessitates lung-protective mechanical ventilation with low tidal volumes (6 mL/kg ideal body weight) and driving pressures < 15 cmH2O."
+        },
+        {
+          "id": "s-008-21",
+          "vi": "Đông máu nội mạch rải rác (DIC) và Tổn thương thận cấp (AKI): Tình trạng tiêu thụ ồ ạt yếu tố đông máu dẫn tới xuất huyết đa cơ quan kết hợp hoại tử ống thận cấp do giảm tưới máu thận kéo dài. Tỷ lệ tử vong mẹ tăng vọt lên tới 30–50% khi sốc nhiễm khuẩn kèm theo suy từ 2 cơ quan đích trở lên.",
+          "en": "Disseminated Intravascular Coagulation (DIC) and Acute Kidney Injury (AKI): Massive consumption of coagulation factors provokes diffuse bleeding alongside ischemic acute tubular necrosis from prolonged renal hypoperfusion. Maternal mortality exceeds 30–50% when septic shock is compounded by multisystem organ failure involving >= 2 organ systems."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-comp-2",
+      "sentences": [
+        {
+          "id": "s-008-22",
+          "vi": "Tiên lượng và kết cục đối với thai nhi: Nhiễm trùng huyết nặng gây giảm lưu lượng máu tưới qua hồ huyết bánh nhau, gây toan hóa máu thai, suy thai cấp tính trong tử cung và tăng nguy cơ thai chết lưu hoặc tổn thương não vĩnh viễn (bại não, nhuyễn hóa chất trắng quanh não thất PVL).",
+          "en": "Perinatal prognosis and fetal outcomes: Severe maternal sepsis drastically diminishes uteroplacental perfusion, causing profound fetal acidemia, acute intrapartum distress, stillbirth, or permanent neurodevelopmental injury (cerebral palsy and periventricular leukomalacia)."
+        },
+        {
+          "id": "s-008-23",
+          "vi": "Thời điểm mổ lấy thai cấp cứu: Không nên vội vã mổ lấy thai trong lúc mẹ đang tụt huyết áp chưa được hồi sức ban đầu. Hồi sức huyết động mẹ ổn định bằng dịch và thuốc vận mạch trước sẽ cải thiện đáng kể lưu lượng máu tử cung - rau và tăng độ an toàn trong phẫu thuật.",
+          "en": "Timing of emergency cesarean: Immediate crash cesarean should not be performed while the mother is profoundly hypotensive and unresuscitated. Initial hemodynamic stabilization with fluids and vasopressors markedly restores uteroplacental blood flow and improves operative surgical survival."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. HƯỚNG DẪN HIỆP HỘI & TÀI LIỆU THAM KHẢO CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "5. SOCIETY GUIDELINES & ACADEMIC REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-008-ref-1",
+      "sentences": [
+        {
+          "id": "s-008-24",
+          "vi": "1. Society for Maternal-Fetal Medicine (SMFM). SMFM Consult Series #51: Maternal Sepsis. Am J Obstet Gynecol 2019; 220(4): B2-B10. DOI: 10.1016/j.ajog.2019.01.218.",
+          "en": "1. Society for Maternal-Fetal Medicine (SMFM). SMFM Consult Series #51: Maternal Sepsis. Am J Obstet Gynecol 2019; 220(4): B2-B10. DOI: 10.1016/j.ajog.2019.01.218."
+        },
+        {
+          "id": "s-008-25",
+          "vi": "2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021/2026. Intensive Care Med 2021; 47(11): 1181-1247. DOI: 10.1007/s00134-021-06506-8.",
+          "en": "2. Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021/2026. Intensive Care Med 2021; 47(11): 1181-1247. DOI: 10.1007/s00134-021-06506-8."
+        },
+        {
+          "id": "s-008-26",
+          "vi": "3. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 211: Critical Care in Pregnancy. Obstet Gynecol 2019; 133(5): e303-e319. Reaffirmed 2024.",
+          "en": "3. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 211: Critical Care in Pregnancy. Obstet Gynecol 2019; 133(5): e303-e319. Reaffirmed 2024."
+        },
+        {
+          "id": "s-008-27",
+          "vi": "4. World Health Organization (WHO). Statement on Maternal Sepsis. WHO Guidelines Approved by the Guidelines Review Committee. Geneva: World Health Organization; 2017.",
+          "en": "4. World Health Organization (WHO). Statement on Maternal Sepsis. WHO Guidelines Approved by the Guidelines Review Committee. Geneva: World Health Organization; 2017."
+        },
+        {
+          "id": "s-008-28",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quy trình kỹ thuật chuyên ngành Phụ Sản: Hồi sức cấp cứu sốc nhiễm khuẩn trong sản khoa. Quyết định số 3982/QĐ-BYT.",
+          "en": "5. Ministry of Health of Vietnam. Technical Guidelines in Obstetrics and Gynecology: Emergency Resuscitation of Obstetric Septic Shock. Decision No. 3982/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Nhiễm trùng huyết thai kỳ",
+      "term_en": "Maternal Sepsis",
+      "phonetic": "/məˈtɜːrnəl ˈsɛpsɪs/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/sepsis--_us_1.mp3",
+      "definition_vi": "Rối loạn chức năng cơ quan đe dọa tính mạng do đáp ứng mất điều hòa của cơ thể mẹ trước tình trạng nhiễm trùng.",
+      "definition_en": "Life-threatening organ dysfunction caused by a dysregulated maternal host response to infection during gestation or postpartum."
+    },
+    {
+      "term_vi": "Sốc nhiễm khuẩn",
+      "term_en": "Septic Shock",
+      "phonetic": "/ˈsɛptɪk ʃɒk/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/shock--_us_1.mp3",
+      "definition_vi": "Phân nhóm nhiễm trùng huyết nặng có tụt huyết áp cần thuốc vận mạch để giữ MAP >= 65 mmHg và lactate > 2 mmol/L trơ với bù dịch.",
+      "definition_en": "Subset of sepsis with persistent hypotension requiring vasopressors for MAP >= 65 mmHg and lactate > 2 mmol/L despite fluids."
+    },
+    {
+      "term_vi": "Gói cấp cứu Sepsis 1 Giờ Đầu",
+      "term_en": "Hour-1 Sepsis Bundle",
+      "phonetic": "/ˈaʊər wʌn ˈsɛpsɪs ˈbʌndəl/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/bundle--_us_1.mp3",
+      "definition_vi": "Quy trình hồi sức khẩn cấp gồm đo lactate, cấy máu, kháng sinh phổ rộng, bù dịch 30 mL/kg và dùng vận mạch trong 60 phút đầu.",
+      "definition_en": "Urgent resuscitation protocol mandating lactate check, blood cultures, broad antibiotics, fluid bolus, and vasopressors within 60 minutes."
+    },
+    {
+      "term_vi": "Kiểm soát nguồn nhiễm trùng",
+      "term_en": "Source Control",
+      "phonetic": "/sɔːrs kənˈtroʊl/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/control--_us_1.mp3",
+      "definition_vi": "Biện pháp loại bỏ ổ nhiễm trùng thực thể như mổ lấy thai trong viêm màng ối, dẫn lưu áp xe hoặc cắt lọc mô hoại tử.",
+      "definition_en": "Physical elimination of septic foci via delivery in chorioamnionitis, abscess drainage, or necrotizing tissue debridement."
+    },
+    {
+      "term_vi": "Norepinephrine",
+      "term_en": "Norepinephrine",
+      "phonetic": "/ˌnɔːrˌɛpɪˈnɛfrɪn/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/norepinephrine--_us_1.mp3",
+      "definition_vi": "Thuốc vận mạch kích thích thụ thể alpha-1 adrenergic đầu tay để phục hồi trương lực mạch và nâng huyết áp động mạch trung bình.",
+      "definition_en": "First-line alpha-1 adrenergic vasopressor infused to restore systemic vascular resistance and sustain vital organ perfusion."
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "id": "uterine-rupture-damage-control-resuscitation-2026",
+  "slug": "uterine-rupture-damage-control-resuscitation-2026",
+  "title": {
+    "vi": "Vỡ Tử Cung Trong Chuyển Dạ & Phẫu Thuật Hồi Sức Kiểm Soát Thiệt Hại (Damage Control) — Hướng Dẫn Lâm Sàng RCOG / ACOG 2026",
+    "en": "Uterine Rupture in Labor and Obstetric Damage Control Resuscitation — RCOG & ACOG Clinical Practice Guideline 2026"
+  },
+  "title_vi": "Vỡ Tử Cung Trong Chuyển Dạ & Phẫu Thuật Hồi Sức Kiểm Soát Thiệt Hại (Damage Control) — Hướng Dẫn Lâm Sàng RCOG / ACOG 2026",
+  "title_en": "Uterine Rupture in Labor and Obstetric Damage Control Resuscitation — RCOG & ACOG Clinical Practice Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 205: Vaginal Birth After Cesarean Delivery (VBAC)",
+    "RCOG Green-top Guideline No. 45: Birth after Previous Caesarean Birth",
+    "FIGO Guidelines on Intrapartum Emergencies and Surgical Hemostasis",
+    "Bộ Y Tế Việt Nam: Hướng dẫn xử trí cấp cứu vỡ tử cung trong chuyển dạ"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-006",
+    "doi": "https://doi.org/10.1097/AOG.0000000000003078",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về ACOG và RCOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-sum-1",
+      "sentences": [
+        {
+          "id": "s-006-1",
+          "vi": "Vỡ tử cung (Uterine Rupture) trong chuyển dạ là một thảm họa sản khoa đe dọa trực tiếp tính mạng của cả người mẹ và thai nhi, đặc trưng bởi sự rách toác hoàn toàn toàn bộ bề dày thành tử cung và lớp phúc mạc bao phủ, làm buồng tử cung thông trực tiếp với ổ phúc mạc.",
+          "en": "Uterine rupture during labor is a catastrophic obstetric emergency threatening maternal and fetal survival, characterized by full-thickness disruption of all uterine wall layers including the visceral peritoneum, creating direct communication between the uterine cavity and peritoneal space."
+        },
+        {
+          "id": "s-006-2",
+          "vi": "Khuyến cáo 1 (Dấu hiệu tim thai là chỉ báo số 1): Biến đổi nhịp tim thai đột ngột trên CTG — đặc biệt là nhịp giảm biến đổi sâu kéo dài hoặc nhịp tim thai chậm kịch phát (< 90 lần/phút) — là dấu hiệu lâm sàng sớm nhất, phổ biến nhất và nhạy cảm nhất của vỡ tử cung (chiếm 70–80% các ca), xuất hiện trước khi sản phụ có biểu hiện đau bụng dữ dội hoặc tụt huyết áp (Grade 1A).",
+          "en": "Recommendation 1 (Fetal Heart Rate as Primary Sentinel Sign): Abrupt electronic fetal heart rate abnormalities on CTG — predominantly severe prolonged decelerations or terminal fetal bradycardia (< 90 bpm) — constitute the earliest, most frequent, and most sensitive sign of uterine rupture (present in 70–80% of cases), often preceding overt pain or maternal collapse (Grade 1A)."
+        },
+        {
+          "id": "s-006-3",
+          "vi": "Khuyến cáo 2 (Dừng ngay lập tức các thuốc tăng co): Khi nghi ngờ vỡ tử cung hoặc nứt vết mổ cũ, phải lập tức ngừng truyền Oxytocin hoặc tháo bỏ thuốc làm chín muồi cổ tử cung (Misoprostol / Dinoprostone) để tránh làm trầm trọng thêm vết rách toác cơ tử cung (Grade 1A).",
+          "en": "Recommendation 2 (Immediate Cessation of Uterotonics): Upon suspecting uterine rupture or dehiscence, instantly discontinue intravenous Oxytocin infusions or remove cervical ripening agents (Misoprostol / Dinoprostone) to prevent worsening tears and uncontrolled hemorrhage (Grade 1A)."
+        },
+        {
+          "id": "s-006-4",
+          "vi": "Khuyến cáo 3 (Mở bụng cấp cứu loại 1 tức thì): Mục tiêu thời gian từ lúc nhận diện lâm sàng đến khi rạch bụng lấy thai phải dưới 10–15 phút. Thai nhi bị tống xuất một phần hoặc toàn phần vào ổ phúc mạc sẽ bị ngạt não nghiêm trọng hoặc tử vong nếu không được đưa ra ngoài trong vòng 10–18 phút (Grade 1A).",
+          "en": "Recommendation 3 (Immediate Category 1 Laparotomy): The decision-to-incision interval must be under 10–15 minutes. A fetus extruded partially or completely into the peritoneal cavity suffers severe irreversible anoxic brain injury or death if not delivered within 10–18 minutes (Grade 1A)."
+        },
+        {
+          "id": "s-006-5",
+          "vi": "Khuyến cáo 4 (Bảo tồn tử cung vs Cắt tử cung kiểm soát thiệt hại): Nếu mép rách gọn, không tổn thương bó mạch tử cung và cầm máu tốt, phẫu thuật viên có thể khâu phục hồi cơ tử cung bảo tồn. Tuy nhiên, nếu vết rách phức tạp toác rộng xuống cổ tử cung hoặc dây chằng rộng, rách mạch máu tử cung gây sốc mất máu kháng trị hoặc có đông máu rải rác DIC, cắt tử cung bán phần hoặc toàn phần khẩn cấp là lựa chọn bắt buộc cứu sống người mẹ (Grade 1B).",
+          "en": "Recommendation 4 (Uterine Repair vs Damage Control Hysterectomy): If the laceration is linear with clean margins and the uterine arteries are intact, primary surgical repair is appropriate. However, if the tear is jagged, extends into the broad ligament or cervix, involves major vessel disruption, or incites refractory shock/DIC, emergent peripartum hysterectomy is mandatory to save maternal life (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & RISK FACTORS)",
+      "en": "2. ETIOLOGY & PATHOPHYSIOLOGY OF UTERINE RUPTURE"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-patho-1",
+      "sentences": [
+        {
+          "id": "s-006-6",
+          "vi": "Yếu tố nguy cơ hàng đầu của vỡ tử cung trong chuyển dạ là vết mổ cũ trên tử cung (chiếm > 90% các trường hợp), đặc biệt là sẹo mổ lấy thai trước đó, sẹo bóc u xơ tử cung thâm nhập vào buồng tử cung hoặc sẹo phẫu thuật tạo hình tử cung hai sừng. Nguy cơ vỡ tử cung ở sản phụ thử thách sinh ngả âm đạo sau mổ lấy thai (TOLAC) có 1 vết mổ ngang đoạn dưới là 0.5–0.7%, tăng lên 1.5–2.0% ở người có 2 vết mổ cũ, và vọt lên tới 4–9% nếu có vết mổ dọc thân tử cung kiểu cổ điển.",
+          "en": "The foremost predisposing risk factor for intrapartum uterine rupture is a pre-existing uterine scar (> 90% of cases), predominantly from prior cesarean delivery, transmural myomectomy breaching the cavity, or metroplasty. The risk during trial of labor after cesarean (TOLAC) with one prior low transverse scar is 0.5–0.7%, climbing to 1.5–2.0% with two prior scars, and surging to 4–9% with a prior classical vertical hysterotomy."
+        },
+        {
+          "id": "s-006-7",
+          "vi": "Vỡ tử cung trên tử cung không sẹo mổ cũ (Unscarred Uterine Rupture) là tình trạng cực kỳ hiếm gặp (tỷ lệ 1/10.000 đến 1/20.000 ca sinh) nhưng có mức độ tàn phá mô học và tỷ lệ tử vong mẹ cao hơn rất nhiều. Nguyên nhân thường do chuyển dạ tắc nghẽn (bất tương xứng đầu - chậu không được xử trí), dùng thuốc kích thích co bóp tử cung (Oxytocin hoặc Prostaglandin) quá liều gây cơn co cường tính, hoặc các thủ thuật sản khoa thô bạo (đẩy đáy tử cung Kristeller, xoay thai nội xoay, forceps khó).",
+          "en": "Rupture of an unscarred uterus is exceptionally rare (1 in 10,000 to 20,000 births) but inflicts substantially greater tissue destruction and maternal mortality. It typically arises from neglected obstructed labor (fetopelvic disproportion), hyperstimulation from excessive Oxytocin or Prostaglandins, or traumatic obstetric maneuvers (fundal pressure Kristeller maneuver, internal podalic version, difficult forceps)."
+        },
+        {
+          "id": "s-006-8",
+          "vi": "Sinh lý bệnh khi thành tử cung rách toác: Áp lực trong buồng tử cung bị giải tỏa đột ngột, thai nhi và bánh nhau có thể bị tống xuất hoàn toàn ra khỏi tử cung vào ổ phúc mạc người mẹ. Tuần hoàn tử cung - nhau bị gián đoạn tức thì khiến thai bị ngạt thiếu oxy tối cấp; đồng thời các nhánh động mạch tử cung và tĩnh mạch lớn bị xé rách gây xuất huyết ổ bụng ồ ạt hàng ngàn mililit máu.",
+          "en": "Pathophysiologic cascade upon rupture: Intrauterine pressure collapses instantly, frequently expelling the fetus and placenta into the maternal peritoneal cavity. Uteroplacental gas exchange ceases abruptly, plunging the fetus into acute anoxia; concurrently, ruptured uterine arterial and venous branches bleed copiously into the peritoneal cavity."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG & TIÊU CHUẨN CHẨN ĐOÁN (CLINICAL PRESENTATION & DIAGNOSTIC FINDINGS)",
+      "en": "3. CLINICAL PRESENTATION & DIAGNOSTIC CONFIRMATION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-diag-1",
+      "sentences": [
+        {
+          "id": "s-006-9",
+          "vi": "Các triệu chứng kinh điển báo động vỡ tử cung trên lâm sàng bao gồm: (1) Nhịp tim thai bất thường đột ngột trên CTG (nhịp giảm sâu kéo dài); (2) Cơn co tử cung đang dồn dập bỗng nhiên biến mất đột ngột; (3) Sản phụ đau bụng chói dữ dội như dao đâm tại vị trí vết mổ cũ; (4) Ngôi thai đang lọt thấp bỗng nhiên bị tụt lên cao mất tích khỏi tầm với ngón tay khám âm đạo; (5) Sờ nắn thấy các phần thai nhi nằm ngay sát dưới da bụng mẹ tách biệt với khối tử cung co nhỏ bên cạnh.",
+          "en": "Classical clinical indicators heralding uterine rupture comprise: (1) Sudden catastrophic fetal heart rate decelerations on CTG; (2) Abrupt cessation of previously intense uterine contractions; (3) Sharp, tearing, lancinating abdominal pain over the scar; (4) Loss of fetal station (the presenting part retreats upward out of pelvic reach); (5) Palpation of fetal parts superficially beneath the maternal abdominal wall alongside a contracted empty uterus."
+        },
+        {
+          "id": "s-006-10",
+          "vi": "Chẩn đoán phân biệt Nứt vết mổ cũ (Uterine Dehiscence) vs Vỡ tử cung hoàn toàn (Complete Uterine Rupture): Nứt sẹo là tình trạng lớp cơ tử cung bị tách rời nhưng lớp phúc mạc tạng bên ngoài vẫn còn nguyên vẹn, màng ối chưa vỡ vào ổ bụng và không có chảy máu ồ ạt; thường không gây suy thai cấp. Vỡ tử cung hoàn toàn là rách toác toàn bộ các lớp kèm phúc mạc, gây xuất huyết nội ồ ạt và suy thai cấp tính.",
+          "en": "Differentiating Uterine Dehiscence vs Complete Rupture: Dehiscence involves separation of the previous myometrial scar while the visceral peritoneum remains intact, membranes remain unruptured, with minimal hemorrhage and absent fetal distress. Complete rupture breaches all layers and peritoneum, unleashing massive hemoperitoneum and acute fetal asphyxia."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-006-comparison",
+      "title": {
+        "vi": "Bảng 1: So sánh đặc điểm lâm sàng giữa Vỡ tử cung trên sẹo mổ cũ và Tử cung không sẹo",
+        "en": "Table 1: Comparison of Clinical Features: Scarred vs Unscarred Uterine Rupture"
+      },
+      "headers": [
+        {
+          "vi": "Đặc điểm so sánh",
+          "en": "Feature"
+        },
+        {
+          "vi": "Vỡ trên Tử cung có sẹo mổ cũ",
+          "en": "Scarred Uterine Rupture"
+        },
+        {
+          "vi": "Vỡ trên Tử cung không sẹo",
+          "en": "Unscarred Uterine Rupture"
+        },
+        {
+          "vi": "Ý nghĩa can thiệp lâm sàng",
+          "en": "Clinical Implications"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Tần suất mắc",
+            "en": "Incidence"
+          },
+          {
+            "vi": "0.5% – 1.0% trong chuyển dạ TOLAC",
+            "en": "0.5% – 1.0% in TOLAC"
+          },
+          {
+            "vi": "Cực hiếm (1/10.000 – 1/20.000)",
+            "en": "Extremely rare (1/10,000–20,000)"
+          },
+          {
+            "vi": "Cần theo dõi CTG liên tục cho 100% ca TOLAC",
+            "en": "Continuous CTG mandatory for all TOLAC"
+          }
+        ],
+        [
+          {
+            "vi": "Dấu hiệu tim thai (CTG)",
+            "en": "Fetal Heart Rate (CTG)"
+          },
+          {
+            "vi": "Nhịp giảm sâu kéo dài, nhịp chậm (< 90 bpm)",
+            "en": "Prolonged decelerations, bradycardia"
+          },
+          {
+            "vi": "Nhịp chậm kịch phát, nhịp xoang hấp hối",
+            "en": "Terminal severe bradycardia"
+          },
+          {
+            "vi": "Dấu hiệu cảnh báo sớm nhạy cảm nhất (70–80%)",
+            "en": "Most sensitive sentinel indicator"
+          }
+        ],
+        [
+          {
+            "vi": "Triệu chứng đau bụng",
+            "en": "Pain Profile"
+          },
+          {
+            "vi": "Đau nhói tại vết mổ, có thể bị che lấp bởi tê NMC",
+            "en": "Focal pain over scar, masked by epidural"
+          },
+          {
+            "vi": "Đau dữ dội xé rách ngực bụng, sốc đau",
+            "en": "Agonizing tearing pain, neurogenic shock"
+          },
+          {
+            "vi": "Không được ỷ lại vào tê ngoài màng cứng",
+            "en": "Do not dismiss pain breakthrough"
+          }
+        ],
+        [
+          {
+            "vi": "Mức độ mất máu & Sốc",
+            "en": "Hemorrhage Severity"
+          },
+          {
+            "vi": "Chảy máu nội vừa hoặc nặng (500–1.500 mL)",
+            "en": "Moderate to severe (500–1,500 mL)"
+          },
+          {
+            "vi": "Mất máu thảm họa (> 2.000–3.000 mL)",
+            "en": "Catastrophic loss (> 2,000–3,000 mL)"
+          },
+          {
+            "vi": "Nguy cơ tử vong mẹ cao gấp 5–10 lần ở tử cung không sẹo",
+            "en": "Maternal mortality 5-10x higher in unscarred"
+          }
+        ],
+        [
+          {
+            "vi": "Tổn thương cơ quan lân cận",
+            "en": "Adjacent Organ Injury"
+          },
+          {
+            "vi": "Rách bàng quang kết hợp (10–15%)",
+            "en": "Bladder laceration (10–15%)"
+          },
+          {
+            "vi": "Rách toác dây chằng rộng, rách niệu quản",
+            "en": "Broad ligament rupture, ureteral transection"
+          },
+          {
+            "vi": "Bắt buộc kiểm tra bàng quang và niệu quản trong mổ",
+            "en": "Inspect bladder and ureters thoroughly"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC, CHỐNG SỐC & LIỀU DÙNG (PHARMACOTHERAPY & RESUSCITATION PROTOCOLS)",
+      "en": "4. PHARMACOTHERAPY, SHOCK RESUSCITATION & DRUG DOSING"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-pharm-1",
+      "sentences": [
+        {
+          "id": "s-006-11",
+          "vi": "Hồi sức nội khoa trong vỡ tử cung phải tiến hành đồng thời với việc đưa sản phụ vào phòng mổ. Bác sĩ cần thiết lập ngay 2 đường truyền tĩnh mạch lớn (kim 14G hoặc 16G), lấy máu xét nghiệm khẩn cấp và kích hoạt phác đồ truyền máu khối lượng lớn (MTP).",
+          "en": "Medical resuscitation in uterine rupture must proceed simultaneously with immediate transfer to the operating theater. Establish two wide-bore intravenous lines (14G or 16G), dispatch urgent blood typing and crossmatch, and mobilize the massive transfusion protocol."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-006-drugs",
+      "title": {
+        "vi": "Bảng 2: Liều dùng chi tiết các thuốc hồi sức huyết động, kháng sinh và thuốc co hồi tử cung trong Vỡ tử cung",
+        "en": "Table 2: Detailed Dosing Protocols for Hemodynamic Inotropes, Antibiotics and Uterotonics in Uterine Rupture"
+      },
+      "headers": [
+        {
+          "vi": "Tên thuốc (Generic)",
+          "en": "Drug Name"
+        },
+        {
+          "vi": "Liều dùng cấp cứu",
+          "en": "Emergency Dose"
+        },
+        {
+          "vi": "Đường dùng & Tốc độ",
+          "en": "Route & Rate"
+        },
+        {
+          "vi": "Mục đích lâm sàng",
+          "en": "Clinical Purpose"
+        },
+        {
+          "vi": "Cảnh báo & Chống chỉ định",
+          "en": "Warnings & Contraindications"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Norepinephrine (Thuốc vận mạch)",
+            "en": "Norepinephrine"
+          },
+          {
+            "vi": "Khởi đầu 0.05 – 0.1 mcg/kg/phút",
+            "en": "0.05 – 0.1 mcg/kg/min"
+          },
+          {
+            "vi": "Truyền tĩnh mạch liên tục qua bơm tiêm điện",
+            "en": "Continuous IV infusion via pump"
+          },
+          {
+            "vi": "Nâng huyết áp tâm thu > 90 mmHg và Huyết áp trung bình (MAP) ≥ 65 mmHg",
+            "en": "Restores MAP ≥ 65 mmHg during active shock"
+          },
+          {
+            "vi": "Không trì hoãn truyền máu để chờ thuốc vận mạch",
+            "en": "Do not substitute for adequate blood volume"
+          }
+        ],
+        [
+          {
+            "vi": "Axit Tranexamic (TXA)",
+            "en": "Tranexamic Acid (TXA)"
+          },
+          {
+            "vi": "1 g (10 mL dung dịch 100 mg/mL)",
+            "en": "1 g (100 mg/mL)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 10 phút, lặp lại 1 g sau 30 phút",
+            "en": "Slow IV push over 10 min, repeat 1 g at 30 min"
+          },
+          {
+            "vi": "Chống tiêu sợi huyết sớm, giảm mất máu phẫu thuật",
+            "en": "Halts hyperfibrinolysis, reduces operative blood loss"
+          },
+          {
+            "vi": "Dùng càng sớm càng tốt trong vòng 3 giờ đầu",
+            "en": "Administer within golden 3 hours"
+          }
+        ],
+        [
+          {
+            "vi": "Cefazolin (Kháng sinh phổ rộng)",
+            "en": "Cefazolin"
+          },
+          {
+            "vi": "2 – 3 g (3 g nếu cân nặng mẹ ≥ 120 kg)",
+            "en": "2 – 3 g (3 g if maternal weight ≥ 120 kg)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 3–5 phút trước khi rạch da",
+            "en": "Slow IV push over 3–5 min pre-incision"
+          },
+          {
+            "vi": "Dự phòng nhiễm trùng ổ phúc mạc do dịch ối và máu tràn",
+            "en": "Prophylaxis against peritonitis from amniotic contamination"
+          },
+          {
+            "vi": "Phối hợp Metronidazole 500 mg IV nếu có nguy cơ vi khuẩn yếm khí",
+            "en": "Add Metronidazole 500 mg IV for anaerobes"
+          }
+        ],
+        [
+          {
+            "vi": "Oxytocin (Sau khi lấy thai ra ngoài)",
+            "en": "Oxytocin (Post-delivery)"
+          },
+          {
+            "vi": "10 UI tiêm bắp HOẶC 20–40 UI pha 1.000 mL dịch truyền",
+            "en": "10 IU IM OR 20–40 IU in 1,000 mL crystalloid"
+          },
+          {
+            "vi": "Truyền tĩnh mạch 250–500 mL/giờ sau khi đã lấy thai",
+            "en": "Infuse 250–500 mL/hr AFTER fetus is delivered"
+          },
+          {
+            "vi": "Kích thích co hồi tử cung để cầm máu các thớ cơ rách",
+            "en": "Myometrial contraction to arrest bleeding margins"
+          },
+          {
+            "vi": "CẤM TUYỆT ĐỐI dùng Oxytocin trước khi mổ đưa thai ra ngoài",
+            "en": "ABSOLUTELY CONTRAINDICATED prior to delivery"
+          }
+        ],
+        [
+          {
+            "vi": "Canxi Gluconat 10%",
+            "en": "Calcium Gluconate 10%"
+          },
+          {
+            "vi": "1 g (1 ống 10 mL)",
+            "en": "1 g (10 mL ampoule)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 5 phút sau mỗi 4 đơn vị máu",
+            "en": "Slow IV push every 4 units of blood products"
+          },
+          {
+            "vi": "Chống hạ canxi máu do ngộ độc Citrate trong phác đồ MTP",
+            "en": "Counters citrate toxicity and hypocalcemia in MTP"
+          },
+          {
+            "vi": "Duy trì nồng độ Canxi ion hóa > 1.1 mmol/L",
+            "en": "Maintain ionized Calcium > 1.1 mmol/L"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ PHẪU THUẬT CẤP CỨU & KIỂM SOÁT THIỆT HẠI (SURGICAL DAMAGE CONTROL ALGORITHMS)",
+      "en": "5. OPERATIVE DAMAGE CONTROL & SURGICAL REPAIR ALGORITHMS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-surg-1",
+      "sentences": [
+        {
+          "id": "s-006-12",
+          "vi": "Mở bụng đường giữa dưới rốn (Midline Laparotomy): Đây là đường mổ bắt buộc để tiếp cận nhanh nhất khoang bụng, bộc lộ toàn diện tử cung, hai phần phụ, bàng quang và các khoang sau phúc mạc. Ngay khi mở phúc mạc, hút nhanh máu và dịch ối, đưa thai nhi và bánh nhau ra ngoài ngay lập tức.",
+          "en": "Midline Infraumbilical Laparotomy: Mandatory incision providing fastest peritoneal entry and panoramic exposure of the uterus, adnexa, bladder, and retroperitoneum. Upon entering the peritoneum, swiftly evacuate hemoperitoneum and deliver the fetus and placenta immediately."
+        },
+        {
+          "id": "s-006-13",
+          "vi": "Kỹ thuật bảo tồn tử cung (Uterine Repair): Chỉ áp dụng khi đường rách ngang đoạn dưới gọn gàng, bờ cơ tử cung không bị dập nát, hai bó mạch tử cung không bị tổn thương và sản phụ có nguyện vọng sinh thêm con. Tiến hành cắt lọc nhẹ mép rách hoại tử, khâu phục hồi cơ tử cung 2 lớp bằng chỉ tiêu chậm số 1 (Vicryl hoặc PDS) kèm mũi khâu ép cầm máu.",
+          "en": "Conservative Uterine Repair: Feasible only when the tear is a clean lower-uterine transverse disruption with healthy margins, intact uterine vessels, and patient desire for future fertility. Debride non-viable ragged edges and close the myometrium in two secure layers with absorbable suture (No. 1 Vicryl or PDS) alongside hemostatic compression stitches."
+        },
+        {
+          "id": "s-006-14",
+          "vi": "Chỉ định phẫu thuật cắt tử cung khẩn cấp (Emergent Hysterectomy): Cắt tử cung bán phần hoặc toàn phần là biện pháp cứu mạng dứt khoát khi: Vết rách toác kéo dài xuống âm đạo, rách phức tạp vào dây chằng rộng làm đứt bó mạch tử cung tạo khối máu tụ sau phúc mạc khổng lồ, hoặc sản phụ rơi vào Tam chứng tử thần (hạ thân nhiệt, toan máu, DIC). Không cố bảo tồn tử cung khi huyết động mẹ đang sụp đổ.",
+          "en": "Emergent Peripartum Hysterectomy: Subtotal or total hysterectomy is life-saving when: the laceration extends into the vagina, broad ligament hematomas tear major uterine vascular pedicles, or the mother develops the Lethal Triad (hypothermia, acidosis, DIC). Never pursue heroic uterine preservation when maternal hemodynamics are collapsing."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. KIỂM TRA TỔN THƯƠNG HỆ TIẾT NIỆU & PHẪU THUẬT TÁI TẠO (BLADDER & URETERAL RECONSTRUCTION)",
+      "en": "6. UROLOGICAL INJURY SURVEILLANCE & RECONSTRUCTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-uro-1",
+      "sentences": [
+        {
+          "id": "s-006-15",
+          "vi": "Tổn thương bàng quang đi kèm xảy ra ở 10–15% các ca vỡ tử cung do bàng quang dính chặt vào đoạn dưới tử cung trên sẹo mổ cũ. Bắt buộc phải bơm 200–300 mL nước muối sinh lý pha xanh Methylen qua ống thông tiểu để kiểm tra độ kín của bàng quang tại bàn mổ.",
+          "en": "Concomitant bladder laceration occurs in 10–15% of uterine ruptures due to dense adhesions between the bladder dome and scarred lower uterine segment. Mandatory intraoperative bladder integrity testing entails instilling 200–300 mL of sterile saline tinted with Methylene Blue via Foley catheter."
+        },
+        {
+          "id": "s-006-16",
+          "vi": "Xử trí rách bàng quang: Khâu phục hồi bàng quang 2 lớp bằng chỉ tiêu chậm số 3-0 (lớp niêm mạc khâu vắt liên tục, lớp cơ khâu mũi rời vắt qua thanh mạc). Lưu sonde Foley dẫn lưu nước tiểu liên tục trong 10 đến 14 ngày sau mổ để bàng quang lành sẹo hoàn toàn.",
+          "en": "Bladder Repair Technique: Reconstruct the bladder laceration in two watertight layers using 3-0 absorbable suture (continuous mucosal closure followed by interrupted muscularis-serosa imbrication). Maintain continuous Foley catheter drainage for 10 to 14 days postoperatively to ensure complete healing."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. BIẾN CHỨNG, THEO DÕI HẬU PHẪU & TƯ VẤN THAI KỲ TƯƠNG LAI (COMPLICATIONS & FUTURE PREGNANCY)",
+      "en": "7. COMPLICATIONS, POSTOPERATIVE CARE & FUTURE PREGNANCY"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-comp-1",
+      "sentences": [
+        {
+          "id": "s-006-17",
+          "vi": "Biến chứng chu sinh nặng nề: Trẻ sơ sinh sống sót sau vỡ tử cung có nguy cơ di chứng thần kinh thiếu máu não (HIE) rất cao. Người mẹ có nguy cơ nhiễm trùng phúc mạc, tắc ruột do dính, hình thành lỗ rò bàng quang - tử cung và suy kiệt đa cơ quan sau truyền máu khối lượng lớn.",
+          "en": "Severe Perinatal Sequelae: Neonates surviving uterine rupture face grave risks of permanent hypoxic-ischemic encephalopathy (HIE). Maternal morbidities include pelvic abscess, adhesive bowel obstruction, vesicouterine fistulae, and multiorgan dysfunction after massive transfusion."
+        },
+        {
+          "id": "s-006-18",
+          "vi": "Tư vấn cho lần mang thai tiếp theo: Sản phụ được bảo tồn tử cung sau vỡ tử cung có nguy cơ tái phát vỡ tử cung cực cao ở thai kỳ sau (tỷ lệ từ 5% đến 10% nếu vỡ ở đoạn dưới, và lên tới 30% nếu vỡ ở thân tử cung). Chống chỉ định tuyệt đối thử thách sinh âm đạo (TOLAC) ở lần mang thai sau. Bắt buộc phải mổ lấy thai chủ động trước khi có chuyển dạ ở tuổi thai 36 tuần 0 ngày đến 37 tuần 0 ngày sau khi tiêm Corticosteroid trưởng thành phổi thai.",
+          "en": "Future Pregnancy Counseling: Women who underwent conservative uterine repair carry an exceptionally high recurrence risk (5–10% after lower segment rupture, surging up to 30% if involving the uterine body). TOLAC is absolutely contraindicated in future gestations. Mandatory planned cesarean delivery must be scheduled at 36 0/7 to 37 0/7 weeks prior to labor onset, following antenatal corticosteroids."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "8. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-006-ref-1",
+      "sentences": [
+        {
+          "id": "s-006-19",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 205: Vaginal Birth After Cesarean Delivery. Obstetrics & Gynecology. 2019 (Reaffirmed 2024);133(2):e110-e127. DOI: 10.1097/AOG.0000000000003078",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 205: Vaginal Birth After Cesarean Delivery. Obstetrics & Gynecology. 2019 (Reaffirmed 2024);133(2):e110-e127. DOI: 10.1097/AOG.0000000000003078"
+        },
+        {
+          "id": "s-006-20",
+          "vi": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Birth after Previous Caesarean Birth. Green-top Guideline No. 45. BJOG. 2015 (Updated 2025).",
+          "en": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Birth after Previous Caesarean Birth. Green-top Guideline No. 45. BJOG. 2015 (Updated 2025)."
+        },
+        {
+          "id": "s-006-21",
+          "vi": "3. Landon MB, et al. Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery. N Engl J Med. 2004;351(25):2581-2589. DOI: 10.1056/NEJMoa040405",
+          "en": "3. Landon MB, et al. Maternal and perinatal outcomes associated with a trial of labor after prior cesarean delivery. N Engl J Med. 2004;351(25):2581-2589. DOI: 10.1056/NEJMoa040405"
+        },
+        {
+          "id": "s-006-22",
+          "vi": "4. Guise JM, et al. Vaginal birth after cesarean: new insights. Evid Rep Technol Assess (Full Rep). 2010;(191):1-397.",
+          "en": "4. Guise JM, et al. Vaginal birth after cesarean: new insights. Evid Rep Technol Assess (Full Rep). 2010;(191):1-397."
+        },
+        {
+          "id": "s-006-23",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về chẩn đoán và xử trí cấp cứu vỡ tử cung trong chuyển dạ. Quyết định 4163/QĐ-BYT.",
+          "en": "5. Ministry of Health Vietnam. National Guidelines for Reproductive Health Care: Emergency Management of Intrapartum Uterine Rupture. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Vỡ tử cung",
+      "term_en": "Uterine Rupture",
+      "phonetic": "/ˈjuːtərɪn ˈrʌptʃər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/rupture--_us_1.mp3",
+      "definition_vi": "Sự rách toác hoàn toàn toàn bộ bề dày thành tử cung và phúc mạc tạng, làm buồng tử cung thông thương trực tiếp với ổ bụng.",
+      "definition_en": "Complete disruption of all layers of the uterine wall and visceral peritoneum, communicating the uterine cavity with the abdomen."
+    },
+    {
+      "term_vi": "Nứt sẹo mổ cũ tử cung",
+      "term_en": "Uterine Dehiscence",
+      "phonetic": "/ˈjuːtərɪn dɪˈhɪsəns/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/dehiscence--_us_1.mp3",
+      "definition_vi": "Sự tách rời lớp cơ tử cung tại vị trí sẹo mổ cũ nhưng lớp phúc mạc bên ngoài vẫn còn nguyên vẹn, thường không gây mất máu ồ ạt.",
+      "definition_en": "Separation of a prior uterine scar with intact overlying visceral peritoneum, lacking catastrophic hemorrhage or fetal extrusion."
+    },
+    {
+      "term_vi": "Thử thách sinh ngả âm đạo sau mổ lấy thai",
+      "term_en": "Trial of Labor After Cesarean (TOLAC)",
+      "phonetic": "/ˈtraɪəl əv ˈleɪbər ˈæftər sɪˈzɛəriən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/labor--_us_1.mp3",
+      "definition_vi": "Quá trình theo dõi chuyển dạ để sinh thường ở sản phụ đã có tiền sử mổ lấy thai trước đó.",
+      "definition_en": "Planned attempt to deliver vaginally in a woman with a prior cesarean delivery."
+    },
+    {
+      "term_vi": "Phẫu thuật kiểm soát thiệt hại",
+      "term_en": "Damage Control Surgery",
+      "phonetic": "/ˈdæmɪdʒ kənˈtroʊl ˈsɜːrdʒəri/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/surgery--_us_1.mp3",
+      "definition_vi": "Chiến lược phẫu thuật ưu tiên cầm máu nhanh dứt khoát và cứu mạng mẹ, tạm dừng tái tạo phức tạp khi có tam chứng tử thần.",
+      "definition_en": "Surgical approach prioritizing rapid definitive hemostasis and maternal survival, deferring reconstructive steps during shock."
+    },
+    {
+      "term_vi": "Mổ lấy thai hồi sức cấp cứu",
+      "term_en": "Crash Cesarean Section",
+      "phonetic": "/kræʃ sɪˈzɛəriən ˈsɛkʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/cesarean--_us_1.mp3",
+      "definition_vi": "Phẫu thuật mổ lấy thai tối khẩn với thời gian từ quyết định đến rạch da < 10–15 phút nhằm cứu thai nhi khỏi ngạt não do thiếu oxy.",
+      "definition_en": "Emergency cesarean executed with immediate urgency (< 10–15 min decision-to-delivery) to salvage an acutely asphyxiated fetus."
+    },
+    {
+      "term_vi": "Lỗ rò bàng quang - tử cung",
+      "term_en": "Vesicouterine Fistula",
+      "phonetic": "/ˌvɛsɪkoʊˈjuːtərɪn ˈfɪstjʊlə/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/fistula--_us_1.mp3",
+      "definition_vi": "Đường rò bất thường thông giữa bàng quang và buồng tử cung (Hội chứng Youssef) sau vỡ tử cung có tổn thương bàng quang phức tạp.",
+      "definition_en": "An abnormal tract connecting the bladder and uterine cavity (Youssef syndrome), a complication of ruptured hysterotomy."
+    }
+  ]
+}

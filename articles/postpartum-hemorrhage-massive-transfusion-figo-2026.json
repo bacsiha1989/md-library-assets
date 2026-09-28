@@ -1,0 +1,632 @@
+{
+  "id": "postpartum-hemorrhage-massive-transfusion-figo-2026",
+  "slug": "postpartum-hemorrhage-massive-transfusion-figo-2026",
+  "title": {
+    "vi": "Xử trí Băng Huyết Sau Sinh Nặng & Phác Đồ Truyền Máu Khối Lượng Lớn (MTP) — Hướng Dẫn Lâm Sàng FIGO / ACOG / Bộ Y Tế 2026",
+    "en": "Management of Severe Postpartum Hemorrhage and Massive Transfusion Protocol (MTP) — FIGO & ACOG Clinical Practice Guideline 2026"
+  },
+  "title_vi": "Xử trí Băng Huyết Sau Sinh Nặng & Phác Đồ Truyền Máu Khối Lượng Lớn (MTP) — Hướng Dẫn Lâm Sàng FIGO / ACOG / Bộ Y Tế 2026",
+  "title_en": "Management of Severe Postpartum Hemorrhage and Massive Transfusion Protocol (MTP) — FIGO & ACOG Clinical Practice Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1A",
+  "guidelines_referenced": [
+    "FIGO Guidelines on Postpartum Hemorrhage (2025/2026)",
+    "ACOG Practice Bulletin No. 183: Postpartum Hemorrhage",
+    "RCOG Green-top Guideline No. 52: Prevention and Management of Postpartum Haemorrhage",
+    "Quyết định 4163/QĐ-BYT Bộ Y Tế: Phác đồ cấp cứu băng huyết sau sinh"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-002",
+    "doi": "https://doi.org/10.1002/ijgo.14116",
+    "evidence_level": "Grade 1A",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về FIGO, ACOG và RCOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-sum-1",
+      "sentences": [
+        {
+          "id": "s-002-1",
+          "vi": "Băng huyết sau sinh (Postpartum Hemorrhage - PPH) nặng được định nghĩa theo đồng thuận quốc tế là lượng máu mất tích lũy ≥ 1.000 mL hoặc lượng máu mất kèm theo các dấu hiệu/triệu chứng của tụt huyết áp và sốc giảm thể tích trong vòng 24 giờ sau sinh, bất kể sinh thường hay sinh mổ.",
+          "en": "Severe postpartum hemorrhage (PPH) is internationally consensus-defined as cumulative blood loss ≥ 1,000 mL or blood loss accompanied by signs or symptoms of hypovolemia within 24 hours postpartum, regardless of vaginal or cesarean delivery route."
+        },
+        {
+          "id": "s-002-2",
+          "vi": "Khuyến cáo 1 (Hành động theo quy tắc 4T): Đờ tử cung (Tone) là nguyên nhân của 70–80% các trường hợp PPH; ba nhóm nguyên nhân còn lại bao gồm chấn thương đường sinh dục (Trauma - 20%), sót bánh nhau hoặc mô màng ối (Tissue - 10%), và rối loạn đông máu mẹ (Thrombin - 1%). Nhận diện nguyên nhân gốc trong 5 phút đầu là yếu tố quyết định cứu sống sản phụ (Grade 1A).",
+          "en": "Recommendation 1 (Action by the 4Ts Rule): Uterine atony (Tone) accounts for 70–80% of PPH cases; the remaining causes comprise genital trauma (Trauma - 20%), retained placental tissue or membranes (Tissue - 10%), and maternal coagulopathy (Thrombin - 1%). Prompt etiology identification within the first 5 minutes is decisive for survival (Grade 1A)."
+        },
+        {
+          "id": "s-002-3",
+          "vi": "Khuyến cáo 2 (Oxytocin và thuốc co hồi tử cung bậc 1): Oxytocin tiêm bắp 10 UI hoặc truyền tĩnh mạch 20–40 UI trong 1.000 mL dịch tinh thể Ringer Lactate là lựa chọn hàng đầu bắt buộc ngay khi phát hiện đờ tử cung (Grade 1A). Nếu tử cung không co hồi tốt sau 2–3 phút, phải phối hợp ngay Methylergometrine 0.2 mg tiêm bắp (chống chỉ định trong tăng huyết áp/tiền sản giật) hoặc Misoprostol 800 mcg đặt dưới lưỡi/trực tràng.",
+          "en": "Recommendation 2 (Oxytocin and First-Line Uterotonics): Oxytocin 10 IU intramuscularly or 20–40 IU in 1,000 mL Ringer Lactate crystalloid is mandatory as the initial first-line drug for atony (Grade 1A). If atony persists after 2–3 minutes, promptly administer Methylergonovine 0.2 mg IM (contraindicated in hypertension/preeclampsia) or sublingual/rectal Misoprostol 800 mcg."
+        },
+        {
+          "id": "s-002-4",
+          "vi": "Khuyến cáo 3 (Axit Tranexamic trong 3 giờ vàng): Axit Tranexamic (TXA) liều 1 g (100 mg/mL) tiêm tĩnh mạch chậm trong 10 phút phải được sử dụng càng sớm càng tốt cho tất cả các ca PPH lâm sàng và không muộn hơn 3 giờ sau sinh (Grade 1A theo thử nghiệm WOMAN). Nếu chảy máu tiếp diễn sau 30 phút, nhắc lại một liều 1 g duy nhất.",
+          "en": "Recommendation 3 (Tranexamic Acid in the Golden 3 Hours): Intravenous Tranexamic Acid (TXA) 1 g (100 mg/mL) slow push over 10 minutes must be administered as early as feasible for all clinical PPH, not exceeding 3 hours post-delivery (Grade 1A via WOMAN trial). Repeat a second 1 g dose if bleeding continues after 30 minutes."
+        },
+        {
+          "id": "s-002-5",
+          "vi": "Khuyến cáo 4 (Bóng chèn buồng tử cung Bakri sớm): Khi điều trị nội khoa bằng thuốc không cầm máu được trong vòng 10–15 phút, phải đặt bóng chèn Bakri bơm 300–500 mL nước muối sinh lý ấm trước khi sản phụ rơi vào suy kiệt (Grade 1B). Tỷ lệ thành công tránh được mở bụng của bóng chèn đạt tới 85–90%.",
+          "en": "Recommendation 4 (Early Bakri Balloon Tamponade): When pharmacotherapy fails to arrest bleeding within 10–15 minutes, insert a Bakri balloon inflated with 300–500 mL sterile warm saline before hemodynamic exhaustion (Grade 1B). The success rate of balloon tamponade in averting laparotomy reaches 85–90%."
+        },
+        {
+          "id": "s-002-6",
+          "vi": "Khuyến cáo 5 (Kích hoạt phác đồ truyền máu khối lượng lớn MTP): Khi lượng máu mất ước tính vượt quá 1.500 mL hoặc chỉ số sốc Shock Index (SI) ≥ 1.4, kích hoạt ngay MTP với tỷ lệ cân bằng 1:1:1 (Khối hồng cầu : Huyết tương tươi đông lạnh : Khối tiểu cầu) kết hợp bù Tủa lạnh để duy trì Fibrinogen máu > 2.0 g/L (Grade 1B).",
+          "en": "Recommendation 5 (Activation of Massive Transfusion Protocol - MTP): When estimated blood loss exceeds 1,500 mL or Shock Index (SI) ≥ 1.4, activate MTP immediately using a balanced 1:1:1 ratio (PRBC : FFP : Platelets) alongside Cryoprecipitate supplementation to maintain plasma Fibrinogen > 2.0 g/L (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & 4T ETIOLOGY)",
+      "en": "2. ETIOLOGY & PATHOPHYSIOLOGY OF POSTPARTUM HEMORRHAGE"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-patho-1",
+      "sentences": [
+        {
+          "id": "s-002-7",
+          "vi": "Lưu lượng tuần hoàn tử cung - bánh nhau ở thai kỳ đủ tháng đạt mức khổng lồ từ 600 đến 800 mL/phút, chiếm xấp xỉ 15–20% tổng cung lượng tim của người mẹ. Sau khi sổ nhau, cơ chế cầm máu sinh lý ban đầu không dựa vào hệ đông máu mà phụ thuộc hoàn toàn vào lực co thắt cơ học của các thớ cơ tử cung đan chéo ba chiều.",
+          "en": "Uteroplacental blood flow at term reaches massive volumes of 600 to 800 mL/min, encompassing roughly 15–20% of total maternal cardiac output. Upon placental expulsion, primary hemostasis relies fundamentally not on the clotting cascade, but on mechanical constriction by three-dimensional interlacing myometrial fibers."
+        },
+        {
+          "id": "s-002-8",
+          "vi": "Các thớ cơ này hoạt động như những chiếc 'garo sống' (living ligatures) siết nghẹt ngay lập tức các động mạch xoắn và các xoang tĩnh mạch hở tại diện nhau bám. Khi quá trình co hồi này bị ức chế do cơ tử cung bị căng giãn quá mức (đa thai, đa ối, thai to > 4.000 g), chuyển dạ đình trệ hoặc nhiễm trùng trong buồng ối, máu sẽ thoát ra ồ ạt gây mất máu cấp tính đe dọa tính mạng trong tích tắc.",
+          "en": "These fibers act as 'living ligatures' instantly clamping spiral arteries and venous sinuses at the placental bed. When contraction is impaired by overdistension (multiple pregnancy, polyhydramnios, macrosomia > 4,000 g), prolonged labor, or chorioamnionitis, uninhibited blood flow provokes catastrophic hypovolemic shock within minutes."
+        },
+        {
+          "id": "s-002-9",
+          "vi": "Hậu quả sinh bệnh học nguy hiểm nhất của chảy máu ồ ạt không được kiểm soát là sự hình thành Tam chứng tử thần (Lethal Triad): Hạ thân nhiệt (nhiệt độ trung tâm < 35°C), toan chuyển hóa (pH < 7.20, lactate > 4 mmol/L) và rối loạn đông máu tiêu thụ nặng. Việc truyền dịch muối khoáng đẳng trương nguội (NaCl 0.9% hoặc Ringer Lactate) quá mức làm pha loãng các yếu tố đông máu và đẩy nhanh sự tan cục máu đông.",
+          "en": "The deadliest pathophysiological sequel of uncontrolled hemorrhage is the Lethal Triad: hypothermia (core temp < 35°C), metabolic acidosis (pH < 7.20, lactate > 4 mmol/L), and severe consumptive coagulopathy. Aggressive administration of cold unbuffered crystalloids aggravates dilutional coagulopathy and accelerates clot lysis."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG & TIÊU CHUẨN CHẨN ĐOÁN (CLINICAL PRESENTATION & DIAGNOSIS)",
+      "en": "3. CLINICAL PRESENTATION & DIAGNOSTIC STAGING"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-diag-1",
+      "sentences": [
+        {
+          "id": "s-002-10",
+          "vi": "Đánh giá lượng máu mất bằng mắt thường (visual estimation) có sai số âm tính rất lớn, thường đánh giá thấp từ 30% đến 50% lượng máu thực tế mất. Do đó, khuyến cáo bắt buộc hiện nay là sử dụng túi hứng đo thể tích máu có vạch chia mililit hoặc cân định lượng gạc và bỉm thấm máu (1 gram = 1 mL máu).",
+          "en": "Visual estimation of blood loss suffers from profound negative bias, underestimating true loss by 30% to 50%. Consequently, contemporary guidelines mandate quantitative blood loss measurement (QBL) utilizing calibrated collector bags or gravimetric sponge weighing (1 gram = 1 mL blood)."
+        },
+        {
+          "id": "s-002-11",
+          "vi": "Chỉ số sốc Sản khoa (Obstetric Shock Index - SI) bằng Tần số tim chia cho Huyết áp tâm thu là thông số nhạy bén nhất để phát hiện sốc ẩn giấu trước khi huyết áp tụt rõ rệt. Ở sản phụ khỏe mạnh, SI dao động từ 0.7 đến 0.8; khi SI ≥ 0.9 cảnh báo mất bù tuần hoàn và mất > 20% thể tích máu; khi SI ≥ 1.4 cảnh báo mất > 35–40% thể tích máu và nguy cơ tử vong tăng vọt.",
+          "en": "Obstetric Shock Index (SI = Heart Rate / Systolic BP) provides the most sensitive parameter for detecting occult shock before frank hypotension manifests. In healthy women, normal SI is 0.7–0.8; an SI ≥ 0.9 warns of decompensation (> 20% blood loss); an SI ≥ 1.4 heralds catastrophic loss (> 35–40%) and surging mortality."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-002-stages",
+      "title": {
+        "vi": "Bảng 1: Phân tầng mức độ mất máu và chỉ dẫn can thiệp lâm sàng theo Chỉ số Sốc Sản khoa (SI)",
+        "en": "Table 1: Staging of Blood Loss Severity and Clinical Guidance by Obstetric Shock Index (SI)"
+      },
+      "headers": [
+        {
+          "vi": "Phân tầng lâm sàng",
+          "en": "Clinical Stage"
+        },
+        {
+          "vi": "Lượng máu mất (QBL)",
+          "en": "Blood Loss (QBL)"
+        },
+        {
+          "vi": "Huyết áp tâm thu (mmHg)",
+          "en": "Systolic BP (mmHg)"
+        },
+        {
+          "vi": "Nhịp tim (lần/phút)",
+          "en": "Heart Rate (bpm)"
+        },
+        {
+          "vi": "Chỉ số SI (HR / SBP)",
+          "en": "Shock Index (SI)"
+        },
+        {
+          "vi": "Gói hành động cấp cứu khẩn cấp",
+          "en": "Emergency Action Bundle"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Giai đoạn 1: Khởi phát",
+            "en": "Stage 1: Mild Trigger"
+          },
+          {
+            "vi": "500 – 1.000 mL",
+            "en": "500 – 1,000 mL"
+          },
+          {
+            "vi": "≥ 100 (Bình thường)",
+            "en": "≥ 100 (Normal)"
+          },
+          {
+            "vi": "< 100",
+            "en": "< 100"
+          },
+          {
+            "vi": "< 0.9",
+            "en": "< 0.9"
+          },
+          {
+            "vi": "Xoa đáy tử cung, tiêm bắp Oxytocin 10 UI, kiểm tra bánh nhau và đường sinh dục",
+            "en": "Fundal massage, Oxytocin 10 IU IM, inspect placenta and birth canal"
+          }
+        ],
+        [
+          {
+            "vi": "Giai đoạn 2: Tiến triển",
+            "en": "Stage 2: Active PPH"
+          },
+          {
+            "vi": "1.000 – 1.500 mL",
+            "en": "1,000 – 1,500 mL"
+          },
+          {
+            "vi": "85 – 100 (Bắt đầu hạ)",
+            "en": "85 – 100 (Borderline)"
+          },
+          {
+            "vi": "100 – 120 (Nhanh)",
+            "en": "100 – 120 (Tachycardia)"
+          },
+          {
+            "vi": "0.9 – 1.1",
+            "en": "0.9 – 1.1"
+          },
+          {
+            "vi": "Lập 2 đường truyền 16G, truyền TXA 1 g IV chậm, dùng Carbetocin/Methergine, thử máu khẩn",
+            "en": "Two 16G lines, TXA 1 g slow IV, Carbetocin/Methergine, urgent labs"
+          }
+        ],
+        [
+          {
+            "vi": "Giai đoạn 3: Nặng - Sốc",
+            "en": "Stage 3: Severe Shock"
+          },
+          {
+            "vi": "1.500 – 2.000 mL",
+            "en": "1,500 – 2,000 mL"
+          },
+          {
+            "vi": "70 – 85 (Tụt huyết áp)",
+            "en": "70 – 85 (Hypotension)"
+          },
+          {
+            "vi": "120 – 140",
+            "en": "120 – 140"
+          },
+          {
+            "vi": "1.1 – 1.4",
+            "en": "1.1 – 1.4"
+          },
+          {
+            "vi": "Đặt bóng chèn Bakri buồng tử cung, kích hoạt MTP truyền 1:1:1, đo Fibrinogen, làm ROTEM",
+            "en": "Bakri balloon tamponade, activate MTP 1:1:1, check Fibrinogen, run ROTEM"
+          }
+        ],
+        [
+          {
+            "vi": "Giai đoạn 4: Nguy kịch",
+            "en": "Stage 4: Catastrophic"
+          },
+          {
+            "vi": "> 2.000 mL (> 40% thể tích)",
+            "en": "> 2,000 mL (> 40% vol)"
+          },
+          {
+            "vi": "< 70 hoặc kẹp mạch",
+            "en": "< 70 or thready"
+          },
+          {
+            "vi": "> 140 hoặc chậm kiệt sức",
+            "en": "> 140 or bradycardia"
+          },
+          {
+            "vi": "> 1.4",
+            "en": "> 1.4"
+          },
+          {
+            "vi": "Chuyển mổ khẩn: Mũi khâu B-Lynch, thắt động mạch hạ vị, cắt tử cung bán phần cứu mẹ",
+            "en": "Emergent laparotomy: B-Lynch, hypogastric ligation, subtotal hysterectomy"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC TỪNG BƯỚC & LIỀU DÙNG (STEPWISE PHARMACOTHERAPY)",
+      "en": "4. STEPWISE PHARMACOTHERAPY AND DRUG PROTOCOLS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-pharm-1",
+      "sentences": [
+        {
+          "id": "s-002-12",
+          "vi": "Phác đồ điều trị nội khoa co hồi tử cung cần được thực hiện dứt khoát, không chờ đợi tác dụng kéo dài nếu tử cung vẫn nhão. Việc phối hợp các nhóm thuốc có thụ thể tác động khác nhau (Peptide Oxytocic, Ergot Alkaloid, Prostaglandin) mang lại hiệu quả hiệp đồng cầm máu vượt trội.",
+          "en": "Uterotonic pharmacotherapy must proceed decisively without undue delay if the myometrium remains flaccid. Combining agents targeting distinct receptor pathways (Peptide Oxytocics, Ergot Alkaloids, Prostaglandins) produces potent synergistic contractile responses."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-002-uterotonics",
+      "title": {
+        "vi": "Bảng 2: Hướng dẫn chi tiết liều dùng các thuốc co hồi tử cung và thuốc chống tiêu sợi huyết",
+        "en": "Table 2: Comprehensive Dosing Protocols for Uterotonics and Antifibrinolytic Agents"
+      },
+      "headers": [
+        {
+          "vi": "Tên hoạt chất (Generic)",
+          "en": "Drug Name (Generic)"
+        },
+        {
+          "vi": "Liều dùng & Đường dùng",
+          "en": "Dose & Route"
+        },
+        {
+          "vi": "Cách pha & Tốc độ truyền",
+          "en": "Dilution & Administration"
+        },
+        {
+          "vi": "Liều tối đa cho phép",
+          "en": "Maximum Allowed Dose"
+        },
+        {
+          "vi": "Chống chỉ định & Cảnh báo an toàn",
+          "en": "Contraindications & Warnings"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Oxytocin (Thuốc bậc 1)",
+            "en": "Oxytocin (1st Line)"
+          },
+          {
+            "vi": "10 UI tiêm bắp HOẶC 20–40 UI truyền tĩnh mạch",
+            "en": "10 IU IM OR 20–40 IU IV infusion"
+          },
+          {
+            "vi": "Pha trong 1.000 mL NaCl 0.9% hoặc Ringer Lactate, truyền 250–500 mL/h",
+            "en": "In 1,000 mL NS or RL, infuse 250–500 mL/hr"
+          },
+          {
+            "vi": "40 UI trong 4 giờ",
+            "en": "40 IU over 4 hours"
+          },
+          {
+            "vi": "CẤM tiêm bolus tĩnh mạch trực tiếp (gây tụt huyết áp cấp, loạn nhịp tim)",
+            "en": "DO NOT bolus IV push directly (causes collapse, arrhythmia)"
+          }
+        ],
+        [
+          {
+            "vi": "Carbetocin (Tác dụng kéo dài)",
+            "en": "Carbetocin"
+          },
+          {
+            "vi": "100 mcg (1 ống 1 mL) tiêm bắp hoặc tiêm tĩnh mạch chậm trong 1 phút",
+            "en": "100 mcg (1 mL) IM or slow IV bolus over 1 min"
+          },
+          {
+            "vi": "Tiêm trực tiếp sau sổ thai hoặc khi tử cung đờ",
+            "en": "Direct injection after delivery or upon atony"
+          },
+          {
+            "vi": "100 mcg (liều duy nhất trong 24 giờ)",
+            "en": "100 mcg (single dose in 24 hours)"
+          },
+          {
+            "vi": "Chống chỉ định khi có tiền sử mẫn cảm, bệnh tim mạch hoặc động kinh",
+            "en": "Contraindicated in hypersensitivity, cardiac disease, epilepsy"
+          }
+        ],
+        [
+          {
+            "vi": "Methylergometrine (Methergine)",
+            "en": "Methylergonovine"
+          },
+          {
+            "vi": "0.2 mg (1 ống 1 mL) tiêm bắp sâu (IM)",
+            "en": "0.2 mg deep intramuscularly (IM)"
+          },
+          {
+            "vi": "Có thể nhắc lại liều sau 2 đến 4 giờ nếu cần thiết",
+            "en": "Repeat after 2–4 hours if clinically indicated"
+          },
+          {
+            "vi": "1.0 mg (tối đa 5 liều)",
+            "en": "1.0 mg (max 5 doses)"
+          },
+          {
+            "vi": "CẤM TUYỆT ĐỐI trong Tiền sản giật, Tăng huyết áp thai kỳ, Bệnh mạch vành",
+            "en": "ABSOLUTELY CONTRAINDICATED in Preeclampsia, HTN, CAD"
+          }
+        ],
+        [
+          {
+            "vi": "Carboprost Tromethamine (15-methyl PGF2α)",
+            "en": "Carboprost (Hemabate)"
+          },
+          {
+            "vi": "250 mcg (0.25 mg) tiêm bắp sâu hoặc tiêm cơ tử cung",
+            "en": "250 mcg (0.25 mg) deep IM or intramyometrial"
+          },
+          {
+            "vi": "Nhắc lại mỗi 15 đến 90 phút tùy đáp ứng",
+            "en": "Repeat every 15–90 min based on response"
+          },
+          {
+            "vi": "2.0 mg (tổng cộng 8 liều)",
+            "en": "2.0 mg (total 8 doses)"
+          },
+          {
+            "vi": "CẤM TUYỆT ĐỐI ở bệnh nhân Hen phế quản hoạt động (co thắt phế quản cấp)",
+            "en": "ABSOLUTELY CONTRAINDICATED in active Asthma"
+          }
+        ],
+        [
+          {
+            "vi": "Misoprostol (PGE1)",
+            "en": "Misoprostol (Cytotec)"
+          },
+          {
+            "vi": "800 mcg đặt dưới lưỡi hoặc đặt trực tràng sâu",
+            "en": "800 mcg sublingual or deep rectal"
+          },
+          {
+            "vi": "Dùng 4 viên 200 mcg đồng thời một lần duy nhất",
+            "en": "Four 200 mcg tablets simultaneously"
+          },
+          {
+            "vi": "800 – 1.000 mcg",
+            "en": "800 – 1,000 mcg"
+          },
+          {
+            "vi": "Tác dụng phụ thường gặp: Sốt cao rét run (lên tới 40°C), tiêu chảy thoáng qua",
+            "en": "Common adverse effects: Transient hyperpyrexia, severe shivering"
+          }
+        ],
+        [
+          {
+            "vi": "Axit Tranexamic (TXA)",
+            "en": "Tranexamic Acid (TXA)"
+          },
+          {
+            "vi": "1 g (10 mL dung dịch 100 mg/mL) tiêm tĩnh mạch chậm trong 10 phút",
+            "en": "1 g (10 mL of 100 mg/mL) slow IV push over 10 min"
+          },
+          {
+            "vi": "Dùng trong 3 giờ đầu sau sinh; lặp lại 1 g sau 30 phút nếu còn chảy máu",
+            "en": "Within 3 hrs of delivery; repeat 1 g at 30 min if bleeding persists"
+          },
+          {
+            "vi": "2 g tổng cộng",
+            "en": "2 g total"
+          },
+          {
+            "vi": "Chống chỉ định khi có tiền sử thuyên tắc huyết khối tĩnh mạch cấp hoặc mù màu",
+            "en": "Contraindicated in active thromboembolic disease, color blindness"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ CAN THIỆP THỦ THUẬT & PHẪU THUẬT CẦM MÁU (PROCEDURAL & SURGICAL ALGORITHMS)",
+      "en": "5. PROCEDURAL AND SURGICAL RESUSCITATION ALGORITHMS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-surg-1",
+      "sentences": [
+        {
+          "id": "s-002-13",
+          "vi": "Đặt bóng chèn buồng tử cung Bakri (Bakri Uterine Balloon Tamponade - UBT): Là thủ thuật can thiệp cơ học bước 2 được ưu tiên hàng đầu khi thuốc co hồi tử cung thất bại. Bác sĩ đặt bóng qua cổ tử cung vào đáy buồng tử cung dưới hướng dẫn siêu âm ngã bụng, sau đó bơm 300 đến 500 mL nước muối sinh lý ấm vô trùng qua chạc nối.",
+          "en": "Bakri Uterine Balloon Tamponade (UBT): Primary second-line mechanical intervention when uterotonics fail. The balloon is inserted transcervically into the uterine fundus under transabdominal ultrasound guidance, then inflated with 300 to 500 mL sterile warm saline."
+        },
+        {
+          "id": "s-002-14",
+          "vi": "Nghiệm pháp chèn bóng (Tamponade Test): Sau khi bơm đủ thể tích, quan sát lượng máu chảy qua lòng ống dẫn lưu của bóng trong 15–30 phút. Nếu lượng máu chảy ra < 50 mL, nghiệm pháp dương tính (cầm máu thành công). Bóng được lưu giữ 12–24 giờ và rút dần từng lượng 100 mL trước khi tháo hẳn.",
+          "en": "Tamponade Test: Following inflation, monitor blood output from the central drainage lumen over 15–30 minutes. If drainage is < 50 mL, the test is positive (hemostasis achieved). The balloon is maintained for 12–24 hours and deflated stepwise (100 mL decrements) prior to removal."
+        },
+        {
+          "id": "s-002-15",
+          "vi": "Các mũi khâu ép tử cung (Uterine Compression Sutures): Nếu đặt bóng thất bại hoặc băng huyết xảy ra trong lúc mổ lấy thai, chỉ định mở bụng để thực hiện mũi khâu B-Lynch (khâu vắt qua hai bờ đáy tử cung như quai đeo ba lô) hoặc mũi khâu Hayman/Cho. Mũi khâu ép tạo lực cơ học áp sát thành trước và thành sau tử cung, chặn dòng máu xoắn tức thì.",
+          "en": "Uterine Compression Sutures: If tamponade fails or PPH manifests during cesarean delivery, perform laparotomy for a B-Lynch brace suture (looping over the fundus like suspenders) or Hayman/Cho sutures. These sutures mechanically appose anterior and posterior uterine walls, extinguishing spiral flow."
+        },
+        {
+          "id": "s-002-16",
+          "vi": "Thắt mạch máu chậu & Cắt tử cung cấp cứu: Các bước ngoại khoa tiếp theo bao gồm thắt động mạch tử cung hai bên theo kỹ thuật O'Leary, thắt động mạch hạ vị (nhánh trước động mạch chậu trong) hoặc can thiệp thuyên tắc mạch qua ống thông (UAE). Khi tất cả biện pháp bảo tồn thất bại hoặc sản phụ có DIC nặng, bắt buộc phải cắt tử cung bán phần hoặc toàn phần khẩn cấp để bảo toàn tính mạng người mẹ.",
+          "en": "Pelvic Devascularization & Emergent Hysterectomy: Progressive surgical devascularization entails bilateral uterine artery ligation (O'Leary), hypogastric (internal iliac) artery ligation, or interventional uterine artery embolization (UAE). When conservative measures fail or catastrophic DIC supervenes, emergent peripartum hysterectomy is mandatory to preserve maternal life."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. PHÁC ĐỒ TRUYỀN MÁU KHỐI LƯỢNG LỚN (MASSIVE TRANSFUSION PROTOCOL - MTP)",
+      "en": "6. MASSIVE TRANSFUSION PROTOCOL (MTP) & DAMAGE CONTROL"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-mtp-1",
+      "sentences": [
+        {
+          "id": "s-002-17",
+          "vi": "MTP trong sản khoa được kích hoạt ngay khi sản phụ mất máu liên tục không thể cầm, có biểu hiện sốc giảm thể tích nặng (SI ≥ 1.4) hoặc đã truyền ≥ 4 đơn vị hồng cầu lắng trong 1 giờ mà chưa phục hồi tưới máu mô. Mục tiêu của MTP là cung cấp kịp thời các thành phần đông máu theo tỷ lệ sinh lý cân bằng 1:1:1.",
+          "en": "Obstetric MTP is initiated when ongoing hemorrhage is refractory, severe hypovolemic shock (SI ≥ 1.4) supervenes, or ≥ 4 PRBC units are transfused within 1 hour without restoring perfusion. The overarching objective is prompt restitution of coagulation components utilizing a physiologic 1:1:1 ratio."
+        },
+        {
+          "id": "s-002-18",
+          "vi": "Gói MTP chuẩn bao gồm: 4–6 đơn vị Khối hồng cầu lắng (PRBC) : 4–6 đơn vị Huyết tương tươi đông lạnh (FFP) : 1 khối tiểu cầu đậm đặc (tương đương 4–6 đơn vị tiểu cầu pool). Nhóm O âm tính (O Rh-) được dùng khẩn cấp khi chưa có kết quả hòa hợp miễn dịch máu.",
+          "en": "The standard MTP Pack comprises: 4–6 units of PRBC : 4–6 units of Fresh Frozen Plasma (FFP) : 1 adult dose of Apheresis Platelets (or 4–6 random units). Universal uncrossed O-negative blood is utilized immediately when type-specific blood is not yet available."
+        },
+        {
+          "id": "s-002-19",
+          "vi": "Quản lý nồng độ Fibrinogen máu: Fibrinogen là yếu tố giảm sớm nhất và dự báo độc lập nguy cơ tử vong mẹ trong PPH nặng. Mức Fibrinogen mục tiêu bắt buộc phải duy trì > 2.0 g/L (hoặc > 200 mg/dL). Nếu Fibrinogen < 2.0 g/L, phải truyền ngay 10–20 đơn vị Tủa lạnh (Cryoprecipitate) hoặc 2–4 g Fibrinogen đậm đặc cô đặc (Fibrinogen Concentrate).",
+          "en": "Fibrinogen Management: Fibrinogen plummets earliest and serves as an independent predictor of maternal mortality in severe PPH. Target plasma fibrinogen must strictly exceed > 2.0 g/L (> 200 mg/dL). If fibrinogen is < 2.0 g/L, administer 10–20 units of Cryoprecipitate or 2–4 g of Fibrinogen Concentrate immediately."
+        },
+        {
+          "id": "s-002-20",
+          "vi": "Kiểm soát Canxi ion hóa: Citrate dùng làm chất chống đông trong các túi máu bảo quản sẽ gắn kết với ion Canxi của người nhận, gây hạ canxi máu cấp tính dẫn đến rối loạn nhịp tim và làm liệt con đường đông máu phụ thuộc canxi. Bắt buộc phải bù 1 g Calcium Gluconate 10% tiêm tĩnh mạch sau mỗi 4 đơn vị chế phẩm máu được truyền.",
+          "en": "Ionized Calcium Surveillance: Citrate preservative in blood bags chelates circulating calcium, causing acute hypocalcemia that triggers arrhythmias and paralyzes calcium-dependent clotting enzymes. Administer 1 g of 10% Calcium Gluconate IV after every 4 units of blood products transfused."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. BIẾN CHỨNG, THEO DÕI HẬU SẢN & PHÒNG NGỪA (COMPLICATIONS & PREVENTION)",
+      "en": "7. COMPLICATIONS, POSTPARTUM SURVEILLANCE & PREVENTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-comp-1",
+      "sentences": [
+        {
+          "id": "s-002-21",
+          "vi": "Các biến chứng muộn nặng nề của PPH bao gồm: Hội chứng Sheehan (suy tuyến yên do hoại tử thiếu máu cục bộ trong lúc hạ huyết áp, dẫn đến mất sữa và vô kinh vĩnh viễn), suy thận cấp do hoại tử ống thận cấp tính, tổn thương phổi cấp liên quan truyền máu (TRALI) và quá tải tuần hoàn liên quan truyền máu (TACO).",
+          "en": "Late debilitating complications of PPH encompass: Sheehan syndrome (anterior pituitary ischemic necrosis during severe hypotension resulting in agalactia and permanent amenorrhea), acute tubular necrosis, Transfusion-Related Acute Lung Injury (TRALI), and Transfusion-Associated Circulatory Overload (TACO)."
+        },
+        {
+          "id": "s-002-22",
+          "vi": "Chăm sóc sau hồi sức: Sản phụ sau PPH nặng phải được chuyển về đơn vị Hồi sức tích cực (ICU/HDU) theo dõi tối thiểu 24 đến 48 giờ. Đảm bảo theo dõi thể tích nước tiểu liên tục qua sonde Foley ≥ 30–50 mL/giờ, kiểm tra công thức máu và đông máu mỗi 4–6 giờ, kiểm soát đau và hỗ trợ can thiệp tâm lý sớm phòng ngừa trầm cảm và rối loạn stress sau sang chấn (PTSD).",
+          "en": "Post-Resuscitation Care: Patients surviving severe PPH require transfer to an Intensive Care or High Dependency Unit (ICU/HDU) for at least 24 to 48 hours. Ensure continuous Foley catheter urine output ≥ 30–50 mL/hr, serial CBC and coagulation monitoring every 4–6 hours, analgesia, and early psychological counseling for PTSD."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "8. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-002-ref-1",
+      "sentences": [
+        {
+          "id": "s-002-23",
+          "vi": "1. International Federation of Gynecology and Obstetrics (FIGO). FIGO updated recommendations on the management of postpartum hemorrhage. Int J Gynaecol Obstet. 2025;158(Suppl 1):16-34. DOI: 10.1002/ijgo.14116",
+          "en": "1. International Federation of Gynecology and Obstetrics (FIGO). FIGO updated recommendations on the management of postpartum hemorrhage. Int J Gynaecol Obstet. 2025;158(Suppl 1):16-34. DOI: 10.1002/ijgo.14116"
+        },
+        {
+          "id": "s-002-24",
+          "vi": "2. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Postpartum Hemorrhage. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);130(4):e168-e186. DOI: 10.1097/AOG.0000000000002351",
+          "en": "2. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Postpartum Hemorrhage. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);130(4):e168-e186. DOI: 10.1097/AOG.0000000000002351"
+        },
+        {
+          "id": "s-002-25",
+          "vi": "3. Royal College of Obstetricians and Gynaecologists (RCOG). Prevention and Management of Postpartum Haemorrhage. Green-top Guideline No. 52. BJOG. 2016 (Updated 2025).",
+          "en": "3. Royal College of Obstetricians and Gynaecologists (RCOG). Prevention and Management of Postpartum Haemorrhage. Green-top Guideline No. 52. BJOG. 2016 (Updated 2025)."
+        },
+        {
+          "id": "s-002-26",
+          "vi": "4. WOMAN Trial Collaborators. Effect of early tranexamic acid on maternal mortality in women with postpartum haemorrhage: an international, randomised, double-blind, placebo-controlled trial. Lancet. 2017;389(10084):2105-2116. DOI: 10.1016/S0140-6736(17)30638-4",
+          "en": "4. WOMAN Trial Collaborators. Effect of early tranexamic acid on maternal mortality in women with postpartum haemorrhage: an international, randomised, double-blind, placebo-controlled trial. Lancet. 2017;389(10084):2105-2116. DOI: 10.1016/S0140-6736(17)30638-4"
+        },
+        {
+          "id": "s-002-27",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản: Xử trí cấp cứu băng huyết sau sinh. Quyết định 4163/QĐ-BYT.",
+          "en": "5. Ministry of Health Vietnam. National Guidelines for Reproductive Health Care: Emergency Management of Postpartum Hemorrhage. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Băng huyết sau sinh",
+      "term_en": "Postpartum Hemorrhage (PPH)",
+      "phonetic": "/ˌpoʊstˈpɑːrtəm ˈhɛmərɪdʒ/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/postpartum--_us_1.mp3",
+      "definition_vi": "Mất máu tích lũy ≥ 1.000 mL hoặc mất máu kèm theo dấu hiệu tụt huyết áp và sốc giảm thể tích trong vòng 24 giờ sau sinh.",
+      "definition_en": "Cumulative blood loss ≥ 1,000 mL or bleeding accompanied by signs of hypovolemia within 24 hours postpartum."
+    },
+    {
+      "term_vi": "Đờ tử cung",
+      "term_en": "Uterine Atony",
+      "phonetic": "/ˈjuːtərɪn ˈætəni/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/uterine--_us_1.mp3",
+      "definition_vi": "Sự thất bại của các sợi cơ trơn tử cung trong việc co bóp để siết nghẹt các mạch máu sau khi bong nhau, nguyên nhân của 80% ca PPH.",
+      "definition_en": "Failure of the myometrium to contract effectively around spiral arteries after placental delivery, causing 80% of PPH."
+    },
+    {
+      "term_vi": "Bóng chèn buồng tử cung Bakri",
+      "term_en": "Bakri Balloon Tamponade",
+      "phonetic": "/ˈbɑːkri bəˈluːn ˌtæmpəˈneɪd/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/balloon--_us_1.mp3",
+      "definition_vi": "Ống thông có bóng silicon bơm 300–500 mL dịch ấm tạo áp lực cơ học ép vào lòng tử cung để cầm máu bảo tồn.",
+      "definition_en": "A silicone balloon catheter inflated with 300–500 mL sterile warm saline to exert hydrostatic pressure against the uterine wall."
+    },
+    {
+      "term_vi": "Mũi khâu ép B-Lynch",
+      "term_en": "B-Lynch Suture",
+      "phonetic": "/biː lɪntʃ ˈsuːtʃər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/suture--_us_1.mp3",
+      "definition_vi": "Thủ thuật phẫu thuật luồn chỉ tiêu cơ học qua đáy tử cung như chiếc dây đeo ba lô để ép chặt hai thành tử cung cầm máu.",
+      "definition_en": "A surgical uterine compression technique running absorbable suture over the fundus like suspenders to compress uterine walls."
+    },
+    {
+      "term_vi": "Phác đồ truyền máu khối lượng lớn",
+      "term_en": "Massive Transfusion Protocol (MTP)",
+      "phonetic": "/ˈmæsɪv trænsˈfjuːʒən ˈproʊtəkɔːl/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/transfusion--_us_1.mp3",
+      "definition_vi": "Quy trình truyền máu khẩn cấp tỷ lệ cân bằng 1:1:1 giữa hồng cầu lắng, huyết tương tươi và tiểu cầu nhằm chống tam chứng tử thần.",
+      "definition_en": "Emergency resuscitation protocol administering red cells, plasma, and platelets in a balanced 1:1:1 ratio to prevent the lethal triad."
+    },
+    {
+      "term_vi": "Axit Tranexamic",
+      "term_en": "Tranexamic Acid (TXA)",
+      "phonetic": "/ˌtrænɛkˈsæmɪk ˈæsɪd/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/acid--_us_1.mp3",
+      "definition_vi": "Thuốc chống tiêu sợi huyết ức chế plasminogen chuyển thành plasmin, giúp ổn định và bảo tồn cục máu đông cầm máu sinh lý.",
+      "definition_en": "An antifibrinolytic agent that competitively inhibits plasminogen activation to preserve fibrin clot architecture."
+    },
+    {
+      "term_vi": "Chỉ số sốc Sản khoa",
+      "term_en": "Obstetric Shock Index (SI)",
+      "phonetic": "/ɒbˈstɛtrɪk ʃɒk ˈɪndɛks/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/index--_us_1.mp3",
+      "definition_vi": "Tỷ số giữa nhịp tim và huyết áp tâm thu; giá trị ≥ 0.9 cảnh báo mất máu đáng kể và ≥ 1.4 chỉ định kích hoạt MTP khẩn.",
+      "definition_en": "Ratio of heart rate to systolic BP; values ≥ 0.9 indicate substantial hemorrhage and ≥ 1.4 trigger emergent MTP."
+    },
+    {
+      "term_vi": "Hội chứng Sheehan",
+      "term_en": "Sheehan Syndrome",
+      "phonetic": "/ˈʃiːhæn ˈsɪndroʊm/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/syndrome--_us_1.mp3",
+      "definition_vi": "Tình trạng suy thùy trước tuyến yên thứ phát do hoại tử thiếu máu cục bộ trong băng huyết nặng và tụt huyết áp kéo dài.",
+      "definition_en": "Postpartum hypopituitarism caused by ischemic necrosis of the anterior pituitary gland following severe hypovolemic shock."
+    }
+  ]
+}

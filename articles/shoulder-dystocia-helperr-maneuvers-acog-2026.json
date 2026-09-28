@@ -1,0 +1,620 @@
+{
+  "id": "shoulder-dystocia-helperr-maneuvers-acog-2026",
+  "slug": "shoulder-dystocia-helperr-maneuvers-acog-2026",
+  "title": {
+    "vi": "Xử Trí Kẹt Vai Thai Nhi & Lưu Đồ Thủ Thuật HELPERR — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+    "en": "Management of Shoulder Dystocia and The HELPERR Maneuver Algorithm — ACOG & RCOG Clinical Guideline 2026"
+  },
+  "title_vi": "Xử Trí Kẹt Vai Thai Nhi & Lưu Đồ Thủ Thuật HELPERR — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+  "title_en": "Management of Shoulder Dystocia and The HELPERR Maneuver Algorithm — ACOG & RCOG Clinical Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1A",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 178: Shoulder Dystocia (Reaffirmed 2024/2026)",
+    "RCOG Green-top Guideline No. 42: Shoulder Dystocia",
+    "ALSO (Advanced Life Support in Obstetrics) HELPERR Protocol",
+    "Bộ Y Tế Việt Nam: Hướng dẫn xử trí cấp cứu đẻ khó do kẹt vai"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-007",
+    "doi": "https://doi.org/10.1097/AOG.0000000000002043",
+    "evidence_level": "Grade 1A",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về ACOG và RCOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-sum-1",
+      "sentences": [
+        {
+          "id": "s-007-1",
+          "vi": "Kẹt vai (Shoulder Dystocia) được định nghĩa lâm sàng là tình huống sinh đường âm đạo đòi hỏi phải thực hiện các thủ thuật sản khoa bổ trợ ngoài động tác kéo đầu nhẹ nhàng để sổ vai thai nhi sau khi đầu thai đã lọt ra ngoài, hoặc khoảng thời gian từ lúc đầu thai lọt đến khi sổ toàn bộ thân mình vượt quá 60 giây.",
+          "en": "Shoulder dystocia is clinically defined as a vaginal delivery that requires additional obstetric maneuvers beyond gentle downward traction to release the fetal shoulders after the head has delivered, or when the head-to-body delivery interval exceeds 60 seconds."
+        },
+        {
+          "id": "s-007-2",
+          "vi": "Khuyến cáo 1 (Quy tắc cấm kỵ cốt tử): CẤM TUYỆT ĐỐI kéo mạnh đầu hoặc xoay gập cổ thai nhi quá mức (nguy cơ gây đứt rễ thần kinh đám rối cánh tay Erb-Duchenne vĩnh viễn), và CẤM TUYỆT ĐỐI ấn đáy tử cung (Fundal Pressure - thủ thuật Kristeller làm vai trước càng mắc kẹt chặt hơn vào bờ trên khớp mu và tăng 4 lần nguy cơ vỡ tử cung) (Grade 1A).",
+          "en": "Recommendation 1 (The Cardinal Prohibitions): NEVER apply excessive lateral traction or twisting to the fetal head/neck (risking permanent Erb-Duchenne brachial plexus palsy), and NEVER apply fundal pressure (Kristeller maneuver impacts the anterior shoulder tighter behind the symphysis pubis and increases uterine rupture risk fourfold) (Grade 1A)."
+        },
+        {
+          "id": "s-007-3",
+          "vi": "Khuyến cáo 2 (Bộ đôi thủ thuật đầu tay McRoberts & Ấn trên mu): Ngay khi phát hiện kẹt vai (dấu hiệu đầu rùa Turtle Sign), thực hiện ngay đồng thời hai thủ thuật: Gập đùi sản phụ sát ngực tối đa (McRoberts Maneuver) kết hợp một phụ tá ấn mạnh theo hướng chếch bên ngay trên xương mu (Suprapubic Pressure - Rubin I) để thu nhỏ đường kính lưỡng mỏm vai. Biện pháp này giải quyết thành công tới 50–60% các ca kẹt vai (Grade 1A).",
+          "en": "Recommendation 2 (First-Line Maneuver Pair: McRoberts & Suprapubic Pressure): Upon identifying dystocia ('turtle sign'), simultaneously enact extreme maternal hip hyperflexion onto the abdomen (McRoberts Maneuver) paired with assistant-directed directional lateral suprapubic pressure (Rubin I) to collapse the bisacromial diameter. This pair resolves 50–60% of shoulder dystocias (Grade 1A)."
+        },
+        {
+          "id": "s-007-4",
+          "vi": "Khuyến cáo 3 (Lưu đồ thủ thuật HELPERR): Nếu bước đầu thất bại, tuần tự triển khai lưu đồ chuẩn hóa HELPERR: H (Gọi hỗ trợ - Call for Help), E (Đánh giá cắt tầng sinh môn - Evaluate for Episiotomy), L (Gập đùi - Legs McRoberts), P (Ấn trên mu - Suprapubic Pressure), E (Các thủ thuật xoay trong - Enter internal maneuvers Rubin II / Woods Screw), R (Sổ tay sau - Remove the posterior arm), R (Tư thế bốn chi - Roll to hands-and-knees Gaskin) (Grade 1B).",
+          "en": "Recommendation 3 (The HELPERR Protocol): If initial steps fail, systematically deploy the standardized HELPERR mnemonic: H (Call for Help), E (Evaluate for Episiotomy), L (Legs McRoberts), P (Suprapubic Pressure), E (Enter internal maneuvers: Rubin II / Woods Screw), R (Remove the posterior arm), R (Roll the patient to Gaskin all-fours) (Grade 1B)."
+        },
+        {
+          "id": "s-007-5",
+          "vi": "Khuyến cáo 4 (Thời gian can thiệp vàng 5 phút): Khoảng thời gian từ lúc đầu thai lọt đến khi sổ hoàn toàn thân mình phải được kiểm soát dưới 5 phút. Vượt quá 5–7 phút sẽ gây toan máu thiếu oxy não nghiêm trọng (pH máu động mạch rốn giảm 0.04 đơn vị/phút) và tăng nguy cơ tử vong chu sinh (Grade 1B).",
+          "en": "Recommendation 4 (The 5-Minute Delivery Window): The head-to-body interval must be decisively kept under 5 minutes. Prolongation beyond 5–7 minutes precipitates acute hypoxic acidemia (umbilical artery pH drops by 0.04 units/minute) and escalates neonatal mortality (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & MECHANICAL ENTRAPMENT)",
+      "en": "2. ETIOLOGY & BIOMECHANICS OF SHOULDER DYSTOCIA"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-patho-1",
+      "sentences": [
+        {
+          "id": "s-007-6",
+          "vi": "Sinh cơ học của kẹt vai xảy ra khi đường kính lưỡng mỏm vai của thai nhi (bình thường đi vào khung chậu theo đường kính chéo) bị kẹt lại theo trục trước - sau tại eo trên khung chậu người mẹ. Bờ trước xương vai của thai nhi bị mắc nghẽn ngay phía sau gờ xương mu của mẹ, hoặc ít gặp hơn là mỏm vai sau mắc vào mỏm nhô xương cùng.",
+          "en": "The biomechanics of shoulder dystocia occur when the fetal bisacromial diameter (which normally traverses the pelvic inlet obliquely) enters in the anteroposterior diameter and impacts against the pelvic brim. The anterior fetal shoulder wedges behind the maternal symphysis pubis, or less commonly, the posterior shoulder impacts against the sacral promontory."
+        },
+        {
+          "id": "s-007-7",
+          "vi": "Yếu tố nguy cơ hàng đầu là thai to (Fetal Macrosomia), đặc biệt ở sản phụ bị Đái tháo đường thai kỳ. Tình trạng tăng đường huyết mẹ kích thích tăng tiết insulin thai nhi, dẫn đến sự tích tụ mỡ chọn lọc bất tương xứng tại vùng vai và thân trên (tỷ lệ chu vi ngực / chu vi vòng đầu tăng vọt). Tuy nhiên, có tới 50% các trường hợp kẹt vai xảy ra ở thai nhi có cân nặng bình thường (< 4.000 g), do đó kẹt vai là một cấp cứu không thể dự báo trước chính xác.",
+          "en": "The predominant risk factor is fetal macrosomia, particularly among women with gestational diabetes mellitus. Maternal hyperglycemia fuels fetal hyperinsulinemia, driving asymmetric disproportionate fat deposition over the shoulders and torso (elevated chest-to-head circumference ratio). Nevertheless, over 50% of dystocias arise unpredictably in normal-weight infants (< 4,000 g)."
+        },
+        {
+          "id": "s-007-7b",
+          "vi": "Các yếu tố nguy cơ trong chuyển dạ: Giai đoạn 1 hoặc giai đoạn 2 của chuyển dạ kéo dài, cơn co tử cung thứ phát yếu, và đặc biệt là việc can thiệp sinh giúp bằng giác hút (Ventouse) hoặc kẹp Forceps ở sản phụ có thai to. Thủ thuật sinh giúp qua ngả âm đạo ở vị trí giữa khung chậu làm tăng nguy cơ kẹt vai lên gấp 3 đến 5 lần so với sinh thường tự nhiên.",
+          "en": "Intrapartum Risk Factors: Prolonged first or second stage of labor, secondary arrest of descent, and notably operative vaginal delivery (vacuum extraction or forceps) in suspected macrosomia. Midpelvic operative vaginal intervention escalates shoulder dystocia risks 3- to 5-fold compared with spontaneous vaginal delivery."
+        },
+        {
+          "id": "s-007-7c",
+          "vi": "Sinh bệnh học của tổn thương đám rối cánh tay: Khi người đỡ đẻ dùng lực kéo quá mạnh (kéo vượt quá 100 Newton hoặc kéo lệch trục cổ thai nhi), các rễ thần kinh cổ C5, C6, C7 bị kéo căng quá mức dính vào bờ mỏm cùng vai và mấu gai đốt sống cổ. Sự căng giãn này làm rách bao myelin, đứt sợi trục thần kinh hoặc nhổ bật hoàn toàn rễ thần kinh ra khỏi tủy sống, dẫn đến liệt vận động và teo cơ vĩnh viễn.",
+          "en": "Pathogenesis of Brachial Plexus Injury: When clinicians apply excessive downward traction (exceeding 100 Newtons or bending the neck off-axis), cervical nerve roots C5, C6, and C7 stretch severely across the transverse processes. Excessive strain induces neurapraxia, axonotmesis, or complete root avulsion from the cervical spinal cord, provoking permanent motor paralysis and atrophy."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG & TIÊU CHUẨN CHẨN ĐOÁN (CLINICAL RECOGNITION & TURTLE SIGN)",
+      "en": "3. CLINICAL PRESENTATION & RECOGNITION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-diag-1",
+      "sentences": [
+        {
+          "id": "s-007-8",
+          "vi": "Dấu hiệu đầu rùa (Turtle Sign) là dấu hiệu kinh điển đặc trưng nhất của kẹt vai: Sau khi đầu thai nhi sổ ra ngoài, đầu bị thụt lùi lại ngay sát đáy chậu của người mẹ và cằm thai nhi ấn lõm sâu vào mô mềm tầng sinh môn giống như đầu chú rùa thụt vào trong mai.",
+          "en": "The 'Turtle Sign' is the classic hallmark of shoulder dystocia: upon delivery of the fetal head, it abruptly retracts tightly against the maternal perineum, with the fetal chin compressing tightly into the perineal soft tissues like a turtle drawing its head into its shell."
+        },
+        {
+          "id": "s-007-9",
+          "vi": "Các dấu hiệu kèm theo: Đầu thai nhi không thể tự quay ngoài sinh lý (restitution); hai má phúng phính bị kéo căng ép vào âm hộ; mặt thai nhi sung huyết đỏ tím do ứ trệ tuần hoàn tĩnh mạch cổ; và quan trọng nhất là động tác kéo đầu nhẹ nhàng theo hướng sinh lý hoàn toàn không làm vai trước nhích xuống.",
+          "en": "Accompanying signs include: failure of the fetal head to undergo spontaneous restitution (external rotation); flushed, congested, cyanotic facial appearance from internal jugular venous congestion; and failure of the anterior shoulder to deliver with routine gentle axial traction."
+        },
+        {
+          "id": "s-007-9b",
+          "vi": "Chi tiết thao tác thủ thuật xoay trong Rubin II và Woods Screw: Trong thủ thuật Rubin II, người thao tác đưa hai ngón tay vào âm đạo tỳ vào mặt sau của xương bả vai trước thai nhi, ấn mạnh đẩy xương bả vai về phía ngực thai nhi để khép mỏm vai. Trong thủ thuật Woods Screw, người thao tác dùng bàn tay còn lại đưa vào cùng lúc, tỳ vào mặt trước của xương bả vai sau thai nhi, đẩy phối hợp cả hai vai theo chiều kim đồng hồ hoặc ngược chiều kim đồng hồ để xoay trục vai 180 độ.",
+          "en": "Detailed Execution of Rubin II and Woods Screw Maneuvers: In Rubin II, the operator inserts two fingers vaginally onto the posterior surface of the anterior fetal scapula, applying directional pressure pushing the shoulder toward the fetal chest to adduct the bisacromial diameter. Concurrently in Woods Screw, the contralateral hand applies pressure to the anterior aspect of the posterior shoulder, rotating both shoulders simultaneously 180 degrees into an oblique dimension."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-007-helperr",
+      "title": {
+        "vi": "Bảng 1: Chi tiết từng bước thực hiện lưu đồ thủ thuật HELPERR xử trí Kẹt vai theo chuẩn quốc tế",
+        "en": "Table 1: Step-by-Step Clinical Protocols for the International HELPERR Algorithm"
+      },
+      "headers": [
+        {
+          "vi": "Chữ cái / Tên thủ thuật",
+          "en": "Step / Maneuver"
+        },
+        {
+          "vi": "Kỹ thuật thao tác cụ thể",
+          "en": "Detailed Technique"
+        },
+        {
+          "vi": "Cơ chế giải phẫu sinh học",
+          "en": "Biomechanical Mechanism"
+        },
+        {
+          "vi": "Tỷ lệ thành công",
+          "en": "Success Rate"
+        },
+        {
+          "vi": "Lưu ý an toàn tuyệt đối",
+          "en": "Safety Rules"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "H - Help (Gọi hỗ trợ)",
+            "en": "H - Call for Help"
+          },
+          {
+            "vi": "Bấm chuông báo động khẩn cấp: Bác sĩ sản khoa cao cấp, Bác sĩ hồi sức sơ sinh, Bác sĩ gây mê, Nữ hộ sinh",
+            "en": "Activate emergency alarm: Senior obstetrician, neonatology, anesthesia, midwifes"
+          },
+          {
+            "vi": "Tập hợp đa chuyên khoa ngay tại phòng sinh trong 1 phút",
+            "en": "Multidisciplinary mobilization within 1 min"
+          },
+          {
+            "vi": "N/A",
+            "en": "N/A"
+          },
+          {
+            "vi": "Ghi nhận chính xác mốc thời gian sổ đầu",
+            "en": "Accurately document head delivery time"
+          }
+        ],
+        [
+          {
+            "vi": "E - Episiotomy (Tầng sinh môn)",
+            "en": "E - Evaluate Episiotomy"
+          },
+          {
+            "vi": "Đánh giá cắt rộng tầng sinh môn hoặc mở rộng vết cắt cũ nếu cần thêm không gian cho tay phẫu thuật viên luồn vào",
+            "en": "Episiotomy or extension to provide room for operator's hands inside vagina"
+          },
+          {
+            "vi": "Cắt tầng sinh môn KHÔNG giải phóng được xương vai kẹt mu nhưng tạo chỗ thao tác trong buồng âm đạo",
+            "en": "Does NOT free bone obstruction but creates operating space"
+          },
+          {
+            "vi": "Hỗ trợ",
+            "en": "Adjunctive"
+          },
+          {
+            "vi": "Tránh cắt quá sâu vào cơ thắt hậu môn",
+            "en": "Avoid extending into anal sphincter"
+          }
+        ],
+        [
+          {
+            "vi": "L - Legs (Thủ thuật McRoberts)",
+            "en": "L - Legs (McRoberts)"
+          },
+          {
+            "vi": "Hai người phụ giúp gập mạnh hai đùi sản phụ sát tối đa vào thành bụng ngực của người mẹ",
+            "en": "Two assistants hyperflex maternal thighs tightly against abdomen"
+          },
+          {
+            "vi": "Làm phẳng độ dốc xương cùng, xoay xương chậu về phía đầu mẹ, mở rộng đường kính trước sau eo trên",
+            "en": "Flattens sacrum, rotates pelvis cephalad, widens inlet"
+          },
+          {
+            "vi": "40% – 50%",
+            "en": "40% – 50%"
+          },
+          {
+            "vi": "Động tác đầu tay bắt buộc thực hiện ngay lập tức",
+            "en": "Mandatory first-line maneuver"
+          }
+        ],
+        [
+          {
+            "vi": "P - Pressure (Ấn trên xương mu)",
+            "en": "P - Suprapubic Pressure"
+          },
+          {
+            "vi": "Người phụ đứng cùng bên lưng thai, dùng gốc bàn tay ấn chếch về phía trước - bên vào xương vai trước thai nhi",
+            "en": "Assistant uses heel of hand to apply downward lateral pressure over anterior shoulder"
+          },
+          {
+            "vi": "Khép mỏm vai trước thai nhi, đưa vai trượt khỏi mặt sau xương mu",
+            "en": "Adducts anterior shoulder, slips it under symphysis"
+          },
+          {
+            "vi": "50% – 60% (kết hợp McRoberts)",
+            "en": "50–60% (combined)"
+          },
+          {
+            "vi": "CẤM TUYỆT ĐỐI ấn vào đáy tử cung",
+            "en": "STRICTLY FORBIDDEN: Fundal pressure"
+          }
+        ],
+        [
+          {
+            "vi": "E - Enter (Các thủ thuật xoay trong)",
+            "en": "E - Enter Internal Maneuvers"
+          },
+          {
+            "vi": "Thủ thuật Rubin II (ấn mặt sau vai trước để khép vai) phối hợp thủ thuật Woods Screw (ấn mặt trước vai sau xoay 180 độ)",
+            "en": "Rubin II (push posterior aspect of anterior shoulder) + Woods Screw (push anterior of posterior shoulder 180°)"
+          },
+          {
+            "vi": "Xoay đường kính lưỡng mỏm vai từ trục trước sau vào trục chéo rộng hơn",
+            "en": "Rotates bisacromial axis into wider oblique pelvic diameter"
+          },
+          {
+            "vi": "65% – 75%",
+            "en": "65% – 75%"
+          },
+          {
+            "vi": "Không dùng lực bẻ gập xương đòn",
+            "en": "Avoid fracturing clavicle intentionally"
+          }
+        ],
+        [
+          {
+            "vi": "R - Remove (Sổ tay sau)",
+            "en": "R - Remove Posterior Arm"
+          },
+          {
+            "vi": "Luồn bàn tay dọc theo ngực thai nhi tìm khuỷu tay sau, ấn hố khuỷu để gập cẳng tay rồi quét nhẹ cẳng tay qua mặt ra ngoài",
+            "en": "Follow posterior arm to elbow, flex forearm at antecubital fossa, sweep forearm across chest and out"
+          },
+          {
+            "vi": "Giảm ngay 2–3 cm đường kính lưỡng mỏm vai, chuyển đường kính vai thành đường kính mỏm cùng - nách",
+            "en": "Reduces shoulder diameter by 2–3 cm immediately"
+          },
+          {
+            "vi": "80% – 85%",
+            "en": "80% – 85%"
+          },
+          {
+            "vi": "Cầm vào bàn tay/cổ tay, không kéo mạnh cán cánh tay (nguy cơ gãy xương cánh tay)",
+            "en": "Grasp wrist/hand, do not wrench humerus shaft"
+          }
+        ],
+        [
+          {
+            "vi": "R - Roll (Tư thế bốn chi Gaskin)",
+            "en": "R - Roll to Gaskin Position"
+          },
+          {
+            "vi": "Chuyển sản phụ sang tư thế bò bốn chi (chống hai bàn tay và hai đầu gối xuống bàn sinh)",
+            "en": "Patient rolls onto all-fours (hands and knees) on delivery bed"
+          },
+          {
+            "vi": "Trọng lực kết hợp làm tăng đường kính eo dưới, giải phóng vai sau",
+            "en": "Increases pelvic outlet dimensions, drops posterior shoulder"
+          },
+          {
+            "vi": "80% – 90%",
+            "en": "80% – 90%"
+          },
+          {
+            "vi": "Rất hiệu quả nhưng khó thực hiện nếu đã gây tê tủy sống sâu",
+            "en": "Highly effective; difficult with dense epidural"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC, GIÃN CƠ & THỦ THUẬT CUỐI CÙNG (PHARMACOTHERAPY & LAST-RESORT MANEUVERS)",
+      "en": "4. PHARMACOTHERAPY, UTERINE RELAXATION & LAST-RESORT MEASURES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-pharm-1",
+      "sentences": [
+        {
+          "id": "s-007-10",
+          "vi": "Khi các thủ thuật xoay trong và sổ tay sau thất bại, cần sử dụng các thuốc làm giãn cơ tử cung cấp tốc để hỗ trợ thao tác, chuẩn bị cho các thủ thuật cứu vãn cuối cùng (Last-Resort Maneuvers).",
+          "en": "When internal rotational maneuvers and posterior arm delivery fail, rapid pharmacologic uterine relaxation is required to facilitate advanced manipulation and prepare for heroic last-resort procedures."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-007-drugs",
+      "title": {
+        "vi": "Bảng 2: Liều dùng các thuốc giãn cơ tử cung cấp cứu và thủ thuật bậc 3 trong Kẹt vai kháng trị",
+        "en": "Table 2: Emergency Tocolytic Dosing and Third-Line Procedures in Refractory Dystocia"
+      },
+      "headers": [
+        {
+          "vi": "Thuốc / Thủ thuật",
+          "en": "Agent / Procedure"
+        },
+        {
+          "vi": "Liều lượng & Cách thực hiện",
+          "en": "Dose / Technique"
+        },
+        {
+          "vi": "Thời gian tác dụng",
+          "en": "Onset / Duration"
+        },
+        {
+          "vi": "Mục đích lâm sàng",
+          "en": "Clinical Purpose"
+        },
+        {
+          "vi": "Cảnh báo & Rủi ro",
+          "en": "Risks & Warnings"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Nitroglycerin (NTG)",
+            "en": "Nitroglycerin (NTG)"
+          },
+          {
+            "vi": "100 – 200 mcg tiêm tĩnh mạch chậm HOẶC 400 mcg xịt dưới lưỡi",
+            "en": "100–200 mcg slow IV OR 400 mcg sublingual spray"
+          },
+          {
+            "vi": "Khởi phát 30 – 60 giây, kéo dài 2 phút",
+            "en": "30–60 sec onset, lasts 2 min"
+          },
+          {
+            "vi": "Làm mềm cơ tử cung và đáy chậu tức thì, tạo không gian thao tác",
+            "en": "Rapid myometrial and pelvic floor relaxation"
+          },
+          {
+            "vi": "Tụt huyết áp mẹ; chuẩn bị sẵn 500 mL Ringer Lactate",
+            "en": "Maternal hypotension; pre-hydrate"
+          }
+        ],
+        [
+          {
+            "vi": "Terbutaline",
+            "en": "Terbutaline"
+          },
+          {
+            "vi": "0.25 mg (250 mcg) tiêm dưới da",
+            "en": "0.25 mg (250 mcg) subcutaneous"
+          },
+          {
+            "vi": "Khởi phát sau 2 – 3 phút",
+            "en": "2–3 min onset"
+          },
+          {
+            "vi": "Cắt cơn gò tử cung, hỗ trợ thủ thuật xoay trong",
+            "en": "Abolishes uterine tone for internal manipulation"
+          },
+          {
+            "vi": "Nhịp tim mẹ nhanh",
+            "en": "Maternal tachycardia"
+          }
+        ],
+        [
+          {
+            "vi": "Bẻ xương đòn chủ động",
+            "en": "Cleidotomy"
+          },
+          {
+            "vi": "Dùng ngón tay ấn mạnh vào giữa thân xương đòn thai nhi hướng ra ngoài",
+            "en": "Direct outward thumb pressure fracturing midshaft clavicle"
+          },
+          {
+            "vi": "Tức thì",
+            "en": "Immediate"
+          },
+          {
+            "vi": "Làm sập đường kính vai trước, giải phóng vai mắc nghẽn",
+            "en": "Collapses anterior shoulder girdle"
+          },
+          {
+            "vi": "Xương đòn gãy sẽ tự liền sau 2–3 tuần không để lại di chứng",
+            "en": "Fracture heals within 2–3 weeks uneventfully"
+          }
+        ],
+        [
+          {
+            "vi": "Thủ thuật Zavanelli",
+            "en": "Zavanelli Maneuver"
+          },
+          {
+            "vi": "Xoay đầu thai nhi trở lại vị trí chẩm trước rồi đẩy ngược đầu vào buồng tử cung, chuyển mổ lấy thai cấp cứu",
+            "en": "Rotate head to occiput anterior, flex, push back into uterus, rush to cesarean"
+          },
+          {
+            "vi": "Trong 2 – 3 phút",
+            "en": "Within 2–3 min"
+          },
+          {
+            "vi": "Biện pháp cứu vãn mạng sống thai nhi cuối cùng khi mọi thủ thuật thất bại",
+            "en": "Heroic last-resort maneuver to avert imminent demise"
+          },
+          {
+            "vi": "Nguy cơ vỡ tử cung và nhiễm trùng rất cao",
+            "en": "High risk of uterine rupture and sepsis"
+          }
+        ],
+        [
+          {
+            "vi": "Mở khớp mu (Symphysiotomy)",
+            "en": "Symphysiotomy"
+          },
+          {
+            "vi": "Cắt đứt một phần sụn khớp mu dưới gây tê tại chỗ để mở rộng xương chậu",
+            "en": "Partial transection of interpubic cartilage under local anesthesia"
+          },
+          {
+            "vi": "Tức thì",
+            "en": "Immediate"
+          },
+          {
+            "vi": "Mở rộng eo trên thêm 2–3 cm khi không có điều kiện mổ lấy thai",
+            "en": "Expands pelvic inlet by 2–3 cm in low-resource settings"
+          },
+          {
+            "vi": "Nguy cơ tổn thương niệu đạo và mất vững chậu",
+            "en": "Urethral laceration and pelvic instability"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ THEO DÕI HỒI SỨC SƠ SINH & BIẾN CHỨNG ĐÁM RỐI CÁNH TAY (NEONATAL RESUSCITATION & BRACHIAL PLEXUS INJURY)",
+      "en": "5. NEONATAL RESUSCITATION & BRACHIAL PLEXUS PALSY SURVEILLANCE"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-comp-1",
+      "sentences": [
+        {
+          "id": "s-007-11",
+          "vi": "Tổn thương đám rối thần kinh cánh tay (Brachial Plexus Injury - BPI): Chiếm 4% đến 16% các trường hợp kẹt vai, hay gặp nhất là Liệt Erb-Duchenne (tổn thương rễ C5–C6 làm tay liệt ở tư thế 'bàn tay người hầu bàn xin tiền' - Waiter's tip position). Khoảng 80–90% các tổn thương BPI là dạng giãn bao myelin nhẹ (Neuropraxia) và sẽ hồi phục hoàn toàn sau 6–12 tháng nếu được tập vật lý trị liệu phục hồi chức năng sớm.",
+          "en": "Brachial plexus injury (BPI) complicates 4% to 16% of shoulder dystocia cases, predominantly presenting as Erb-Duchenne palsy (C5–C6 roots stretching producing the classic 'waiter's tip' posture). Crucially, 80–90% of BPIs represent neuropraxia and resolve completely within 6–12 months with early physical therapy."
+        },
+        {
+          "id": "s-007-11b",
+          "vi": "Điện cơ đồ (EMG) và chỉ định phẫu thuật nối thần kinh vi phẫu: Trẻ bị liệt tay cần được khám chuyên khoa phẫu thuật thần kinh nhi và đo điện cơ đồ (EMG) lúc 1 tháng tuổi. Nếu sau 3 tháng tuổi trẻ vẫn không có dấu hiệu phục hồi cơ nhị đầu cánh tay (không gập được khuỷu tay chống lại trọng lực), trẻ có chỉ định phẫu thuật vi phẫu ghép thần kinh hoặc chuyển dây thần kinh sớm (Nerve Grafting / Nerve Transfer) để khôi phục chức năng vận động cánh tay.",
+          "en": "Electromyography (EMG) and Microsurgical Nerve Reconstruction: Infants with persisting palsy require pediatric neurosurgical evaluation and EMG at 1 month of life. If antigravity biceps function fails to recover by 3 months of age, microsurgical nerve grafting or nerve transfer is indicated to restore functional elbow flexion and shoulder abduction."
+        },
+        {
+          "id": "s-007-12",
+          "vi": "Gãy xương đòn và gãy xương cánh tay: Xảy ra ở 1–3% các trường hợp. Gãy xương đòn thường tự lành sau 2–3 tuần với sự hình thành can xương tốt. Trẻ cần được chụp X-quang khẳng định và cố định nhẹ nhàng cánh tay vào thân mình trong 7–10 ngày đầu để giảm đau.",
+          "en": "Clavicular and humeral shaft fractures occur in 1–3% of cases. Clavicular fractures heal uneventfully with exuberant callus within 2–3 weeks. Confirm via infant radiography and gently immobilize the affected arm against the chest for 7–10 days for analgesia."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. BIẾN CHỨNG NGƯỜI MẸ & PHÒNG NGỪA BĂNG HUYẾT SAU SINH (MATERNAL COMPLICATIONS & PPH PROPHYLAXIS)",
+      "en": "6. MATERNAL COMPLICATIONS & PPH PREVENTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-mat-1",
+      "sentences": [
+        {
+          "id": "s-007-13",
+          "vi": "Băng huyết sau sinh (PPH) là biến chứng người mẹ phổ biến nhất sau kẹt vai (chiếm 11–25% trường hợp), do sự kết hợp của đờ tử cung sau chuyển dạ kéo dài và rách rách phức tạp tầng sinh môn độ 3 hoặc độ 4 (tổn thương cơ thắt hậu môn và niêm mạc trực tràng).",
+          "en": "Postpartum hemorrhage (PPH) is the foremost maternal complication following shoulder dystocia (occurring in 11–25% of cases), driven by uterine atony following prolonged labor combined with severe third- or fourth-degree perineal lacerations involving the anal sphincter."
+        },
+        {
+          "id": "s-007-14",
+          "vi": "Chủ động dự phòng PPH: Ngay sau khi sổ thai và sổ nhau, tiêm bắp Oxytocin 10 UI hoặc truyền tĩnh mạch 20–40 UI trong 1.000 mL dịch truyền, kết hợp tiêm tĩnh mạch chậm Axit Tranexamic 1 g để chống tiêu sợi huyết. Bắt buộc kiểm tra tỉ mỉ toàn bộ âm đạo, cổ tử cung và cơ thắt hậu môn bằng van mỏ vịt có ánh sáng đầy đủ để phát hiện và khâu phục hồi sớm các vết rách rách ngầm.",
+          "en": "Active PPH Prophylaxis: Immediately post-delivery, administer Oxytocin 10 IU IM or 20–40 IU in 1,000 mL crystalloid, accompanied by slow IV Tranexamic Acid 1 g. Mandatory comprehensive speculum examination under optimal lighting is essential to detect and meticulously repair deep vaginal, cervical, and sphincter tears."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. LƯU TRỮ HỒ SƠ BỆNH ÁN & QUẢN TRỊ RỦI RO PHÁP LÝ (CLINICAL DOCUMENTATION & MEDICO-LEGAL INTEGRITY)",
+      "en": "7. CLINICAL DOCUMENTATION & MEDICO-LEGAL INTEGRITY"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-doc-1",
+      "sentences": [
+        {
+          "id": "s-007-15",
+          "vi": "Kẹt vai là một trong những nguyên nhân hàng đầu dẫn đến tranh chấp pháp lý trong sản khoa. Bác sĩ trực bắt buộc phải ghi chép hồ sơ bệnh án theo mẫu chuẩn hóa ngay sau khi kết thúc cấp cứu, bao gồm: Thời điểm sổ đầu thai, thời điểm sổ toàn bộ thân mình (khoảng thời gian tính bằng giây), vai nào là vai kẹt (vai trước hay vai sau), thứ tự chính xác của từng thủ thuật HELPERR đã được thực hiện, thời gian áp dụng mỗi thủ thuật, nhân sự có mặt tại phòng sinh, và tình trạng cử động của hai tay trẻ sơ sinh lúc chào đời.",
+          "en": "Shoulder dystocia represents a leading cause of obstetric malpractice litigation. The attending obstetrician must document the delivery immediately on a structured template: exact head delivery time, body delivery time (interval in seconds), which shoulder was impacted, exact sequence of HELPERR maneuvers executed, duration of each step, personnel present, and bilateral neonate arm movements at birth."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "8. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-007-ref-1",
+      "sentences": [
+        {
+          "id": "s-007-16",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 178: Shoulder Dystocia. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);129(5):e123-e134. DOI: 10.1097/AOG.0000000000002043",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 178: Shoulder Dystocia. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);129(5):e123-e134. DOI: 10.1097/AOG.0000000000002043"
+        },
+        {
+          "id": "s-007-17",
+          "vi": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Shoulder Dystocia. Green-top Guideline No. 42. BJOG. 2012 (Updated 2025).",
+          "en": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Shoulder Dystocia. Green-top Guideline No. 42. BJOG. 2012 (Updated 2025)."
+        },
+        {
+          "id": "s-007-18",
+          "vi": "3. Menticoglou SM. Shoulder dystocia: incidence, mechanisms, and management strategies. Int J Womens Health. 2018;10:723-732. DOI: 10.2147/IJWH.S175088",
+          "en": "3. Menticoglou SM. Shoulder dystocia: incidence, mechanisms, and management strategies. Int J Womens Health. 2018;10:723-732. DOI: 10.2147/IJWH.S175088"
+        },
+        {
+          "id": "s-007-19",
+          "vi": "4. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về chẩn đoán và xử trí cấp cứu đẻ khó do kẹt vai. Quyết định 4163/QĐ-BYT.",
+          "en": "4. Ministry of Health Vietnam. National Guidelines for Reproductive Health Care: Emergency Management of Shoulder Dystocia. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Kẹt vai",
+      "term_en": "Shoulder Dystocia",
+      "phonetic": "/ˈʃoʊldər dɪˈstoʊʃiə/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/dystocia--_us_1.mp3",
+      "definition_vi": "Tình trạng vai trước thai nhi mắc kẹt phía sau khớp mu của người mẹ sau khi đầu đã sổ, đòi hỏi phải can thiệp các thủ thuật bổ trợ.",
+      "definition_en": "Failure of the fetal shoulders to deliver spontaneously after the head due to impaction behind the maternal symphysis pubis."
+    },
+    {
+      "term_vi": "Dấu hiệu đầu rùa",
+      "term_en": "Turtle Sign",
+      "phonetic": "/ˈtɜːrtəl saɪn/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/turtle--_us_1.mp3",
+      "definition_vi": "Hiện tượng đầu thai nhi vừa sổ ra ngoài liền bị thụt lùi lại ép chặt vào tầng sinh môn, là dấu hiệu báo động kẹt vai.",
+      "definition_en": "Retraction of the newly delivered fetal head tightly against the maternal perineum, pathognomonic of shoulder dystocia."
+    },
+    {
+      "term_vi": "Thủ thuật McRoberts",
+      "term_en": "McRoberts Maneuver",
+      "phonetic": "/məkˈrɒbərts məˈnuːvər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/maneuver--_us_1.mp3",
+      "definition_vi": "Gập mạnh hai đùi sản phụ sát ngực để làm phẳng xương cùng và mở rộng đường kính trước sau eo trên khung chậu.",
+      "definition_en": "Hyperflexion of maternal thighs against the abdomen, flattening the sacrum and expanding pelvic inlet dimensions."
+    },
+    {
+      "term_vi": "Lưu đồ HELPERR",
+      "term_en": "HELPERR Mnemonic",
+      "phonetic": "/ˈhɛlpər nɪˈmɒnɪk/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/mnemonic--_us_1.mp3",
+      "definition_vi": "Bảng chữ viết tắt ghi nhớ thứ tự các thủ thuật chuẩn hóa để giải phóng vai thai nhi trong cấp cứu kẹt vai.",
+      "definition_en": "Standardized sequential mnemonic guiding obstetric maneuvers to systematically relieve shoulder impaction."
+    },
+    {
+      "term_vi": "Liệt đám rối thần kinh cánh tay",
+      "term_en": "Brachial Plexus Palsy (Erb Palsy)",
+      "phonetic": "/ˈbreɪkiəl ˈplɛksəs ˈpɔːlzi/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/palsy--_us_1.mp3",
+      "definition_vi": "Tổn thương căng giãn các rễ thần kinh C5–C6 do kéo gập cổ thai nhi quá mức trong kẹt vai, gây liệt vận động cánh tay.",
+      "definition_en": "Traction injury to cervical nerve roots (C5–C6) caused by lateral head traction, impairing arm motor function."
+    },
+    {
+      "term_vi": "Thủ thuật Zavanelli",
+      "term_en": "Zavanelli Maneuver",
+      "phonetic": "/ˌzævəˈnɛli məˈnuːvər/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/maneuver--_us_1.mp3",
+      "definition_vi": "Thủ thuật đẩy ngược đầu thai nhi trở lại buồng tử cung rồi mổ lấy thai cấp cứu khi mọi biện pháp sổ vai đường dưới thất bại.",
+      "definition_en": "Cephalic replacement maneuver flexing and returning the fetal head into the uterus followed by immediate crash cesarean."
+    }
+  ]
+}

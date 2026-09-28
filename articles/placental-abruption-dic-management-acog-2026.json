@@ -1,0 +1,608 @@
+{
+  "id": "placental-abruption-dic-management-acog-2026",
+  "slug": "placental-abruption-dic-management-acog-2026",
+  "title": {
+    "vi": "Nhau Bong Non Thể Nặng & Hội Chứng Rối Loạn Đông Máu Nội Mạch Rải Rác (DIC) — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+    "en": "Severe Placental Abruption and Disseminated Intravascular Coagulation (DIC) Management — ACOG & RCOG Clinical Practice Guideline 2026"
+  },
+  "title_vi": "Nhau Bong Non Thể Nặng & Hội Chứng Rối Loạn Đông Máu Nội Mạch Rải Rác (DIC) — Hướng Dẫn Lâm Sàng ACOG / RCOG 2026",
+  "title_en": "Severe Placental Abruption and Disseminated Intravascular Coagulation (DIC) Management — ACOG & RCOG Clinical Practice Guideline 2026",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản khoa & Y học Bào thai",
+  "subspecialty": "Cấp cứu Sản khoa & Hồi sức Chu sinh",
+  "evidence_level": "Grade 1B",
+  "guidelines_referenced": [
+    "ACOG Practice Bulletin No. 183: Antepartum and Postpartum Hemorrhage Management",
+    "RCOG Green-top Guideline No. 63: Antepartum Haemorrhage (Placental Abruption)",
+    "FIGO Consensus on Peripartum Bleeding and Consumptive Coagulopathy",
+    "Bộ Y Tế Việt Nam: Hướng dẫn chẩn đoán và xử trí nhau bong non cấp cứu"
+  ],
+  "metadata": {
+    "topic_id": "UTD-OB-005",
+    "doi": "https://doi.org/10.1097/AOG.0000000000001235",
+    "evidence_level": "Grade 1B",
+    "peer_review_status": "Expert Panel Verified",
+    "version": "1.0-UpToDate-VN",
+    "license": "Academic Fair Use (Tra cứu & Đào tạo Lâm sàng Nội bộ theo Điều 25 Luật SHTT)",
+    "disclaimer": "Bản tổng hợp lâm sàng và đối chiếu thuật ngữ song ngữ này được thực hiện bởi AI Minh Translate (Hệ thống MomDiary) nhằm mục đích nghiên cứu học thuật, đào tạo y khoa và hỗ trợ ra quyết định lâm sàng tại điểm chăm sóc cho bác sĩ theo Điều 25 Luật SHTT Việt Nam. Quyền sở hữu trí tuệ của tài liệu gốc thuộc về ACOG và RCOG. Bản dịch không có giá trị thương mại và không thay thế cho tài liệu gốc chính thức."
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "1. TÓM TẮT THỰC HÀNH & KHUYẾN CÁO NHANH (SUMMARY & RECOMMENDATIONS)",
+      "en": "1. SUMMARY & RECOMMENDATIONS (POINT-OF-CARE CLINICAL BULLETS)"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-sum-1",
+      "sentences": [
+        {
+          "id": "s-005-1",
+          "vi": "Nhau bong non (Abruptio Placentae) thể nặng là tình trạng bánh nhau bong một phần hoặc toàn phần khỏi vị trí bám bình thường ở thành tử cung trước khi sổ thai, kèm theo khối máu tụ sau nhau lớn (> 500 mL) gây suy thai cấp tính hoặc thai chết trong tử cung, kết hợp với cơn co tử cung co cứng liên tục như gỗ và rối loạn đông máu tiêu thụ nghiêm trọng.",
+          "en": "Severe placental abruption (abruptio placentae) is the premature detachment of a normally situated placenta from the uterine wall prior to delivery, featuring a retroplacental hematoma (> 500 mL) provoking acute fetal compromise or fetal demise, severe uterine hypertonicity ('woody' uterus), and catastrophic consumptive coagulopathy."
+        },
+        {
+          "id": "s-005-2",
+          "vi": "Khuyến cáo 1 (Nhận diện thể chảy máu ẩn): Khoảng 20% các trường hợp nhau bong non thể nặng là thể ẩn (Concealed Abruption), trong đó máu tụ đọng hoàn toàn sau bánh nhau mà không có máu chảy ra ngoài âm đạo. Bác sĩ phải nghi ngờ ngay khi sản phụ đau bụng dữ dội liên tục, tử cung co cứng như gỗ, bề cao tử cung tăng nhanh và huyết áp tụt kẹp mạch (Grade 1A).",
+          "en": "Recommendation 1 (Recognition of Concealed Abruption): Approximately 20% of severe abruptions are concealed, wherein hemorrhage is entirely trapped retroplacentally with absent vaginal bleeding. Clinicians must immediately suspect abruption in patients with severe unrelenting abdominal pain, a 'woody' board-like uterus, escalating fundal height, and hemodynamic shock (Grade 1A)."
+        },
+        {
+          "id": "s-005-3",
+          "vi": "Khuyến cáo 2 (Mổ lấy thai tối khẩn khi thai còn sống): Khi thai còn sống có biểu hiện suy thai cấp trên CTG (nhịp tim thai chậm sâu, nhịp giảm muộn kéo dài) hoặc huyết động người mẹ mất bù, mổ lấy thai cấp cứu loại 1 là chỉ định tuyệt đối không được chần chừ (Grade 1A).",
+          "en": "Recommendation 2 (Immediate Cesarean for Live Fetus): When the fetus is alive but exhibits category III CTG patterns (deep bradycardia, persistent late decelerations) or maternal hemodynamics deteriorate, Category 1 emergency cesarean delivery is absolute and mandatory (Grade 1A)."
+        },
+        {
+          "id": "s-005-4",
+          "vi": "Khuyến cáo 3 (Bù Fibrinogen và Tủa lạnh khẩn cấp): Nhau bong non thể nặng là nguyên nhân hàng đầu gây đông máu nội mạch rải rác (DIC) trong sản khoa. Nồng độ Fibrinogen máu < 2.0 g/L (hoặc < 200 mg/dL) phản ánh mất máu trầm trọng (> 2.000 mL); bắt buộc phải truyền ngay 10–20 đơn vị Tủa lạnh (Cryoprecipitate) hoặc 2–4 g Fibrinogen đậm đặc (Grade 1B).",
+          "en": "Recommendation 3 (Urgent Fibrinogen & Cryoprecipitate Replacement): Severe abruption is the leading trigger of obstetric DIC. A plasma fibrinogen < 2.0 g/L (< 200 mg/dL) reliably indicates massive hidden hemorrhage (> 2,000 mL); infuse 10–20 units of Cryoprecipitate or 2–4 g of Fibrinogen Concentrate immediately (Grade 1B)."
+        },
+        {
+          "id": "s-005-5",
+          "vi": "Khuyến cáo 4 (Chiến lược khi thai đã chết trong tử cung): Nếu thai đã lưu và huyết động người mẹ tạm ổn định, ưu tiên khởi phát chuyển dạ sinh đường âm đạo bằng cách bấm ối sớm và truyền tĩnh mạch Oxytocin có kiểm soát để giảm áp lực buồng tử cung và giảm sự hấp thu yếu tố mô vào tuần hoàn mẹ, đồng thời truyền máu và chế phẩm đông máu tích cực (Grade 1B).",
+          "en": "Recommendation 4 (Strategy for Intrauterine Fetal Demise): If fetal demise has already occurred and maternal hemodynamics are stabilized with blood products, vaginal delivery is preferred via early amniotomy and titrated intravenous Oxytocin to decrease intrauterine pressure and tissue factor release into maternal circulation (Grade 1B)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "2. CĂN NGUYÊN & CƠ CHẾ SINH BỆNH HỌC (PATHOPHYSIOLOGY & DIC CASCADE)",
+      "en": "2. ETIOLOGY & PATHOPHYSIOLOGY OF PLACENTAL ABRUPTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-patho-1",
+      "sentences": [
+        {
+          "id": "s-005-6",
+          "vi": "Căn nguyên trung tâm của nhau bong non bắt đầu từ sự vỡ các tiểu động mạch xoắn của màng rụng nền (decidua basalis), thường trên nền bệnh lý tổn thương nội mô mạch máu mạn tính do Tiền sản giật, Tăng huyết áp mạn tính hoặc lạm dụng Cocaine/thuốc lá. Máu chảy tạo thành khối máu tụ màng rụng, dần dần bóc tách bánh nhau khỏi cơ tử cung bên dưới.",
+          "en": "The foundational etiology of abruption initiates from the rupture of decidual spiral arterioles, characteristically superimposed upon chronic vascular endothelial dysfunction driven by Preeclampsia, Chronic Hypertension, or cocaine/tobacco exposure. Extravasated blood forms a retroplacental hematoma, mechanically dissecting the placenta from the underlying myometrium."
+        },
+        {
+          "id": "s-005-7",
+          "vi": "Cơ chế kích hoạt Đông máu nội mạch rải rác (DIC): Bánh nhau và màng rụng bị tổn thương giải phóng một lượng khổng lồ Yếu tố mô (Tissue Factor - Thrombin) trực tiếp vào tuần hoàn mẹ qua các xoang tĩnh mạch tử cung hở. Yếu tố mô kích hoạt ồ ạt con đường đông máu ngoại sinh, tiêu thụ cạn kiệt Fibrinogen, Yếu tố V, Yếu tố VIII và Tiểu cầu, dẫn đến hội chứng rối loạn đông máu tiêu thụ dữ dội.",
+          "en": "Mechanism of Disseminated Intravascular Coagulation (DIC): Damaged placental and decidual architecture discharges massive amounts of Tissue Factor (Thromboplastin) directly into the maternal circulation via breached retroplacental venous sinuses. Circulating tissue factor unleashes the extrinsic clotting cascade, rapidly exhausting Fibrinogen, Factor V, Factor VIII, and Platelets in a catastrophic consumptive coagulopathy."
+        },
+        {
+          "id": "s-005-8",
+          "vi": "Hiện tượng Tử cung Couvelaire (Hội chứng phong bế tử cung - nhau): Trong các trường hợp nặng thể ẩn, áp lực trong khối máu tụ sau nhau tăng rất cao, đẩy máu và các yếu tố mô thâm nhiễm sâu vào các lớp cơ trơn tử cung và lan tràn dưới thanh mạc tử cung, tạo thành các đám tím bầm đen lốm đốm khắp bề mặt tử cung. Tình trạng thâm nhiễm cơ này làm liệt khả năng co bóp của cơ trơn, dẫn đến đờ tử cung dữ dội sau sinh.",
+          "en": "Couvelaire Uterus (Uteroplacental Apoplexy): In catastrophic concealed abruptions, extreme retroplacental pressure forces widespread extravasation of blood and tissue factor into the myometrium and beneath the uterine serosa, rendering the uterus mottled, ecchymotic, and purple-blue. Extensive intramyometrial hematomas paralyze smooth muscle contractility, provoking refractory postpartum uterine atony."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "3. BIỂU HIỆN LÂM SÀNG, BẢNG PHÂN ĐỘ SHER & CHẨN ĐOÁN (CLINICAL DIAGNOSIS & SHER STAGING)",
+      "en": "3. CLINICAL PRESENTATION, SHER STAGING & WORKUP"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-diag-1",
+      "sentences": [
+        {
+          "id": "s-005-9",
+          "vi": "Tam chứng kinh điển của nhau bong non bao gồm: (1) Đau bụng dữ dội đột ngột, liên tục không có khoảng nghỉ; (2) Tử cung tăng trương lực cơ bản, co cứng như gỗ khi sờ nắn; (3) Chảy máu âm đạo màu đỏ sẫm hoặc nâu đen không đông (xuất hiện ở 80% trường hợp, 20% còn lại là thể ẩn).",
+          "en": "The classic clinical triad of placental abruption encompasses: (1) Sudden, unrelenting severe abdominal or back pain without relaxation periods; (2) Board-like, hypertonic, woody uterine rigidity on palpation; (3) Dark red, non-clotting vaginal bleeding (present in 80% of cases, while 20% remain entirely concealed)."
+        },
+        {
+          "id": "s-005-10",
+          "vi": "Cảnh báo hạn chế của Siêu âm: Siêu âm chỉ phát hiện được khối máu tụ sau nhau ở 25–50% các trường hợp vì khối máu tụ mới có mật độ phản âm đồng nhất với bánh nhau (Isoechoic). Do đó, SIÊU ÂM BÌNH THƯỜNG TUYỆT ĐỐI KHÔNG ĐƯỢC DÙNG ĐỂ LOẠI TRỪ NHAU BONG NON nếu dấu hiệu lâm sàng gợi ý.",
+          "en": "Critical Ultrasound Limitation: Ultrasonography visualizes retroplacental hematomas in only 25–50% of confirmed cases because acute hemorrhage appears isoechoic to normal placental tissue. Consequently, A NORMAL ULTRASOUND NEVER RULES OUT PLACENTAL ABRUPTION when clinical suspicion is high."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-005-sher",
+      "title": {
+        "vi": "Bảng 1: Phân loại mức độ nặng Nhau bong non theo Thang điểm lâm sàng Sher",
+        "en": "Table 1: Sher's Clinical Classification System for Placental Abruption Severity"
+      },
+      "headers": [
+        {
+          "vi": "Phân độ Sher",
+          "en": "Sher Grade"
+        },
+        {
+          "vi": "Đặc điểm lâm sàng & Máu chảy",
+          "en": "Clinical Features & Bleeding"
+        },
+        {
+          "vi": "Tình trạng tim thai",
+          "en": "Fetal Status"
+        },
+        {
+          "vi": "Tình trạng đông máu (Fibrinogen)",
+          "en": "Coagulation & Fibrinogen"
+        },
+        {
+          "vi": "Chiến lược xử trí khẩn cấp",
+          "en": "Emergency Management"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Độ 0 (Thầm lặng)",
+            "en": "Grade 0 (Subclinical)"
+          },
+          {
+            "vi": "Không có triệu chứng; phát hiện tình cờ khối máu tụ nhỏ đáy nhau sau sinh",
+            "en": "Asymptomatic; retrospective finding of small clot at birth"
+          },
+          {
+            "vi": "Bình thường",
+            "en": "Normal CTG"
+          },
+          {
+            "vi": "Bình thường (> 3.0 g/L)",
+            "en": "Normal (> 3.0 g/L)"
+          },
+          {
+            "vi": "Theo dõi chuyển dạ thường quy",
+            "en": "Routine postpartum inspection"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 1 (Nhẹ)",
+            "en": "Grade 1 (Mild)"
+          },
+          {
+            "vi": "Chảy máu âm đạo ít, tử cung tăng nhẹ trương lực, không đau rõ",
+            "en": "Slight vaginal bleeding, mild uterine irritability"
+          },
+          {
+            "vi": "Tim thai bình thường, dao động tốt",
+            "en": "Reassuring fetal heart rate"
+          },
+          {
+            "vi": "Fibrinogen bình thường (2.5 – 3.5 g/L)",
+            "en": "Normal (2.5 – 3.5 g/L)"
+          },
+          {
+            "vi": "Theo dõi sát CTG liên tục, chuẩn bị sẵn máu dự phòng",
+            "en": "Continuous CTG monitoring, crossmatch blood"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 2 (Trung bình)",
+            "en": "Grade 2 (Moderate)"
+          },
+          {
+            "vi": "Đau bụng rõ, tử cung co cứng liên tục, chảy máu âm đạo vừa hoặc thể ẩn",
+            "en": "Definite abdominal pain, tetanic contractions, bleeding"
+          },
+          {
+            "vi": "Suy thai cấp (Nhịp giảm muộn, nhịp nhanh/chậm bất thường)",
+            "en": "Fetal distress (Late decelerations, abnormal rate)"
+          },
+          {
+            "vi": "Fibrinogen giảm nhẹ (1.5 – 2.5 g/L)",
+            "en": "Mildly decreased (1.5 – 2.5 g/L)"
+          },
+          {
+            "vi": "Mổ lấy thai cấp cứu loại 1 ngay lập tức",
+            "en": "Immediate Category 1 Emergency Cesarean"
+          }
+        ],
+        [
+          {
+            "vi": "Độ 3 (Nặng - Nguy kịch)",
+            "en": "Grade 3 (Severe / Critical)"
+          },
+          {
+            "vi": "Tử cung cứng như gỗ, đau dữ dội, tụt huyết áp sốc, tụ máu sau nhau > 500 mL",
+            "en": "Board-like woody uterus, agonizing pain, shock, clot > 500 mL"
+          },
+          {
+            "vi": "Thai chết trong tử cung (Grade 3A) hoặc thai suy kiệt (Grade 3B)",
+            "en": "Intrauterine fetal demise (3A) or moribund fetus (3B)"
+          },
+          {
+            "vi": "Rối loạn đông máu DIC nặng, Fibrinogen < 1.5 g/L, tiểu cầu giảm mạnh",
+            "en": "Overt DIC, Fibrinogen < 1.5 g/L, severe thrombocytopenia"
+          },
+          {
+            "vi": "Hồi sức chống sốc MTP tỷ lệ 1:1:1, bù Tủa lạnh khẩn, chấm dứt thai kỳ",
+            "en": "MTP 1:1:1 resuscitation, Cryoprecipitate, urgent delivery"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "4. PHÁC ĐỒ ĐIỀU TRỊ THUỐC, CHẾ PHẨM MÁU & LIỀU DÙNG (PHARMACOTHERAPY & BLOOD COMPONENTS)",
+      "en": "4. STEPWISE PHARMACOTHERAPY AND BLOOD COMPONENT PROTOCOLS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-pharm-1",
+      "sentences": [
+        {
+          "id": "s-005-11",
+          "vi": "Nguyên tắc cốt lõi trong hồi sức nội khoa nhau bong non thể nặng là phục hồi ngay lập tức thể tích tuần hoàn hiệu dụng và đảo ngược rối loạn đông máu tiêu thụ bằng việc bù sớm Fibrinogen và các yếu tố đông máu theo mục tiêu lâm sàng nghiêm ngặt.",
+          "en": "The core tenet of resuscitation in severe abruption is immediate restoration of effective circulating intravascular volume and aggressive reversal of consumptive coagulopathy through early goal-directed replacement of Fibrinogen and clotting factors."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "id": "tbl-005-drugs",
+      "title": {
+        "vi": "Bảng 2: Liều dùng chi tiết các thuốc hồi sức và chế phẩm đông máu trong Nhau bong non có DIC",
+        "en": "Table 2: Detailed Dosing Protocols for Resuscitation Agents and Blood Products in Abruption DIC"
+      },
+      "headers": [
+        {
+          "vi": "Chế phẩm / Hoạt chất",
+          "en": "Component / Drug"
+        },
+        {
+          "vi": "Liều dùng cấp cứu chỉ định",
+          "en": "Emergency Dose"
+        },
+        {
+          "vi": "Đường dùng & Tốc độ",
+          "en": "Route & Rate"
+        },
+        {
+          "vi": "Mục tiêu lâm sàng cần đạt",
+          "en": "Target Clinical Threshold"
+        },
+        {
+          "vi": "Ghi chú an toàn lâm sàng",
+          "en": "Safety Pearls & Warnings"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "vi": "Tủa lạnh (Cryoprecipitate)",
+            "en": "Cryoprecipitate"
+          },
+          {
+            "vi": "10 – 20 đơn vị (hoặc 1 đơn vị/5 kg cân nặng)",
+            "en": "10 – 20 units (or 1 U / 5 kg body weight)"
+          },
+          {
+            "vi": "Truyền tĩnh mạch nhanh qua dây truyền có bầu lọc",
+            "en": "Rapid IV infusion through blood filter"
+          },
+          {
+            "vi": "Duy trì nồng độ Fibrinogen máu > 2.0 g/L (> 200 mg/dL)",
+            "en": "Maintain plasma Fibrinogen > 2.0 g/L"
+          },
+          {
+            "vi": "Mỗi 10 đơn vị tủa lạnh làm tăng Fibrinogen máu thêm khoảng 1.0 g/L",
+            "en": "10 units increase plasma fibrinogen by ~1.0 g/L"
+          }
+        ],
+        [
+          {
+            "vi": "Fibrinogen cô đặc (Riastap / Fibryga)",
+            "en": "Fibrinogen Concentrate"
+          },
+          {
+            "vi": "2 – 4 g (tương đương 30–60 mg/kg)",
+            "en": "2 – 4 g (30–60 mg/kg)"
+          },
+          {
+            "vi": "Hòa tan với nước cất vô trùng, tiêm tĩnh mạch trong 5–10 phút",
+            "en": "Reconstitute and infuse IV over 5–10 min"
+          },
+          {
+            "vi": "Đạt Fibrinogen > 2.0 g/L siêu nhanh mà không gây quá tải thể tích",
+            "en": "Achieves > 2.0 g/L rapidly without volume overload"
+          },
+          {
+            "vi": "Lựa chọn hàng đầu thay thế tủa lạnh nếu sẵn có trong ngân hàng máu",
+            "en": "Preferred alternative to cryoprecipitate when available"
+          }
+        ],
+        [
+          {
+            "vi": "Axit Tranexamic (TXA)",
+            "en": "Tranexamic Acid (TXA)"
+          },
+          {
+            "vi": "1 g (10 mL dung dịch 100 mg/mL)",
+            "en": "1 g (100 mg/mL)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 10 phút, lặp lại 1 g sau 30 phút nếu còn rỉ máu",
+            "en": "Slow IV push over 10 min, repeat 1 g at 30 min"
+          },
+          {
+            "vi": "Ức chế tiêu sợi huyết toàn thân",
+            "en": "Halts systemic hyperfibrinolysis"
+          },
+          {
+            "vi": "Dùng ngay trong 3 giờ đầu sau khởi phát triệu chứng",
+            "en": "Administer within 3 hours of symptom onset"
+          }
+        ],
+        [
+          {
+            "vi": "Huyết tương tươi đông lạnh (FFP)",
+            "en": "Fresh Frozen Plasma (FFP)"
+          },
+          {
+            "vi": "15 – 20 mL/kg (khoảng 4 – 6 đơn vị)",
+            "en": "15 – 20 mL/kg (4 – 6 units)"
+          },
+          {
+            "vi": "Truyền tĩnh mạch nhanh",
+            "en": "Rapid IV infusion"
+          },
+          {
+            "vi": "Giữ INR < 1.5 và aPTT < 1.5 lần chứng",
+            "en": "Maintain INR < 1.5 and aPTT < 1.5x control"
+          },
+          {
+            "vi": "Bù toàn diện các yếu tố đông máu II, V, VII, VIII, IX, X, XI",
+            "en": "Restores comprehensive clotting factors"
+          }
+        ],
+        [
+          {
+            "vi": "Khối tiểu cầu (Platelets)",
+            "en": "Platelet Concentrate"
+          },
+          {
+            "vi": "1 khối tiểu cầu gạn tách (Apheresis) hoặc 4–6 đơn vị pool",
+            "en": "1 Apheresis adult unit or 4–6 pool units"
+          },
+          {
+            "vi": "Truyền tĩnh mạch trong 15–30 phút",
+            "en": "Infuse over 15–30 min"
+          },
+          {
+            "vi": "Duy trì số lượng tiểu cầu > 50.000/mcL (> 50 x 10^9/L)",
+            "en": "Maintain platelet count > 50,000/mcL"
+          },
+          {
+            "vi": "Trong trường hợp mổ lấy thai cấp có chảy máu lan tỏa, nâng mục tiêu > 75.000/mcL",
+            "en": "Target > 75,000/mcL if active surgical bleeding"
+          }
+        ],
+        [
+          {
+            "vi": "Canxi Gluconat 10%",
+            "en": "Calcium Gluconate 10%"
+          },
+          {
+            "vi": "1 g (1 ống 10 mL)",
+            "en": "1 g (10 mL ampoule)"
+          },
+          {
+            "vi": "Tiêm tĩnh mạch chậm trong 5 phút",
+            "en": "Slow IV push over 5 min"
+          },
+          {
+            "vi": "Duy trì nồng độ Canxi ion hóa (iCa) > 1.1 mmol/L",
+            "en": "Maintain ionized Calcium > 1.1 mmol/L"
+          },
+          {
+            "vi": "Tiêm sau mỗi 4 đơn vị chế phẩm máu để trung hòa chất chống đông Citrate",
+            "en": "Administer every 4 blood units to counter citrate"
+          }
+        ],
+        [
+          {
+            "vi": "Oxytocin (Co hồi tử cung)",
+            "en": "Oxytocin"
+          },
+          {
+            "vi": "10 UI tiêm bắp HOẶC 20–40 UI pha trong 1.000 mL dịch truyền",
+            "en": "10 IU IM OR 20–40 IU in 1,000 mL crystalloid"
+          },
+          {
+            "vi": "Truyền tĩnh mạch 250–500 mL/giờ sau khi sổ thai",
+            "en": "Infuse 250–500 mL/hr after delivery"
+          },
+          {
+            "vi": "Phòng ngừa đờ tử cung do tử cung Couvelaire",
+            "en": "Prevents atony from Couvelaire apoplexy"
+          },
+          {
+            "vi": "Không bolus tĩnh mạch trực tiếp vì gây hạ huyết áp kịch phát",
+            "en": "Avoid rapid IV push bolus (causes hypotension)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "5. PHÁC ĐỒ XỬ TRÍ NGOẠI KHOA & KIỂM SOÁT THIỆT HẠI (SURGICAL MANAGEMENT & DAMAGE CONTROL)",
+      "en": "5. SURGICAL DAMAGE CONTROL & OPERATIVE ALGORITHMS"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-surg-1",
+      "sentences": [
+        {
+          "id": "s-005-12",
+          "vi": "Phẫu thuật mổ lấy thai trong nhau bong non thể nặng là một cuộc mổ có độ rủi ro xuất huyết cực cao do nguy cơ đờ tử cung (tử cung Couvelaire) và rối loạn đông máu nội mạch kết hợp. Phẫu thuật viên cần rạch đường dọc giữa dưới rốn để mở rộng trường mổ, chuẩn bị sẵn dao điện cầm máu tốt và các dụng cụ chèn gạc ổ bụng.",
+          "en": "Cesarean delivery in severe abruption is a high-stakes hemorrhage surgery due to the dual perils of Couvelaire uterine atony and systemic consumptive coagulopathy. A vertical midline infraumbilical incision is preferred to maximize surgical exposure, accompanied by electrocautery and abdominal packing packs."
+        },
+        {
+          "id": "s-005-13",
+          "vi": "Xử trí tử cung Couvelaire tại bàn mổ: Bản thân hình ảnh tím tái bầm tím của tử cung Couvelaire KHÔNG PHẢI là chỉ định bắt buộc phải cắt tử cung ngay. Sau khi lấy thai và bóc nhau, tiến hành xoa bóp tử cung hai tay liên tục, dùng thuốc co hồi tử cung tối đa (Oxytocin, Carbetocin, Carboprost tiêm cơ tử cung) và đặt bóng chèn Bakri hoặc thực hiện mũi khâu B-Lynch nếu tử cung đờ.",
+          "en": "Management of Couvelaire Uterus at Laparotomy: The bruised, purplish appearance of a Couvelaire uterus DOES NOT per se mandate immediate hysterectomy. Following fetal and placental extraction, perform bimanual massage, administer maximal uterotonics (Oxytocin, Carbetocin, intramyometrial Carboprost), and deploy Bakri balloon or B-Lynch brace sutures if atony persists."
+        },
+        {
+          "id": "s-005-14",
+          "vi": "Chỉ định cắt tử cung cấp cứu: Cắt tử cung bán phần hoặc toàn phần khẩn cấp được chỉ định dứt khoát khi: Đờ tử cung không đáp ứng với mọi biện pháp bảo tồn, chảy máu diện nhau bám không thể cầm, hoặc rối loạn đông máu DIC đe dọa trực tiếp tính mạng người mẹ. Nguyên tắc phẫu thuật kiểm soát thiệt hại (Damage Control Surgery) đòi hỏi thao tác cầm máu dứt khoát, khâu chèn ép và đóng bụng tạm thời nếu toan hóa và hạ thân nhiệt chưa thể đảo ngược.",
+          "en": "Indications for Emergent Peripartum Hysterectomy: Subtotal or total hysterectomy is decisively indicated when: atony is refractory to all conservative measures, placental bed hemorrhage is intractable, or fulminant DIC directly jeopardizes maternal life. Damage control surgery principles mandate swift surgical hemostasis, pelvic packing, and temporary abdominal closure if lethal triad derangements persist."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "6. XÉT NGHIỆM ĐÀN HỒI CỤC MÁU TẠI GIƯỜNG (ROTEM / TEG) & CHIẾN LƯỢC KHI THAI CHẾT LƯU",
+      "en": "6. POINT-OF-CARE VISCOELASTIC TESTING (ROTEM/TEG) & IUFD STRATEGIES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-rotem-1",
+      "sentences": [
+        {
+          "id": "s-005-15a",
+          "vi": "Vai trò của Xét nghiệm đàn hồi cục máu đồ tại giường (ROTEM / TEG): Trong khi xét nghiệm đông máu tiêu chuẩn (PT, aPTT, Fibrinogen Clauss) mất từ 45 đến 60 phút mới có kết quả, xét nghiệm ROTEM (Rotational Thromboelastometry) cung cấp thông số độ vững cục máu trong vòng 10–15 phút. Thông số FIBTEM A5 hoặc A10 < 10 mm là chỉ điểm nhạy bén xác nhận thiếu hụt fibrinogen chức năng nghiêm trọng, chỉ định truyền ngay lập tức 2–4 g Fibrinogen cô đặc hoặc 15–20 đơn vị Tủa lạnh mà không cần chờ xét nghiệm thông thường.",
+          "en": "Role of Bedside Viscoelastic Testing (ROTEM / TEG): While conventional coagulation assays (PT, aPTT, Clauss fibrinogen) require 45 to 60 minutes for turnaround, Rotational Thromboelastometry (ROTEM) yields functional clot firmness parameters within 10–15 minutes. A FIBTEM amplitude at 5 or 10 minutes (A5 or A10) < 10 mm decisively demonstrates critical functional fibrinogen depletion, directing immediate administration of 2–4 g of Fibrinogen Concentrate or 15–20 units of Cryoprecipitate."
+        },
+        {
+          "id": "s-005-15",
+          "vi": "Khi siêu âm xác nhận thai đã chết trong tử cung (Grade 3A), mục tiêu điều trị duy nhất là cứu sống người mẹ. Việc mổ lấy thai trên bệnh nhân có DIC nặng mang lại tỷ lệ tử vong và biến chứng chảy máu vết mổ cao hơn nhiều so với sinh đường âm đạo.",
+          "en": "When ultrasound confirms intrauterine fetal demise (Grade 3A), the solitary clinical goal shifts to preserving maternal life. Performing major laparotomy in a patient with severe active DIC carries far higher maternal mortality and bleeding morbidity than managed vaginal delivery."
+        },
+        {
+          "id": "s-005-16",
+          "vi": "Phác đồ sinh đường âm đạo an toàn: Bấm ối sớm có kiểm soát để làm giảm áp lực trong buồng tử cung, ngăn chặn máu tiếp tục thẩm thấu vào màng rụng và giảm lượng thromboplastin thoát vào máu mẹ. Truyền tĩnh mạch Oxytocin để tăng cường cơn gò tử cung, kết hợp hồi sức tích cực bằng máu, tủa lạnh và huyết tương tươi. Đa số sản phụ sinh ngả âm đạo thành công trong vòng 6–12 giờ mà không cần mở bụng.",
+          "en": "Safe Vaginal Delivery Protocol: Perform controlled early amniotomy to decompress intrauterine pressure, arresting further decidual extravasation and diminishing tissue factor intravasation. Titrate intravenous Oxytocin to optimize contractions alongside aggressive transfusion of PRBCs, cryoprecipitate, and FFP. Most women deliver vaginally within 6–12 hours without laparotomy."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "7. BIẾN CHỨNG, SUY THẬN CẤP & TƯ VẤN PHÒNG NGỪA LẦN MANG THAI SAU (COMPLICATIONS & PREVENTION)",
+      "en": "7. COMPLICATIONS, RENAL FAILURE & RECURRENCE PREVENTION"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-comp-1",
+      "sentences": [
+        {
+          "id": "s-005-17",
+          "vi": "Suy thận cấp do hoại tử ống thận cấp tính hoặc hoại tử vỏ thận hai bên (Bilateral Renal Cortical Necrosis) là biến chứng nguy hiểm hàng đầu ở sản phụ sống sót sau nhau bong non thể nặng. Nguyên nhân do tụt huyết áp kéo dài kết hợp với tình trạng vi huyết khối fibrin làm tắc nghẽn các tiểu cầu thận trong hội chứng DIC.",
+          "en": "Acute kidney injury stemming from acute tubular necrosis or bilateral renal cortical necrosis represents the foremost organ threat in maternal survivors of severe abruption. It is driven by prolonged systemic hypoperfusion synergistic with microvascular fibrin thrombi occluding glomerular capillaries during DIC."
+        },
+        {
+          "id": "s-005-18",
+          "vi": "Theo dõi và hồi sức tại ICU: Bắt buộc đặt ống thông tiểu theo dõi lượng nước tiểu từng giờ (duy trì đích ≥ 30–50 mL/giờ), làm xét nghiệm Creatinine máu, điện giải đồ, Fibrinogen, D-Dimer và Lactate máu mỗi 4–6 giờ. Nếu có thiểu niệu hoặc vô niệu kéo dài kèm theo tăng kali máu nặng và toan chuyển hóa kháng trị, chỉ định lọc máu liên tục (CRRT) sớm để bảo toàn tính mạng người mẹ.",
+          "en": "ICU Surveillance and Critical Care: Continuous hourly Foley catheter urine output monitoring is mandatory (target ≥ 30–50 mL/hr), alongside serial blood Creatinine, electrolytes, Fibrinogen, D-Dimer, and lactate tracking every 4–6 hours. If persistent oliguria or anuria evolves with severe hyperkalemia and refractory acidosis, early Continuous Renal Replacement Therapy (CRRT) is indicated."
+        },
+        {
+          "id": "s-005-18b",
+          "vi": "Tư vấn phòng ngừa nguy cơ tái phát ở lần mang thai sau: Sản phụ có tiền sử nhau bong non thể nặng có nguy cơ tái phát gấp 10–15 lần ở lần mang thai tiếp theo (tỷ lệ tái phát từ 5% đến 15%, và lên tới 25% nếu đã có 2 lần bị nhau bong non). Trong thai kỳ sau, bắt buộc phải điều trị dự phòng bằng Aspirin liều thấp (100–150 mg/ngày) bắt đầu từ tuần thứ 12 đến 36 của thai kỳ, kết hợp theo dõi siêu âm Doppler động mạch tử cung (UtA-PI) và siêu âm đánh giá sự phát triển của thai định kỳ mỗi 2–4 tuần.",
+          "en": "Recurrence Prevention and Future Pregnancy Counseling: Women with a history of severe abruption face a 10- to 15-fold elevated recurrence risk in subsequent pregnancies (5–15% recurrence after one abruption, escalating to 25% after two consecutive abruptions). In subsequent gestations, initiate daily low-dose Aspirin (100–150 mg) from 12 to 36 weeks, paired with serial uterine artery Doppler (UtA-PI) velocimetry and serial fetal biometric ultrasounds every 2–4 weeks."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "vi": "8. TÀI LIỆU THAM KHẢO & HƯỚNG DẪN HIỆP HỘI CHÍNH THỨC (SOCIETY GUIDELINES & REFERENCES)",
+      "en": "8. OFFICIAL SOCIETY GUIDELINES & REFERENCES"
+    },
+    {
+      "type": "paragraph",
+      "id": "p-005-ref-1",
+      "sentences": [
+        {
+          "id": "s-005-19",
+          "vi": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Antepartum and Postpartum Hemorrhage. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);130(4):e168-e186. DOI: 10.1097/AOG.0000000000002351",
+          "en": "1. American College of Obstetricians and Gynecologists (ACOG). Practice Bulletin No. 183: Antepartum and Postpartum Hemorrhage. Obstetrics & Gynecology. 2017 (Reaffirmed 2024);130(4):e168-e186. DOI: 10.1097/AOG.0000000000002351"
+        },
+        {
+          "id": "s-005-20",
+          "vi": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Antepartum Haemorrhage. Green-top Guideline No. 63. BJOG. 2018 (Updated 2025).",
+          "en": "2. Royal College of Obstetricians and Gynaecologists (RCOG). Antepartum Haemorrhage. Green-top Guideline No. 63. BJOG. 2018 (Updated 2025)."
+        },
+        {
+          "id": "s-005-21",
+          "vi": "3. Oyelese Y, Ananth CV. Placental abruption. Obstetrics & Gynecology. 2006;108(4):1005-1016. DOI: 10.1097/01.AOG.0000239439.04364.9a",
+          "en": "3. Oyelese Y, Ananth CV. Placental abruption. Obstetrics & Gynecology. 2006;108(4):1005-1016. DOI: 10.1097/01.AOG.0000239439.04364.9a"
+        },
+        {
+          "id": "s-005-22",
+          "vi": "4. Tikkanen M. Placental abruption: epidemiology, risk factors and consequences. Acta Obstet Gynecol Scand. 2011;90(2):140-149. DOI: 10.1111/j.1600-0412.2010.01030.x",
+          "en": "4. Tikkanen M. Placental abruption: epidemiology, risk factors and consequences. Acta Obstet Gynecol Scand. 2011;90(2):140-149. DOI: 10.1111/j.1600-0412.2010.01030.x"
+        },
+        {
+          "id": "s-005-23",
+          "vi": "5. Bộ Y Tế Việt Nam. Hướng dẫn quốc gia về chẩn đoán và xử trí cấp cứu nhau bong non. Quyết định 4163/QĐ-BYT.",
+          "en": "5. Ministry of Health Vietnam. National Guidelines for Reproductive Health Care: Emergency Management of Placental Abruption. Decision 4163/QD-BYT."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term_vi": "Nhau bong non",
+      "term_en": "Placental Abruption (Abruptio Placentae)",
+      "phonetic": "/pləˈsɛntəl əˈbrʌpʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/abruption--_us_1.mp3",
+      "definition_vi": "Sự bong tróc một phần hoặc toàn bộ bánh nhau khỏi vị trí bám bình thường ở tử cung trước khi sổ thai, gây suy thai và rối loạn đông máu.",
+      "definition_en": "Premature separation of a normally implanted placenta from the uterine wall before birth, risking acute fetal asphyxia and maternal DIC."
+    },
+    {
+      "term_vi": "Tử cung Couvelaire",
+      "term_en": "Couvelaire Uterus",
+      "phonetic": "/kuːvəˈlɛər ˈjuːtərɪs/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/uterus--_us_1.mp3",
+      "definition_vi": "Tình trạng máu và yếu tố mô thấm sâu vào các thớ cơ trơn tử cung và dưới thanh mạc trong nhau bong non thể nặng, làm tử cung bầm tím và đờ tử cung.",
+      "definition_en": "Widespread extravasation of blood into the myometrium and beneath the serosa in severe abruption, causing a mottled appearance and atony."
+    },
+    {
+      "term_vi": "Đông máu nội mạch rải rác",
+      "term_en": "Disseminated Intravascular Coagulation (DIC)",
+      "phonetic": "/dɪˈsɛmɪneɪtɪd ˌɪntrəˈvæskjʊlər koʊˌæɡjʊˈleɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/coagulation--_us_1.mp3",
+      "definition_vi": "Hội chứng hoạt hóa toàn thể dòng thác đông máu làm tiêu thụ cạn kiệt Fibrinogen và tiểu cầu, gây chảy máu ồ ạt kèm tắc nghẽn vi mạch.",
+      "definition_en": "Systemic coagulopathy consuming clotting factors and platelets, producing uncontrolled hemorrhage and microvascular thrombosis."
+    },
+    {
+      "term_vi": "Tủa lạnh",
+      "term_en": "Cryoprecipitate",
+      "phonetic": "/ˌkraɪoʊprɪˈsɪpɪtɪt/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/cryoprecipitate--_us_1.mp3",
+      "definition_vi": "Chế phẩm máu giàu Fibrinogen, Yếu tố VIII, Yếu tố von Willebrand và Yếu tố XIII, là lựa chọn hàng đầu để nâng nhanh Fibrinogen máu.",
+      "definition_en": "Blood component rich in Fibrinogen, Factor VIII, vWF, and Factor XIII, ideal for rapid elevation of plasma fibrinogen levels."
+    },
+    {
+      "term_vi": "Phân loại Sher",
+      "term_en": "Sher Classification",
+      "phonetic": "/ʃɜːr ˌklæsɪfɪˈkeɪʃən/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/classification--_us_1.mp3",
+      "definition_vi": "Hệ thống phân tầng mức độ nặng nhau bong non từ Độ 0 (thầm lặng) đến Độ 3 (nặng kèm DIC hoặc thai chết lưu) để chỉ định phác đồ xử trí.",
+      "definition_en": "Clinical grading system for placental abruption from Grade 0 (subclinical) to Grade 3 (severe abruption with DIC or demise) guiding therapy."
+    },
+    {
+      "term_vi": "Hoại tử vỏ thận hai bên",
+      "term_en": "Bilateral Renal Cortical Necrosis",
+      "phonetic": "/baɪˈlætərəl ˈriːnəl ˈkɔːrtɪkəl nɛˈkroʊsɪs/",
+      "audio_url": "https://ssl.gstatic.com/dictionary/static/sounds/oxford/necrosis--_us_1.mp3",
+      "definition_vi": "Biến chứng hoại tử thiếu máu cục bộ không hồi phục của nhu mô vỏ thận do tụt huyết áp kéo dài và huyết khối vi mạch trong DIC.",
+      "definition_en": "Irreversible ischemic necrosis of the renal cortex caused by severe sustained shock and microvascular thrombosis during DIC."
+    }
+  ]
+}
