@@ -1,0 +1,320 @@
+{
+  "id": "pmc13408299",
+  "title": {
+    "en": "Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence",
+    "vi": "Sử dụng acetaminophen trong thai kỳ và tự kỷ: tách biệt tranh cãi khỏi bằng chứng khoa học"
+  },
+  "title_en": "Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence",
+  "title_vi": "Sử dụng acetaminophen trong thai kỳ và tự kỷ: tách biệt tranh cãi khỏi bằng chứng khoa học",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản phụ khoa & Y học Bào thai",
+  "metadata": {
+    "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13408299&blobtype=pdf",
+    "license": "cc-by-nc",
+    "license_url": "",
+    "license_decision": {
+      "allowed": false,
+      "status": "block_noncommercial_policy",
+      "route": "rewrite_citation",
+      "license": "cc-by-nc",
+      "license_url": "",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13408299&blobtype=pdf",
+      "reason": "Nguồn chỉ cho phép phi thương mại; không dịch nguyên văn, chuyển sang tổng hợp nguyên bản và trích dẫn.",
+      "can_translate": false,
+      "can_publish_public": true,
+      "can_synthesize": true,
+      "can_reuse_figures": false,
+      "must_cite_source": true,
+      "copy_verbatim": false
+    },
+    "publication_route": "rewrite_citation",
+    "section_schema": "momdiary_clinical_evidence_v1",
+    "figures_reused": 0,
+    "tables_reused": 0,
+    "updated_at": "2026-10-11 00:56:43"
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "citation-header",
+      "sentences": [
+        {
+          "id": "cit-meta-1",
+          "en": "Source for this original synthesis: Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence.",
+          "vi": "Nguồn của bản tổng hợp nguyên bản này: Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence."
+        },
+        {
+          "id": "cit-meta-2",
+          "en": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13408299&blobtype=pdf | Licence: cc-by-nc",
+          "vi": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13408299&blobtype=pdf | Licence: cc-by-nc"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "synthesis-heading",
+      "en": "Original clinical synthesis",
+      "vi": "Tổng hợp lâm sàng nguyên bản"
+    },
+    {
+      "type": "paragraph",
+      "id": "synthesis-summary",
+      "sentences": [
+        {
+          "id": "summary-1",
+          "en": "This narrative review addresses the recent controversy surrounding acetaminophen (paracetamol) use during pregnancy and its potential link to autism risk, which has caused public concern and clinical uncertainty. Despite decades of clinical experience supporting acetaminophen as a safe first-line analgesic and antipyretic with a better safety profile than NSAIDs or opioids, recent media and political statements have amplified non-evidence-based concerns. The review synthesizes current epidemiological evidence, highlighting findings from a large Swedish nationwide cohort with a sibling-control analysis. This study, along with other high-quality cohort and sibling-comparison studies, found no significant association between prenatal acetaminophen exposure and major neurodevelopmental disorders such as autism spectrum disorder, attention-deficit/hyperactivity disorder, or intellectual disability. These findings suggest that previously reported modest risk elevations were likely due to confounding and methodological limitations. Consequently, leading organizations like the World Health Organization, the American College of Obstetricians and Gynecologists, and national regulatory bodies continue to endorse short-term, guideline-concordant acetaminophen use as appropriate in pregnancy. The review emphasizes that routine obstetric care should focus on evidence-based counseling, maternal safety, and fetal well-being, advocating for acetaminophen use at the lowest effective dose for the shortest necessary duration, pending any future high-quality data that might indicate otherwise.",
+          "vi": "Bản tổng hợp tường thuật này giải quyết những tranh cãi gần đây xoay quanh việc sử dụng acetaminophen (paracetamol) trong thai kỳ và mối liên hệ tiềm tàng với nguy cơ tự kỷ, vốn đã gây ra lo ngại trong cộng đồng và sự không chắc chắn trong thực hành lâm sàng. Mặc dù hàng thập kỷ kinh nghiệm lâm sàng đã ủng hộ acetaminophen là thuốc giảm đau và hạ sốt hàng đầu an toàn với hồ sơ an toàn tốt hơn so với thuốc chống viêm không steroid (NSAID) hoặc opioid, các tuyên bố gần đây từ truyền thông và chính trị đã khuếch đại những lo ngại không dựa trên bằng chứng. Bản tổng hợp này tổng hợp bằng chứng dịch tễ học hiện tại, làm nổi bật các phát hiện từ một nghiên cứu đoàn hệ quốc gia lớn của Thụy Điển với phân tích kiểm soát anh chị em ruột. Nghiên cứu này, cùng với các nghiên cứu đoàn hệ và so sánh anh chị em ruột chất lượng cao khác, không tìm thấy mối liên hệ đáng kể nào giữa việc tiếp xúc acetaminophen trước sinh và các rối loạn phát triển thần kinh chính như rối loạn phổ tự kỷ, rối loạn tăng động giảm chú ý (ADHD) hoặc thiểu năng trí tuệ. Những phát hiện này cho thấy rằng các báo cáo trước đây về sự gia tăng nguy cơ khiêm tốn có thể là do các yếu tố gây nhiễu và hạn chế về phương pháp luận. Do đó, các tổ chức hàng đầu như Tổ chức Y tế Thế giới, Đại học Sản Phụ khoa Hoa Kỳ và các cơ quan quản lý quốc gia tiếp tục ủng hộ việc sử dụng acetaminophen ngắn hạn, tuân thủ hướng dẫn là phù hợp trong thai kỳ. Bản tổng hợp nhấn mạnh rằng chăm sóc sản khoa thường quy nên tập trung vào tư vấn dựa trên bằng chứng, an toàn cho mẹ và sức khỏe thai nhi, khuyến nghị sử dụng acetaminophen với liều thấp nhất có hiệu quả trong thời gian ngắn nhất cần thiết, chờ đợi bất kỳ dữ liệu chất lượng cao nào trong tương lai có thể chỉ ra điều ngược lại."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "asset-rights-note",
+      "sentences": [
+        {
+          "id": "asset-note-1",
+          "en": "Original figures and tables are not reproduced; consult the cited source for those assets.",
+          "vi": "Không tái sử dụng hình và bảng gốc; muốn xem các tài sản đó, hãy mở nguồn đã trích dẫn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-1",
+      "sentences": [
+        {
+          "id": "point-1",
+          "en": "Recent epidemiological evidence, including a large Swedish sibling-control cohort, does not support a causal link between therapeutic prenatal acetaminophen use and major neurodevelopmental disorders like autism spectrum disorder, ADHD, or intellectual disability.",
+          "vi": "Bằng chứng dịch tễ học gần đây, bao gồm một nghiên cứu đoàn hệ lớn của Thụy Điển với phân tích kiểm soát anh chị em ruột, không ủng hộ mối liên hệ nhân quả giữa việc sử dụng acetaminophen điều trị trong thai kỳ và các rối loạn phát triển thần kinh chính như rối loạn phổ tự kỷ, ADHD hoặc thiểu năng trí tuệ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-2",
+      "sentences": [
+        {
+          "id": "point-2",
+          "en": "Previous reports of modest risk elevations likely stemmed from confounding factors and methodological limitations, as indicated by high-quality cohort and sibling-comparison studies.",
+          "vi": "Các báo cáo trước đây về sự gia tăng nguy cơ khiêm tốn có thể xuất phát từ các yếu tố gây nhiễu và hạn chế về phương pháp luận, như được chỉ ra bởi các nghiên cứu đoàn hệ và so sánh anh chị em ruột chất lượng cao."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-3",
+      "sentences": [
+        {
+          "id": "point-3",
+          "en": "Major professional societies and regulatory agencies, including the WHO and ACOG, continue to endorse short-term, guideline-concordant acetaminophen use as appropriate during pregnancy.",
+          "vi": "Các hiệp hội chuyên môn lớn và cơ quan quản lý, bao gồm Tổ chức Y tế Thế giới (WHO) và Đại học Sản Phụ khoa Hoa Kỳ (ACOG), tiếp tục ủng hộ việc sử dụng acetaminophen ngắn hạn, tuân thủ hướng dẫn là phù hợp trong thai kỳ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-4",
+      "sentences": [
+        {
+          "id": "point-4",
+          "en": "Acetaminophen remains the preferred first-line analgesic and antipyretic in pregnancy due to its favorable safety profile compared to NSAIDs or opioids, supported by decades of clinical experience.",
+          "vi": "Acetaminophen vẫn là thuốc giảm đau và hạ sốt ưu tiên hàng đầu trong thai kỳ nhờ hồ sơ an toàn thuận lợi hơn so với thuốc chống viêm không steroid (NSAID) hoặc opioid, được hỗ trợ bởi hàng thập kỷ kinh nghiệm lâm sàng."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-5",
+      "sentences": [
+        {
+          "id": "point-5",
+          "en": "Clinical practice should prioritize evidence-based counseling, maternal safety, and fetal well-being, recommending acetaminophen at the lowest effective dose for the shortest necessary duration, unless new high-quality data emerge.",
+          "vi": "Thực hành lâm sàng cần ưu tiên tư vấn dựa trên bằng chứng, an toàn cho mẹ và sức khỏe thai nhi, khuyến nghị sử dụng acetaminophen với liều thấp nhất có hiệu quả trong thời gian ngắn nhất cần thiết, trừ khi có dữ liệu chất lượng cao mới xuất hiện."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-evidence",
+      "en": "Evidence",
+      "vi": "Bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-evidence",
+      "sentences": [
+        {
+          "id": "section-sentence-evidence",
+          "en": "A narrative review synthesized current epidemiological evidence regarding prenatal acetaminophen exposure and neurodevelopmental outcomes. Key findings include a large Swedish nationwide cohort study utilizing a sibling-control analysis, which reported no significant association between acetaminophen use during pregnancy and children's risk of autism spectrum disorder, attention-deficit/hyperactivity disorder, or intellectual disability. This suggests that previously observed modest risk elevations were likely attributable to confounding and methodological limitations. Consistent null findings from other high-quality cohort and sibling-comparison studies further support the absence of a causal relationship between therapeutic prenatal acetaminophen use and major neurodevelopmental disorders.",
+          "vi": "Một bản tổng hợp tường thuật đã tổng hợp bằng chứng dịch tễ học hiện tại liên quan đến việc tiếp xúc acetaminophen trước sinh và các kết cục phát triển thần kinh. Các phát hiện chính bao gồm một nghiên cứu đoàn hệ quốc gia lớn của Thụy Điển sử dụng phân tích kiểm soát anh chị em ruột, báo cáo không có mối liên hệ đáng kể nào giữa việc sử dụng acetaminophen trong thai kỳ và nguy cơ mắc rối loạn phổ tự kỷ, rối loạn tăng động giảm chú ý (ADHD) hoặc thiểu năng trí tuệ ở trẻ em. Điều này cho thấy rằng các mức tăng nguy cơ khiêm tốn được quan sát trước đây có thể là do các yếu tố gây nhiễu và hạn chế về phương pháp luận. Các phát hiện không có mối liên hệ tương tự từ các nghiên cứu đoàn hệ và so sánh anh chị em ruột chất lượng cao khác củng cố thêm việc không có mối quan hệ nhân quả giữa việc sử dụng acetaminophen điều trị trước sinh và các rối loạn phát triển thần kinh chính."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-summary",
+      "en": "Summary",
+      "vi": "Tóm tắt"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-summary",
+      "sentences": [
+        {
+          "id": "section-sentence-summary",
+          "en": "This review addresses the ongoing debate regarding acetaminophen use in pregnancy and its purported link to autism. It concludes that current high-quality epidemiological data, including large sibling-controlled studies, do not establish a causal relationship between therapeutic prenatal acetaminophen exposure and major neurodevelopmental disorders. Leading professional organizations and regulatory bodies continue to endorse its short-term, guideline-concordant use during pregnancy, emphasizing its long-standing safety profile compared to alternatives. Clinical guidance advocates for evidence-based counseling and judicious use at the lowest effective dose for the shortest duration.",
+          "vi": "Bản tổng hợp này giải quyết cuộc tranh luận đang diễn ra về việc sử dụng acetaminophen trong thai kỳ và mối liên hệ được cho là với bệnh tự kỷ. Nó kết luận rằng dữ liệu dịch tễ học chất lượng cao hiện tại, bao gồm các nghiên cứu lớn có kiểm soát anh chị em ruột, không thiết lập mối quan hệ nhân quả giữa việc tiếp xúc acetaminophen điều trị trước sinh và các rối loạn phát triển thần kinh chính. Các tổ chức chuyên môn và cơ quan quản lý hàng đầu tiếp tục ủng hộ việc sử dụng ngắn hạn, tuân thủ hướng dẫn trong thai kỳ, nhấn mạnh hồ sơ an toàn lâu dài của nó so với các lựa chọn thay thế. Hướng dẫn lâm sàng ủng hộ tư vấn dựa trên bằng chứng và sử dụng thận trọng với liều thấp nhất có hiệu quả trong thời gian ngắn nhất."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-scope",
+      "en": "Scope",
+      "vi": "Phạm vi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-scope",
+      "sentences": [
+        {
+          "id": "section-sentence-scope",
+          "en": "This narrative review summarizes the current epidemiological evidence and the positions of major professional societies and regulatory agencies concerning prenatal acetaminophen exposure and neurodevelopmental outcomes. It aims to provide a conceptual framework integrating mechanistic insights with clinical findings to inform practice, particularly in light of amplified public concern and clinical uncertainty stemming from non-evidence-based statements.",
+          "vi": "Bản tổng hợp tường thuật này tóm tắt bằng chứng dịch tễ học hiện tại và quan điểm của các hiệp hội chuyên môn lớn cùng các cơ quan quản lý liên quan đến việc tiếp xúc acetaminophen trước sinh và các kết cục phát triển thần kinh. Mục tiêu là cung cấp một khuôn khổ khái niệm tích hợp các hiểu biết cơ chế với các phát hiện lâm sàng để định hướng thực hành, đặc biệt trong bối cảnh lo ngại của công chúng và sự không chắc chắn trong lâm sàng gia tăng do các tuyên bố không dựa trên bằng chứng."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-mechanism_risk",
+      "en": "Mechanism and Risk",
+      "vi": "Cơ chế và Nguy cơ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-mechanism_risk",
+      "sentences": [
+        {
+          "id": "section-sentence-mechanism_risk",
+          "en": "The abstract indicates that previously reported modest risk elevations linking prenatal acetaminophen use to neurodevelopmental outcomes largely reflect confounding and methodological limitations in earlier studies. Current high-quality evidence, particularly from sibling-control analyses, suggests no causal relationship, thereby mitigating concerns about a direct mechanistic link to major neurodevelopmental disorders.",
+          "vi": "Bản tóm tắt chỉ ra rằng các mức tăng nguy cơ khiêm tốn được báo cáo trước đây liên quan đến việc sử dụng acetaminophen trước sinh với các kết cục phát triển thần kinh phần lớn phản ánh các yếu tố gây nhiễu và hạn chế về phương pháp luận trong các nghiên cứu trước đó. Bằng chứng chất lượng cao hiện tại, đặc biệt từ các phân tích kiểm soát anh chị em ruột, cho thấy không có mối quan hệ nhân quả, do đó làm giảm bớt lo ngại về một liên kết cơ chế trực tiếp đến các rối loạn phát triển thần kinh chính."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-diagnosis",
+      "en": "Diagnosis",
+      "vi": "Chẩn đoán"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-diagnosis",
+      "sentences": [
+        {
+          "id": "section-sentence-diagnosis",
+          "en": "Not reported in the abstract.",
+          "vi": "Chưa được báo cáo trong bản tóm tắt."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-management",
+      "en": "Management",
+      "vi": "Quản lý"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-management",
+      "sentences": [
+        {
+          "id": "section-sentence-management",
+          "en": "Acetaminophen is recommended as the preferred first-line analgesic and antipyretic in pregnancy, supported by decades of clinical experience and a favorable safety profile compared to NSAIDs or opioids. Major professional societies and regulatory agencies endorse short-term, guideline-concordant use. In routine obstetric care, emphasis should be placed on maternal safety, fetal well-being, and evidence-based counseling. Acetaminophen should be used at the lowest effective dose for the shortest necessary duration, unless future high-quality data indicate otherwise.",
+          "vi": "Acetaminophen được khuyến nghị là thuốc giảm đau và hạ sốt ưu tiên hàng đầu trong thai kỳ, được hỗ trợ bởi hàng thập kỷ kinh nghiệm lâm sàng và hồ sơ an toàn thuận lợi hơn so với thuốc chống viêm không steroid (NSAID) hoặc opioid. Các hiệp hội chuyên môn lớn và cơ quan quản lý ủng hộ việc sử dụng ngắn hạn, tuân thủ hướng dẫn. Trong chăm sóc sản khoa thường quy, cần nhấn mạnh an toàn cho mẹ, sức khỏe thai nhi và tư vấn dựa trên bằng chứng. Acetaminophen nên được sử dụng với liều thấp nhất có hiệu quả trong thời gian ngắn nhất cần thiết, trừ khi có dữ liệu chất lượng cao trong tương lai chỉ ra điều ngược lại."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-complications_followup",
+      "en": "Complications and Follow-up",
+      "vi": "Biến chứng và Theo dõi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-complications_followup",
+      "sentences": [
+        {
+          "id": "section-sentence-complications_followup",
+          "en": "Not reported in the abstract.",
+          "vi": "Chưa được báo cáo trong bản tóm tắt."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-references_glossary",
+      "en": "References and Glossary",
+      "vi": "Tài liệu tham khảo và Thuật ngữ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-references_glossary",
+      "sentences": [
+        {
+          "id": "section-sentence-references_glossary",
+          "en": "This synthesis is based on a narrative review titled \"Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence.\" The review summarizes current epidemiological evidence and positions of major professional societies and regulatory agencies on prenatal acetaminophen exposure and neurodevelopmental outcomes.",
+          "vi": "Bản tổng hợp này dựa trên một bản tổng hợp tường thuật có tiêu đề \"Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence.\" Bản tổng hợp này tóm tắt bằng chứng dịch tễ học hiện tại và quan điểm của các hiệp hội chuyên môn lớn cùng các cơ quan quản lý về việc tiếp xúc acetaminophen trước sinh và các kết cục phát triển thần kinh."
+        }
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": {},
+  "assistant_context": {
+    "visibility": "assistant_only",
+    "schema_version": "momdiary_assistant_context_v1",
+    "title": {
+      "en": "Acetaminophen use in pregnancy and autism: separating controversy from scientific evidence",
+      "vi": "Sử dụng acetaminophen trong thai kỳ và tự kỷ: tách biệt tranh cãi khỏi bằng chứng khoa học"
+    },
+    "summary": {
+      "en": "This narrative review addresses the recent controversy surrounding acetaminophen (paracetamol) use during pregnancy and its potential link to autism risk, which has caused public concern and clinical uncertainty. Despite decades of clinical experience supporting acetaminophen as a safe first-line analgesic and antipyretic with a better safety profile than NSAIDs or opioids, recent media and political statements have amplified non-evidence-based concerns. The review synthesizes current epidemiological evidence, highlighting findings from a large Swedish nationwide cohort with a sibling-control analysis. This study, along with other high-quality cohort and sibling-comparison studies, found no significant association between prenatal acetaminophen exposure and major neurodevelopmental disorders such as autism spectrum disorder, attention-deficit/hyperactivity disorder, or intellectual disability. These findings suggest that previously reported modest risk elevations were likely due to confounding and methodological limitations. Consequently, leading organizations like the World Health Organization, the American College of Obstetricians and Gynecologists, and national regulatory bodies continue to endorse short-term, guideline-concordant acetaminophen use as appropriate in pregnancy. The review emphasizes that routine obstetric care should focus on evidence-based counseling, maternal safety, and fetal well-being, advocating for acetaminophen use at the lowest effective dose for the shortest necessary duration, pending any future high-quality data that might indicate otherwise.",
+      "vi": "Bản tổng hợp tường thuật này giải quyết những tranh cãi gần đây xoay quanh việc sử dụng acetaminophen (paracetamol) trong thai kỳ và mối liên hệ tiềm tàng với nguy cơ tự kỷ, vốn đã gây ra lo ngại trong cộng đồng và sự không chắc chắn trong thực hành lâm sàng. Mặc dù hàng thập kỷ kinh nghiệm lâm sàng đã ủng hộ acetaminophen là thuốc giảm đau và hạ sốt hàng đầu an toàn với hồ sơ an toàn tốt hơn so với thuốc chống viêm không steroid (NSAID) hoặc opioid, các tuyên bố gần đây từ truyền thông và chính trị đã khuếch đại những lo ngại không dựa trên bằng chứng. Bản tổng hợp này tổng hợp bằng chứng dịch tễ học hiện tại, làm nổi bật các phát hiện từ một nghiên cứu đoàn hệ quốc gia lớn của Thụy Điển với phân tích kiểm soát anh chị em ruột. Nghiên cứu này, cùng với các nghiên cứu đoàn hệ và so sánh anh chị em ruột chất lượng cao khác, không tìm thấy mối liên hệ đáng kể nào giữa việc tiếp xúc acetaminophen trước sinh và các rối loạn phát triển thần kinh chính như rối loạn phổ tự kỷ, rối loạn tăng động giảm chú ý (ADHD) hoặc thiểu năng trí tuệ. Những phát hiện này cho thấy rằng các báo cáo trước đây về sự gia tăng nguy cơ khiêm tốn có thể là do các yếu tố gây nhiễu và hạn chế về phương pháp luận. Do đó, các tổ chức hàng đầu như Tổ chức Y tế Thế giới, Đại học Sản Phụ khoa Hoa Kỳ và các cơ quan quản lý quốc gia tiếp tục ủng hộ việc sử dụng acetaminophen ngắn hạn, tuân thủ hướng dẫn là phù hợp trong thai kỳ. Bản tổng hợp nhấn mạnh rằng chăm sóc sản khoa thường quy nên tập trung vào tư vấn dựa trên bằng chứng, an toàn cho mẹ và sức khỏe thai nhi, khuyến nghị sử dụng acetaminophen với liều thấp nhất có hiệu quả trong thời gian ngắn nhất cần thiết, chờ đợi bất kỳ dữ liệu chất lượng cao nào trong tương lai có thể chỉ ra điều ngược lại."
+    },
+    "key_points": [
+      {
+        "en": "Recent epidemiological evidence, including a large Swedish sibling-control cohort, does not support a causal link between therapeutic prenatal acetaminophen use and major neurodevelopmental disorders like autism spectrum disorder, ADHD, or intellectual disability.",
+        "vi": "Bằng chứng dịch tễ học gần đây, bao gồm một nghiên cứu đoàn hệ lớn của Thụy Điển với phân tích kiểm soát anh chị em ruột, không ủng hộ mối liên hệ nhân quả giữa việc sử dụng acetaminophen điều trị trong thai kỳ và các rối loạn phát triển thần kinh chính như rối loạn phổ tự kỷ, ADHD hoặc thiểu năng trí tuệ."
+      },
+      {
+        "en": "Previous reports of modest risk elevations likely stemmed from confounding factors and methodological limitations, as indicated by high-quality cohort and sibling-comparison studies.",
+        "vi": "Các báo cáo trước đây về sự gia tăng nguy cơ khiêm tốn có thể xuất phát từ các yếu tố gây nhiễu và hạn chế về phương pháp luận, như được chỉ ra bởi các nghiên cứu đoàn hệ và so sánh anh chị em ruột chất lượng cao."
+      },
+      {
+        "en": "Major professional societies and regulatory agencies, including the WHO and ACOG, continue to endorse short-term, guideline-concordant acetaminophen use as appropriate during pregnancy.",
+        "vi": "Các hiệp hội chuyên môn lớn và cơ quan quản lý, bao gồm Tổ chức Y tế Thế giới (WHO) và Đại học Sản Phụ khoa Hoa Kỳ (ACOG), tiếp tục ủng hộ việc sử dụng acetaminophen ngắn hạn, tuân thủ hướng dẫn là phù hợp trong thai kỳ."
+      },
+      {
+        "en": "Acetaminophen remains the preferred first-line analgesic and antipyretic in pregnancy due to its favorable safety profile compared to NSAIDs or opioids, supported by decades of clinical experience.",
+        "vi": "Acetaminophen vẫn là thuốc giảm đau và hạ sốt ưu tiên hàng đầu trong thai kỳ nhờ hồ sơ an toàn thuận lợi hơn so với thuốc chống viêm không steroid (NSAID) hoặc opioid, được hỗ trợ bởi hàng thập kỷ kinh nghiệm lâm sàng."
+      },
+      {
+        "en": "Clinical practice should prioritize evidence-based counseling, maternal safety, and fetal well-being, recommending acetaminophen at the lowest effective dose for the shortest necessary duration, unless new high-quality data emerge.",
+        "vi": "Thực hành lâm sàng cần ưu tiên tư vấn dựa trên bằng chứng, an toàn cho mẹ và sức khỏe thai nhi, khuyến nghị sử dụng acetaminophen với liều thấp nhất có hiệu quả trong thời gian ngắn nhất cần thiết, trừ khi có dữ liệu chất lượng cao mới xuất hiện."
+      }
+    ],
+    "scope": {
+      "en": "See the cited source and full bilingual article for population and limitations.",
+      "vi": "Xem nguồn trích dẫn và toàn văn song ngữ để biết quần thể và giới hạn."
+    },
+    "provenance": {
+      "article_id": "pmc13408299",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13408299&blobtype=pdf",
+      "publication_route": "rewrite_citation",
+      "generated_by": "AI Minh Translate + AN read-only context",
+      "generated_at": "2026-10-11T00:56:43"
+    }
+  }
+}
