@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 01:37:03",
+    "updated_at": "2026-10-12 01:46:57",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -81,7 +81,7 @@
     {
       "type": "heading",
       "en": "Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
-      "vi": "Giá trị dự báo của tỷ lệ Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor trong Tiền sản giật và Phổ nhau cài răng lược: Một nghiên cứu quan sát tiến cứu"
+      "vi": "Giá trị dự báo của tỷ số fms-like tyrosine kinase-1 dạng hòa tan/yếu tố tăng trưởng nhau thai trong tiền sản giật và phổ nhau cài răng lược: Một nghiên cứu khoa học quan sát tiến cứu"
     },
     {
       "type": "paragraph",
@@ -90,12 +90,12 @@
         {
           "id": "s-1",
           "en": "Background: Certain placentation disorders, such as preeclampsia and placenta accreta spectrum (PAS), are prevalent causes of maternal and fetal morbidity.",
-          "vi": "Bối cảnh: Một số rối loạn bánh nhau nhất định, như tiền sản giật và phổ rau cài răng lược (PAS), là những nguyên nhân phổ biến gây bệnh suất ở mẹ và thai nhi."
+          "vi": "Đặt vấn đề: Một số rối loạn bánh nhau, chẳng hạn như tiền sản giật và phổ rau cài răng lược (PAS), là những nguyên nhân phổ biến gây bệnh suất ở mẹ và thai nhi."
         },
         {
           "id": "s-2",
           "en": "Angiogenic biomarkers, including soluble fms-like tyrosine kinase-1 (sFlt-1), placental growth factor (PlGF), and the sFlt-1/PlGF ratio, are increasingly used in the evaluation of preeclampsia; however, their relevance in PAS remains unclear.",
-          "vi": "Các dấu ấn sinh học tạo mạch, bao gồm tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), yếu tố tăng trưởng nhau thai (PlGF) và tỷ số sFlt-1/PlGF, ngày càng được sử dụng nhiều trong đánh giá tiền sản giật; tuy nhiên, vai trò của chúng trong phổ rau cài răng lược (PAS) vẫn chưa rõ ràng."
+          "vi": "Các dấu ấn sinh học tân tạo mạch, bao gồm tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), yếu tố tăng trưởng nhau thai (PlGF) và tỷ số sFlt-1/PlGF, ngày càng được sử dụng nhiều trong đánh giá tiền sản giật; tuy nhiên, ý nghĩa của chúng trong phổ rau cài răng lược (PAS) vẫn chưa rõ ràng."
         }
       ]
     },
@@ -106,7 +106,7 @@
         {
           "id": "s-3",
           "en": "Objective: To evaluate the diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio for preeclampsia and explore their potential diagnostic utility in PAS.",
-          "vi": "Mục tiêu: Đánh giá hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF đối với tiền sản giật, đồng thời khám phá tiềm năng chẩn đoán của chúng trong phổ rau cài răng lược (PAS)."
+          "vi": "Mục tiêu: Đánh giá hiệu giá chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF đối với tiền sản giật, đồng thời thăm dò giá trị ứng dụng chẩn đoán tiềm năng của chúng trong phổ rau cài răng lược (PAS)."
         }
       ]
     },
@@ -117,22 +117,22 @@
         {
           "id": "s-4",
           "en": "Methodology: This prospective observational study was conducted at a tertiary care hospital in North India from June 2024 to June 2025.",
-          "vi": "Phương pháp luận: Nghiên cứu quan sát tiến cứu này được thực hiện tại một bệnh viện tuyến ba ở Bắc Ấn Độ từ tháng 6 năm 2024 đến tháng 6 năm 2025."
+          "vi": "Phương pháp luận: Đây là nghiên cứu quan sát tiến cứu được thực hiện tại một bệnh viện tuyến cuối ở miền Bắc Ấn Độ từ tháng 6 năm 2024 đến tháng 6 năm 2025."
         },
         {
           "id": "s-5",
           "en": "A total of 200 antenatal women at 20-37 weeks of gestation were recruited and divided into three groups: preeclampsia, PAS, and a comparison group without preeclampsia or PAS.",
-          "vi": "Tổng cộng 200 phụ nữ mang thai ở tuần thai 20-37 được tuyển chọn và chia thành ba nhóm: tiền sản giật, phổ rau cài răng lược (PAS) và nhóm đối chứng không mắc tiền sản giật hoặc phổ rau cài răng lược (PAS)."
+          "vi": "Tổng cộng 200 phụ nữ mang thai ở tuổi thai từ 20 đến 37 tuần đã được tuyển chọn và chia thành ba nhóm: tiền sản giật, phổ rau cài răng lược (PAS) và nhóm đối chứng không mắc tiền sản giật hoặc PAS."
         },
         {
           "id": "s-6",
           "en": "Serum levels of sFlt-1 and PlGF were determined by electrochemiluminescence immunoassay (ECL), and the ratio sFlt-1/PlGF was calculated.",
-          "vi": "Nồng độ sFlt-1 và PlGF trong huyết thanh được xác định bằng xét nghiệm miễn dịch điện hóa phát quang (ECL), và tỷ số sFlt-1/PlGF được tính toán."
+          "vi": "Nồng độ sFlt-1 và PlGF trong huyết thanh được xác định bằng phương pháp miễn dịch điện hóa phát quang (ECL), và tỷ số sFlt-1/PlGF được tính toán."
         },
         {
           "id": "s-7",
           "en": "The optimum cutoff values were determined by the receiver operating characteristic curve, and the diagnostic performance was evaluated.",
-          "vi": "Các giá trị ngưỡng tối ưu được xác định bằng đường cong đặc trưng hoạt động của bộ thu (ROC), và hiệu suất chẩn đoán được đánh giá."
+          "vi": "Các giá trị ngưỡng cắt tối ưu được xác định bằng đường cong đặc trưng hoạt động của bộ thu (ROC), và hiệu giá chẩn đoán đã được đánh giá."
         }
       ]
     },
@@ -143,17 +143,17 @@
         {
           "id": "s-8",
           "en": "Results: Of the 200 participants, 57 (28.5%) had preeclampsia, 16 (8.0%) had PAS, and 127 (63.5%) had neither condition.",
-          "vi": "Kết quả: Trong số 200 người tham gia, 57 người (28,5%) mắc tiền sản giật, 16 người (8,0%) mắc phổ rau cài răng lược (PAS) và 127 người (63,5%) không mắc cả hai tình trạng."
+          "vi": "Kết quả: Trong số 200 đối tượng tham gia, 57 trường hợp (28,5%) mắc tiền sản giật, 16 trường hợp (8,0%) mắc phổ rau cài răng lược (PAS) và 127 trường hợp (63,5%) không mắc cả hai tình trạng này."
         },
         {
           "id": "s-9",
           "en": "At a cutoff of 77.65, the sFlt-1/PlGF ratio performed the best, with an area under the curve of 0.902 for preeclampsia, an accuracy of 88.0%, a positive predictive value (PPV) of 80.7%, a negative predictive value (NPV) of 91.3%, and a sensitivity of 80.7%.",
-          "vi": "Với giá trị ngưỡng là 77,65, tỷ số sFlt-1/PlGF cho hiệu suất tốt nhất, với diện tích dưới đường cong là 0,902 đối với tiền sản giật, độ chính xác 88,0%, giá trị dự báo dương tính (PPV) 80,7%, giá trị dự báo âm tính (NPV) 91,3% và độ nhạy 80,7%."
+          "vi": "Tại ngưỡng cắt 77,65, tỷ số sFlt-1/PlGF cho hiệu năng tốt nhất, với diện tích dưới đường cong là 0,902 đối với tiền sản giật, độ chính xác đạt 88,0%, giá trị dự báo dương tính (PPV) đạt 80,7%, giá trị dự báo âm tính (NPV) đạt 91,3% và độ nhạy đạt 80,7%."
         },
         {
           "id": "s-10",
           "en": "PAS had a high NPV of 97.1%, a low PPV of 18.7%, a high sensitivity of 87.5%, a low specificity of 52.0%, an accuracy of 55.9%, and an area under the curve (AUC) of 0.678.",
-          "vi": "Phổ rau cài răng lược (PAS) có giá trị dự báo âm tính (NPV) cao 97,1%, giá trị dự báo dương tính (PPV) thấp 18,7%, độ nhạy cao 87,5%, độ đặc hiệu thấp 52,0%, độ chính xác 55,9% và diện tích dưới đường cong (AUC) là 0,678."
+          "vi": "Đối với PAS, xét nghiệm ghi nhận giá trị dự báo âm tính (NPV) cao đạt 97,1%, giá trị dự báo dương tính (PPV) thấp đạt 18,7%, độ nhạy cao đạt 87,5%, độ đặc hiệu thấp đạt 52,0%, độ chính xác đạt 55,9% và diện tích dưới đường cong (AUC) đạt 0,678."
         }
       ]
     },
@@ -164,19 +164,19 @@
         {
           "id": "s-11",
           "en": "Conclusions: The sFlt-1/PlGF ratio was an excellent discriminator of preeclampsia and could be used to help identify and stratify at-risk individuals.",
-          "vi": "Kết luận: Tỷ số sFlt-1/PlGF là một yếu tố phân biệt xuất sắc đối với tiền sản giật và có thể được sử dụng để giúp xác định và phân tầng các cá thể có nguy cơ."
+          "vi": "Kết luận: Tỷ số sFlt-1/PlGF là một dấu ấn phân biệt xuất sắc đối với tiền sản giật và có thể được sử dụng để hỗ trợ nhận diện cũng như phân tầng các cá thể có nguy cơ."
         },
         {
           "id": "s-12",
           "en": "It is not very specific and has a low PPV in PAS, meaning that it should not be used as a surrogate for imaging-based diagnosis and clinical risk assessment in PAS.",
-          "vi": "Nó không có độ đặc hiệu cao và có giá trị dự báo dương tính (PPV) thấp trong phổ rau cài răng lược (PAS), có nghĩa là không nên sử dụng nó như một yếu tố thay thế cho chẩn đoán dựa trên hình ảnh và đánh giá nguy cơ lâm sàng trong phổ rau cài răng lược (PAS)."
+          "vi": "Chỉ số này không có độ đặc hiệu cao và có PPV thấp trong phổ rau cài răng lược (PAS), đồng nghĩa với việc không nên dùng nó làm xét nghiệm thay thế cho chẩn đoán dựa trên hình ảnh học và nhận định nguy cơ lâm sàng trong PAS."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Introduction",
-      "vi": "Introduction"
+      "vi": "Giới thiệu"
     },
     {
       "type": "paragraph",
@@ -185,27 +185,27 @@
         {
           "id": "s-13",
           "en": "Globally, preeclampsia is a leading cause of maternal and perinatal morbidity and mortality.",
-          "vi": "Trên toàn cầu, tiền sản giật là nguyên nhân hàng đầu gây bệnh suất và tử vong ở mẹ và chu sinh."
+          "vi": "Trên phạm vi toàn cầu, tiền sản giật là nguyên nhân hàng đầu gây bệnh suất và tử vong ở mẹ và chu sinh."
         },
         {
           "id": "s-14",
           "en": "It complicates 2%-8% of pregnancies in developed countries and is reported to be more common in developing countries, reaching as high as 16.7% [ 1 , 2 ].",
-          "vi": "Nó gây biến chứng cho 2%-8% các thai kỳ ở các nước phát triển và được báo cáo là phổ biến hơn ở các nước đang phát triển, lên tới 16,7% [1, 2]."
+          "vi": "Bệnh lý này gây biến chứng cho 2%-8% các thai kỳ tại các quốc gia phát triển và được báo cáo là phổ biến hơn ở các nước đang phát triển, lên tới mức cao 16,7% [ 1 , 2 ]."
         },
         {
           "id": "s-15",
           "en": "Preeclampsia is a major cause of poor obstetric-gynecologic outcomes worldwide, causing over 70,000 pregnant women and over 500,000 fetuses to die each year [ 3 ].",
-          "vi": "Tiền sản giật là nguyên nhân chính gây ra các kết cục sản phụ khoa kém trên toàn thế giới, gây ra cái chết cho hơn 70.000 phụ nữ mang thai và hơn 500.000 thai nhi mỗi năm [3]."
+          "vi": "Tiền sản giật là nguyên nhân chủ yếu dẫn đến các kết cục sản - phụ khoa bất lợi trên toàn thế giới, khiến hơn 70.000 thai phụ và hơn 500.000 thai nhi tử vong mỗi năm [ 3 ]."
         },
         {
           "id": "s-16",
           "en": "Clinical significance is that, when the process of disease progresses, it could result in a range of complications such as placental abruption, acute kidney injury, cerebral hemorrhage, hepatic dysfunction, pulmonary edema, disseminated intravascular coagulation, and eclampsia [ 4 ].",
-          "vi": "Ý nghĩa lâm sàng là, khi quá trình bệnh tiến triển, nó có thể dẫn đến một loạt các biến chứng như bong nhau non, tổn thương thận cấp, xuất huyết não, rối loạn chức năng gan, phù phổi, Disseminated Intravascular Coagulation và sản giật [ 4 ]."
+          "vi": "Ý nghĩa lâm sàng là khi quá trình bệnh tiến triển, tình trạng này có thể dẫn đến hàng loạt biến chứng như bong nhau non, tổn thương thận cấp, xuất huyết não, rối loạn chức năng gan, phù phổi, đông máu nội mạch rải rác (Disseminated Intravascular Coagulation) và sản giật [ 4 ]."
         },
         {
           "id": "s-17",
           "en": "Fetal and neonatal complications are fetal growth restriction, oligohydramnios, preterm delivery, stillbirth, respiratory distress syndrome, necrotizing enterocolitis, and intraventricular hemorrhage.",
-          "vi": "Các biến chứng thai nhi và sơ sinh bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, sinh non, thai chết lưu, Respiratory Distress Syndrome, Necrotizing Enterocolitis và xuất huyết não thất."
+          "vi": "Các biến chứng ở thai nhi và sơ sinh bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, sinh non, thai chết lưu, hội chứng suy hô hấp (Respiratory Distress Syndrome), viêm ruột hoại tử (Necrotizing Enterocolitis) và xuất huyết não thất."
         }
       ]
     },
@@ -216,22 +216,22 @@
         {
           "id": "s-18",
           "en": "Preeclampsia is closely associated with abnormal placentation, impaired spiral artery remodeling, endothelial dysfunction, and angiogenic imbalance.",
-          "vi": "Tiền sản giật có liên quan chặt chẽ với sự làm tổ bất thường của nhau thai, khiếm khuyết tái cấu trúc động mạch xoắn, rối loạn chức năng nội mạc và mất cân bằng tạo mạch."
+          "vi": "Tiền sản giật liên quan chặt chẽ với quá trình làm tổ bất thường của bánh nhau, khiếm khuyết tái cấu trúc động mạch xoắn, rối loạn chức năng nội mạc và mất cân bằng các yếu tố tạo mạch."
         },
         {
           "id": "s-19",
           "en": "Increased markers of placental dysfunction, such as soluble fms-like tyrosine kinase-1 (sFlt-1), and decreased markers, such as placental growth factor (PlGF), are among the most studied circulating biomarkers.",
-          "vi": "Các dấu ấn tăng của rối loạn chức năng nhau thai, như Tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), và các dấu ấn giảm, như yếu tố tăng trưởng nhau thai (PlGF), là một trong những dấu ấn sinh học lưu hành được nghiên cứu nhiều nhất."
+          "vi": "Sự gia tăng của các dấu ấn rối loạn chức năng nhau thai như Tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), cùng với sự suy giảm của các dấu ấn như yếu tố tăng trưởng nhau thai (PlGF), là một trong những chỉ dấu sinh học lưu hành được nghiên cứu nhiều nhất."
         },
         {
           "id": "s-20",
           "en": "The sFlt-1/PlGF ratio represents the balance between antiangiogenic and proangiogenic activity, and this ratio has been included in clinical risk assessment of suspected preeclampsia.",
-          "vi": "Tỷ lệ sFlt-1/PlGF thể hiện sự cân bằng giữa hoạt động chống tạo mạch và hoạt động tiền tạo mạch, và tỷ lệ này đã được đưa vào đánh giá nguy cơ lâm sàng đối với các trường hợp tiền sản giật nghi ngờ."
+          "vi": "Tỷ số sFlt-1/PlGF phản ánh sự cân bằng giữa hoạt tính kháng tạo mạch và tiền tạo mạch, và tỷ số này đã được đưa vào quy trình đánh giá nguy cơ lâm sàng ở các trường hợp nghi ngờ tiền sản giật."
         },
         {
           "id": "s-21",
           "en": "It can be used in conjunction with earlier diagnosis, better short-term risk stratification, and decision-making for surveillance, and may help in the timing of delivery.",
-          "vi": "Nó có thể được sử dụng kết hợp với chẩn đoán sớm hơn, phân tầng nguy cơ ngắn hạn tốt hơn và ra quyết định theo dõi, và có thể giúp xác định thời điểm sinh."
+          "vi": "Tỷ số này có thể được sử dụng phối hợp để chẩn đoán sớm hơn, phân tầng nguy cơ ngắn hạn tốt hơn, hỗ trợ việc ra quyết định theo dõi và có thể giúp xác định thời điểm chấm dứt thai kỳ thích hợp."
         }
       ]
     },
@@ -242,27 +242,27 @@
         {
           "id": "s-22",
           "en": "Placenta accreta spectrum (PAS) is another abnormal placentation disorder, characterized by accreta, increta, and percreta (based on the depth of the placentation or uterine wall invasion) [ 5 ].",
-          "vi": "Phổ rau cài răng lược (PAS) là một rối loạn làm tổ bất thường khác của nhau thai, được đặc trưng bởi accreta, increta và percreta (dựa trên độ sâu của sự làm tổ hoặc xâm lấn vào thành tử cung) [ 5 ]."
+          "vi": "Phổ rau cài răng lược (PAS) là một bệnh lý làm tổ bất thường khác của bánh nhau, được đặc trưng bởi thể bám chặt (accreta), thể xâm lấn cơ (increta) và thể xuyên thủng (percreta) (dựa trên độ sâu của bánh nhau bám hoặc mức độ xâm lấn thành tử cung) [ 5 ]."
         },
         {
           "id": "s-23",
           "en": "Its incidence is around 0.17% (1-2 cases per 1,000 deliveries) [ 6 ].",
-          "vi": "Tỷ lệ mắc của nó là khoảng 0,17% (1-2 trường hợp trên 1.000 ca sinh) [ 6 ]."
+          "vi": "Tỷ lệ mắc của bệnh lý này vào khoảng 0,17% (1–2 trường hợp trên 1.000 ca sinh) [ 6 ]."
         },
         {
           "id": "s-24",
           "en": "This is accompanied by significant maternal morbidity, especially due to large obstetric bleeding.",
-          "vi": "Điều này đi kèm với tỷ lệ mắc bệnh đáng kể ở mẹ, đặc biệt là do xuất huyết sản khoa lớn."
+          "vi": "Tình trạng này đi kèm với tỷ lệ bệnh tật đáng kể ở người mẹ, đặc biệt là do xuất huyết sản khoa lượng lớn."
         },
         {
           "id": "s-25",
           "en": "The average blood loss can be greater than 3,000 mL, over 90% of affected women may need a blood transfusion, and a large percentage of women will have a peripartum hysterectomy [ 1 ].",
-          "vi": "Lượng máu mất trung bình có thể lớn hơn 3.000 mL, hơn 90% phụ nữ bị ảnh hưởng có thể cần truyền máu, và một tỷ lệ lớn phụ nữ sẽ phải cắt tử cung trong thời kỳ quanh sinh [ 1 ]."
+          "vi": "Lượng máu mất trung bình có thể vượt quá 3.000 mL, hơn 90% sản phụ mắc bệnh có thể cần truyền máu, và một tỷ lệ lớn phụ nữ sẽ phải cắt tử cung chu sinh [ 1 ]."
         },
         {
           "id": "s-26",
           "en": "Other maternal complications include bladder injury, sepsis, intensive care admission, and mortality, while fetal risks are primarily preterm birth and fetal growth restriction [ 7 ].",
-          "vi": "Các biến chứng khác ở mẹ bao gồm tổn thương bàng quang, nhiễm trùng huyết, nhập viện hồi sức tích cực và tử vong, trong khi các nguy cơ ở thai nhi chủ yếu là sinh non và thai chậm tăng trưởng trong tử cung (FGR) [ 7 ]."
+          "vi": "Các biến chứng khác ở người mẹ bao gồm tổn thương bàng quang, nhiễm khuẩn huyết, nhập khoa hồi sức tích cực và tử vong; trong khi các nguy cơ đối với thai nhi chủ yếu là sinh non và thai chậm tăng trưởng trong tử cung (FGR) [ 7 ]."
         }
       ]
     },
@@ -273,32 +273,32 @@
         {
           "id": "s-27",
           "en": "Enhancing the clinical risk assessment and imaging are currently the only methods used to predict PAS antenatally.",
-          "vi": "Nâng cao đánh giá nguy cơ lâm sàng và chẩn đoán hình ảnh hiện là những phương pháp duy nhất được sử dụng để dự đoán Phổ rau cài răng lược (PAS) trước sinh."
+          "vi": "Tăng cường đánh giá nguy cơ lâm sàng và chẩn đoán hình ảnh hiện là những phương pháp duy nhất được sử dụng để dự đoán phổ rau cài răng lược (PAS) trước sinh."
         },
         {
           "id": "s-28",
           "en": "The use of transabdominal or transvaginal ultrasonography with color Doppler may show placental lacunae, loss of the retroplacental clear zone, myometrial thinning, and abnormal uteroplacental vascularity [ 8 ].",
-          "vi": "Việc sử dụng siêu âm qua đường bụng hoặc siêu âm qua đường âm đạo với Doppler màu có thể cho thấy các hồ máu trong bánh nhau, mất vùng trong suốt sau nhau, sự mỏng lớp cơ tử cung và mạch máu tử cung-nhau thai bất thường [ 8 ]."
+          "vi": "Việc sử dụng siêu âm qua đường bụng hoặc ngả âm đạo kết hợp với Doppler màu có thể cho thấy các hồ huyết bánh nhau, mất vùng sáng sau nhau, sự mỏng lớp cơ tử cung và tình trạng tăng sinh mạch máu tử cung - nhau bất thường [ 8 ]."
         },
         {
           "id": "s-29",
           "en": "Magnetic resonance imaging can provide additional anatomical information, especially when posterior placentation is suspected, extrauterine invasion is suspected, or the ultrasonographic findings are inconclusive.",
-          "vi": "Chụp cộng hưởng từ có thể cung cấp thêm thông tin giải phẫu, đặc biệt khi nghi ngờ nhau thai bám mặt sau, nghi ngờ xâm lấn ngoài tử cung hoặc khi các phát hiện siêu âm không kết luận được."
+          "vi": "Chụp cộng hưởng từ có thể cung cấp thêm thông tin giải phẫu, đặc biệt khi nghi ngờ bánh nhau bám mặt sau, nghi ngờ có xâm lấn ngoài tử cung hoặc khi các dấu hiệu siêu âm chưa thể kết luận."
         },
         {
           "id": "s-30",
           "en": "Previous cesarean section, placenta previa, previous uterine surgery, and maternal age continue to be the most important clinical risk factors for PAS and are used for risk stratification [ 9 , 10 ].",
-          "vi": "Tiền sử mổ lấy thai, nhau tiền đạo, tiền sử phẫu thuật tử cung và tuổi mẹ tiếp tục là những yếu tố nguy cơ lâm sàng quan trọng nhất đối với Phổ rau cài răng lược (PAS) và được sử dụng để phân tầng nguy cơ [ 9 , 10 ]."
+          "vi": "Tiền căn mổ lấy thai, nhau tiền đạo, phẫu thuật tử cung trước đó và tuổi mẹ tiếp tục là những yếu tố nguy cơ lâm sàng quan trọng nhất đối với phổ rau cài răng lược (PAS) và được sử dụng để phân tầng nguy cơ [ 9 , 10 ]."
         },
         {
           "id": "s-31",
           "en": "The use of angiogenic biomarkers has been well established in preeclampsia but is not established in PAS.",
-          "vi": "Việc sử dụng các dấu ấn sinh học tạo mạch đã được thiết lập rõ ràng trong tiền sản giật nhưng chưa được thiết lập trong PAS."
+          "vi": "Việc sử dụng các dấu ấn sinh học tân tạo mạch đã được xác lập rõ ràng trong tiền sản giật nhưng vẫn chưa được thiết lập đối với phổ nhau cài răng lược (PAS)."
         },
         {
           "id": "s-32",
           "en": "PAS is also characterized by abnormal trophoblastic invasion and placental vascular remodeling; therefore, some biomarkers, including sFlt-1 and PlGF, could be of potential interest as additional markers, but their diagnostic value has not been sufficiently established [ 11 , 12 ].",
-          "vi": "PAS cũng được đặc trưng bởi sự xâm lấn bất thường của tế bào nuôi và tái cấu trúc mạch máu bánh nhau; do đó, một số dấu ấn sinh học, bao gồm sFlt-1 và PlGF, có thể có tiềm năng là các dấu ấn bổ sung, nhưng giá trị chẩn đoán của chúng chưa được thiết lập đầy đủ [ 11 , 12 ]."
+          "vi": "PAS cũng được đặc trưng bởi sự xâm lấn của tế bào nuôi bất thường và sự tái cấu trúc mạch máu bánh nhau; do đó, một số dấu ấn sinh học, bao gồm sFlt-1 và PlGF, có thể là những dấu ấn bổ sung tiềm năng, tuy nhiên giá trị chẩn đoán của chúng vẫn chưa được xác lập đầy đủ [ 11 , 12 ]."
         }
       ]
     },
@@ -309,17 +309,17 @@
         {
           "id": "s-33",
           "en": "Preeclampsia and PAS are two types of placentation disorder, but they are clinically important.",
-          "vi": "Tiền sản giật và PAS là hai loại rối loạn bánh nhau, nhưng chúng có ý nghĩa lâm sàng quan trọng."
+          "vi": "Tiền sản giật và PAS là hai dạng rối loạn quá trình làm tổ của bánh nhau, và đều có ý nghĩa lâm sàng đặc biệt quan trọng."
         },
         {
           "id": "s-34",
           "en": "Although both are conditions that need to be recognized in the antepartum period, aiming to minimize maternal and fetal complications, they have different pathophysiological characteristics, clinical manifestations, and existing diagnostic methods.",
-          "vi": "Mặc dù cả hai đều là những tình trạng cần được nhận diện trong giai đoạn trước sinh, nhằm mục đích giảm thiểu biến chứng ở mẹ và thai nhi, nhưng chúng có đặc điểm sinh lý bệnh, biểu hiện lâm sàng và các phương pháp chẩn đoán hiện có khác nhau."
+          "vi": "Mặc dù cả hai đều là những bệnh lý cần được nhận diện trong giai đoạn trước sinh nhằm giảm thiểu biến chứng cho mẹ và thai nhi, chúng lại có đặc điểm sinh lý bệnh, biểu hiện lâm sàng và các phương pháp chẩn đoán hiện hành khác nhau."
         },
         {
           "id": "s-35",
           "en": "The assessment of these angiogenic biomarkers in these two conditions could help determine whether these factors could be used for more detailed disease-specific diagnostic utility than that provided by current clinical and imaging parameters.",
-          "vi": "Việc đánh giá các dấu ấn sinh học tạo mạch này trong hai tình trạng trên có thể giúp xác định liệu các yếu tố này có thể được sử dụng để chẩn đoán chuyên biệt cho bệnh chi tiết hơn so với các thông số lâm sàng và hình ảnh hiện tại."
+          "vi": "Việc đánh giá các dấu ấn sinh học tân tạo mạch này trong cả hai bệnh lý có thể giúp xác định liệu chúng có mang lại giá trị chẩn đoán đặc hiệu chi tiết hơn cho từng bệnh so với các thông số lâm sàng và chẩn đoán hình ảnh hiện tại hay không."
         }
       ]
     },
@@ -330,7 +330,7 @@
         {
           "id": "s-36",
           "en": "Objectives of the study",
-          "vi": "Mục tiêu của nghiên cứu"
+          "vi": "Mục tiêu nghiên cứu"
         }
       ]
     },
@@ -341,17 +341,17 @@
         {
           "id": "s-37",
           "en": "This study aimed to determine cohort-specific optimal cutoff values for sFlt-1, PlGF, and the sFlt-1/PlGF ratio and assess their diagnostic performance for preeclampsia using sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), area under the receiver operating characteristic curve (AUC), and diagnostic accuracy (DA).",
-          "vi": "Nghiên cứu này nhằm xác định các giá trị ngưỡng tối ưu đặc trưng cho từng đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF, đồng thời đánh giá hiệu suất chẩn đoán của chúng đối với tiền sản giật bằng cách sử dụng độ nhạy, độ đặc hiệu, giá trị dự báo dương tính (PPV), giá trị dự báo âm tính (NPV), diện tích dưới đường cong ROC (AUC) và độ chính xác chẩn đoán (DA)."
+          "vi": "Nghiên cứu này nhằm mục đích xác định các giá trị điểm cắt tối ưu đặc hiệu cho đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF, đồng thời đánh giá hiệu quả chẩn đoán của chúng đối với tiền sản giật dựa trên độ nhạy, độ đặc hiệu, giá trị dự báo dương tính (PPV), giá trị dự báo âm tính (NPV), diện tích dưới đường cong đặc trưng hoạt động của bộ thu (AUC) và độ chính xác chẩn đoán (DA)."
         },
         {
           "id": "s-38",
           "en": "A secondary, exploratory objective was to assess the diagnostic performance of these biomarkers for PAS, with the PAS findings interpreted as hypothesis-generating because of the small sample size and group imbalance.",
-          "vi": "Một mục tiêu phụ, mang tính thăm dò, là đánh giá hiệu suất chẩn đoán của các dấu ấn sinh học này đối với PAS, với các phát hiện về PAS được diễn giải là tạo giả thuyết do cỡ mẫu nhỏ và sự mất cân bằng nhóm."
+          "vi": "Mục tiêu thăm dò thứ cấp là đánh giá hiệu quả chẩn đoán của các dấu ấn sinh học này đối với PAS, trong đó các phát hiện về PAS được diễn giải với mục đích định hướng giả thuyết do cỡ mẫu nhỏ và sự mất cân bằng giữa các nhóm."
         },
         {
           "id": "s-39",
           "en": "The additional aim was to evaluate the associations between these angiogenic markers and selected maternal and fetal complications.",
-          "vi": "Mục tiêu bổ sung là đánh giá mối liên hệ giữa các dấu ấn tạo mạch này với các biến chứng ở mẹ và thai nhi được chọn."
+          "vi": "Mục tiêu bổ sung là đánh giá mối liên quan giữa các dấu ấn tân tạo mạch này với các biến chứng chọn lọc ở mẹ và thai nhi."
         }
       ]
     },
@@ -362,14 +362,14 @@
         {
           "id": "s-40",
           "en": "This paper was previously posted to the Authorea preprint server on July 16, 2025, at https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ].",
-          "vi": "Bài báo này đã được đăng tải trước đó lên máy chủ tiền xuất bản Authorea vào ngày 16 tháng 7 năm 2025, tại https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ]."
+          "vi": "Bài báo này trước đây đã được đăng tải trên máy chủ bản thảo sơ bộ (preprint) Authorea vào ngày 16 tháng 7 năm 2025, tại https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ]."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Materials and methods",
-      "vi": "Materials and methods"
+      "vi": "Đối tượng và phương pháp nghiên cứu"
     },
     {
       "type": "paragraph",
@@ -389,22 +389,22 @@
         {
           "id": "s-42",
           "en": "This prospective observational study was carried out from June 2024 to June 2025 in the Department of Obstetrics and Gynaecology at a tertiary care hospital in North India.",
-          "vi": "Nghiên cứu quan sát tiến cứu này được thực hiện từ tháng 6 năm 2024 đến tháng 6 năm 2025 tại Khoa Sản Phụ khoa của một bệnh viện tuyến cuối ở khu vực phía Bắc Ấn Độ."
+          "vi": "Nghiên cứu quan sát tiến cứu này được thực hiện từ tháng 6 năm 2024 đến tháng 6 năm 2025 tại Khoa Sản và Phụ khoa của một bệnh viện tuyến cuối ở khu vực phía Bắc Ấn Độ."
         },
         {
           "id": "s-43",
           "en": "Pregnant women presenting between 20 and 37 weeks of gestation were assessed for eligibility.",
-          "vi": "Phụ nữ mang thai đến khám trong khoảng từ 20 đến 37 tuần tuổi thai được đánh giá tiêu chuẩn đủ điều kiện."
+          "vi": "Các thai phụ đến khám ở tuổi thai từ 20 đến 37 tuần của thai kỳ đã được đánh giá về tính đủ điều kiện tham gia."
         },
         {
           "id": "s-44",
           "en": "A total of 200 participants were enrolled after providing written informed consent.",
-          "vi": "Tổng cộng 200 người tham gia đã được tuyển chọn sau khi cung cấp sự đồng thuận có thông tin bằng văn bản."
+          "vi": "Tổng cộng có 200 đối tượng tham gia đã được thu nhận vào nghiên cứu sau khi ký văn bản đồng thuận tham gia."
         },
         {
           "id": "s-45",
           "en": "Women who had fetal congenital anomalies or intrauterine fetal demise at enrollment were excluded.",
-          "vi": "Những phụ nữ có thai nhi bị dị tật bẩm sinh hoặc thai chết lưu trong tử cung tại thời điểm tuyển chọn đã bị loại trừ."
+          "vi": "Những thai phụ có thai nhi bị dị tật bẩm sinh hoặc thai lưu trong tử cung tại thời điểm tuyển chọn đều bị loại trừ."
         }
       ]
     },
@@ -415,22 +415,22 @@
         {
           "id": "s-46",
           "en": "Participants were classified into three mutually exclusive groups according to their final clinical diagnosis.",
-          "vi": "Các đối tượng nghiên cứu được phân loại thành ba nhóm loại trừ lẫn nhau dựa trên chẩn đoán lâm sàng cuối cùng của họ."
+          "vi": "Các đối tượng tham gia nghiên cứu được phân loại thành ba nhóm loại trừ lẫn nhau dựa trên chẩn đoán lâm sàng sau cùng."
         },
         {
           "id": "s-47",
           "en": "Women with preeclampsia were included in Group A, women with PAS were included in Group B, and pregnant women without preeclampsia or PAS were included in Group C as the comparison group.",
-          "vi": "Phụ nữ bị tiền sản giật được xếp vào Nhóm A, phụ nữ bị PAS được xếp vào Nhóm B, và thai phụ không bị tiền sản giật hoặc PAS được xếp vào Nhóm C làm nhóm so sánh."
+          "vi": "Thai phụ mắc tiền sản giật được xếp vào Nhóm A, thai phụ mắc phổ gai nhau cài răng lược (PAS) được xếp vào Nhóm B, và thai phụ không mắc tiền sản giật hoặc PAS được xếp vào Nhóm C với vai trò là nhóm so sánh."
         },
         {
           "id": "s-48",
           "en": "Preeclampsia was diagnosed according to institutional clinical protocols, using maternal clinical status, blood pressure measurements, assessment of proteinuria, relevant laboratory evaluations, and specialist review.",
-          "vi": "Tiền sản giật được chẩn đoán theo các phác đồ lâm sàng của cơ sở, sử dụng tình trạng lâm sàng của người mẹ, các phép đo huyết áp, đánh giá protein niệu, các xét nghiệm cận lâm sàng liên quan và đánh giá của chuyên gia."
+          "vi": "Tiền sản giật được chẩn đoán theo phác đồ lâm sàng của bệnh viện, dựa trên đánh giá tình trạng lâm sàng của người mẹ, các trị số đo huyết áp, đánh giá protein niệu (đạm niệu), các xét nghiệm cận lâm sàng liên quan và hội chẩn chuyên khoa."
         },
         {
           "id": "s-49",
           "en": "PAS was diagnosed using maternal risk factors, obstetric imaging, and specialist assessment, with operative or pathological findings considered when available.",
-          "vi": "PAS được chẩn đoán dựa trên các yếu tố nguy cơ của người mẹ, chẩn đoán hình ảnh sản khoa và đánh giá của chuyên gia, với các phát hiện trong phẫu thuật hoặc giải phẫu bệnh được xem xét khi có sẵn."
+          "vi": "PAS được chẩn đoán dựa vào các yếu tố nguy cơ của người mẹ, chẩn đoán hình ảnh sản khoa và nhận định lâm sàng của chuyên gia, kết hợp xem xét các phát hiện trong phẫu thuật hoặc giải phẫu bệnh khi có sẵn."
         }
       ]
     },
@@ -452,27 +452,27 @@
         {
           "id": "s-51",
           "en": "On enrollment, all participants underwent a detailed clinical assessment, including demographic evaluation, obstetric history, assessment of relevant maternal risk factors, general physical examination, and obstetric examination.",
-          "vi": "Khi đăng ký tham gia, tất cả các đối tượng nghiên cứu đã trải qua một đánh giá lâm sàng chi tiết, bao gồm đánh giá nhân khẩu học, tiền sử sản khoa, đánh giá các yếu tố nguy cơ liên quan của người mẹ, khám thực thể tổng quát và khám sản khoa."
+          "vi": "Tại thời điểm thu nhận, toàn bộ đối tượng tham gia đều được đánh giá lâm sàng chi tiết, bao gồm thu thập dữ liệu nhân khẩu học, tiền sử sản khoa, nhận định các yếu tố nguy cơ liên quan của người mẹ, khám thể chất tổng quát và khám sản khoa."
         },
         {
           "id": "s-52",
           "en": "Routine antenatal investigations were performed according to institutional protocol.",
-          "vi": "Các xét nghiệm tiền sản thường quy được thực hiện theo phác đồ của cơ sở."
+          "vi": "Các xét nghiệm tiền sản thường quy được thực hiện theo đúng phác đồ của cơ sở y tế."
         },
         {
           "id": "s-53",
           "en": "The gestational age at biomarker testing was documented.",
-          "vi": "Tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học đã được ghi nhận."
+          "vi": "Tuổi thai (Gestational Age) tại thời điểm xét nghiệm dấu ấn sinh học đã được ghi nhận."
         },
         {
           "id": "s-54",
           "en": "Biomarker testing was performed at a single time point after enrollment.",
-          "vi": "Xét nghiệm dấu ấn sinh học được thực hiện tại một thời điểm duy nhất sau khi đăng ký tham gia."
+          "vi": "Xét nghiệm dấu ấn sinh học được thực hiện tại một thời điểm duy nhất sau khi thu nhận vào nghiên cứu."
         },
         {
           "id": "s-55",
           "en": "All participants were followed through delivery, and the interval between biomarker testing and delivery was recorded.",
-          "vi": "Tất cả các đối tượng nghiên cứu được theo dõi cho đến khi sinh nở, và khoảng thời gian giữa xét nghiệm dấu ấn sinh học và sinh nở đã được ghi lại."
+          "vi": "Toàn bộ đối tượng tham gia được theo dõi cho đến cuộc sinh nở, và khoảng thời gian từ lúc xét nghiệm dấu ấn sinh học đến khi sinh được ghi nhận đầy đủ."
         }
       ]
     },
@@ -494,37 +494,37 @@
         {
           "id": "s-57",
           "en": "Blood samples were collected for the measurement of serum sFlt-1 and PlGF concentrations.",
-          "vi": "Các mẫu máu được thu thập để đo nồng độ sFlt-1 và PlGF huyết thanh."
+          "vi": "Các mẫu máu được thu thập để định lượng nồng độ sFlt-1 (soluble fms-like tyrosine kinase-1) và PlGF (yếu tố tăng trưởng bánh nhau) trong huyết thanh."
         },
         {
           "id": "s-58",
           "en": "Elecsys® sFlt-1 and Elecsys® PlGF reagent kits, both based on electrochemiluminescence immunoassay technology, were used for biomarker analysis according to the manufacturer’s instructions.",
-          "vi": "Bộ kit thuốc thử Elecsys® sFlt-1 và Elecsys® PlGF, cả hai đều dựa trên công nghệ xét nghiệm miễn dịch điện hóa phát quang, đã được sử dụng để phân tích dấu ấn sinh học theo hướng dẫn của nhà sản xuất."
+          "vi": "Các bộ sinh phẩm xét nghiệm Elecsys® sFlt-1 và Elecsys® PlGF, đều dựa trên công nghệ xét nghiệm miễn dịch điện hóa phát quang, được sử dụng để phân tích dấu ấn sinh học theo đúng hướng dẫn của nhà sản xuất."
         },
         {
           "id": "s-59",
           "en": "The results were reported in picograms per milliliter (pg/mL).",
-          "vi": "Các kết quả được báo cáo theo đơn vị picogram trên mililit (pg/mL)."
+          "vi": "Kết quả được báo cáo theo đơn vị picogram trên mililít (pg/mL)."
         },
         {
           "id": "s-60",
           "en": "The minimum detectable concentration was 10 pg/mL for sFlt-1 and 3 pg/mL for PlGF, as indicated by the manufacturer.",
-          "vi": "Nồng độ tối thiểu có thể phát hiện là 10 pg/mL đối với sFlt-1 và 3 pg/mL đối với PlGF, theo chỉ dẫn của nhà sản xuất."
+          "vi": "Nồng độ phát hiện tối thiểu là 10 pg/mL đối với sFlt-1 và 3 pg/mL đối với PlGF, theo công bố của nhà sản xuất."
         },
         {
           "id": "s-61",
           "en": "The sFlt-1/PlGF ratio was calculated by dividing the measured sFlt-1 concentration by the measured PlGF concentration for each participant.",
-          "vi": "Tỷ số sFlt-1/PlGF được tính bằng cách chia nồng độ sFlt-1 đo được cho nồng độ PlGF đo được của mỗi người tham gia."
+          "vi": "Tỷ số sFlt-1/PlGF được tính bằng cách lấy nồng độ sFlt-1 đo được chia cho nồng độ PlGF đo được ở mỗi đối tượng tham gia."
         },
         {
           "id": "s-62",
           "en": "A ratio <38 was considered within the normal range, and a ratio >85 was considered suggestive of preeclampsia.",
-          "vi": "Tỷ số <38 được coi là trong giới hạn bình thường, và tỷ số >85 được coi là gợi ý tiền sản giật."
+          "vi": "Tỷ số < 38 được xem là trong giới hạn bình thường, và tỷ số > 85 được xem là gợi ý tiền sản giật."
         },
         {
           "id": "s-63",
           "en": "These reference thresholds were distinct from the cohort-specific thresholds subsequently derived through receiver operating characteristic curve analysis.",
-          "vi": "Những ngưỡng tham chiếu này khác biệt với các ngưỡng tối ưu đặc trưng cho nhóm nghiên cứu được suy ra sau đó thông qua phân tích đường cong ROC."
+          "vi": "Những ngưỡng tham chiếu này khác biệt với các ngưỡng tối ưu đặc hiệu cho đoàn hệ nghiên cứu được xác định sau đó thông qua phân tích đường cong ROC (receiver operating characteristic)."
         }
       ]
     },
@@ -535,7 +535,7 @@
         {
           "id": "s-64",
           "en": "Outcome measures",
-          "vi": "Các chỉ số kết cục"
+          "vi": "Các tiêu chí đánh giá kết cục"
         }
       ]
     },
@@ -546,17 +546,17 @@
         {
           "id": "s-65",
           "en": "Maternal and fetal outcomes were recorded during follow-up and after delivery.",
-          "vi": "Các kết cục của mẹ và thai nhi được ghi nhận trong suốt quá trình theo dõi và sau cuộc chuyển dạ."
+          "vi": "Các kết cục ở mẹ và thai nhi được ghi nhận trong suốt quá trình theo dõi và sau cuộc chuyển dạ, sinh nở."
         },
         {
           "id": "s-66",
           "en": "Fetal outcomes included fetal growth restriction, oligohydramnios, intrauterine demise, neonatal death, neonatal intensive care unit admission, and prolonged neonatal hospitalization.",
-          "vi": "Kết cục thai kỳ bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung, tử vong sơ sinh, nhập Khoa Hồi sức tích cực sơ sinh và nằm viện sơ sinh kéo dài."
+          "vi": "Kết cục thai nhi bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung, tử vong sơ sinh, nhập Khoa Hồi sức tích cực sơ sinh và thời gian nằm viện kéo dài ở trẻ sơ sinh."
         },
         {
           "id": "s-67",
           "en": "The gestational age at biomarker testing and the interval between biomarker testing and delivery were also analyzed.",
-          "vi": "Tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học và khoảng thời gian giữa xét nghiệm dấu ấn sinh học và cuộc chuyển dạ cũng được phân tích."
+          "vi": "Tuổi thai (Gestational Age) tại thời điểm xét nghiệm dấu ấn sinh học và khoảng thời gian từ khi xét nghiệm dấu ấn sinh học đến cuộc chuyển dạ, sinh nở cũng được phân tích."
         }
       ]
     },
@@ -578,62 +578,62 @@
         {
           "id": "s-69",
           "en": "Descriptive statistics included the mean and standard deviation for continuous variables and frequency and percentage for categorical variables.",
-          "vi": "Thống kê mô tả bao gồm giá trị trung bình và độ lệch chuẩn cho các biến liên tục, cùng với tần số và tỷ lệ phần trăm cho các biến phân loại."
+          "vi": "Thống kê mô tả bao gồm giá trị trung bình và độ lệch chuẩn đối với các biến liên tục, cùng tần số và tỷ lệ phần trăm đối với các biến phân loại."
         },
         {
           "id": "s-70",
           "en": "Continuous variables were assessed for distribution using the Kolmogorov-Smirnov test.",
-          "vi": "Các biến liên tục được đánh giá phân bố bằng cách sử dụng kiểm định Kolmogorov-Smirnov."
+          "vi": "Các biến liên tục được đánh giá phân phối chuẩn bằng kiểm định Kolmogorov-Smirnov."
         },
         {
           "id": "s-71",
           "en": "Since the quantitative data did not satisfy the assumption of normality, intergroup comparisons of continuous variables were performed using the Kruskal-Wallis test.",
-          "vi": "Vì dữ liệu định lượng không thỏa mãn giả định phân bố chuẩn, các so sánh giữa các nhóm đối với các biến liên tục được thực hiện bằng cách sử dụng kiểm định Kruskal-Wallis."
+          "vi": "Do dữ liệu định lượng không thỏa mãn giả định về phân phối chuẩn, các so sánh giữa các nhóm đối với biến liên tục được thực hiện bằng kiểm định Kruskal-Wallis."
         },
         {
           "id": "s-72",
           "en": "Categorical variables were compared using the chi-square test or Fisher’s exact test, as appropriate.",
-          "vi": "Các biến phân loại được so sánh bằng cách sử dụng kiểm định chi-bình phương hoặc kiểm định chính xác Fisher, tùy theo trường hợp."
+          "vi": "Các biến phân loại được so sánh bằng kiểm định chi bình phương hoặc kiểm định chính xác của Fisher, tùy theo điều kiện phù hợp."
         },
         {
           "id": "s-73",
           "en": "Test statistic values were reported with corresponding P -values where applicable.",
-          "vi": "Các giá trị thống kê kiểm định được báo cáo cùng với các giá trị P tương ứng khi thích hợp."
+          "vi": "Giá trị thống kê kiểm định được trình bày cùng với giá trị P tương ứng khi áp dụng."
         },
         {
           "id": "s-74",
           "en": "Receiver operating characteristic curve analysis was used to derive cohort-specific optimal thresholds for sFlt-1, PlGF, and the sFlt-1/PlGF ratio for preeclampsia and PAS.",
-          "vi": "Phân tích đường cong ROC được sử dụng để suy ra các ngưỡng tối ưu đặc trưng cho nhóm nghiên cứu đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF cho tiền sản giật và PAS."
+          "vi": "Phân tích đường cong ROC (Receiver operating characteristic) được sử dụng để xác định các ngưỡng tối ưu đặc hiệu cho đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF trong chẩn đoán tiền sản giật và PAS."
         },
         {
           "id": "s-75",
           "en": "Sensitivity, specificity, PPV, NPV, area under the curve (AUC) with standard error, and diagnostic accuracy were used to evaluate diagnostic performance.",
-          "vi": "Độ nhạy, độ đặc hiệu, giá trị tiên đoán dương (PPV), giá trị tiên đoán âm (NPV), diện tích dưới đường cong (AUC) cùng với sai số chuẩn và độ chính xác chẩn đoán được sử dụng để đánh giá hiệu suất chẩn đoán."
+          "vi": "Độ nhạy, độ đặc hiệu, giá trị dự đoán dương (PPV), giá trị dự đoán âm (NPV), diện tích dưới đường cong (AUC) kèm sai số chuẩn, và độ chính xác chẩn đoán được sử dụng để đánh giá hiệu năng chẩn đoán."
         },
         {
           "id": "s-76",
           "en": "All analyses were based on the final diagnostic group assigned to each participant.",
-          "vi": "Tất cả các phân tích được dựa trên nhóm chẩn đoán cuối cùng được gán cho mỗi người tham gia."
+          "vi": "Tất cả các phân tích đều dựa trên nhóm chẩn đoán xác định cuối cùng của từng đối tượng tham gia nghiên cứu."
         },
         {
           "id": "s-77",
           "en": "The derived thresholds were specific to the present cohort and were not externally validated.",
-          "vi": "Các ngưỡng được xác định là đặc hiệu cho đoàn hệ hiện tại và không được xác nhận bên ngoài."
+          "vi": "Các ngưỡng giá trị xác định được chỉ mang tính đặc hiệu riêng cho thuần tập nghiên cứu này và chưa được thẩm định giá trị ngoại kiểm."
         },
         {
           "id": "s-78",
           "en": "No multivariable adjustment was performed for potential confounders, including gestational age, maternal age, placenta previa, prior cesarean delivery, disease severity, or other PAS risk factors; this limitation was considered when interpreting the findings.",
-          "vi": "Không có điều chỉnh đa biến nào được thực hiện cho các yếu tố gây nhiễu tiềm ẩn, bao gồm gestational age, tuổi mẹ, nhau tiền đạo, tiền sử sinh mổ, mức độ nặng của bệnh, hoặc các yếu tố nguy cơ PAS khác; hạn chế này đã được xem xét khi diễn giải các phát hiện."
+          "vi": "Nghiên cứu không thực hiện hiệu chỉnh đa biến đối với các yếu tố gây nhiễu tiềm tàng, bao gồm Gestational Age, tuổi mẹ, nhau tiền đạo, tiền sử sinh mổ, mức độ nghiêm trọng của bệnh, hoặc các yếu tố nguy cơ khác của PAS; hạn chế này đã được xem xét và cân nhắc khi phân tích các kết quả."
         },
         {
           "id": "s-79",
           "en": "A P -value <0.05 was considered statistically significant.",
-          "vi": "Giá trị P <0,05 được coi là có ý nghĩa thống kê."
+          "vi": "Giá trị P < 0,05 được coi là có ý nghĩa thống kê."
         },
         {
           "id": "s-80",
           "en": "All analyses were performed using SPSS version 26.0 for Microsoft Windows (IBM Corp., Armonk, NY).",
-          "vi": "Tất cả các phân tích được thực hiện bằng phần mềm SPSS phiên bản 26.0 cho Microsoft Windows (IBM Corp., Armonk, NY)."
+          "vi": "Tất cả các phân tích thống kê đều được thực hiện bằng phần mềm SPSS phiên bản 26.0 cho Microsoft Windows (IBM Corp., Armonk, NY)."
         }
       ]
     },
@@ -644,7 +644,7 @@
         {
           "id": "s-81",
           "en": "Ethical statement",
-          "vi": "Tuyên bố đạo đức"
+          "vi": "Tuyên bố về y đức"
         }
       ]
     },
@@ -655,24 +655,24 @@
         {
           "id": "s-82",
           "en": "The study was approved by the Institutional Research and Ethics Committee of Dayanand Medical College and Hospital, Ludhiana, June 12, 2023, vide letter no. DMCH/P/2023/556, June 21, 2023, with reference number DMCH/4/42-2022 (4505).",
-          "vi": "Nghiên cứu đã được phê duyệt bởi Ủy ban Nghiên cứu và Đạo đức của Trường Cao đẳng Y tế và Bệnh viện Dayanand, Ludhiana, vào ngày 12 tháng 6 năm 2023, theo thư số DMCH/P/2023/556, ngày 21 tháng 6 năm 2023, với số tham chiếu DMCH/4/42-2022 (4505)."
+          "vi": "Nghiên cứu khoa học đã được Hội đồng Đạo đức và Nghiên cứu Thể chế của Trường Y khoa và Bệnh viện Dayanand, Ludhiana phê duyệt vào ngày 12 tháng 6 năm 2023, theo công văn số DMCH/P/2023/556 ngày 21 tháng 6 năm 2023, với số tham chiếu DMCH/4/42-2022 (4505)."
         },
         {
           "id": "s-83",
           "en": "Written informed consent was obtained from all participants before enrollment.",
-          "vi": "Phiếu chấp thuận tham gia nghiên cứu bằng văn bản đã được lấy từ tất cả người tham gia trước khi tuyển chọn."
+          "vi": "Văn bản chấp thuận tham gia nghiên cứu sau khi được giải thích tường tận đã được thu thập từ tất cả các đối tượng trước khi đưa vào nghiên cứu."
         },
         {
           "id": "s-84",
           "en": "All procedures were conducted in accordance with the Declaration of Helsinki.",
-          "vi": "Tất cả các thủ tục được thực hiện theo Tuyên bố Helsinki."
+          "vi": "Mọi quy trình nghiên cứu đều được tiến hành tuân thủ nghiêm ngặt Tuyên ngôn Helsinki."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Results",
-      "vi": "Results"
+      "vi": "Kết quả"
     },
     {
       "type": "paragraph",
@@ -681,7 +681,7 @@
         {
           "id": "s-85",
           "en": "Study population",
-          "vi": "Đối tượng nghiên cứu"
+          "vi": "Quần thể nghiên cứu"
         }
       ]
     },
@@ -692,12 +692,12 @@
         {
           "id": "s-86",
           "en": "The study involved a total of 200 pregnant women.",
-          "vi": "Nghiên cứu bao gồm tổng cộng 200 phụ nữ mang thai."
+          "vi": "Nghiên cứu khoa học được tiến hành trên tổng số 200 phụ nữ mang thai."
         },
         {
           "id": "s-87",
           "en": "Of these, 57 (28.5%) women had preeclampsia and were classified as Group A, 16 (8.0%) women had PAS and were classified as Group B, and 127 (63.5%) women had neither preeclampsia nor PAS and were classified as Group C.",
-          "vi": "Trong số này, 57 (28,5%) phụ nữ bị tiền sản giật và được phân loại là Nhóm A, 16 (8,0%) phụ nữ bị PAS và được phân loại là Nhóm B, và 127 (63,5%) phụ nữ không bị tiền sản giật cũng không bị PAS và được phân loại là Nhóm C."
+          "vi": "Trong số này, 57 phụ nữ (28,5%) mắc tiền sản giật được xếp vào Nhóm A; 16 phụ nữ (8,0%) mắc PAS được xếp vào Nhóm B; và 127 phụ nữ (63,5%) không mắc cả tiền sản giật lẫn PAS được xếp vào Nhóm C."
         }
       ]
     },
@@ -708,7 +708,7 @@
         {
           "id": "s-88",
           "en": "Baseline characteristics",
-          "vi": "Đặc điểm ban đầu"
+          "vi": "Đặc điểm nền của đối tượng nghiên cứu"
         }
       ]
     },
@@ -719,22 +719,22 @@
         {
           "id": "s-89",
           "en": "The mean maternal age, body mass index (BMI), gestational diabetes mellitus status, and period of gestation at biomarker testing were comparable among the three groups.",
-          "vi": "Tuổi mẹ trung bình, chỉ số khối cơ thể (BMI), tình trạng Gestational Diabetes Mellitus và tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học là tương đương giữa ba nhóm."
+          "vi": "Tuổi mẹ trung bình, chỉ số khối cơ thể (BMI), tình trạng Gestational Diabetes Mellitus và tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học là tương đương nhau giữa ba nhóm."
         },
         {
           "id": "s-90",
           "en": "No statistically significant intergroup differences were observed for mean age ( H = 1.572, P = 0.704), BMI ( H = 2.694, P = 0.070), gestational diabetes mellitus status (Fisher’s exact test, P = 0.219), or period of gestation at testing ( H = 0.444, P = 0.642).",
-          "vi": "Không có sự khác biệt có ý nghĩa thống kê nào giữa các nhóm được quan sát về tuổi trung bình (H = 1,572, P = 0,704), BMI (H = 2,694, P = 0,070), tình trạng Gestational Diabetes Mellitus (kiểm định chính xác Fisher, P = 0,219), hoặc tuổi thai tại thời điểm xét nghiệm (H = 0,444, P = 0,642)."
+          "vi": "Không ghi nhận sự khác biệt có ý nghĩa thống kê giữa các nhóm về độ tuổi trung bình (H = 1,572; P = 0,704), chỉ số khối cơ thể (BMI) (H = 2,694; P = 0,070), tình trạng Gestational Diabetes Mellitus (kiểm định chính xác của Fisher, P = 0,219), hoặc tuổi thai tại thời điểm xét nghiệm (H = 0,444; P = 0,642)."
         },
         {
           "id": "s-91",
           "en": "Gravidity differed significantly across groups, with primigravida status more frequent in Group A and multigravida status more frequent in Group B (χ² = 24.371, P = 0.001).",
-          "vi": "Số lần mang thai khác biệt đáng kể giữa các nhóm, với tình trạng mang thai lần đầu thường gặp hơn ở Nhóm A và tình trạng mang thai nhiều lần thường gặp hơn ở Nhóm B (χ² = 24.371, P = 0.001)."
+          "vi": "Số lần mang thai có sự khác biệt có ý nghĩa thống kê giữa các nhóm, trong đó tỷ lệ mang thai lần đầu (con so) cao hơn ở Nhóm A và mang thai nhiều lần (con rạ) cao hơn ở Nhóm B (χ² = 24,371; P = 0,001)."
         },
         {
           "id": "s-92",
           "en": "Socioeconomic status also differed significantly among the groups (χ² = 30.770, P = 0.001).",
-          "vi": "Tình trạng kinh tế xã hội cũng khác biệt đáng kể giữa các nhóm (χ² = 30.770, P = 0.001)."
+          "vi": "Tình trạng kinh tế - xã hội cũng có sự khác biệt có ý nghĩa thống kê giữa các nhóm (χ² = 30,770; P = 0,001)."
         }
       ]
     },
@@ -745,27 +745,27 @@
         {
           "id": "s-93",
           "en": "Fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission differed significantly among the groups.",
-          "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung và nhập viện NICU khác biệt đáng kể giữa các nhóm."
+          "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung và tỷ lệ nhập khoa chăm sóc tích cực sơ sinh (NICU) có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
         },
         {
           "id": "s-94",
           "en": "Fetal growth restriction was most frequent in Group A and absent in Group B (Fisher's exact test, P = 0.020).",
-          "vi": "Thai chậm tăng trưởng trong tử cung (FGR) thường gặp nhất ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0.020)."
+          "vi": "Thai chậm tăng trưởng trong tử cung (FGR) xuất hiện nhiều nhất ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0,020)."
         },
         {
           "id": "s-95",
           "en": "Oligohydramnios was also more frequent in Group A and absent in Group B (Fisher's exact test, P = 0.025).",
-          "vi": "Thiểu ối cũng thường gặp hơn ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0.025)."
+          "vi": "Thiểu ối cũng xuất hiện nhiều hơn ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0,025)."
         },
         {
           "id": "s-96",
           "en": "Intrauterine demise differed significantly among the groups, occurring in six (10.5%) women in Group A, one (6.3%) woman in Group B, and 0 (0%) women in Group C (Fisher’s exact test, P = 0.001).",
-          "vi": "Thai chết lưu trong tử cung khác biệt đáng kể giữa các nhóm, xảy ra ở sáu (10.5%) thai phụ ở Nhóm A, một (6.3%) thai phụ ở Nhóm B và 0 (0%) thai phụ ở Nhóm C (kiểm định chính xác Fisher, P = 0.001)."
+          "vi": "Tỷ lệ thai chết trong tử cung có sự khác biệt có ý nghĩa thống kê giữa các nhóm, xảy ra ở 6 (10,5%) thai phụ ở Nhóm A, 1 (6,3%) thai phụ ở Nhóm B và 0 (0%) thai phụ ở Nhóm C (kiểm định chính xác Fisher, P = 0,001)."
         },
         {
           "id": "s-97",
           "en": "NICU admission occurred in 27 (47.4%) neonates in Group A, 0 (0%) in Group B, and 33 (26.0%) in Group C (Fisher’s exact test, P = 0.020).",
-          "vi": "Nhập viện NICU xảy ra ở 27 (47.4%) trẻ sơ sinh ở Nhóm A, 0 (0%) ở Nhóm B và 33 (26.0%) ở Nhóm C (kiểm định chính xác Fisher, P = 0.020)."
+          "vi": "Tỷ lệ nhập đơn vị chăm sóc tích cực sơ sinh (NICU) ghi nhận ở 27 (47,4%) trẻ sơ sinh ở Nhóm A, 0 (0%) ở Nhóm B và 33 (26,0%) ở Nhóm C (kiểm định chính xác Fisher, P = 0,020)."
         }
       ]
     },
@@ -776,7 +776,7 @@
         {
           "id": "s-98",
           "en": "Neonatal death and prolonged hospital stay did not differ significantly among the groups (Fisher's exact test, P = 0.509 and P = 0.429, respectively).",
-          "vi": "Tử vong sơ sinh và thời gian nằm viện kéo dài không khác biệt đáng kể giữa các nhóm (kiểm định chính xác Fisher, lần lượt P = 0.509 và P = 0.429)."
+          "vi": "Tử vong sơ sinh và kéo dài thời gian nằm viện không có sự khác biệt có ý nghĩa thống kê giữa các nhóm (kiểm định chính xác Fisher, lần lượt P = 0,509 và P = 0,429)."
         },
         {
           "id": "s-99",
@@ -792,7 +792,7 @@
         {
           "id": "s-100",
           "en": "Diagnostic performance for preeclampsia",
-          "vi": "Hiệu suất chẩn đoán tiền sản giật"
+          "vi": "Hiệu quả chẩn đoán tiền sản giật"
         }
       ]
     },
@@ -803,22 +803,22 @@
         {
           "id": "s-101",
           "en": "The following sensitivity, specificity, PPV, NPV, and AUC were obtained for the threshold value of 5,212.00 pg/mL: 80.7%, 80.31%, 64.79%, 90.27%, and 0.862.",
-          "vi": "Độ nhạy, độ đặc hiệu, PPV, NPV và AUC sau đây đã được thu nhận với giá trị ngưỡng 5,212.00 pg/mL: 80.7%, 80.31%, 64.79%, 90.27% và 0.862."
+          "vi": "Tại ngưỡng giá trị 5.212,00 pg/mL, các giá trị độ nhạy, độ đặc hiệu, PPV, NPV và AUC lần lượt đạt được là: 80,7%, 80,31%, 64,79%, 90,27% và 0,862."
         },
         {
           "id": "s-102",
           "en": "PlGF AUC was 0.852, with a PPV of 68.75%, an NPV of 89.17%, a sensitivity of 77.19%, and a specificity of 84.25%.",
-          "vi": "AUC của PlGF là 0.852, với PPV là 68.75%, NPV là 89.17%, độ nhạy là 77.19% và độ đặc hiệu là 84.25%."
+          "vi": "AUC của PlGF là 0,852, với PPV là 68,75%, NPV là 89,17%, độ nhạy là 77,19% và độ đặc hiệu là 84,25%."
         },
         {
           "id": "s-103",
           "en": "The best indicator of preeclampsia was the sFlt-1/PlGF ratio.",
-          "vi": "Chỉ số tốt nhất để chẩn đoán tiền sản giật là tỷ số sFlt-1/PlGF."
+          "vi": "Chỉ số có giá trị nhất trong chẩn đoán tiền sản giật là tỷ số sFlt-1/PlGF."
         },
         {
           "id": "s-104",
           "en": "It had a sensitivity of 80.7%, specificity of 91.34%, PPV of 80.70%, NPV of 91.34%, DA of 88.0%, and an area under the curve of 0.902 at a cutoff of 77.65.",
-          "vi": "Nó có độ nhạy 80.7%, độ đặc hiệu 91.34%, PPV 80.70%, NPV 91.34%, DA 88.0% và diện tích dưới đường cong là 0.902 tại điểm cắt 77.65."
+          "vi": "Chỉ số này có độ nhạy 80,7%, độ đặc hiệu 91,34%, PPV 80,70%, NPV 91,34%, độ chính xác chẩn đoán (DA) 88,0% và diện tích dưới đường cong là 0,902 tại điểm cắt 77,65."
         }
       ]
     },
@@ -829,7 +829,7 @@
         {
           "id": "s-105",
           "en": "Diagnostic performance for PAS",
-          "vi": "Hiệu suất chẩn đoán PAS"
+          "vi": "Hiệu quả chẩn đoán phổ gai nhau cài răng lược (PAS)"
         }
       ]
     },
@@ -840,22 +840,22 @@
         {
           "id": "s-106",
           "en": "In PAS, sFlt-1 demonstrated poor diagnostic performance, with a sensitivity of 6.25%, specificity of 59.84%, PPV of 1.92%, NPV of 83.52%, and AUC of 0.420 at a cutoff point of 3,486.50 pg/mL.",
-          "vi": "Trong phổ rau cài răng lược (PAS), sFlt-1 thể hiện hiệu suất chẩn đoán kém, với độ nhạy 6,25%, độ đặc hiệu 59,84%, giá trị dự đoán dương tính (PPV) 1,92%, giá trị dự đoán âm tính (NPV) 83,52% và diện tích dưới đường cong (AUC) là 0,420 tại ngưỡng cắt 3.486,50 pg/mL."
+          "vi": "Trong phổ rau cài răng lược (PAS), sFlt-1 cho thấy hiệu quả chẩn đoán kém, với độ nhạy là 6,25%, độ đặc hiệu là 59,84%, PPV là 1,92%, NPV là 83,52% và AUC là 0,420 tại điểm cắt 3.486,50 pg/mL."
         },
         {
           "id": "s-107",
           "en": "PlGF had a higher sensitivity of 81.25%; however, it showed low specificity of 51.97% and low PPV of 17.57%.",
-          "vi": "PlGF có độ nhạy cao hơn là 81,25%; tuy nhiên, chất này cho thấy độ đặc hiệu thấp là 51,97% và PPV thấp là 17,57%."
+          "vi": "PlGF có độ nhạy cao hơn, đạt 81,25%; tuy nhiên, chỉ số này cho thấy độ đặc hiệu thấp là 51,97% và PPV thấp là 17,57%."
         },
         {
           "id": "s-108",
           "en": "The sFlt-1/PlGF ratio had a sensitivity of 87.50%, specificity of 51.97%, PPV of 18.67%, NPV of 97.06%, DA of 55.9%, and AUC of 0.678 at a cutoff level of 8.11.",
-          "vi": "Tỷ số sFlt-1/PlGF có độ nhạy 87,50%, độ đặc hiệu 51,97%, PPV 18,67%, NPV 97,06%, độ chính xác chẩn đoán (DA) 55,9% và AUC 0,678 tại mức ngưỡng cắt 8,11."
+          "vi": "Tỷ số sFlt-1/PlGF có độ nhạy là 87,50%, độ đặc hiệu là 51,97%, PPV là 18,67%, NPV là 97,06%, độ chính xác chẩn đoán (DA) là 55,9% và AUC là 0,678 tại ngưỡng cắt 8,11."
         },
         {
           "id": "s-109",
           "en": "The diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio is presented in Table 2 .",
-          "vi": "Hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF được trình bày ở Bảng 2."
+          "vi": "Hiệu quả chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF được trình bày trong Bảng 2."
         }
       ]
     },
@@ -866,7 +866,7 @@
         {
           "id": "s-110",
           "en": "ROC curve findings",
-          "vi": "Các kết quả đường cong ROC"
+          "vi": "Kết quả phân tích đường cong ROC"
         }
       ]
     },
@@ -877,7 +877,7 @@
         {
           "id": "s-111",
           "en": "Figure 1 shows the ROC curve of the sFlt-1/PlGF ratio for preeclampsia, demonstrating strong discriminatory performance.",
-          "vi": "Hình 1 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với bệnh tiền sản giật, cho thấy hiệu suất phân biệt mạnh mẽ."
+          "vi": "Hình 1 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với tiền sản giật, chứng minh khả năng phân định mạnh mẽ."
         }
       ]
     },
@@ -888,7 +888,7 @@
         {
           "id": "s-112",
           "en": "Figure 2 shows the ROC curve of the sFlt-1/PlGF ratio for PAS, demonstrating comparatively weaker diagnostic performance.",
-          "vi": "Hình 2 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với phổ rau cài răng lược (PAS), cho thấy hiệu suất chẩn đoán kém hơn đáng kể."
+          "vi": "Hình 2 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với phổ rau cài răng lược (PAS), cho thấy hiệu quả chẩn đoán tương đối yếu hơn."
         }
       ]
     },
@@ -899,24 +899,24 @@
         {
           "id": "s-113",
           "en": "Overall, angiogenic biomarkers performed better in predicting preeclampsia than PAS.",
-          "vi": "Nhìn chung, các dấu ấn sinh học mạch máu thể hiện khả năng dự đoán tiền sản giật tốt hơn so với phổ rau cài răng lược (PAS)."
+          "vi": "Nhìn chung, các dấu ấn sinh học tân tạo mạch cho hiệu quả dự đoán tiền sản giật tốt hơn so với phổ rau cài răng lược."
         },
         {
           "id": "s-114",
           "en": "The sFlt-1/PlGF ratio was the strongest predictor of preeclampsia, showing high specificity, high NPV, and good overall diagnostic accuracy.",
-          "vi": "Tỷ số sFlt-1/PlGF là yếu tố dự đoán mạnh nhất đối với bệnh tiền sản giật, thể hiện độ đặc hiệu cao, NPV cao và độ chính xác chẩn đoán tổng thể tốt."
+          "vi": "Tỷ số sFlt-1/PlGF là yếu tố dự đoán mạnh nhất đối với tiền sản giật, thể hiện độ đặc hiệu cao, NPV cao và độ chính xác chẩn đoán toàn diện tốt."
         },
         {
           "id": "s-115",
           "en": "In contrast, its performance in PAS was limited by low specificity and low PPV, indicating that it is not useful as a stand-alone diagnostic marker for PAS.",
-          "vi": "Ngược lại, hiệu suất của tỷ số này trong phổ rau cài răng lược (PAS) bị hạn chế bởi độ đặc hiệu thấp và PPV thấp, cho thấy nó không hữu ích như một dấu ấn chẩn đoán đơn độc đối với phổ rau cài răng lược (PAS)."
+          "vi": "Ngược lại, hiệu quả của chỉ số này trong phổ rau cài răng lược bị hạn chế bởi độ đặc hiệu thấp và PPV thấp, cho thấy nó không hữu ích khi đóng vai trò là một dấu ấn chẩn đoán đơn độc đối với phổ rau cài răng lược."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Discussion",
-      "vi": "Discussion"
+      "vi": "Bàn luận"
     },
     {
       "type": "paragraph",
@@ -925,32 +925,32 @@
         {
           "id": "s-116",
           "en": "To differentiate preeclampsia and placenta accreta spectrum (PAS) from pregnancies without either condition, this study compared the diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio.",
-          "vi": "Để phân biệt tiền sản giật và phổ rau cài răng lược (PAS) với các thai kỳ không mắc cả hai tình trạng này, nghiên cứu này đã so sánh hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF."
+          "vi": "Để phân biệt tiền sản giật và phổ rau cài răng lược (PAS) với các thai kỳ không mắc bất kỳ tình trạng nào trong hai bệnh lý này, nghiên cứu đã tiến hành so sánh hiệu quả chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF."
         },
         {
           "id": "s-117",
           "en": "The main finding was that the sFlt-1/PlGF ratio showed strong discriminatory performance for preeclampsia but limited and weak diagnostic performance for PAS.",
-          "vi": "Kết quả chính là tỷ số sFlt-1/PlGF thể hiện hiệu suất phân biệt mạnh mẽ đối với bệnh tiền sản giật nhưng hiệu suất chẩn đoán hạn chế và yếu đối với phổ rau cài răng lược (PAS)."
+          "vi": "Phát hiện chính là tỷ số sFlt-1/PlGF cho thấy khả năng phân định mạnh mẽ đối với tiền sản giật, nhưng hiệu quả chẩn đoán lại yếu và hạn chế đối với phổ rau cài răng lược."
         },
         {
           "id": "s-118",
           "en": "For preeclampsia, the sFlt-1/PlGF ratio showed the highest area under the curve among the evaluated biomarkers.",
-          "vi": "Đối với bệnh tiền sản giật, tỷ số sFlt-1/PlGF cho thấy diện tích dưới đường cong lớn nhất trong số các dấu ấn sinh học được đánh giá."
+          "vi": "Đối với tiền sản giật, tỷ số sFlt-1/PlGF cho thấy diện tích dưới đường cong lớn nhất trong số các dấu ấn sinh học được đánh giá."
         },
         {
           "id": "s-119",
           "en": "At a cutoff value of 77.65, it demonstrated a sensitivity of 80.70%, specificity of 91.34%, PPV of 80.70%, NPV of 91.34%, diagnostic accuracy of 88.0%, and an area under the curve of 0.902.",
-          "vi": "Tại giá trị ngưỡng cắt 77,65, tỷ số này thể hiện độ nhạy 80,70%, độ đặc hiệu 91,34%, PPV 80,70%, NPV 91,34%, độ chính xác chẩn đoán 88,0% và diện tích dưới đường cong là 0,902."
+          "vi": "Tại giá trị điểm cắt 77,65, tỷ số này cho thấy độ nhạy là 80,70%, độ đặc hiệu là 91,34%, PPV là 80,70%, NPV là 91,34%, độ chính xác chẩn đoán là 88,0% và diện tích dưới đường cong là 0,902."
         },
         {
           "id": "s-120",
           "en": "For PAS, the ratio had high sensitivity and NPV but low specificity and PPV, making it unsuitable as a stand-alone marker.",
-          "vi": "Đối với phổ rau cài răng lược (PAS), tỷ số này có độ nhạy và NPV cao nhưng độ đặc hiệu và PPV thấp, khiến nó không phù hợp để làm dấu ấn đơn độc."
+          "vi": "Đối với phổ rau cài răng lược, tỷ số này có độ nhạy và NPV cao nhưng độ đặc hiệu và PPV lại thấp, khiến nó không phù hợp để sử dụng như một dấu ấn đơn độc."
         },
         {
           "id": "s-121",
           "en": "Given the small PAS sample and marked group imbalance, these PAS findings should be interpreted as exploratory and hypothesis-generating rather than practice-changing.",
-          "vi": "Do cỡ mẫu nghiên cứu PAS nhỏ và sự mất cân bằng nhóm rõ rệt, các kết quả về PAS này nên được diễn giải mang tính thăm dò và tạo giả thuyết hơn là mang tính thay đổi thực hành lâm sàng."
+          "vi": "Xét cỡ mẫu PAS nhỏ và sự mất cân đối rõ rệt giữa các nhóm, những phát hiện này ở nhóm PAS nên được diễn giải mang tính thăm dò và gợi mở giả thuyết hơn là thay đổi thực hành lâm sàng."
         }
       ]
     },
@@ -961,37 +961,37 @@
         {
           "id": "s-122",
           "en": "The better performance of the sFlt-1/PlGF ratio in preeclampsia is biologically coherent with the known pathophysiology of preeclampsia.",
-          "vi": "Hiệu suất hoạt động tốt hơn của tỷ số sFlt-1/PlGF trong bệnh tiền sản giật có sự tương hợp sinh học với sinh lý bệnh đã biết của tiền sản giật."
+          "vi": "Hiệu quả tốt hơn của tỷ số sFlt-1/PlGF trong tiền sản giật hoàn toàn phù hợp về mặt sinh học với sinh lý bệnh đã biết của tiền sản giật."
         },
         {
           "id": "s-123",
           "en": "Key abnormalities in preeclampsia include abnormal trophoblastic invasion, failure of spiral artery remodeling, placental ischemia, oxidative stress, and systemic endothelial dysfunction.",
-          "vi": "Các bất thường cốt lõi trong tiền sản giật bao gồm sự xâm lấn bất thường của tế bào nuôi, thất bại trong việc tái cấu trúc động mạch xoắn, thiếu máu cục bộ bánh nhau, stress oxy hóa và rối loạn chức năng nội mạc toàn thân."
+          "vi": "Các bất thường then chốt trong tiền sản giật bao gồm sự xâm lấn của tế bào nuôi bất thường, khiếm khuyết trong tái cấu trúc động mạch xoắn, thiếu máu cục bộ bánh nhau, stress oxy hóa và rối loạn chức năng nội mạc toàn thân."
         },
         {
           "id": "s-124",
           "en": "These processes upregulate antiangiogenic factors such as sFlt-1 and downregulate proangiogenic factors such as PlGF in circulation [ 14 ].",
-          "vi": "Các quá trình này làm tăng điều hòa các yếu tố kháng tạo mạch như sFlt-1 và giảm điều hòa các yếu tố thúc đẩy tạo mạch như PlGF trong tuần hoàn [ 14 ]."
+          "vi": "Các quá trình này làm tăng nồng độ các yếu tố kháng tạo mạch như sFlt-1 và làm giảm nồng độ các yếu tố sinh tạo mạch như PlGF trong tuần hoàn [ 14 ]."
         },
         {
           "id": "s-125",
           "en": "The sFlt-1/PlGF ratio is thus a composite marker of angiogenic imbalance, which may explain why it performed better than sFlt-1 and PlGF individually.",
-          "vi": "Do đó, tỷ số sFlt-1/PlGF là một dấu ấn hỗn hợp thể hiện tình trạng mất cân bằng tạo mạch, điều này có thể giải thích lý do tại sao nó hoạt động tốt hơn so với sFlt-1 và PlGF tính riêng lẻ."
+          "vi": "Do đó, tỷ số sFlt-1/PlGF là một dấu ấn sinh học kết hợp phản ánh sự mất cân bằng tạo mạch, điều này có thể giải thích lý do tại sao tỷ số này đạt hiệu quả đánh giá vượt trội hơn so với từng yếu tố sFlt-1 và PlGF riêng lẻ."
         },
         {
           "id": "s-126",
           "en": "The observed cutoff value of 77.65 was derived from the present cohort and should not be considered universally applicable without external validation, although it is broadly consistent with previously reported diagnostic and short-term predictive thresholds in women with suspected preeclampsia [ 15 , 16 ].",
-          "vi": "Giá trị ngưỡng quan sát được là 77.65 được rút ra từ nhóm nghiên cứu hiện tại và không nên được xem là có thể áp dụng phổ quát mà không có sự xác thực bên ngoài, mặc dù nó nhìn chung có tính tương đồng với các ngưỡng chẩn đoán và dự báo ngắn hạn đã được báo cáo trước đây ở phụ nữ nghi ngờ mắc tiền sản giật [ 15 , 16 ]."
+          "vi": "Giá trị ngưỡng cắt ghi nhận được là 77,65 được xác định từ chính đoàn hệ nghiên cứu này và không nên xem là có thể áp dụng rộng rãi nếu chưa được kiểm định độc lập từ bên ngoài, mặc dù ngưỡng này nhìn chung nhất quán với các ngưỡng chẩn đoán và dự đoán ngắn hạn đã được báo cáo trước đây ở những thai phụ nghi ngờ tiền sản giật [ 15 , 16 ]."
         },
         {
           "id": "s-127",
           "en": "The shorter interval between biomarker testing and delivery in Group A further suggests that a high ratio may identify clinically significant disease requiring closer monitoring and timely intervention.",
-          "vi": "Khoảng thời gian ngắn hơn giữa thời điểm xét nghiệm sinh dấu ấn và thời điểm sinh ở Nhóm A càng cho thấy rằng tỷ số cao có thể xác định tình trạng bệnh có ý nghĩa lâm sàng, đòi hỏi phải theo dõi chặt chẽ và can thiệp kịp thời."
+          "vi": "Khoảng thời gian ngắn hơn từ thời điểm xét nghiệm dấu ấn sinh học đến khi sinh ở Nhóm A củng cố thêm rằng tỷ số tăng cao có thể giúp nhận diện tình trạng bệnh lý có ý nghĩa lâm sàng, đòi hỏi phải giám sát chặt chẽ hơn và can thiệp kịp thời."
         },
         {
           "id": "s-128",
           "en": "In routine practice, the ratio should be interpreted alongside blood pressure measurements, proteinuria assessment, laboratory evaluation, fetal surveillance, and the overall maternal clinical condition rather than used in isolation.",
-          "vi": "Trong thực hành thường quy, tỷ số này nên được diễn giải song song với các chỉ số đo huyết áp, đánh giá tình trạng đạm niệu, đánh giá xét nghiệm, theo dõi sức khỏe thai nhi và toàn trạng lâm sàng của mẹ thay vì được sử dụng một cách đơn độc."
+          "vi": "Trong thực hành thường quy, tỷ số này cần được phân tích kết hợp với các chỉ số đo huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng, giám sát sức khỏe thai nhi và toàn trạng lâm sàng chung của thai phụ, thay vì sử dụng đơn độc."
         }
       ]
     },
@@ -1002,32 +1002,32 @@
         {
           "id": "s-129",
           "en": "A higher frequency of adverse fetal outcomes, including fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission, was observed in the preeclampsia group.",
-          "vi": "Tần suất cao hơn các kết cục bất lợi về thai nhi, bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai lưu trong tử cung và nhập khoa hồi sức tích cực sơ sinh (NICU), đã được quan sát thấy ở nhóm tiền sản giật."
+          "vi": "Tần suất cao hơn của các kết cục bất lợi ở thai nhi, bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung và nhập khoa hồi sức tích cực sơ sinh (NICU), đã được ghi nhận ở nhóm tiền sản giật."
         },
         {
           "id": "s-130",
           "en": "These findings are consistent with placental insufficiency, reduced uteroplacental perfusion, fetal hypoxia, impaired fetal growth, and reduced amniotic fluid volume.",
-          "vi": "Những phát hiện này phù hợp với tình trạng suy chức năng bánh nhau, giảm tưới máu tử cung rau, thiếu oxy thai, suy giảm sự tăng trưởng của thai nhi và giảm thể tích nước ối."
+          "vi": "Những phát hiện này phù hợp với tình trạng suy chức năng bánh nhau, giảm tưới máu tử cung rau, thiếu oxy thai nhi, suy giảm tăng trưởng của thai và giảm thể tích nước ối."
         },
         {
           "id": "s-131",
           "en": "Previously, such associations have been reported between preeclampsia and fetal growth restriction [ 12 ].",
-          "vi": "Trước đây, các mối liên quan tương tự đã từng được báo cáo giữa tiền sản giật và thai chậm tăng trưởng trong tử cung (FGR) [ 12 ]."
+          "vi": "Trước đây, mối liên quan tương tự giữa tiền sản giật và thai chậm tăng trưởng trong tử cung (FGR) cũng đã được báo cáo [ 12 ]."
         },
         {
           "id": "s-132",
           "en": "Increased NICU admission may reflect fetal compromise, medically indicated preterm delivery, or both.",
-          "vi": "Việc tăng tỷ lệ nhập khoa hồi sức tích cực sơ sinh (NICU) có thể phản ánh tình trạng suy thai, chấm dứt thai kỳ non tháng có chỉ định y khoa, hoặc cả hai yếu tố này."
+          "vi": "Tỷ lệ nhập NICU gia tăng có thể phản ánh tình trạng suy thai, chấm dứt thai kỳ non tháng do chỉ định y khoa, hoặc do cả hai nguyên nhân."
         },
         {
           "id": "s-133",
           "en": "Although several fetal outcomes differed significantly among the groups, these results should be interpreted cautiously, particularly for the PAS group, because of its small sample size and the low number of outcome events.",
-          "vi": "Mặc dù một số kết cục về thai nhi có sự khác biệt đáng kể giữa các nhóm, các kết quả này cần được diễn giải một cách thận trọng, đặc biệt đối với nhóm PAS, do cỡ mẫu nhỏ và số lượng biến cố kết cục thấp."
+          "vi": "Mặc dù một số kết cục ở thai nhi có sự khác biệt có ý nghĩa thống kê giữa các nhóm, nhưng những kết quả này cần được diễn giải một cách thận trọng, đặc biệt là đối với nhóm PAS, do cỡ mẫu nhỏ và số lượng biến cố kết cục còn thấp."
         },
         {
           "id": "s-134",
           "en": "Neonatal mortality and prolonged hospitalization did not differ significantly among the groups.",
-          "vi": "Tỷ lệ tử vong sơ sinh và thời gian nằm viện kéo dài không có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
+          "vi": "Tử vong sơ sinh và thời gian nằm viện kéo dài không có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
         }
       ]
     },
@@ -1038,37 +1038,37 @@
         {
           "id": "s-135",
           "en": "The findings for PAS differed from those observed for preeclampsia.",
-          "vi": "Các kết quả ghi nhận ở nhóm PAS có sự khác biệt so với những gì quan sát được ở nhóm tiền sản giật."
+          "vi": "Các phát hiện đối với bệnh cảnh PAS có sự khác biệt rõ rệt so với những kết quả quan sát được ở bệnh cảnh tiền sản giật."
         },
         {
           "id": "s-136",
           "en": "Although the sFlt-1/PlGF ratio showed high sensitivity and NPV at a cutoff value of 8.11, it had low specificity and PPV, indicating that it is unsuitable for confirming PAS as a stand-alone diagnostic test.",
-          "vi": "Mặc dù tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị tiên đoán âm tính cao tại giá trị ngưỡng 8,11, nhưng tỷ số này lại có độ đặc hiệu và giá trị tiên đoán dương tính thấp, cho thấy nó không phù hợp để xác định bệnh lý nhau bám dính (PAS) như một xét nghiệm chẩn đoán đơn lẻ."
+          "vi": "Mặc dù tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị dự đoán âm (NPV) cao ở điểm cắt 8,11, nhưng chỉ số này lại có độ đặc hiệu và giá trị dự đoán dương (PPV) thấp, cho thấy nó không phù hợp để xác chẩn phổ bệnh lý nhau cài răng lược (PAS) như một xét nghiệm chẩn đoán độc lập."
         },
         {
           "id": "s-137",
           "en": "The AUC of 0.678 indicates weak discriminatory performance and limits the clinical usefulness of the PAS-derived threshold.",
-          "vi": "Diện tích dưới đường cong (AUC) là 0,678 cho thấy khả năng phân loại yếu và làm hạn chế giá trị sử dụng trên lâm sàng của ngưỡng giá trị bắt nguồn từ PAS."
+          "vi": "Diện tích dưới đường cong (AUC) là 0,678 cho thấy khả năng phân định yếu và làm hạn chế tính hữu dụng trên lâm sàng của ngưỡng giá trị được xác lập cho PAS."
         },
         {
           "id": "s-138",
           "en": "The poor diagnostic performance is probably related to the distinct pathophysiology of PAS, which is primarily characterized by defective decidualization, abnormal placental adherence, and varying degrees of myometrial invasion rather than the diffuse placental ischemia and systemic endothelial dysfunction characteristic of preeclampsia.",
-          "vi": "Hiệu suất chẩn đoán kém này có lẽ liên quan đến sinh lý bệnh đặc trưng của PAS — vốn được đặc trưng chủ yếu bởi sự biến đổi màng rụng bị khiếm khuyết, tình trạng nhau bám bất thường và các mức độ xâm lấn cơ tử cung khác nhau — chứ không phải do tình trạng thiếu máu cục bộ bánh nhau lan tỏa và rối loạn chức năng nội mạc toàn thân vốn là đặc điểm của tiền sản giật."
+          "vi": "Hiệu quả chẩn đoán kém này có thể liên quan đến cơ chế sinh lý bệnh riêng biệt của PAS, vốn được đặc trưng chủ yếu bởi quá trình biến đổi màng rụng khiếm khuyết, nhau bám dính bất thường và các mức độ xâm lấn cơ tử cung khác nhau, thay vì tình trạng thiếu máu cục bộ bánh nhau lan tỏa và rối loạn chức năng nội mạc toàn thân đặc trưng của tiền sản giật."
         },
         {
           "id": "s-139",
           "en": "Consequently, the marked angiogenic imbalance observed in preeclampsia may be absent, less pronounced, or more heterogeneous in PAS.",
-          "vi": "Do đó, sự mất cân bằng tạo mạch rõ rệt được quan sát thấy trong tiền sản giật có thể không xuất hiện, ít rõ rệt hơn hoặc mang tính dị thể hơn trong PAS."
+          "vi": "Do đó, tình trạng mất cân bằng sinh mạch rõ rệt quan sát thấy trong tiền sản giật có thể không hiện diện, ít rõ nét hơn, hoặc không đồng nhất hơn trong PAS."
         },
         {
           "id": "s-140",
           "en": "These findings corroborate previous studies indicating that angiogenic markers are not useful as stand-alone diagnostic tools in PAS [ 17 - 19 ].",
-          "vi": "Những phát hiện này củng cố cho các nghiên cứu trước đây cho thấy các dấu ấn sinh học tạo mạch không hữu ích như các công cụ chẩn đoán đơn lẻ trong PAS [ 17 - 19 ]."
+          "vi": "Những phát hiện này củng cố các nghiên cứu trước đây khi chỉ ra rằng các dấu ấn sinh mạch không hữu ích với vai trò là công cụ chẩn đoán độc lập trong PAS [ 17 - 19 ]."
         },
         {
           "id": "s-141",
           "en": "Established clinical risk factors, particularly placenta previa, prior cesarean delivery, previous uterine surgery, and maternal age, remain central to PAS risk assessment.",
-          "vi": "Các yếu tố nguy cơ lâm sàng đã được thiết lập, đặc biệt là nhau tiền đạo, tiền sử sinh mổ, phẫu thuật tử cung trước đó và độ tuổi của mẹ, vẫn đóng vai trò trung tâm trong việc đánh giá nguy cơ PAS."
+          "vi": "Các yếu tố nguy cơ lâm sàng đã được xác lập, đặc biệt là nhau tiền đạo, tiền căn mổ lấy thai, phẫu thuật tử cung trước đó và tuổi mẹ, vẫn giữ vai trò then chốt trong việc đánh giá nguy cơ PAS."
         }
       ]
     },
@@ -1079,32 +1079,32 @@
         {
           "id": "s-142",
           "en": "These findings have distinct clinical implications for the two conditions.",
-          "vi": "Những phát hiện này mang lại ý nghĩa lâm sàng rõ rệt cho cả hai tình trạng bệnh lý."
+          "vi": "Những phát hiện này mang lại các ý nghĩa lâm sàng riêng biệt đối với hai bệnh lý trên."
         },
         {
           "id": "s-143",
           "en": "In suspected preeclampsia, the sFlt-1/PlGF ratio may be used as an adjunct to clinical assessment, blood pressure monitoring, proteinuria assessment, laboratory testing, and fetal surveillance.",
-          "vi": "Trong trường hợp nghi ngờ tiền sản giật, tỷ số sFlt-1/PlGF có thể được sử dụng như một phương pháp bổ trợ cho việc đánh giá lâm sàng, theo dõi huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng và theo dõi sức khỏe thai nhi."
+          "vi": "Trong các trường hợp nghi ngờ tiền sản giật, tỷ số sFlt-1/PlGF có thể được sử dụng như một xét nghiệm bổ trợ cho đánh giá lâm sàng, theo dõi huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng và theo dõi sức khỏe thai nhi."
         },
         {
           "id": "s-144",
           "en": "A clinically abnormal ratio may support decisions regarding intensified surveillance, specialist assessment, repeat maternal and fetal evaluation, and timing of delivery, but it should not independently determine management.",
-          "vi": "Một tỷ số bất thường trên lâm sàng có thể hỗ trợ các quyết định liên quan đến việc tăng cường theo dõi, đánh giá bởi chuyên gia, đánh giá lặp lại đối với mẹ và thai nhi, cũng như thời điểm chấm dứt thai kỳ, nhưng nó không nên đóng vai trò quyết định độc lập đối với việc xử trí."
+          "vi": "Tỷ số bất thường trên lâm sàng có thể hỗ trợ đưa ra các quyết định về việc tăng cường giám sát, hội chẩn chuyên khoa, đánh giá lặp lại ở mẹ và thai nhi, cũng như lựa chọn thời điểm chấm dứt thai kỳ, nhưng không nên đóng vai trò là yếu tố độc lập quyết định hướng xử trí."
         },
         {
           "id": "s-145",
           "en": "PAS diagnosis should be based mainly on clinical risk factors and imaging, particularly transabdominal and transvaginal ultrasonography with color Doppler.",
-          "vi": "Việc chẩn đoán PAS nên dựa chủ yếu vào các yếu tố nguy cơ lâm sàng và chẩn đoán hình ảnh, đặc biệt là siêu âm qua thành bụng và qua đường âm đạo kết hợp với phổ Doppler màu."
+          "vi": "Chẩn đoán PAS nên dựa chủ yếu vào các yếu tố nguy cơ lâm sàng và chẩn đoán hình ảnh, đặc biệt là siêu âm qua thành bụng và qua ngả âm đạo kết hợp Doppler màu."
         },
         {
           "id": "s-146",
           "en": "Magnetic resonance imaging may be helpful when ultrasound findings are inconclusive, posterior placentation is present, or deeper invasion is suspected.",
-          "vi": "Chụp cộng hưởng từ có thể hữu ích khi các kết quả siêu âm không có kết luận rõ ràng, khi có tình trạng nhau bám mặt sau, hoặc khi nghi ngờ có tình trạng xâm lấn sâu hơn."
+          "vi": "Chụp cộng hưởng từ có thể hữu ích khi các kết quả siêu âm không thể kết luận rõ ràng, có vị trí nhau bám mặt sau, hoặc nghi ngờ có sự xâm lấn sâu hơn."
         },
         {
           "id": "s-147",
           "en": "Angiogenic biomarkers should therefore be positioned only as potential adjuncts to imaging and clinical risk assessment in PAS, not as replacements for them.",
-          "vi": "Do đó, các dấu ấn sinh học tạo mạch chỉ nên được định vị là các yếu tố hỗ trợ tiềm năng cho chẩn đoán hình ảnh và đánh giá nguy cơ lâm sàng trong PAS, chứ không phải là phương pháp thay thế cho các phương pháp đó."
+          "vi": "Do đó, các dấu ấn sinh học sinh mạch chỉ nên được định vị như những công cụ bổ trợ tiềm năng cho chẩn đoán hình ảnh và đánh giá nguy cơ lâm sàng trong PAS, chứ không thể thay thế cho các phương pháp này."
         }
       ]
     },
@@ -1115,7 +1115,7 @@
         {
           "id": "s-148",
           "en": "Strengths, limitations, and future directions",
-          "vi": "Điểm mạnh, hạn chế và định hướng tương lai"
+          "vi": "Điểm mạnh, hạn chế và các hướng nghiên cứu tương lai"
         }
       ]
     },
@@ -1126,12 +1126,12 @@
         {
           "id": "s-149",
           "en": "The strengths of this study include its prospective design, standardized measurement of sFlt-1 and PlGF, assessment of multiple diagnostic indices, and follow-up through delivery.",
-          "vi": "Điểm mạnh của nghiên cứu này bao gồm thiết kế tiến cứu, việc đo lường chuẩn hóa sFlt-1 và PlGF, việc đánh giá nhiều chỉ số chẩn đoán và việc theo dõi dọc suốt cho đến khi sinh."
+          "vi": "Các điểm mạnh của nghiên cứu này bao gồm thiết kế tiến cứu, quy trình định lượng sFlt-1 và PlGF chuẩn hóa, đánh giá nhiều chỉ số chẩn đoán, và theo dõi liên tục cho đến khi sinh."
         },
         {
           "id": "s-150",
           "en": "It also compared angiogenic biomarkers in preeclampsia and PAS, two placentation disorders with distinct pathophysiology.",
-          "vi": "Nghiên cứu này cũng so sánh các dấu ấn sinh học tạo mạch trong tiền sản giật và PAS, hai rối loạn làm tổ của bánh nhau với các đặc điểm sinh lý bệnh khác nhau."
+          "vi": "Nghiên cứu cũng so sánh các dấu ấn sinh học sinh mạch giữa tiền sản giật và PAS, hai rối loạn bánh nhau có cơ chế sinh lý bệnh hoàn toàn khác biệt."
         }
       ]
     },
@@ -1142,27 +1142,27 @@
         {
           "id": "s-151",
           "en": "The main limitations were the small PAS group ( n = 16), marked group imbalance, and single-center design, which reduced the precision and generalizability of PAS estimates.",
-          "vi": "Những hạn chế chính là kích thước nhóm bệnh nhau cài răng lược (PAS) nhỏ (n = 16), sự mất cân bằng nhóm rõ rệt, và thiết kế nghiên cứu đơn trung tâm, làm giảm độ chính xác và khả năng ngoại suy của các ước tính về PAS."
+          "vi": "Các hạn chế chính bao gồm cỡ mẫu nhóm bệnh lý phổ nhau cài răng lược (PAS) còn nhỏ (n = 16), sự mất cân đối rõ rệt giữa các nhóm và thiết kế nghiên cứu đơn trung tâm, làm giảm độ chính xác cũng như khả năng khái quát hóa của các ước tính liên quan đến PAS."
         },
         {
           "id": "s-152",
           "en": "PAS findings should therefore be considered exploratory and hypothesis-generating.",
-          "vi": "Do đó, các phát hiện về PAS nên được xem là mang tính khám phá và tạo dựng giả thuyết."
+          "vi": "Do đó, các phát hiện về PAS nên được xem là mang tính khám phá và gợi mở giả thuyết nghiên cứu."
         },
         {
           "id": "s-153",
           "en": "Biomarkers were measured at a single time point, preventing assessment of longitudinal changes.",
-          "vi": "Các dấu ấn sinh học được đo lường tại một thời điểm duy nhất, điều này ngăn cản việc đánh giá các thay đổi dọc theo thời gian."
+          "vi": "Các dấu ấn sinh học chỉ được định lượng tại một thời điểm duy nhất, cản trở việc đánh giá, nhận định lâm sàng các thay đổi theo thời gian."
         },
         {
           "id": "s-154",
           "en": "No multivariable adjustment was performed for maternal age, gestational age at testing, socioeconomic status, disease severity, placenta previa, prior cesarean delivery, or other PAS risk factors.",
-          "vi": "Không có sự hiệu chỉnh đa biến nào được thực hiện đối với tuổi mẹ, tuổi thai tại thời điểm xét nghiệm, tình trạng kinh tế xã hội, mức độ nặng của bệnh, nhau tiền đạo, tiền sử sinh mổ, hoặc các yếu tố nguy cơ PAS khác."
+          "vi": "Chưa có hiệu chỉnh đa biến cho Tuổi mẹ, Gestational Age tại thời điểm xét nghiệm, tình trạng kinh tế - xã hội, mức độ nghiêm trọng của bệnh, nhau tiền đạo, tiền sử sinh mổ, hoặc các yếu tố nguy cơ PAS khác."
         },
         {
           "id": "s-155",
           "en": "The cohort-derived cutoffs were not externally validated, and fetal outcomes involving the PAS group should be interpreted cautiously.",
-          "vi": "Các giá trị cắt lấy từ thuần tập không được thẩm định ngoại vi, và các kết cục thai nhi liên quan đến nhóm PAS cần được diễn giải một cách thận trọng."
+          "vi": "Các ngưỡng giá trị cắt được rút ra từ chính đoàn hệ nghiên cứu vẫn chưa được kiểm định ngoại kiểm, đồng thời các kết cục thai kỳ liên quan đến nhóm PAS cần được phiên giải một cách thận trọng."
         }
       ]
     },
@@ -1173,19 +1173,19 @@
         {
           "id": "s-156",
           "en": "Larger multicenter studies with balanced group sizes, serial biomarker measurements, multivariable modelling, and external validation are required.",
-          "vi": "Cần có các nghiên cứu đa trung tâm lớn hơn với quy mô nhóm cân bằng, đo lường dấu ấn sinh học nối tiếp, mô hình hóa đa biến và thẩm định ngoại vi."
+          "vi": "Cần có các nghiên cứu đa trung tâm với quy mô lớn hơn, cỡ mẫu giữa các nhóm cân bằng, định lượng dấu ấn sinh học theo chuỗi thời gian, xây dựng mô hình đa biến và tiến hành kiểm định ngoại kiểm."
         },
         {
           "id": "s-157",
           "en": "Future studies should evaluate whether angiogenic biomarkers provide incremental diagnostic value when combined with established clinical risk factors and imaging rather than assessing them as stand-alone tests for PAS.",
-          "vi": "Các nghiên cứu trong tương lai nên đánh giá xem liệu các dấu ấn sinh học tạo mạch có cung cấp giá trị chẩn đoán gia tăng khi kết hợp với các yếu tố nguy cơ lâm sàng đã thiết lập và chẩn đoán hình ảnh hay không, thay vì đánh giá chúng như các xét nghiệm đơn lẻ đối với PAS."
+          "vi": "Các nghiên cứu trong tương lai cần đánh giá xem liệu các dấu ấn sinh học hình thành mạch có mang lại giá trị chẩn đoán gia tăng khi kết hợp với các yếu tố nguy cơ lâm sàng đã xác lập cùng chẩn đoán hình ảnh hay không, thay vì chỉ đánh giá chúng như các xét nghiệm đơn độc đối với PAS."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Conclusions",
-      "vi": "Conclusions"
+      "vi": "Kết luận"
     },
     {
       "type": "paragraph",
@@ -1194,42 +1194,42 @@
         {
           "id": "s-158",
           "en": "This study shows that angiogenic biomarkers, particularly the sFlt-1/PlGF ratio, have strong discriminatory value for preeclampsia but limited diagnostic value for PAS.",
-          "vi": "Nghiên cứu này cho thấy các dấu ấn sinh học tạo mạch, đặc biệt là tỷ số sFlt-1/PlGF, có giá trị phân biệt mạnh mẽ đối với tiền sản giật nhưng giá trị chẩn đoán đối với PAS còn hạn chế."
+          "vi": "Nghiên cứu này chỉ ra rằng các dấu ấn sinh học hình thành mạch, đặc biệt là Tỷ số sFlt-1/PlGF, có giá trị phân biệt mạnh đối với tiền sản giật nhưng lại có giá trị chẩn đoán hạn chế đối với PAS."
         },
         {
           "id": "s-159",
           "en": "Among the evaluated markers, the sFlt-1/PlGF ratio showed the highest sensitivity, specificity, PPV, NPV, and diagnostic accuracy for preeclampsia.",
-          "vi": "Trong số các dấu ấn được đánh giá, tỷ số sFlt-1/PlGF cho thấy độ nhạy, độ đặc hiệu, giá trị dự đoán dương tính (PPV), giá trị dự đoán âm tính (NPV), và độ chính xác chẩn đoán cao nhất đối với tiền sản giật."
+          "vi": "Trong số các chỉ dấu được đánh giá, Tỷ số sFlt-1/PlGF thể hiện độ nhạy, độ đặc hiệu, giá trị dự đoán dương tính (PPV), giá trị dự đoán âm tính (NPV) và độ chính xác chẩn đoán cao nhất đối với tiền sản giật."
         },
         {
           "id": "s-160",
           "en": "These findings support its use as an adjunct to blood pressure assessment, proteinuria testing, laboratory evaluation, and fetal surveillance rather than as an isolated diagnostic test.",
-          "vi": "Những phát hiện này củng cố việc sử dụng tỷ số này như một phương pháp hỗ trợ cho việc đánh giá huyết áp, xét nghiệm protein niệu, đánh giá cận lâm sàng và theo dõi sức khỏe thai nhi, thay vì là một xét nghiệm chẩn đoán đơn độc."
+          "vi": "Những phát hiện này ủng hộ việc ứng dụng tỷ số như một công cụ bổ trợ cho đánh giá, nhận định lâm sàng huyết áp, xét nghiệm Protein niệu (Đạm niệu), xét nghiệm cận lâm sàng và giám sát sức khỏe thai nhi, hơn là một xét nghiệm chẩn đoán độc lập."
         },
         {
           "id": "s-161",
           "en": "Fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission were more frequent among women with preeclampsia, emphasizing the importance of early detection and close monitoring.",
-          "vi": "Tình trạng thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai lưu, và nhập khoa hồi sức tích cực sơ sinh (NICU) xảy ra thường xuyên hơn ở phụ nữ bị tiền sản giật, nhấn mạnh tầm quan trọng của việc phát hiện sớm và theo dõi sát sao."
+          "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung và tỷ lệ nhập khoa hồi sức tích cực sơ sinh (NICU) xuất hiện thường xuyên hơn ở thai phụ mắc tiền sản giật, nhấn mạnh tầm quan trọng của việc phát hiện sớm và theo dõi sát sao."
         },
         {
           "id": "s-162",
           "en": "For PAS, the sFlt-1/PlGF ratio showed high sensitivity and NPV but low specificity, low PPV, and weak overall discriminatory performance.",
-          "vi": "Đối với PAS, tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị dự đoán âm tính (NPV) cao nhưng độ đặc hiệu thấp, giá trị dự đoán dương tính (PPV) thấp và hiệu năng phân biệt tổng thể kém."
+          "vi": "Đối với PAS, Tỷ số sFlt-1/PlGF cho thấy độ nhạy và NPV cao nhưng độ đặc hiệu thấp, PPV thấp và hiệu năng phân biệt tổng thể kém."
         },
         {
           "id": "s-163",
           "en": "Given the small PAS sample, group imbalance, absence of multivariable adjustment, and cohort-derived cutoff values, these findings should be considered exploratory and hypothesis-generating rather than practice-changing.",
-          "vi": "Với mẫu PAS nhỏ, sự mất cân bằng nhóm, việc thiếu sự hiệu chỉnh đa biến, và các giá trị cắt lấy từ thuần tập, những phát hiện này nên được xem là mang tính khám phá và tạo dựng giả thuyết hơn là làm thay đổi thực hành lâm sàng."
+          "vi": "Xét đến cỡ mẫu PAS nhỏ, sự mất cân đối giữa các nhóm, việc thiếu hiệu chỉnh đa biến và các ngưỡng cắt được xác lập nội bộ từ đoàn hệ, những phát hiện này nên được xem là mang tính khám phá và gợi mở giả thuyết hơn là làm thay đổi thực hành lâm sàng."
         },
         {
           "id": "s-164",
           "en": "PAS diagnosis should continue to rely primarily on established clinical risk factors and imaging.",
-          "vi": "Chẩn đoán PAS nên tiếp tục dựa chủ yếu vào các yếu tố nguy cơ lâm sàng đã được thiết lập và chẩn đoán hình ảnh."
+          "vi": "Chẩn đoán PAS vẫn nên tiếp tục dựa chủ yếu vào các yếu tố nguy cơ lâm sàng đã xác lập và chẩn đoán hình ảnh."
         },
         {
           "id": "s-165",
           "en": "Larger multicenter studies with balanced groups, serial biomarker measurements, confounder adjustment, and external validation are required before these cutoffs can be applied clinically.",
-          "vi": "Cần có các nghiên cứu đa trung tâm lớn hơn với các nhóm cân bằng, đo lường dấu ấn sinh học nối tiếp, hiệu chỉnh các yếu tố gây nhiễu, và thẩm định ngoại vi trước khi các giá trị cắt này có thể được áp dụng trên lâm sàng."
+          "vi": "Cần có các nghiên cứu đa trung tâm quy mô lớn hơn với các nhóm cân bằng, định lượng dấu ấn sinh học theo chuỗi, hiệu chỉnh yếu tố gây nhiễu và kiểm định ngoại kiểm trước khi các ngưỡng cắt này có thể được áp dụng trên lâm sàng."
         }
       ]
     }
@@ -1239,202 +1239,202 @@
     {
       "sid": "s-1",
       "en": "Background: Certain placentation disorders, such as preeclampsia and placenta accreta spectrum (PAS), are prevalent causes of maternal and fetal morbidity.",
-      "vi": "Bối cảnh: Một số rối loạn bánh nhau nhất định, như tiền sản giật và phổ rau cài răng lược (PAS), là những nguyên nhân phổ biến gây bệnh suất ở mẹ và thai nhi."
+      "vi": "Đặt vấn đề: Một số rối loạn bánh nhau, chẳng hạn như tiền sản giật và phổ rau cài răng lược (PAS), là những nguyên nhân phổ biến gây bệnh suất ở mẹ và thai nhi."
     },
     {
       "sid": "s-2",
       "en": "Angiogenic biomarkers, including soluble fms-like tyrosine kinase-1 (sFlt-1), placental growth factor (PlGF), and the sFlt-1/PlGF ratio, are increasingly used in the evaluation of preeclampsia; however, their relevance in PAS remains unclear.",
-      "vi": "Các dấu ấn sinh học tạo mạch, bao gồm tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), yếu tố tăng trưởng nhau thai (PlGF) và tỷ số sFlt-1/PlGF, ngày càng được sử dụng nhiều trong đánh giá tiền sản giật; tuy nhiên, vai trò của chúng trong phổ rau cài răng lược (PAS) vẫn chưa rõ ràng."
+      "vi": "Các dấu ấn sinh học tân tạo mạch, bao gồm tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), yếu tố tăng trưởng nhau thai (PlGF) và tỷ số sFlt-1/PlGF, ngày càng được sử dụng nhiều trong đánh giá tiền sản giật; tuy nhiên, ý nghĩa của chúng trong phổ rau cài răng lược (PAS) vẫn chưa rõ ràng."
     },
     {
       "sid": "s-3",
       "en": "Objective: To evaluate the diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio for preeclampsia and explore their potential diagnostic utility in PAS.",
-      "vi": "Mục tiêu: Đánh giá hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF đối với tiền sản giật, đồng thời khám phá tiềm năng chẩn đoán của chúng trong phổ rau cài răng lược (PAS)."
+      "vi": "Mục tiêu: Đánh giá hiệu giá chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF đối với tiền sản giật, đồng thời thăm dò giá trị ứng dụng chẩn đoán tiềm năng của chúng trong phổ rau cài răng lược (PAS)."
     },
     {
       "sid": "s-4",
       "en": "Methodology: This prospective observational study was conducted at a tertiary care hospital in North India from June 2024 to June 2025.",
-      "vi": "Phương pháp luận: Nghiên cứu quan sát tiến cứu này được thực hiện tại một bệnh viện tuyến ba ở Bắc Ấn Độ từ tháng 6 năm 2024 đến tháng 6 năm 2025."
+      "vi": "Phương pháp luận: Đây là nghiên cứu quan sát tiến cứu được thực hiện tại một bệnh viện tuyến cuối ở miền Bắc Ấn Độ từ tháng 6 năm 2024 đến tháng 6 năm 2025."
     },
     {
       "sid": "s-5",
       "en": "A total of 200 antenatal women at 20-37 weeks of gestation were recruited and divided into three groups: preeclampsia, PAS, and a comparison group without preeclampsia or PAS.",
-      "vi": "Tổng cộng 200 phụ nữ mang thai ở tuần thai 20-37 được tuyển chọn và chia thành ba nhóm: tiền sản giật, phổ rau cài răng lược (PAS) và nhóm đối chứng không mắc tiền sản giật hoặc phổ rau cài răng lược (PAS)."
+      "vi": "Tổng cộng 200 phụ nữ mang thai ở tuổi thai từ 20 đến 37 tuần đã được tuyển chọn và chia thành ba nhóm: tiền sản giật, phổ rau cài răng lược (PAS) và nhóm đối chứng không mắc tiền sản giật hoặc PAS."
     },
     {
       "sid": "s-6",
       "en": "Serum levels of sFlt-1 and PlGF were determined by electrochemiluminescence immunoassay (ECL), and the ratio sFlt-1/PlGF was calculated.",
-      "vi": "Nồng độ sFlt-1 và PlGF trong huyết thanh được xác định bằng xét nghiệm miễn dịch điện hóa phát quang (ECL), và tỷ số sFlt-1/PlGF được tính toán."
+      "vi": "Nồng độ sFlt-1 và PlGF trong huyết thanh được xác định bằng phương pháp miễn dịch điện hóa phát quang (ECL), và tỷ số sFlt-1/PlGF được tính toán."
     },
     {
       "sid": "s-7",
       "en": "The optimum cutoff values were determined by the receiver operating characteristic curve, and the diagnostic performance was evaluated.",
-      "vi": "Các giá trị ngưỡng tối ưu được xác định bằng đường cong đặc trưng hoạt động của bộ thu (ROC), và hiệu suất chẩn đoán được đánh giá."
+      "vi": "Các giá trị ngưỡng cắt tối ưu được xác định bằng đường cong đặc trưng hoạt động của bộ thu (ROC), và hiệu giá chẩn đoán đã được đánh giá."
     },
     {
       "sid": "s-8",
       "en": "Results: Of the 200 participants, 57 (28.5%) had preeclampsia, 16 (8.0%) had PAS, and 127 (63.5%) had neither condition.",
-      "vi": "Kết quả: Trong số 200 người tham gia, 57 người (28,5%) mắc tiền sản giật, 16 người (8,0%) mắc phổ rau cài răng lược (PAS) và 127 người (63,5%) không mắc cả hai tình trạng."
+      "vi": "Kết quả: Trong số 200 đối tượng tham gia, 57 trường hợp (28,5%) mắc tiền sản giật, 16 trường hợp (8,0%) mắc phổ rau cài răng lược (PAS) và 127 trường hợp (63,5%) không mắc cả hai tình trạng này."
     },
     {
       "sid": "s-9",
       "en": "At a cutoff of 77.65, the sFlt-1/PlGF ratio performed the best, with an area under the curve of 0.902 for preeclampsia, an accuracy of 88.0%, a positive predictive value (PPV) of 80.7%, a negative predictive value (NPV) of 91.3%, and a sensitivity of 80.7%.",
-      "vi": "Với giá trị ngưỡng là 77,65, tỷ số sFlt-1/PlGF cho hiệu suất tốt nhất, với diện tích dưới đường cong là 0,902 đối với tiền sản giật, độ chính xác 88,0%, giá trị dự báo dương tính (PPV) 80,7%, giá trị dự báo âm tính (NPV) 91,3% và độ nhạy 80,7%."
+      "vi": "Tại ngưỡng cắt 77,65, tỷ số sFlt-1/PlGF cho hiệu năng tốt nhất, với diện tích dưới đường cong là 0,902 đối với tiền sản giật, độ chính xác đạt 88,0%, giá trị dự báo dương tính (PPV) đạt 80,7%, giá trị dự báo âm tính (NPV) đạt 91,3% và độ nhạy đạt 80,7%."
     },
     {
       "sid": "s-10",
       "en": "PAS had a high NPV of 97.1%, a low PPV of 18.7%, a high sensitivity of 87.5%, a low specificity of 52.0%, an accuracy of 55.9%, and an area under the curve (AUC) of 0.678.",
-      "vi": "Phổ rau cài răng lược (PAS) có giá trị dự báo âm tính (NPV) cao 97,1%, giá trị dự báo dương tính (PPV) thấp 18,7%, độ nhạy cao 87,5%, độ đặc hiệu thấp 52,0%, độ chính xác 55,9% và diện tích dưới đường cong (AUC) là 0,678."
+      "vi": "Đối với PAS, xét nghiệm ghi nhận giá trị dự báo âm tính (NPV) cao đạt 97,1%, giá trị dự báo dương tính (PPV) thấp đạt 18,7%, độ nhạy cao đạt 87,5%, độ đặc hiệu thấp đạt 52,0%, độ chính xác đạt 55,9% và diện tích dưới đường cong (AUC) đạt 0,678."
     },
     {
       "sid": "s-11",
       "en": "Conclusions: The sFlt-1/PlGF ratio was an excellent discriminator of preeclampsia and could be used to help identify and stratify at-risk individuals.",
-      "vi": "Kết luận: Tỷ số sFlt-1/PlGF là một yếu tố phân biệt xuất sắc đối với tiền sản giật và có thể được sử dụng để giúp xác định và phân tầng các cá thể có nguy cơ."
+      "vi": "Kết luận: Tỷ số sFlt-1/PlGF là một dấu ấn phân biệt xuất sắc đối với tiền sản giật và có thể được sử dụng để hỗ trợ nhận diện cũng như phân tầng các cá thể có nguy cơ."
     },
     {
       "sid": "s-12",
       "en": "It is not very specific and has a low PPV in PAS, meaning that it should not be used as a surrogate for imaging-based diagnosis and clinical risk assessment in PAS.",
-      "vi": "Nó không có độ đặc hiệu cao và có giá trị dự báo dương tính (PPV) thấp trong phổ rau cài răng lược (PAS), có nghĩa là không nên sử dụng nó như một yếu tố thay thế cho chẩn đoán dựa trên hình ảnh và đánh giá nguy cơ lâm sàng trong phổ rau cài răng lược (PAS)."
+      "vi": "Chỉ số này không có độ đặc hiệu cao và có PPV thấp trong phổ rau cài răng lược (PAS), đồng nghĩa với việc không nên dùng nó làm xét nghiệm thay thế cho chẩn đoán dựa trên hình ảnh học và nhận định nguy cơ lâm sàng trong PAS."
     },
     {
       "sid": "s-13",
       "en": "Globally, preeclampsia is a leading cause of maternal and perinatal morbidity and mortality.",
-      "vi": "Trên toàn cầu, tiền sản giật là nguyên nhân hàng đầu gây bệnh suất và tử vong ở mẹ và chu sinh."
+      "vi": "Trên phạm vi toàn cầu, tiền sản giật là nguyên nhân hàng đầu gây bệnh suất và tử vong ở mẹ và chu sinh."
     },
     {
       "sid": "s-14",
       "en": "It complicates 2%-8% of pregnancies in developed countries and is reported to be more common in developing countries, reaching as high as 16.7% [ 1 , 2 ].",
-      "vi": "Nó gây biến chứng cho 2%-8% các thai kỳ ở các nước phát triển và được báo cáo là phổ biến hơn ở các nước đang phát triển, lên tới 16,7% [1, 2]."
+      "vi": "Bệnh lý này gây biến chứng cho 2%-8% các thai kỳ tại các quốc gia phát triển và được báo cáo là phổ biến hơn ở các nước đang phát triển, lên tới mức cao 16,7% [ 1 , 2 ]."
     },
     {
       "sid": "s-15",
       "en": "Preeclampsia is a major cause of poor obstetric-gynecologic outcomes worldwide, causing over 70,000 pregnant women and over 500,000 fetuses to die each year [ 3 ].",
-      "vi": "Tiền sản giật là nguyên nhân chính gây ra các kết cục sản phụ khoa kém trên toàn thế giới, gây ra cái chết cho hơn 70.000 phụ nữ mang thai và hơn 500.000 thai nhi mỗi năm [3]."
+      "vi": "Tiền sản giật là nguyên nhân chủ yếu dẫn đến các kết cục sản - phụ khoa bất lợi trên toàn thế giới, khiến hơn 70.000 thai phụ và hơn 500.000 thai nhi tử vong mỗi năm [ 3 ]."
     },
     {
       "sid": "s-16",
       "en": "Clinical significance is that, when the process of disease progresses, it could result in a range of complications such as placental abruption, acute kidney injury, cerebral hemorrhage, hepatic dysfunction, pulmonary edema, disseminated intravascular coagulation, and eclampsia [ 4 ].",
-      "vi": "Ý nghĩa lâm sàng là, khi quá trình bệnh tiến triển, nó có thể dẫn đến một loạt các biến chứng như bong nhau non, tổn thương thận cấp, xuất huyết não, rối loạn chức năng gan, phù phổi, Disseminated Intravascular Coagulation và sản giật [ 4 ]."
+      "vi": "Ý nghĩa lâm sàng là khi quá trình bệnh tiến triển, tình trạng này có thể dẫn đến hàng loạt biến chứng như bong nhau non, tổn thương thận cấp, xuất huyết não, rối loạn chức năng gan, phù phổi, đông máu nội mạch rải rác (Disseminated Intravascular Coagulation) và sản giật [ 4 ]."
     },
     {
       "sid": "s-17",
       "en": "Fetal and neonatal complications are fetal growth restriction, oligohydramnios, preterm delivery, stillbirth, respiratory distress syndrome, necrotizing enterocolitis, and intraventricular hemorrhage.",
-      "vi": "Các biến chứng thai nhi và sơ sinh bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, sinh non, thai chết lưu, Respiratory Distress Syndrome, Necrotizing Enterocolitis và xuất huyết não thất."
+      "vi": "Các biến chứng ở thai nhi và sơ sinh bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, sinh non, thai chết lưu, hội chứng suy hô hấp (Respiratory Distress Syndrome), viêm ruột hoại tử (Necrotizing Enterocolitis) và xuất huyết não thất."
     },
     {
       "sid": "s-18",
       "en": "Preeclampsia is closely associated with abnormal placentation, impaired spiral artery remodeling, endothelial dysfunction, and angiogenic imbalance.",
-      "vi": "Tiền sản giật có liên quan chặt chẽ với sự làm tổ bất thường của nhau thai, khiếm khuyết tái cấu trúc động mạch xoắn, rối loạn chức năng nội mạc và mất cân bằng tạo mạch."
+      "vi": "Tiền sản giật liên quan chặt chẽ với quá trình làm tổ bất thường của bánh nhau, khiếm khuyết tái cấu trúc động mạch xoắn, rối loạn chức năng nội mạc và mất cân bằng các yếu tố tạo mạch."
     },
     {
       "sid": "s-19",
       "en": "Increased markers of placental dysfunction, such as soluble fms-like tyrosine kinase-1 (sFlt-1), and decreased markers, such as placental growth factor (PlGF), are among the most studied circulating biomarkers.",
-      "vi": "Các dấu ấn tăng của rối loạn chức năng nhau thai, như Tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), và các dấu ấn giảm, như yếu tố tăng trưởng nhau thai (PlGF), là một trong những dấu ấn sinh học lưu hành được nghiên cứu nhiều nhất."
+      "vi": "Sự gia tăng của các dấu ấn rối loạn chức năng nhau thai như Tyrosine kinase-1 dạng hòa tan giống fms (sFlt-1), cùng với sự suy giảm của các dấu ấn như yếu tố tăng trưởng nhau thai (PlGF), là một trong những chỉ dấu sinh học lưu hành được nghiên cứu nhiều nhất."
     },
     {
       "sid": "s-20",
       "en": "The sFlt-1/PlGF ratio represents the balance between antiangiogenic and proangiogenic activity, and this ratio has been included in clinical risk assessment of suspected preeclampsia.",
-      "vi": "Tỷ lệ sFlt-1/PlGF thể hiện sự cân bằng giữa hoạt động chống tạo mạch và hoạt động tiền tạo mạch, và tỷ lệ này đã được đưa vào đánh giá nguy cơ lâm sàng đối với các trường hợp tiền sản giật nghi ngờ."
+      "vi": "Tỷ số sFlt-1/PlGF phản ánh sự cân bằng giữa hoạt tính kháng tạo mạch và tiền tạo mạch, và tỷ số này đã được đưa vào quy trình đánh giá nguy cơ lâm sàng ở các trường hợp nghi ngờ tiền sản giật."
     },
     {
       "sid": "s-21",
       "en": "It can be used in conjunction with earlier diagnosis, better short-term risk stratification, and decision-making for surveillance, and may help in the timing of delivery.",
-      "vi": "Nó có thể được sử dụng kết hợp với chẩn đoán sớm hơn, phân tầng nguy cơ ngắn hạn tốt hơn và ra quyết định theo dõi, và có thể giúp xác định thời điểm sinh."
+      "vi": "Tỷ số này có thể được sử dụng phối hợp để chẩn đoán sớm hơn, phân tầng nguy cơ ngắn hạn tốt hơn, hỗ trợ việc ra quyết định theo dõi và có thể giúp xác định thời điểm chấm dứt thai kỳ thích hợp."
     },
     {
       "sid": "s-22",
       "en": "Placenta accreta spectrum (PAS) is another abnormal placentation disorder, characterized by accreta, increta, and percreta (based on the depth of the placentation or uterine wall invasion) [ 5 ].",
-      "vi": "Phổ rau cài răng lược (PAS) là một rối loạn làm tổ bất thường khác của nhau thai, được đặc trưng bởi accreta, increta và percreta (dựa trên độ sâu của sự làm tổ hoặc xâm lấn vào thành tử cung) [ 5 ]."
+      "vi": "Phổ rau cài răng lược (PAS) là một bệnh lý làm tổ bất thường khác của bánh nhau, được đặc trưng bởi thể bám chặt (accreta), thể xâm lấn cơ (increta) và thể xuyên thủng (percreta) (dựa trên độ sâu của bánh nhau bám hoặc mức độ xâm lấn thành tử cung) [ 5 ]."
     },
     {
       "sid": "s-23",
       "en": "Its incidence is around 0.17% (1-2 cases per 1,000 deliveries) [ 6 ].",
-      "vi": "Tỷ lệ mắc của nó là khoảng 0,17% (1-2 trường hợp trên 1.000 ca sinh) [ 6 ]."
+      "vi": "Tỷ lệ mắc của bệnh lý này vào khoảng 0,17% (1–2 trường hợp trên 1.000 ca sinh) [ 6 ]."
     },
     {
       "sid": "s-24",
       "en": "This is accompanied by significant maternal morbidity, especially due to large obstetric bleeding.",
-      "vi": "Điều này đi kèm với tỷ lệ mắc bệnh đáng kể ở mẹ, đặc biệt là do xuất huyết sản khoa lớn."
+      "vi": "Tình trạng này đi kèm với tỷ lệ bệnh tật đáng kể ở người mẹ, đặc biệt là do xuất huyết sản khoa lượng lớn."
     },
     {
       "sid": "s-25",
       "en": "The average blood loss can be greater than 3,000 mL, over 90% of affected women may need a blood transfusion, and a large percentage of women will have a peripartum hysterectomy [ 1 ].",
-      "vi": "Lượng máu mất trung bình có thể lớn hơn 3.000 mL, hơn 90% phụ nữ bị ảnh hưởng có thể cần truyền máu, và một tỷ lệ lớn phụ nữ sẽ phải cắt tử cung trong thời kỳ quanh sinh [ 1 ]."
+      "vi": "Lượng máu mất trung bình có thể vượt quá 3.000 mL, hơn 90% sản phụ mắc bệnh có thể cần truyền máu, và một tỷ lệ lớn phụ nữ sẽ phải cắt tử cung chu sinh [ 1 ]."
     },
     {
       "sid": "s-26",
       "en": "Other maternal complications include bladder injury, sepsis, intensive care admission, and mortality, while fetal risks are primarily preterm birth and fetal growth restriction [ 7 ].",
-      "vi": "Các biến chứng khác ở mẹ bao gồm tổn thương bàng quang, nhiễm trùng huyết, nhập viện hồi sức tích cực và tử vong, trong khi các nguy cơ ở thai nhi chủ yếu là sinh non và thai chậm tăng trưởng trong tử cung (FGR) [ 7 ]."
+      "vi": "Các biến chứng khác ở người mẹ bao gồm tổn thương bàng quang, nhiễm khuẩn huyết, nhập khoa hồi sức tích cực và tử vong; trong khi các nguy cơ đối với thai nhi chủ yếu là sinh non và thai chậm tăng trưởng trong tử cung (FGR) [ 7 ]."
     },
     {
       "sid": "s-27",
       "en": "Enhancing the clinical risk assessment and imaging are currently the only methods used to predict PAS antenatally.",
-      "vi": "Nâng cao đánh giá nguy cơ lâm sàng và chẩn đoán hình ảnh hiện là những phương pháp duy nhất được sử dụng để dự đoán Phổ rau cài răng lược (PAS) trước sinh."
+      "vi": "Tăng cường đánh giá nguy cơ lâm sàng và chẩn đoán hình ảnh hiện là những phương pháp duy nhất được sử dụng để dự đoán phổ rau cài răng lược (PAS) trước sinh."
     },
     {
       "sid": "s-28",
       "en": "The use of transabdominal or transvaginal ultrasonography with color Doppler may show placental lacunae, loss of the retroplacental clear zone, myometrial thinning, and abnormal uteroplacental vascularity [ 8 ].",
-      "vi": "Việc sử dụng siêu âm qua đường bụng hoặc siêu âm qua đường âm đạo với Doppler màu có thể cho thấy các hồ máu trong bánh nhau, mất vùng trong suốt sau nhau, sự mỏng lớp cơ tử cung và mạch máu tử cung-nhau thai bất thường [ 8 ]."
+      "vi": "Việc sử dụng siêu âm qua đường bụng hoặc ngả âm đạo kết hợp với Doppler màu có thể cho thấy các hồ huyết bánh nhau, mất vùng sáng sau nhau, sự mỏng lớp cơ tử cung và tình trạng tăng sinh mạch máu tử cung - nhau bất thường [ 8 ]."
     },
     {
       "sid": "s-29",
       "en": "Magnetic resonance imaging can provide additional anatomical information, especially when posterior placentation is suspected, extrauterine invasion is suspected, or the ultrasonographic findings are inconclusive.",
-      "vi": "Chụp cộng hưởng từ có thể cung cấp thêm thông tin giải phẫu, đặc biệt khi nghi ngờ nhau thai bám mặt sau, nghi ngờ xâm lấn ngoài tử cung hoặc khi các phát hiện siêu âm không kết luận được."
+      "vi": "Chụp cộng hưởng từ có thể cung cấp thêm thông tin giải phẫu, đặc biệt khi nghi ngờ bánh nhau bám mặt sau, nghi ngờ có xâm lấn ngoài tử cung hoặc khi các dấu hiệu siêu âm chưa thể kết luận."
     },
     {
       "sid": "s-30",
       "en": "Previous cesarean section, placenta previa, previous uterine surgery, and maternal age continue to be the most important clinical risk factors for PAS and are used for risk stratification [ 9 , 10 ].",
-      "vi": "Tiền sử mổ lấy thai, nhau tiền đạo, tiền sử phẫu thuật tử cung và tuổi mẹ tiếp tục là những yếu tố nguy cơ lâm sàng quan trọng nhất đối với Phổ rau cài răng lược (PAS) và được sử dụng để phân tầng nguy cơ [ 9 , 10 ]."
+      "vi": "Tiền căn mổ lấy thai, nhau tiền đạo, phẫu thuật tử cung trước đó và tuổi mẹ tiếp tục là những yếu tố nguy cơ lâm sàng quan trọng nhất đối với phổ rau cài răng lược (PAS) và được sử dụng để phân tầng nguy cơ [ 9 , 10 ]."
     },
     {
       "sid": "s-31",
       "en": "The use of angiogenic biomarkers has been well established in preeclampsia but is not established in PAS.",
-      "vi": "Việc sử dụng các dấu ấn sinh học tạo mạch đã được thiết lập rõ ràng trong tiền sản giật nhưng chưa được thiết lập trong PAS."
+      "vi": "Việc sử dụng các dấu ấn sinh học tân tạo mạch đã được xác lập rõ ràng trong tiền sản giật nhưng vẫn chưa được thiết lập đối với phổ nhau cài răng lược (PAS)."
     },
     {
       "sid": "s-32",
       "en": "PAS is also characterized by abnormal trophoblastic invasion and placental vascular remodeling; therefore, some biomarkers, including sFlt-1 and PlGF, could be of potential interest as additional markers, but their diagnostic value has not been sufficiently established [ 11 , 12 ].",
-      "vi": "PAS cũng được đặc trưng bởi sự xâm lấn bất thường của tế bào nuôi và tái cấu trúc mạch máu bánh nhau; do đó, một số dấu ấn sinh học, bao gồm sFlt-1 và PlGF, có thể có tiềm năng là các dấu ấn bổ sung, nhưng giá trị chẩn đoán của chúng chưa được thiết lập đầy đủ [ 11 , 12 ]."
+      "vi": "PAS cũng được đặc trưng bởi sự xâm lấn của tế bào nuôi bất thường và sự tái cấu trúc mạch máu bánh nhau; do đó, một số dấu ấn sinh học, bao gồm sFlt-1 và PlGF, có thể là những dấu ấn bổ sung tiềm năng, tuy nhiên giá trị chẩn đoán của chúng vẫn chưa được xác lập đầy đủ [ 11 , 12 ]."
     },
     {
       "sid": "s-33",
       "en": "Preeclampsia and PAS are two types of placentation disorder, but they are clinically important.",
-      "vi": "Tiền sản giật và PAS là hai loại rối loạn bánh nhau, nhưng chúng có ý nghĩa lâm sàng quan trọng."
+      "vi": "Tiền sản giật và PAS là hai dạng rối loạn quá trình làm tổ của bánh nhau, và đều có ý nghĩa lâm sàng đặc biệt quan trọng."
     },
     {
       "sid": "s-34",
       "en": "Although both are conditions that need to be recognized in the antepartum period, aiming to minimize maternal and fetal complications, they have different pathophysiological characteristics, clinical manifestations, and existing diagnostic methods.",
-      "vi": "Mặc dù cả hai đều là những tình trạng cần được nhận diện trong giai đoạn trước sinh, nhằm mục đích giảm thiểu biến chứng ở mẹ và thai nhi, nhưng chúng có đặc điểm sinh lý bệnh, biểu hiện lâm sàng và các phương pháp chẩn đoán hiện có khác nhau."
+      "vi": "Mặc dù cả hai đều là những bệnh lý cần được nhận diện trong giai đoạn trước sinh nhằm giảm thiểu biến chứng cho mẹ và thai nhi, chúng lại có đặc điểm sinh lý bệnh, biểu hiện lâm sàng và các phương pháp chẩn đoán hiện hành khác nhau."
     },
     {
       "sid": "s-35",
       "en": "The assessment of these angiogenic biomarkers in these two conditions could help determine whether these factors could be used for more detailed disease-specific diagnostic utility than that provided by current clinical and imaging parameters.",
-      "vi": "Việc đánh giá các dấu ấn sinh học tạo mạch này trong hai tình trạng trên có thể giúp xác định liệu các yếu tố này có thể được sử dụng để chẩn đoán chuyên biệt cho bệnh chi tiết hơn so với các thông số lâm sàng và hình ảnh hiện tại."
+      "vi": "Việc đánh giá các dấu ấn sinh học tân tạo mạch này trong cả hai bệnh lý có thể giúp xác định liệu chúng có mang lại giá trị chẩn đoán đặc hiệu chi tiết hơn cho từng bệnh so với các thông số lâm sàng và chẩn đoán hình ảnh hiện tại hay không."
     },
     {
       "sid": "s-36",
       "en": "Objectives of the study",
-      "vi": "Mục tiêu của nghiên cứu"
+      "vi": "Mục tiêu nghiên cứu"
     },
     {
       "sid": "s-37",
       "en": "This study aimed to determine cohort-specific optimal cutoff values for sFlt-1, PlGF, and the sFlt-1/PlGF ratio and assess their diagnostic performance for preeclampsia using sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), area under the receiver operating characteristic curve (AUC), and diagnostic accuracy (DA).",
-      "vi": "Nghiên cứu này nhằm xác định các giá trị ngưỡng tối ưu đặc trưng cho từng đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF, đồng thời đánh giá hiệu suất chẩn đoán của chúng đối với tiền sản giật bằng cách sử dụng độ nhạy, độ đặc hiệu, giá trị dự báo dương tính (PPV), giá trị dự báo âm tính (NPV), diện tích dưới đường cong ROC (AUC) và độ chính xác chẩn đoán (DA)."
+      "vi": "Nghiên cứu này nhằm mục đích xác định các giá trị điểm cắt tối ưu đặc hiệu cho đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF, đồng thời đánh giá hiệu quả chẩn đoán của chúng đối với tiền sản giật dựa trên độ nhạy, độ đặc hiệu, giá trị dự báo dương tính (PPV), giá trị dự báo âm tính (NPV), diện tích dưới đường cong đặc trưng hoạt động của bộ thu (AUC) và độ chính xác chẩn đoán (DA)."
     },
     {
       "sid": "s-38",
       "en": "A secondary, exploratory objective was to assess the diagnostic performance of these biomarkers for PAS, with the PAS findings interpreted as hypothesis-generating because of the small sample size and group imbalance.",
-      "vi": "Một mục tiêu phụ, mang tính thăm dò, là đánh giá hiệu suất chẩn đoán của các dấu ấn sinh học này đối với PAS, với các phát hiện về PAS được diễn giải là tạo giả thuyết do cỡ mẫu nhỏ và sự mất cân bằng nhóm."
+      "vi": "Mục tiêu thăm dò thứ cấp là đánh giá hiệu quả chẩn đoán của các dấu ấn sinh học này đối với PAS, trong đó các phát hiện về PAS được diễn giải với mục đích định hướng giả thuyết do cỡ mẫu nhỏ và sự mất cân bằng giữa các nhóm."
     },
     {
       "sid": "s-39",
       "en": "The additional aim was to evaluate the associations between these angiogenic markers and selected maternal and fetal complications.",
-      "vi": "Mục tiêu bổ sung là đánh giá mối liên hệ giữa các dấu ấn tạo mạch này với các biến chứng ở mẹ và thai nhi được chọn."
+      "vi": "Mục tiêu bổ sung là đánh giá mối liên quan giữa các dấu ấn tân tạo mạch này với các biến chứng chọn lọc ở mẹ và thai nhi."
     },
     {
       "sid": "s-40",
       "en": "This paper was previously posted to the Authorea preprint server on July 16, 2025, at https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ].",
-      "vi": "Bài báo này đã được đăng tải trước đó lên máy chủ tiền xuất bản Authorea vào ngày 16 tháng 7 năm 2025, tại https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ]."
+      "vi": "Bài báo này trước đây đã được đăng tải trên máy chủ bản thảo sơ bộ (preprint) Authorea vào ngày 16 tháng 7 năm 2025, tại https://www.authorea.com/doi/full/10.22541/au.175267084.48078768/v1 [ 13 ]."
     },
     {
       "sid": "s-41",
@@ -1444,42 +1444,42 @@
     {
       "sid": "s-42",
       "en": "This prospective observational study was carried out from June 2024 to June 2025 in the Department of Obstetrics and Gynaecology at a tertiary care hospital in North India.",
-      "vi": "Nghiên cứu quan sát tiến cứu này được thực hiện từ tháng 6 năm 2024 đến tháng 6 năm 2025 tại Khoa Sản Phụ khoa của một bệnh viện tuyến cuối ở khu vực phía Bắc Ấn Độ."
+      "vi": "Nghiên cứu quan sát tiến cứu này được thực hiện từ tháng 6 năm 2024 đến tháng 6 năm 2025 tại Khoa Sản và Phụ khoa của một bệnh viện tuyến cuối ở khu vực phía Bắc Ấn Độ."
     },
     {
       "sid": "s-43",
       "en": "Pregnant women presenting between 20 and 37 weeks of gestation were assessed for eligibility.",
-      "vi": "Phụ nữ mang thai đến khám trong khoảng từ 20 đến 37 tuần tuổi thai được đánh giá tiêu chuẩn đủ điều kiện."
+      "vi": "Các thai phụ đến khám ở tuổi thai từ 20 đến 37 tuần của thai kỳ đã được đánh giá về tính đủ điều kiện tham gia."
     },
     {
       "sid": "s-44",
       "en": "A total of 200 participants were enrolled after providing written informed consent.",
-      "vi": "Tổng cộng 200 người tham gia đã được tuyển chọn sau khi cung cấp sự đồng thuận có thông tin bằng văn bản."
+      "vi": "Tổng cộng có 200 đối tượng tham gia đã được thu nhận vào nghiên cứu sau khi ký văn bản đồng thuận tham gia."
     },
     {
       "sid": "s-45",
       "en": "Women who had fetal congenital anomalies or intrauterine fetal demise at enrollment were excluded.",
-      "vi": "Những phụ nữ có thai nhi bị dị tật bẩm sinh hoặc thai chết lưu trong tử cung tại thời điểm tuyển chọn đã bị loại trừ."
+      "vi": "Những thai phụ có thai nhi bị dị tật bẩm sinh hoặc thai lưu trong tử cung tại thời điểm tuyển chọn đều bị loại trừ."
     },
     {
       "sid": "s-46",
       "en": "Participants were classified into three mutually exclusive groups according to their final clinical diagnosis.",
-      "vi": "Các đối tượng nghiên cứu được phân loại thành ba nhóm loại trừ lẫn nhau dựa trên chẩn đoán lâm sàng cuối cùng của họ."
+      "vi": "Các đối tượng tham gia nghiên cứu được phân loại thành ba nhóm loại trừ lẫn nhau dựa trên chẩn đoán lâm sàng sau cùng."
     },
     {
       "sid": "s-47",
       "en": "Women with preeclampsia were included in Group A, women with PAS were included in Group B, and pregnant women without preeclampsia or PAS were included in Group C as the comparison group.",
-      "vi": "Phụ nữ bị tiền sản giật được xếp vào Nhóm A, phụ nữ bị PAS được xếp vào Nhóm B, và thai phụ không bị tiền sản giật hoặc PAS được xếp vào Nhóm C làm nhóm so sánh."
+      "vi": "Thai phụ mắc tiền sản giật được xếp vào Nhóm A, thai phụ mắc phổ gai nhau cài răng lược (PAS) được xếp vào Nhóm B, và thai phụ không mắc tiền sản giật hoặc PAS được xếp vào Nhóm C với vai trò là nhóm so sánh."
     },
     {
       "sid": "s-48",
       "en": "Preeclampsia was diagnosed according to institutional clinical protocols, using maternal clinical status, blood pressure measurements, assessment of proteinuria, relevant laboratory evaluations, and specialist review.",
-      "vi": "Tiền sản giật được chẩn đoán theo các phác đồ lâm sàng của cơ sở, sử dụng tình trạng lâm sàng của người mẹ, các phép đo huyết áp, đánh giá protein niệu, các xét nghiệm cận lâm sàng liên quan và đánh giá của chuyên gia."
+      "vi": "Tiền sản giật được chẩn đoán theo phác đồ lâm sàng của bệnh viện, dựa trên đánh giá tình trạng lâm sàng của người mẹ, các trị số đo huyết áp, đánh giá protein niệu (đạm niệu), các xét nghiệm cận lâm sàng liên quan và hội chẩn chuyên khoa."
     },
     {
       "sid": "s-49",
       "en": "PAS was diagnosed using maternal risk factors, obstetric imaging, and specialist assessment, with operative or pathological findings considered when available.",
-      "vi": "PAS được chẩn đoán dựa trên các yếu tố nguy cơ của người mẹ, chẩn đoán hình ảnh sản khoa và đánh giá của chuyên gia, với các phát hiện trong phẫu thuật hoặc giải phẫu bệnh được xem xét khi có sẵn."
+      "vi": "PAS được chẩn đoán dựa vào các yếu tố nguy cơ của người mẹ, chẩn đoán hình ảnh sản khoa và nhận định lâm sàng của chuyên gia, kết hợp xem xét các phát hiện trong phẫu thuật hoặc giải phẫu bệnh khi có sẵn."
     },
     {
       "sid": "s-50",
@@ -1489,27 +1489,27 @@
     {
       "sid": "s-51",
       "en": "On enrollment, all participants underwent a detailed clinical assessment, including demographic evaluation, obstetric history, assessment of relevant maternal risk factors, general physical examination, and obstetric examination.",
-      "vi": "Khi đăng ký tham gia, tất cả các đối tượng nghiên cứu đã trải qua một đánh giá lâm sàng chi tiết, bao gồm đánh giá nhân khẩu học, tiền sử sản khoa, đánh giá các yếu tố nguy cơ liên quan của người mẹ, khám thực thể tổng quát và khám sản khoa."
+      "vi": "Tại thời điểm thu nhận, toàn bộ đối tượng tham gia đều được đánh giá lâm sàng chi tiết, bao gồm thu thập dữ liệu nhân khẩu học, tiền sử sản khoa, nhận định các yếu tố nguy cơ liên quan của người mẹ, khám thể chất tổng quát và khám sản khoa."
     },
     {
       "sid": "s-52",
       "en": "Routine antenatal investigations were performed according to institutional protocol.",
-      "vi": "Các xét nghiệm tiền sản thường quy được thực hiện theo phác đồ của cơ sở."
+      "vi": "Các xét nghiệm tiền sản thường quy được thực hiện theo đúng phác đồ của cơ sở y tế."
     },
     {
       "sid": "s-53",
       "en": "The gestational age at biomarker testing was documented.",
-      "vi": "Tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học đã được ghi nhận."
+      "vi": "Tuổi thai (Gestational Age) tại thời điểm xét nghiệm dấu ấn sinh học đã được ghi nhận."
     },
     {
       "sid": "s-54",
       "en": "Biomarker testing was performed at a single time point after enrollment.",
-      "vi": "Xét nghiệm dấu ấn sinh học được thực hiện tại một thời điểm duy nhất sau khi đăng ký tham gia."
+      "vi": "Xét nghiệm dấu ấn sinh học được thực hiện tại một thời điểm duy nhất sau khi thu nhận vào nghiên cứu."
     },
     {
       "sid": "s-55",
       "en": "All participants were followed through delivery, and the interval between biomarker testing and delivery was recorded.",
-      "vi": "Tất cả các đối tượng nghiên cứu được theo dõi cho đến khi sinh nở, và khoảng thời gian giữa xét nghiệm dấu ấn sinh học và sinh nở đã được ghi lại."
+      "vi": "Toàn bộ đối tượng tham gia được theo dõi cho đến cuộc sinh nở, và khoảng thời gian từ lúc xét nghiệm dấu ấn sinh học đến khi sinh được ghi nhận đầy đủ."
     },
     {
       "sid": "s-56",
@@ -1519,57 +1519,57 @@
     {
       "sid": "s-57",
       "en": "Blood samples were collected for the measurement of serum sFlt-1 and PlGF concentrations.",
-      "vi": "Các mẫu máu được thu thập để đo nồng độ sFlt-1 và PlGF huyết thanh."
+      "vi": "Các mẫu máu được thu thập để định lượng nồng độ sFlt-1 (soluble fms-like tyrosine kinase-1) và PlGF (yếu tố tăng trưởng bánh nhau) trong huyết thanh."
     },
     {
       "sid": "s-58",
       "en": "Elecsys® sFlt-1 and Elecsys® PlGF reagent kits, both based on electrochemiluminescence immunoassay technology, were used for biomarker analysis according to the manufacturer’s instructions.",
-      "vi": "Bộ kit thuốc thử Elecsys® sFlt-1 và Elecsys® PlGF, cả hai đều dựa trên công nghệ xét nghiệm miễn dịch điện hóa phát quang, đã được sử dụng để phân tích dấu ấn sinh học theo hướng dẫn của nhà sản xuất."
+      "vi": "Các bộ sinh phẩm xét nghiệm Elecsys® sFlt-1 và Elecsys® PlGF, đều dựa trên công nghệ xét nghiệm miễn dịch điện hóa phát quang, được sử dụng để phân tích dấu ấn sinh học theo đúng hướng dẫn của nhà sản xuất."
     },
     {
       "sid": "s-59",
       "en": "The results were reported in picograms per milliliter (pg/mL).",
-      "vi": "Các kết quả được báo cáo theo đơn vị picogram trên mililit (pg/mL)."
+      "vi": "Kết quả được báo cáo theo đơn vị picogram trên mililít (pg/mL)."
     },
     {
       "sid": "s-60",
       "en": "The minimum detectable concentration was 10 pg/mL for sFlt-1 and 3 pg/mL for PlGF, as indicated by the manufacturer.",
-      "vi": "Nồng độ tối thiểu có thể phát hiện là 10 pg/mL đối với sFlt-1 và 3 pg/mL đối với PlGF, theo chỉ dẫn của nhà sản xuất."
+      "vi": "Nồng độ phát hiện tối thiểu là 10 pg/mL đối với sFlt-1 và 3 pg/mL đối với PlGF, theo công bố của nhà sản xuất."
     },
     {
       "sid": "s-61",
       "en": "The sFlt-1/PlGF ratio was calculated by dividing the measured sFlt-1 concentration by the measured PlGF concentration for each participant.",
-      "vi": "Tỷ số sFlt-1/PlGF được tính bằng cách chia nồng độ sFlt-1 đo được cho nồng độ PlGF đo được của mỗi người tham gia."
+      "vi": "Tỷ số sFlt-1/PlGF được tính bằng cách lấy nồng độ sFlt-1 đo được chia cho nồng độ PlGF đo được ở mỗi đối tượng tham gia."
     },
     {
       "sid": "s-62",
       "en": "A ratio <38 was considered within the normal range, and a ratio >85 was considered suggestive of preeclampsia.",
-      "vi": "Tỷ số <38 được coi là trong giới hạn bình thường, và tỷ số >85 được coi là gợi ý tiền sản giật."
+      "vi": "Tỷ số < 38 được xem là trong giới hạn bình thường, và tỷ số > 85 được xem là gợi ý tiền sản giật."
     },
     {
       "sid": "s-63",
       "en": "These reference thresholds were distinct from the cohort-specific thresholds subsequently derived through receiver operating characteristic curve analysis.",
-      "vi": "Những ngưỡng tham chiếu này khác biệt với các ngưỡng tối ưu đặc trưng cho nhóm nghiên cứu được suy ra sau đó thông qua phân tích đường cong ROC."
+      "vi": "Những ngưỡng tham chiếu này khác biệt với các ngưỡng tối ưu đặc hiệu cho đoàn hệ nghiên cứu được xác định sau đó thông qua phân tích đường cong ROC (receiver operating characteristic)."
     },
     {
       "sid": "s-64",
       "en": "Outcome measures",
-      "vi": "Các chỉ số kết cục"
+      "vi": "Các tiêu chí đánh giá kết cục"
     },
     {
       "sid": "s-65",
       "en": "Maternal and fetal outcomes were recorded during follow-up and after delivery.",
-      "vi": "Các kết cục của mẹ và thai nhi được ghi nhận trong suốt quá trình theo dõi và sau cuộc chuyển dạ."
+      "vi": "Các kết cục ở mẹ và thai nhi được ghi nhận trong suốt quá trình theo dõi và sau cuộc chuyển dạ, sinh nở."
     },
     {
       "sid": "s-66",
       "en": "Fetal outcomes included fetal growth restriction, oligohydramnios, intrauterine demise, neonatal death, neonatal intensive care unit admission, and prolonged neonatal hospitalization.",
-      "vi": "Kết cục thai kỳ bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung, tử vong sơ sinh, nhập Khoa Hồi sức tích cực sơ sinh và nằm viện sơ sinh kéo dài."
+      "vi": "Kết cục thai nhi bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung, tử vong sơ sinh, nhập Khoa Hồi sức tích cực sơ sinh và thời gian nằm viện kéo dài ở trẻ sơ sinh."
     },
     {
       "sid": "s-67",
       "en": "The gestational age at biomarker testing and the interval between biomarker testing and delivery were also analyzed.",
-      "vi": "Tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học và khoảng thời gian giữa xét nghiệm dấu ấn sinh học và cuộc chuyển dạ cũng được phân tích."
+      "vi": "Tuổi thai (Gestational Age) tại thời điểm xét nghiệm dấu ấn sinh học và khoảng thời gian từ khi xét nghiệm dấu ấn sinh học đến cuộc chuyển dạ, sinh nở cũng được phân tích."
     },
     {
       "sid": "s-68",
@@ -1579,152 +1579,152 @@
     {
       "sid": "s-69",
       "en": "Descriptive statistics included the mean and standard deviation for continuous variables and frequency and percentage for categorical variables.",
-      "vi": "Thống kê mô tả bao gồm giá trị trung bình và độ lệch chuẩn cho các biến liên tục, cùng với tần số và tỷ lệ phần trăm cho các biến phân loại."
+      "vi": "Thống kê mô tả bao gồm giá trị trung bình và độ lệch chuẩn đối với các biến liên tục, cùng tần số và tỷ lệ phần trăm đối với các biến phân loại."
     },
     {
       "sid": "s-70",
       "en": "Continuous variables were assessed for distribution using the Kolmogorov-Smirnov test.",
-      "vi": "Các biến liên tục được đánh giá phân bố bằng cách sử dụng kiểm định Kolmogorov-Smirnov."
+      "vi": "Các biến liên tục được đánh giá phân phối chuẩn bằng kiểm định Kolmogorov-Smirnov."
     },
     {
       "sid": "s-71",
       "en": "Since the quantitative data did not satisfy the assumption of normality, intergroup comparisons of continuous variables were performed using the Kruskal-Wallis test.",
-      "vi": "Vì dữ liệu định lượng không thỏa mãn giả định phân bố chuẩn, các so sánh giữa các nhóm đối với các biến liên tục được thực hiện bằng cách sử dụng kiểm định Kruskal-Wallis."
+      "vi": "Do dữ liệu định lượng không thỏa mãn giả định về phân phối chuẩn, các so sánh giữa các nhóm đối với biến liên tục được thực hiện bằng kiểm định Kruskal-Wallis."
     },
     {
       "sid": "s-72",
       "en": "Categorical variables were compared using the chi-square test or Fisher’s exact test, as appropriate.",
-      "vi": "Các biến phân loại được so sánh bằng cách sử dụng kiểm định chi-bình phương hoặc kiểm định chính xác Fisher, tùy theo trường hợp."
+      "vi": "Các biến phân loại được so sánh bằng kiểm định chi bình phương hoặc kiểm định chính xác của Fisher, tùy theo điều kiện phù hợp."
     },
     {
       "sid": "s-73",
       "en": "Test statistic values were reported with corresponding P -values where applicable.",
-      "vi": "Các giá trị thống kê kiểm định được báo cáo cùng với các giá trị P tương ứng khi thích hợp."
+      "vi": "Giá trị thống kê kiểm định được trình bày cùng với giá trị P tương ứng khi áp dụng."
     },
     {
       "sid": "s-74",
       "en": "Receiver operating characteristic curve analysis was used to derive cohort-specific optimal thresholds for sFlt-1, PlGF, and the sFlt-1/PlGF ratio for preeclampsia and PAS.",
-      "vi": "Phân tích đường cong ROC được sử dụng để suy ra các ngưỡng tối ưu đặc trưng cho nhóm nghiên cứu đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF cho tiền sản giật và PAS."
+      "vi": "Phân tích đường cong ROC (Receiver operating characteristic) được sử dụng để xác định các ngưỡng tối ưu đặc hiệu cho đoàn hệ đối với sFlt-1, PlGF và tỷ số sFlt-1/PlGF trong chẩn đoán tiền sản giật và PAS."
     },
     {
       "sid": "s-75",
       "en": "Sensitivity, specificity, PPV, NPV, area under the curve (AUC) with standard error, and diagnostic accuracy were used to evaluate diagnostic performance.",
-      "vi": "Độ nhạy, độ đặc hiệu, giá trị tiên đoán dương (PPV), giá trị tiên đoán âm (NPV), diện tích dưới đường cong (AUC) cùng với sai số chuẩn và độ chính xác chẩn đoán được sử dụng để đánh giá hiệu suất chẩn đoán."
+      "vi": "Độ nhạy, độ đặc hiệu, giá trị dự đoán dương (PPV), giá trị dự đoán âm (NPV), diện tích dưới đường cong (AUC) kèm sai số chuẩn, và độ chính xác chẩn đoán được sử dụng để đánh giá hiệu năng chẩn đoán."
     },
     {
       "sid": "s-76",
       "en": "All analyses were based on the final diagnostic group assigned to each participant.",
-      "vi": "Tất cả các phân tích được dựa trên nhóm chẩn đoán cuối cùng được gán cho mỗi người tham gia."
+      "vi": "Tất cả các phân tích đều dựa trên nhóm chẩn đoán xác định cuối cùng của từng đối tượng tham gia nghiên cứu."
     },
     {
       "sid": "s-77",
       "en": "The derived thresholds were specific to the present cohort and were not externally validated.",
-      "vi": "Các ngưỡng được xác định là đặc hiệu cho đoàn hệ hiện tại và không được xác nhận bên ngoài."
+      "vi": "Các ngưỡng giá trị xác định được chỉ mang tính đặc hiệu riêng cho thuần tập nghiên cứu này và chưa được thẩm định giá trị ngoại kiểm."
     },
     {
       "sid": "s-78",
       "en": "No multivariable adjustment was performed for potential confounders, including gestational age, maternal age, placenta previa, prior cesarean delivery, disease severity, or other PAS risk factors; this limitation was considered when interpreting the findings.",
-      "vi": "Không có điều chỉnh đa biến nào được thực hiện cho các yếu tố gây nhiễu tiềm ẩn, bao gồm gestational age, tuổi mẹ, nhau tiền đạo, tiền sử sinh mổ, mức độ nặng của bệnh, hoặc các yếu tố nguy cơ PAS khác; hạn chế này đã được xem xét khi diễn giải các phát hiện."
+      "vi": "Nghiên cứu không thực hiện hiệu chỉnh đa biến đối với các yếu tố gây nhiễu tiềm tàng, bao gồm Gestational Age, tuổi mẹ, nhau tiền đạo, tiền sử sinh mổ, mức độ nghiêm trọng của bệnh, hoặc các yếu tố nguy cơ khác của PAS; hạn chế này đã được xem xét và cân nhắc khi phân tích các kết quả."
     },
     {
       "sid": "s-79",
       "en": "A P -value <0.05 was considered statistically significant.",
-      "vi": "Giá trị P <0,05 được coi là có ý nghĩa thống kê."
+      "vi": "Giá trị P < 0,05 được coi là có ý nghĩa thống kê."
     },
     {
       "sid": "s-80",
       "en": "All analyses were performed using SPSS version 26.0 for Microsoft Windows (IBM Corp., Armonk, NY).",
-      "vi": "Tất cả các phân tích được thực hiện bằng phần mềm SPSS phiên bản 26.0 cho Microsoft Windows (IBM Corp., Armonk, NY)."
+      "vi": "Tất cả các phân tích thống kê đều được thực hiện bằng phần mềm SPSS phiên bản 26.0 cho Microsoft Windows (IBM Corp., Armonk, NY)."
     },
     {
       "sid": "s-81",
       "en": "Ethical statement",
-      "vi": "Tuyên bố đạo đức"
+      "vi": "Tuyên bố về y đức"
     },
     {
       "sid": "s-82",
       "en": "The study was approved by the Institutional Research and Ethics Committee of Dayanand Medical College and Hospital, Ludhiana, June 12, 2023, vide letter no. DMCH/P/2023/556, June 21, 2023, with reference number DMCH/4/42-2022 (4505).",
-      "vi": "Nghiên cứu đã được phê duyệt bởi Ủy ban Nghiên cứu và Đạo đức của Trường Cao đẳng Y tế và Bệnh viện Dayanand, Ludhiana, vào ngày 12 tháng 6 năm 2023, theo thư số DMCH/P/2023/556, ngày 21 tháng 6 năm 2023, với số tham chiếu DMCH/4/42-2022 (4505)."
+      "vi": "Nghiên cứu khoa học đã được Hội đồng Đạo đức và Nghiên cứu Thể chế của Trường Y khoa và Bệnh viện Dayanand, Ludhiana phê duyệt vào ngày 12 tháng 6 năm 2023, theo công văn số DMCH/P/2023/556 ngày 21 tháng 6 năm 2023, với số tham chiếu DMCH/4/42-2022 (4505)."
     },
     {
       "sid": "s-83",
       "en": "Written informed consent was obtained from all participants before enrollment.",
-      "vi": "Phiếu chấp thuận tham gia nghiên cứu bằng văn bản đã được lấy từ tất cả người tham gia trước khi tuyển chọn."
+      "vi": "Văn bản chấp thuận tham gia nghiên cứu sau khi được giải thích tường tận đã được thu thập từ tất cả các đối tượng trước khi đưa vào nghiên cứu."
     },
     {
       "sid": "s-84",
       "en": "All procedures were conducted in accordance with the Declaration of Helsinki.",
-      "vi": "Tất cả các thủ tục được thực hiện theo Tuyên bố Helsinki."
+      "vi": "Mọi quy trình nghiên cứu đều được tiến hành tuân thủ nghiêm ngặt Tuyên ngôn Helsinki."
     },
     {
       "sid": "s-85",
       "en": "Study population",
-      "vi": "Đối tượng nghiên cứu"
+      "vi": "Quần thể nghiên cứu"
     },
     {
       "sid": "s-86",
       "en": "The study involved a total of 200 pregnant women.",
-      "vi": "Nghiên cứu bao gồm tổng cộng 200 phụ nữ mang thai."
+      "vi": "Nghiên cứu khoa học được tiến hành trên tổng số 200 phụ nữ mang thai."
     },
     {
       "sid": "s-87",
       "en": "Of these, 57 (28.5%) women had preeclampsia and were classified as Group A, 16 (8.0%) women had PAS and were classified as Group B, and 127 (63.5%) women had neither preeclampsia nor PAS and were classified as Group C.",
-      "vi": "Trong số này, 57 (28,5%) phụ nữ bị tiền sản giật và được phân loại là Nhóm A, 16 (8,0%) phụ nữ bị PAS và được phân loại là Nhóm B, và 127 (63,5%) phụ nữ không bị tiền sản giật cũng không bị PAS và được phân loại là Nhóm C."
+      "vi": "Trong số này, 57 phụ nữ (28,5%) mắc tiền sản giật được xếp vào Nhóm A; 16 phụ nữ (8,0%) mắc PAS được xếp vào Nhóm B; và 127 phụ nữ (63,5%) không mắc cả tiền sản giật lẫn PAS được xếp vào Nhóm C."
     },
     {
       "sid": "s-88",
       "en": "Baseline characteristics",
-      "vi": "Đặc điểm ban đầu"
+      "vi": "Đặc điểm nền của đối tượng nghiên cứu"
     },
     {
       "sid": "s-89",
       "en": "The mean maternal age, body mass index (BMI), gestational diabetes mellitus status, and period of gestation at biomarker testing were comparable among the three groups.",
-      "vi": "Tuổi mẹ trung bình, chỉ số khối cơ thể (BMI), tình trạng Gestational Diabetes Mellitus và tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học là tương đương giữa ba nhóm."
+      "vi": "Tuổi mẹ trung bình, chỉ số khối cơ thể (BMI), tình trạng Gestational Diabetes Mellitus và tuổi thai tại thời điểm xét nghiệm dấu ấn sinh học là tương đương nhau giữa ba nhóm."
     },
     {
       "sid": "s-90",
       "en": "No statistically significant intergroup differences were observed for mean age ( H = 1.572, P = 0.704), BMI ( H = 2.694, P = 0.070), gestational diabetes mellitus status (Fisher’s exact test, P = 0.219), or period of gestation at testing ( H = 0.444, P = 0.642).",
-      "vi": "Không có sự khác biệt có ý nghĩa thống kê nào giữa các nhóm được quan sát về tuổi trung bình (H = 1,572, P = 0,704), BMI (H = 2,694, P = 0,070), tình trạng Gestational Diabetes Mellitus (kiểm định chính xác Fisher, P = 0,219), hoặc tuổi thai tại thời điểm xét nghiệm (H = 0,444, P = 0,642)."
+      "vi": "Không ghi nhận sự khác biệt có ý nghĩa thống kê giữa các nhóm về độ tuổi trung bình (H = 1,572; P = 0,704), chỉ số khối cơ thể (BMI) (H = 2,694; P = 0,070), tình trạng Gestational Diabetes Mellitus (kiểm định chính xác của Fisher, P = 0,219), hoặc tuổi thai tại thời điểm xét nghiệm (H = 0,444; P = 0,642)."
     },
     {
       "sid": "s-91",
       "en": "Gravidity differed significantly across groups, with primigravida status more frequent in Group A and multigravida status more frequent in Group B (χ² = 24.371, P = 0.001).",
-      "vi": "Số lần mang thai khác biệt đáng kể giữa các nhóm, với tình trạng mang thai lần đầu thường gặp hơn ở Nhóm A và tình trạng mang thai nhiều lần thường gặp hơn ở Nhóm B (χ² = 24.371, P = 0.001)."
+      "vi": "Số lần mang thai có sự khác biệt có ý nghĩa thống kê giữa các nhóm, trong đó tỷ lệ mang thai lần đầu (con so) cao hơn ở Nhóm A và mang thai nhiều lần (con rạ) cao hơn ở Nhóm B (χ² = 24,371; P = 0,001)."
     },
     {
       "sid": "s-92",
       "en": "Socioeconomic status also differed significantly among the groups (χ² = 30.770, P = 0.001).",
-      "vi": "Tình trạng kinh tế xã hội cũng khác biệt đáng kể giữa các nhóm (χ² = 30.770, P = 0.001)."
+      "vi": "Tình trạng kinh tế - xã hội cũng có sự khác biệt có ý nghĩa thống kê giữa các nhóm (χ² = 30,770; P = 0,001)."
     },
     {
       "sid": "s-93",
       "en": "Fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission differed significantly among the groups.",
-      "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung và nhập viện NICU khác biệt đáng kể giữa các nhóm."
+      "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung và tỷ lệ nhập khoa chăm sóc tích cực sơ sinh (NICU) có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
     },
     {
       "sid": "s-94",
       "en": "Fetal growth restriction was most frequent in Group A and absent in Group B (Fisher's exact test, P = 0.020).",
-      "vi": "Thai chậm tăng trưởng trong tử cung (FGR) thường gặp nhất ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0.020)."
+      "vi": "Thai chậm tăng trưởng trong tử cung (FGR) xuất hiện nhiều nhất ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0,020)."
     },
     {
       "sid": "s-95",
       "en": "Oligohydramnios was also more frequent in Group A and absent in Group B (Fisher's exact test, P = 0.025).",
-      "vi": "Thiểu ối cũng thường gặp hơn ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0.025)."
+      "vi": "Thiểu ối cũng xuất hiện nhiều hơn ở Nhóm A và không có ở Nhóm B (kiểm định chính xác Fisher, P = 0,025)."
     },
     {
       "sid": "s-96",
       "en": "Intrauterine demise differed significantly among the groups, occurring in six (10.5%) women in Group A, one (6.3%) woman in Group B, and 0 (0%) women in Group C (Fisher’s exact test, P = 0.001).",
-      "vi": "Thai chết lưu trong tử cung khác biệt đáng kể giữa các nhóm, xảy ra ở sáu (10.5%) thai phụ ở Nhóm A, một (6.3%) thai phụ ở Nhóm B và 0 (0%) thai phụ ở Nhóm C (kiểm định chính xác Fisher, P = 0.001)."
+      "vi": "Tỷ lệ thai chết trong tử cung có sự khác biệt có ý nghĩa thống kê giữa các nhóm, xảy ra ở 6 (10,5%) thai phụ ở Nhóm A, 1 (6,3%) thai phụ ở Nhóm B và 0 (0%) thai phụ ở Nhóm C (kiểm định chính xác Fisher, P = 0,001)."
     },
     {
       "sid": "s-97",
       "en": "NICU admission occurred in 27 (47.4%) neonates in Group A, 0 (0%) in Group B, and 33 (26.0%) in Group C (Fisher’s exact test, P = 0.020).",
-      "vi": "Nhập viện NICU xảy ra ở 27 (47.4%) trẻ sơ sinh ở Nhóm A, 0 (0%) ở Nhóm B và 33 (26.0%) ở Nhóm C (kiểm định chính xác Fisher, P = 0.020)."
+      "vi": "Tỷ lệ nhập đơn vị chăm sóc tích cực sơ sinh (NICU) ghi nhận ở 27 (47,4%) trẻ sơ sinh ở Nhóm A, 0 (0%) ở Nhóm B và 33 (26,0%) ở Nhóm C (kiểm định chính xác Fisher, P = 0,020)."
     },
     {
       "sid": "s-98",
       "en": "Neonatal death and prolonged hospital stay did not differ significantly among the groups (Fisher's exact test, P = 0.509 and P = 0.429, respectively).",
-      "vi": "Tử vong sơ sinh và thời gian nằm viện kéo dài không khác biệt đáng kể giữa các nhóm (kiểm định chính xác Fisher, lần lượt P = 0.509 và P = 0.429)."
+      "vi": "Tử vong sơ sinh và kéo dài thời gian nằm viện không có sự khác biệt có ý nghĩa thống kê giữa các nhóm (kiểm định chính xác Fisher, lần lượt P = 0,509 và P = 0,429)."
     },
     {
       "sid": "s-99",
@@ -1734,332 +1734,332 @@
     {
       "sid": "s-100",
       "en": "Diagnostic performance for preeclampsia",
-      "vi": "Hiệu suất chẩn đoán tiền sản giật"
+      "vi": "Hiệu quả chẩn đoán tiền sản giật"
     },
     {
       "sid": "s-101",
       "en": "The following sensitivity, specificity, PPV, NPV, and AUC were obtained for the threshold value of 5,212.00 pg/mL: 80.7%, 80.31%, 64.79%, 90.27%, and 0.862.",
-      "vi": "Độ nhạy, độ đặc hiệu, PPV, NPV và AUC sau đây đã được thu nhận với giá trị ngưỡng 5,212.00 pg/mL: 80.7%, 80.31%, 64.79%, 90.27% và 0.862."
+      "vi": "Tại ngưỡng giá trị 5.212,00 pg/mL, các giá trị độ nhạy, độ đặc hiệu, PPV, NPV và AUC lần lượt đạt được là: 80,7%, 80,31%, 64,79%, 90,27% và 0,862."
     },
     {
       "sid": "s-102",
       "en": "PlGF AUC was 0.852, with a PPV of 68.75%, an NPV of 89.17%, a sensitivity of 77.19%, and a specificity of 84.25%.",
-      "vi": "AUC của PlGF là 0.852, với PPV là 68.75%, NPV là 89.17%, độ nhạy là 77.19% và độ đặc hiệu là 84.25%."
+      "vi": "AUC của PlGF là 0,852, với PPV là 68,75%, NPV là 89,17%, độ nhạy là 77,19% và độ đặc hiệu là 84,25%."
     },
     {
       "sid": "s-103",
       "en": "The best indicator of preeclampsia was the sFlt-1/PlGF ratio.",
-      "vi": "Chỉ số tốt nhất để chẩn đoán tiền sản giật là tỷ số sFlt-1/PlGF."
+      "vi": "Chỉ số có giá trị nhất trong chẩn đoán tiền sản giật là tỷ số sFlt-1/PlGF."
     },
     {
       "sid": "s-104",
       "en": "It had a sensitivity of 80.7%, specificity of 91.34%, PPV of 80.70%, NPV of 91.34%, DA of 88.0%, and an area under the curve of 0.902 at a cutoff of 77.65.",
-      "vi": "Nó có độ nhạy 80.7%, độ đặc hiệu 91.34%, PPV 80.70%, NPV 91.34%, DA 88.0% và diện tích dưới đường cong là 0.902 tại điểm cắt 77.65."
+      "vi": "Chỉ số này có độ nhạy 80,7%, độ đặc hiệu 91,34%, PPV 80,70%, NPV 91,34%, độ chính xác chẩn đoán (DA) 88,0% và diện tích dưới đường cong là 0,902 tại điểm cắt 77,65."
     },
     {
       "sid": "s-105",
       "en": "Diagnostic performance for PAS",
-      "vi": "Hiệu suất chẩn đoán PAS"
+      "vi": "Hiệu quả chẩn đoán phổ gai nhau cài răng lược (PAS)"
     },
     {
       "sid": "s-106",
       "en": "In PAS, sFlt-1 demonstrated poor diagnostic performance, with a sensitivity of 6.25%, specificity of 59.84%, PPV of 1.92%, NPV of 83.52%, and AUC of 0.420 at a cutoff point of 3,486.50 pg/mL.",
-      "vi": "Trong phổ rau cài răng lược (PAS), sFlt-1 thể hiện hiệu suất chẩn đoán kém, với độ nhạy 6,25%, độ đặc hiệu 59,84%, giá trị dự đoán dương tính (PPV) 1,92%, giá trị dự đoán âm tính (NPV) 83,52% và diện tích dưới đường cong (AUC) là 0,420 tại ngưỡng cắt 3.486,50 pg/mL."
+      "vi": "Trong phổ rau cài răng lược (PAS), sFlt-1 cho thấy hiệu quả chẩn đoán kém, với độ nhạy là 6,25%, độ đặc hiệu là 59,84%, PPV là 1,92%, NPV là 83,52% và AUC là 0,420 tại điểm cắt 3.486,50 pg/mL."
     },
     {
       "sid": "s-107",
       "en": "PlGF had a higher sensitivity of 81.25%; however, it showed low specificity of 51.97% and low PPV of 17.57%.",
-      "vi": "PlGF có độ nhạy cao hơn là 81,25%; tuy nhiên, chất này cho thấy độ đặc hiệu thấp là 51,97% và PPV thấp là 17,57%."
+      "vi": "PlGF có độ nhạy cao hơn, đạt 81,25%; tuy nhiên, chỉ số này cho thấy độ đặc hiệu thấp là 51,97% và PPV thấp là 17,57%."
     },
     {
       "sid": "s-108",
       "en": "The sFlt-1/PlGF ratio had a sensitivity of 87.50%, specificity of 51.97%, PPV of 18.67%, NPV of 97.06%, DA of 55.9%, and AUC of 0.678 at a cutoff level of 8.11.",
-      "vi": "Tỷ số sFlt-1/PlGF có độ nhạy 87,50%, độ đặc hiệu 51,97%, PPV 18,67%, NPV 97,06%, độ chính xác chẩn đoán (DA) 55,9% và AUC 0,678 tại mức ngưỡng cắt 8,11."
+      "vi": "Tỷ số sFlt-1/PlGF có độ nhạy là 87,50%, độ đặc hiệu là 51,97%, PPV là 18,67%, NPV là 97,06%, độ chính xác chẩn đoán (DA) là 55,9% và AUC là 0,678 tại ngưỡng cắt 8,11."
     },
     {
       "sid": "s-109",
       "en": "The diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio is presented in Table 2 .",
-      "vi": "Hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF được trình bày ở Bảng 2."
+      "vi": "Hiệu quả chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF được trình bày trong Bảng 2."
     },
     {
       "sid": "s-110",
       "en": "ROC curve findings",
-      "vi": "Các kết quả đường cong ROC"
+      "vi": "Kết quả phân tích đường cong ROC"
     },
     {
       "sid": "s-111",
       "en": "Figure 1 shows the ROC curve of the sFlt-1/PlGF ratio for preeclampsia, demonstrating strong discriminatory performance.",
-      "vi": "Hình 1 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với bệnh tiền sản giật, cho thấy hiệu suất phân biệt mạnh mẽ."
+      "vi": "Hình 1 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với tiền sản giật, chứng minh khả năng phân định mạnh mẽ."
     },
     {
       "sid": "s-112",
       "en": "Figure 2 shows the ROC curve of the sFlt-1/PlGF ratio for PAS, demonstrating comparatively weaker diagnostic performance.",
-      "vi": "Hình 2 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với phổ rau cài răng lược (PAS), cho thấy hiệu suất chẩn đoán kém hơn đáng kể."
+      "vi": "Hình 2 thể hiện đường cong ROC của tỷ số sFlt-1/PlGF đối với phổ rau cài răng lược (PAS), cho thấy hiệu quả chẩn đoán tương đối yếu hơn."
     },
     {
       "sid": "s-113",
       "en": "Overall, angiogenic biomarkers performed better in predicting preeclampsia than PAS.",
-      "vi": "Nhìn chung, các dấu ấn sinh học mạch máu thể hiện khả năng dự đoán tiền sản giật tốt hơn so với phổ rau cài răng lược (PAS)."
+      "vi": "Nhìn chung, các dấu ấn sinh học tân tạo mạch cho hiệu quả dự đoán tiền sản giật tốt hơn so với phổ rau cài răng lược."
     },
     {
       "sid": "s-114",
       "en": "The sFlt-1/PlGF ratio was the strongest predictor of preeclampsia, showing high specificity, high NPV, and good overall diagnostic accuracy.",
-      "vi": "Tỷ số sFlt-1/PlGF là yếu tố dự đoán mạnh nhất đối với bệnh tiền sản giật, thể hiện độ đặc hiệu cao, NPV cao và độ chính xác chẩn đoán tổng thể tốt."
+      "vi": "Tỷ số sFlt-1/PlGF là yếu tố dự đoán mạnh nhất đối với tiền sản giật, thể hiện độ đặc hiệu cao, NPV cao và độ chính xác chẩn đoán toàn diện tốt."
     },
     {
       "sid": "s-115",
       "en": "In contrast, its performance in PAS was limited by low specificity and low PPV, indicating that it is not useful as a stand-alone diagnostic marker for PAS.",
-      "vi": "Ngược lại, hiệu suất của tỷ số này trong phổ rau cài răng lược (PAS) bị hạn chế bởi độ đặc hiệu thấp và PPV thấp, cho thấy nó không hữu ích như một dấu ấn chẩn đoán đơn độc đối với phổ rau cài răng lược (PAS)."
+      "vi": "Ngược lại, hiệu quả của chỉ số này trong phổ rau cài răng lược bị hạn chế bởi độ đặc hiệu thấp và PPV thấp, cho thấy nó không hữu ích khi đóng vai trò là một dấu ấn chẩn đoán đơn độc đối với phổ rau cài răng lược."
     },
     {
       "sid": "s-116",
       "en": "To differentiate preeclampsia and placenta accreta spectrum (PAS) from pregnancies without either condition, this study compared the diagnostic performance of sFlt-1, PlGF, and the sFlt-1/PlGF ratio.",
-      "vi": "Để phân biệt tiền sản giật và phổ rau cài răng lược (PAS) với các thai kỳ không mắc cả hai tình trạng này, nghiên cứu này đã so sánh hiệu suất chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF."
+      "vi": "Để phân biệt tiền sản giật và phổ rau cài răng lược (PAS) với các thai kỳ không mắc bất kỳ tình trạng nào trong hai bệnh lý này, nghiên cứu đã tiến hành so sánh hiệu quả chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF."
     },
     {
       "sid": "s-117",
       "en": "The main finding was that the sFlt-1/PlGF ratio showed strong discriminatory performance for preeclampsia but limited and weak diagnostic performance for PAS.",
-      "vi": "Kết quả chính là tỷ số sFlt-1/PlGF thể hiện hiệu suất phân biệt mạnh mẽ đối với bệnh tiền sản giật nhưng hiệu suất chẩn đoán hạn chế và yếu đối với phổ rau cài răng lược (PAS)."
+      "vi": "Phát hiện chính là tỷ số sFlt-1/PlGF cho thấy khả năng phân định mạnh mẽ đối với tiền sản giật, nhưng hiệu quả chẩn đoán lại yếu và hạn chế đối với phổ rau cài răng lược."
     },
     {
       "sid": "s-118",
       "en": "For preeclampsia, the sFlt-1/PlGF ratio showed the highest area under the curve among the evaluated biomarkers.",
-      "vi": "Đối với bệnh tiền sản giật, tỷ số sFlt-1/PlGF cho thấy diện tích dưới đường cong lớn nhất trong số các dấu ấn sinh học được đánh giá."
+      "vi": "Đối với tiền sản giật, tỷ số sFlt-1/PlGF cho thấy diện tích dưới đường cong lớn nhất trong số các dấu ấn sinh học được đánh giá."
     },
     {
       "sid": "s-119",
       "en": "At a cutoff value of 77.65, it demonstrated a sensitivity of 80.70%, specificity of 91.34%, PPV of 80.70%, NPV of 91.34%, diagnostic accuracy of 88.0%, and an area under the curve of 0.902.",
-      "vi": "Tại giá trị ngưỡng cắt 77,65, tỷ số này thể hiện độ nhạy 80,70%, độ đặc hiệu 91,34%, PPV 80,70%, NPV 91,34%, độ chính xác chẩn đoán 88,0% và diện tích dưới đường cong là 0,902."
+      "vi": "Tại giá trị điểm cắt 77,65, tỷ số này cho thấy độ nhạy là 80,70%, độ đặc hiệu là 91,34%, PPV là 80,70%, NPV là 91,34%, độ chính xác chẩn đoán là 88,0% và diện tích dưới đường cong là 0,902."
     },
     {
       "sid": "s-120",
       "en": "For PAS, the ratio had high sensitivity and NPV but low specificity and PPV, making it unsuitable as a stand-alone marker.",
-      "vi": "Đối với phổ rau cài răng lược (PAS), tỷ số này có độ nhạy và NPV cao nhưng độ đặc hiệu và PPV thấp, khiến nó không phù hợp để làm dấu ấn đơn độc."
+      "vi": "Đối với phổ rau cài răng lược, tỷ số này có độ nhạy và NPV cao nhưng độ đặc hiệu và PPV lại thấp, khiến nó không phù hợp để sử dụng như một dấu ấn đơn độc."
     },
     {
       "sid": "s-121",
       "en": "Given the small PAS sample and marked group imbalance, these PAS findings should be interpreted as exploratory and hypothesis-generating rather than practice-changing.",
-      "vi": "Do cỡ mẫu nghiên cứu PAS nhỏ và sự mất cân bằng nhóm rõ rệt, các kết quả về PAS này nên được diễn giải mang tính thăm dò và tạo giả thuyết hơn là mang tính thay đổi thực hành lâm sàng."
+      "vi": "Xét cỡ mẫu PAS nhỏ và sự mất cân đối rõ rệt giữa các nhóm, những phát hiện này ở nhóm PAS nên được diễn giải mang tính thăm dò và gợi mở giả thuyết hơn là thay đổi thực hành lâm sàng."
     },
     {
       "sid": "s-122",
       "en": "The better performance of the sFlt-1/PlGF ratio in preeclampsia is biologically coherent with the known pathophysiology of preeclampsia.",
-      "vi": "Hiệu suất hoạt động tốt hơn của tỷ số sFlt-1/PlGF trong bệnh tiền sản giật có sự tương hợp sinh học với sinh lý bệnh đã biết của tiền sản giật."
+      "vi": "Hiệu quả tốt hơn của tỷ số sFlt-1/PlGF trong tiền sản giật hoàn toàn phù hợp về mặt sinh học với sinh lý bệnh đã biết của tiền sản giật."
     },
     {
       "sid": "s-123",
       "en": "Key abnormalities in preeclampsia include abnormal trophoblastic invasion, failure of spiral artery remodeling, placental ischemia, oxidative stress, and systemic endothelial dysfunction.",
-      "vi": "Các bất thường cốt lõi trong tiền sản giật bao gồm sự xâm lấn bất thường của tế bào nuôi, thất bại trong việc tái cấu trúc động mạch xoắn, thiếu máu cục bộ bánh nhau, stress oxy hóa và rối loạn chức năng nội mạc toàn thân."
+      "vi": "Các bất thường then chốt trong tiền sản giật bao gồm sự xâm lấn của tế bào nuôi bất thường, khiếm khuyết trong tái cấu trúc động mạch xoắn, thiếu máu cục bộ bánh nhau, stress oxy hóa và rối loạn chức năng nội mạc toàn thân."
     },
     {
       "sid": "s-124",
       "en": "These processes upregulate antiangiogenic factors such as sFlt-1 and downregulate proangiogenic factors such as PlGF in circulation [ 14 ].",
-      "vi": "Các quá trình này làm tăng điều hòa các yếu tố kháng tạo mạch như sFlt-1 và giảm điều hòa các yếu tố thúc đẩy tạo mạch như PlGF trong tuần hoàn [ 14 ]."
+      "vi": "Các quá trình này làm tăng nồng độ các yếu tố kháng tạo mạch như sFlt-1 và làm giảm nồng độ các yếu tố sinh tạo mạch như PlGF trong tuần hoàn [ 14 ]."
     },
     {
       "sid": "s-125",
       "en": "The sFlt-1/PlGF ratio is thus a composite marker of angiogenic imbalance, which may explain why it performed better than sFlt-1 and PlGF individually.",
-      "vi": "Do đó, tỷ số sFlt-1/PlGF là một dấu ấn hỗn hợp thể hiện tình trạng mất cân bằng tạo mạch, điều này có thể giải thích lý do tại sao nó hoạt động tốt hơn so với sFlt-1 và PlGF tính riêng lẻ."
+      "vi": "Do đó, tỷ số sFlt-1/PlGF là một dấu ấn sinh học kết hợp phản ánh sự mất cân bằng tạo mạch, điều này có thể giải thích lý do tại sao tỷ số này đạt hiệu quả đánh giá vượt trội hơn so với từng yếu tố sFlt-1 và PlGF riêng lẻ."
     },
     {
       "sid": "s-126",
       "en": "The observed cutoff value of 77.65 was derived from the present cohort and should not be considered universally applicable without external validation, although it is broadly consistent with previously reported diagnostic and short-term predictive thresholds in women with suspected preeclampsia [ 15 , 16 ].",
-      "vi": "Giá trị ngưỡng quan sát được là 77.65 được rút ra từ nhóm nghiên cứu hiện tại và không nên được xem là có thể áp dụng phổ quát mà không có sự xác thực bên ngoài, mặc dù nó nhìn chung có tính tương đồng với các ngưỡng chẩn đoán và dự báo ngắn hạn đã được báo cáo trước đây ở phụ nữ nghi ngờ mắc tiền sản giật [ 15 , 16 ]."
+      "vi": "Giá trị ngưỡng cắt ghi nhận được là 77,65 được xác định từ chính đoàn hệ nghiên cứu này và không nên xem là có thể áp dụng rộng rãi nếu chưa được kiểm định độc lập từ bên ngoài, mặc dù ngưỡng này nhìn chung nhất quán với các ngưỡng chẩn đoán và dự đoán ngắn hạn đã được báo cáo trước đây ở những thai phụ nghi ngờ tiền sản giật [ 15 , 16 ]."
     },
     {
       "sid": "s-127",
       "en": "The shorter interval between biomarker testing and delivery in Group A further suggests that a high ratio may identify clinically significant disease requiring closer monitoring and timely intervention.",
-      "vi": "Khoảng thời gian ngắn hơn giữa thời điểm xét nghiệm sinh dấu ấn và thời điểm sinh ở Nhóm A càng cho thấy rằng tỷ số cao có thể xác định tình trạng bệnh có ý nghĩa lâm sàng, đòi hỏi phải theo dõi chặt chẽ và can thiệp kịp thời."
+      "vi": "Khoảng thời gian ngắn hơn từ thời điểm xét nghiệm dấu ấn sinh học đến khi sinh ở Nhóm A củng cố thêm rằng tỷ số tăng cao có thể giúp nhận diện tình trạng bệnh lý có ý nghĩa lâm sàng, đòi hỏi phải giám sát chặt chẽ hơn và can thiệp kịp thời."
     },
     {
       "sid": "s-128",
       "en": "In routine practice, the ratio should be interpreted alongside blood pressure measurements, proteinuria assessment, laboratory evaluation, fetal surveillance, and the overall maternal clinical condition rather than used in isolation.",
-      "vi": "Trong thực hành thường quy, tỷ số này nên được diễn giải song song với các chỉ số đo huyết áp, đánh giá tình trạng đạm niệu, đánh giá xét nghiệm, theo dõi sức khỏe thai nhi và toàn trạng lâm sàng của mẹ thay vì được sử dụng một cách đơn độc."
+      "vi": "Trong thực hành thường quy, tỷ số này cần được phân tích kết hợp với các chỉ số đo huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng, giám sát sức khỏe thai nhi và toàn trạng lâm sàng chung của thai phụ, thay vì sử dụng đơn độc."
     },
     {
       "sid": "s-129",
       "en": "A higher frequency of adverse fetal outcomes, including fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission, was observed in the preeclampsia group.",
-      "vi": "Tần suất cao hơn các kết cục bất lợi về thai nhi, bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai lưu trong tử cung và nhập khoa hồi sức tích cực sơ sinh (NICU), đã được quan sát thấy ở nhóm tiền sản giật."
+      "vi": "Tần suất cao hơn của các kết cục bất lợi ở thai nhi, bao gồm thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết trong tử cung và nhập khoa hồi sức tích cực sơ sinh (NICU), đã được ghi nhận ở nhóm tiền sản giật."
     },
     {
       "sid": "s-130",
       "en": "These findings are consistent with placental insufficiency, reduced uteroplacental perfusion, fetal hypoxia, impaired fetal growth, and reduced amniotic fluid volume.",
-      "vi": "Những phát hiện này phù hợp với tình trạng suy chức năng bánh nhau, giảm tưới máu tử cung rau, thiếu oxy thai, suy giảm sự tăng trưởng của thai nhi và giảm thể tích nước ối."
+      "vi": "Những phát hiện này phù hợp với tình trạng suy chức năng bánh nhau, giảm tưới máu tử cung rau, thiếu oxy thai nhi, suy giảm tăng trưởng của thai và giảm thể tích nước ối."
     },
     {
       "sid": "s-131",
       "en": "Previously, such associations have been reported between preeclampsia and fetal growth restriction [ 12 ].",
-      "vi": "Trước đây, các mối liên quan tương tự đã từng được báo cáo giữa tiền sản giật và thai chậm tăng trưởng trong tử cung (FGR) [ 12 ]."
+      "vi": "Trước đây, mối liên quan tương tự giữa tiền sản giật và thai chậm tăng trưởng trong tử cung (FGR) cũng đã được báo cáo [ 12 ]."
     },
     {
       "sid": "s-132",
       "en": "Increased NICU admission may reflect fetal compromise, medically indicated preterm delivery, or both.",
-      "vi": "Việc tăng tỷ lệ nhập khoa hồi sức tích cực sơ sinh (NICU) có thể phản ánh tình trạng suy thai, chấm dứt thai kỳ non tháng có chỉ định y khoa, hoặc cả hai yếu tố này."
+      "vi": "Tỷ lệ nhập NICU gia tăng có thể phản ánh tình trạng suy thai, chấm dứt thai kỳ non tháng do chỉ định y khoa, hoặc do cả hai nguyên nhân."
     },
     {
       "sid": "s-133",
       "en": "Although several fetal outcomes differed significantly among the groups, these results should be interpreted cautiously, particularly for the PAS group, because of its small sample size and the low number of outcome events.",
-      "vi": "Mặc dù một số kết cục về thai nhi có sự khác biệt đáng kể giữa các nhóm, các kết quả này cần được diễn giải một cách thận trọng, đặc biệt đối với nhóm PAS, do cỡ mẫu nhỏ và số lượng biến cố kết cục thấp."
+      "vi": "Mặc dù một số kết cục ở thai nhi có sự khác biệt có ý nghĩa thống kê giữa các nhóm, nhưng những kết quả này cần được diễn giải một cách thận trọng, đặc biệt là đối với nhóm PAS, do cỡ mẫu nhỏ và số lượng biến cố kết cục còn thấp."
     },
     {
       "sid": "s-134",
       "en": "Neonatal mortality and prolonged hospitalization did not differ significantly among the groups.",
-      "vi": "Tỷ lệ tử vong sơ sinh và thời gian nằm viện kéo dài không có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
+      "vi": "Tử vong sơ sinh và thời gian nằm viện kéo dài không có sự khác biệt có ý nghĩa thống kê giữa các nhóm."
     },
     {
       "sid": "s-135",
       "en": "The findings for PAS differed from those observed for preeclampsia.",
-      "vi": "Các kết quả ghi nhận ở nhóm PAS có sự khác biệt so với những gì quan sát được ở nhóm tiền sản giật."
+      "vi": "Các phát hiện đối với bệnh cảnh PAS có sự khác biệt rõ rệt so với những kết quả quan sát được ở bệnh cảnh tiền sản giật."
     },
     {
       "sid": "s-136",
       "en": "Although the sFlt-1/PlGF ratio showed high sensitivity and NPV at a cutoff value of 8.11, it had low specificity and PPV, indicating that it is unsuitable for confirming PAS as a stand-alone diagnostic test.",
-      "vi": "Mặc dù tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị tiên đoán âm tính cao tại giá trị ngưỡng 8,11, nhưng tỷ số này lại có độ đặc hiệu và giá trị tiên đoán dương tính thấp, cho thấy nó không phù hợp để xác định bệnh lý nhau bám dính (PAS) như một xét nghiệm chẩn đoán đơn lẻ."
+      "vi": "Mặc dù tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị dự đoán âm (NPV) cao ở điểm cắt 8,11, nhưng chỉ số này lại có độ đặc hiệu và giá trị dự đoán dương (PPV) thấp, cho thấy nó không phù hợp để xác chẩn phổ bệnh lý nhau cài răng lược (PAS) như một xét nghiệm chẩn đoán độc lập."
     },
     {
       "sid": "s-137",
       "en": "The AUC of 0.678 indicates weak discriminatory performance and limits the clinical usefulness of the PAS-derived threshold.",
-      "vi": "Diện tích dưới đường cong (AUC) là 0,678 cho thấy khả năng phân loại yếu và làm hạn chế giá trị sử dụng trên lâm sàng của ngưỡng giá trị bắt nguồn từ PAS."
+      "vi": "Diện tích dưới đường cong (AUC) là 0,678 cho thấy khả năng phân định yếu và làm hạn chế tính hữu dụng trên lâm sàng của ngưỡng giá trị được xác lập cho PAS."
     },
     {
       "sid": "s-138",
       "en": "The poor diagnostic performance is probably related to the distinct pathophysiology of PAS, which is primarily characterized by defective decidualization, abnormal placental adherence, and varying degrees of myometrial invasion rather than the diffuse placental ischemia and systemic endothelial dysfunction characteristic of preeclampsia.",
-      "vi": "Hiệu suất chẩn đoán kém này có lẽ liên quan đến sinh lý bệnh đặc trưng của PAS — vốn được đặc trưng chủ yếu bởi sự biến đổi màng rụng bị khiếm khuyết, tình trạng nhau bám bất thường và các mức độ xâm lấn cơ tử cung khác nhau — chứ không phải do tình trạng thiếu máu cục bộ bánh nhau lan tỏa và rối loạn chức năng nội mạc toàn thân vốn là đặc điểm của tiền sản giật."
+      "vi": "Hiệu quả chẩn đoán kém này có thể liên quan đến cơ chế sinh lý bệnh riêng biệt của PAS, vốn được đặc trưng chủ yếu bởi quá trình biến đổi màng rụng khiếm khuyết, nhau bám dính bất thường và các mức độ xâm lấn cơ tử cung khác nhau, thay vì tình trạng thiếu máu cục bộ bánh nhau lan tỏa và rối loạn chức năng nội mạc toàn thân đặc trưng của tiền sản giật."
     },
     {
       "sid": "s-139",
       "en": "Consequently, the marked angiogenic imbalance observed in preeclampsia may be absent, less pronounced, or more heterogeneous in PAS.",
-      "vi": "Do đó, sự mất cân bằng tạo mạch rõ rệt được quan sát thấy trong tiền sản giật có thể không xuất hiện, ít rõ rệt hơn hoặc mang tính dị thể hơn trong PAS."
+      "vi": "Do đó, tình trạng mất cân bằng sinh mạch rõ rệt quan sát thấy trong tiền sản giật có thể không hiện diện, ít rõ nét hơn, hoặc không đồng nhất hơn trong PAS."
     },
     {
       "sid": "s-140",
       "en": "These findings corroborate previous studies indicating that angiogenic markers are not useful as stand-alone diagnostic tools in PAS [ 17 - 19 ].",
-      "vi": "Những phát hiện này củng cố cho các nghiên cứu trước đây cho thấy các dấu ấn sinh học tạo mạch không hữu ích như các công cụ chẩn đoán đơn lẻ trong PAS [ 17 - 19 ]."
+      "vi": "Những phát hiện này củng cố các nghiên cứu trước đây khi chỉ ra rằng các dấu ấn sinh mạch không hữu ích với vai trò là công cụ chẩn đoán độc lập trong PAS [ 17 - 19 ]."
     },
     {
       "sid": "s-141",
       "en": "Established clinical risk factors, particularly placenta previa, prior cesarean delivery, previous uterine surgery, and maternal age, remain central to PAS risk assessment.",
-      "vi": "Các yếu tố nguy cơ lâm sàng đã được thiết lập, đặc biệt là nhau tiền đạo, tiền sử sinh mổ, phẫu thuật tử cung trước đó và độ tuổi của mẹ, vẫn đóng vai trò trung tâm trong việc đánh giá nguy cơ PAS."
+      "vi": "Các yếu tố nguy cơ lâm sàng đã được xác lập, đặc biệt là nhau tiền đạo, tiền căn mổ lấy thai, phẫu thuật tử cung trước đó và tuổi mẹ, vẫn giữ vai trò then chốt trong việc đánh giá nguy cơ PAS."
     },
     {
       "sid": "s-142",
       "en": "These findings have distinct clinical implications for the two conditions.",
-      "vi": "Những phát hiện này mang lại ý nghĩa lâm sàng rõ rệt cho cả hai tình trạng bệnh lý."
+      "vi": "Những phát hiện này mang lại các ý nghĩa lâm sàng riêng biệt đối với hai bệnh lý trên."
     },
     {
       "sid": "s-143",
       "en": "In suspected preeclampsia, the sFlt-1/PlGF ratio may be used as an adjunct to clinical assessment, blood pressure monitoring, proteinuria assessment, laboratory testing, and fetal surveillance.",
-      "vi": "Trong trường hợp nghi ngờ tiền sản giật, tỷ số sFlt-1/PlGF có thể được sử dụng như một phương pháp bổ trợ cho việc đánh giá lâm sàng, theo dõi huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng và theo dõi sức khỏe thai nhi."
+      "vi": "Trong các trường hợp nghi ngờ tiền sản giật, tỷ số sFlt-1/PlGF có thể được sử dụng như một xét nghiệm bổ trợ cho đánh giá lâm sàng, theo dõi huyết áp, đánh giá protein niệu, xét nghiệm cận lâm sàng và theo dõi sức khỏe thai nhi."
     },
     {
       "sid": "s-144",
       "en": "A clinically abnormal ratio may support decisions regarding intensified surveillance, specialist assessment, repeat maternal and fetal evaluation, and timing of delivery, but it should not independently determine management.",
-      "vi": "Một tỷ số bất thường trên lâm sàng có thể hỗ trợ các quyết định liên quan đến việc tăng cường theo dõi, đánh giá bởi chuyên gia, đánh giá lặp lại đối với mẹ và thai nhi, cũng như thời điểm chấm dứt thai kỳ, nhưng nó không nên đóng vai trò quyết định độc lập đối với việc xử trí."
+      "vi": "Tỷ số bất thường trên lâm sàng có thể hỗ trợ đưa ra các quyết định về việc tăng cường giám sát, hội chẩn chuyên khoa, đánh giá lặp lại ở mẹ và thai nhi, cũng như lựa chọn thời điểm chấm dứt thai kỳ, nhưng không nên đóng vai trò là yếu tố độc lập quyết định hướng xử trí."
     },
     {
       "sid": "s-145",
       "en": "PAS diagnosis should be based mainly on clinical risk factors and imaging, particularly transabdominal and transvaginal ultrasonography with color Doppler.",
-      "vi": "Việc chẩn đoán PAS nên dựa chủ yếu vào các yếu tố nguy cơ lâm sàng và chẩn đoán hình ảnh, đặc biệt là siêu âm qua thành bụng và qua đường âm đạo kết hợp với phổ Doppler màu."
+      "vi": "Chẩn đoán PAS nên dựa chủ yếu vào các yếu tố nguy cơ lâm sàng và chẩn đoán hình ảnh, đặc biệt là siêu âm qua thành bụng và qua ngả âm đạo kết hợp Doppler màu."
     },
     {
       "sid": "s-146",
       "en": "Magnetic resonance imaging may be helpful when ultrasound findings are inconclusive, posterior placentation is present, or deeper invasion is suspected.",
-      "vi": "Chụp cộng hưởng từ có thể hữu ích khi các kết quả siêu âm không có kết luận rõ ràng, khi có tình trạng nhau bám mặt sau, hoặc khi nghi ngờ có tình trạng xâm lấn sâu hơn."
+      "vi": "Chụp cộng hưởng từ có thể hữu ích khi các kết quả siêu âm không thể kết luận rõ ràng, có vị trí nhau bám mặt sau, hoặc nghi ngờ có sự xâm lấn sâu hơn."
     },
     {
       "sid": "s-147",
       "en": "Angiogenic biomarkers should therefore be positioned only as potential adjuncts to imaging and clinical risk assessment in PAS, not as replacements for them.",
-      "vi": "Do đó, các dấu ấn sinh học tạo mạch chỉ nên được định vị là các yếu tố hỗ trợ tiềm năng cho chẩn đoán hình ảnh và đánh giá nguy cơ lâm sàng trong PAS, chứ không phải là phương pháp thay thế cho các phương pháp đó."
+      "vi": "Do đó, các dấu ấn sinh học sinh mạch chỉ nên được định vị như những công cụ bổ trợ tiềm năng cho chẩn đoán hình ảnh và đánh giá nguy cơ lâm sàng trong PAS, chứ không thể thay thế cho các phương pháp này."
     },
     {
       "sid": "s-148",
       "en": "Strengths, limitations, and future directions",
-      "vi": "Điểm mạnh, hạn chế và định hướng tương lai"
+      "vi": "Điểm mạnh, hạn chế và các hướng nghiên cứu tương lai"
     },
     {
       "sid": "s-149",
       "en": "The strengths of this study include its prospective design, standardized measurement of sFlt-1 and PlGF, assessment of multiple diagnostic indices, and follow-up through delivery.",
-      "vi": "Điểm mạnh của nghiên cứu này bao gồm thiết kế tiến cứu, việc đo lường chuẩn hóa sFlt-1 và PlGF, việc đánh giá nhiều chỉ số chẩn đoán và việc theo dõi dọc suốt cho đến khi sinh."
+      "vi": "Các điểm mạnh của nghiên cứu này bao gồm thiết kế tiến cứu, quy trình định lượng sFlt-1 và PlGF chuẩn hóa, đánh giá nhiều chỉ số chẩn đoán, và theo dõi liên tục cho đến khi sinh."
     },
     {
       "sid": "s-150",
       "en": "It also compared angiogenic biomarkers in preeclampsia and PAS, two placentation disorders with distinct pathophysiology.",
-      "vi": "Nghiên cứu này cũng so sánh các dấu ấn sinh học tạo mạch trong tiền sản giật và PAS, hai rối loạn làm tổ của bánh nhau với các đặc điểm sinh lý bệnh khác nhau."
+      "vi": "Nghiên cứu cũng so sánh các dấu ấn sinh học sinh mạch giữa tiền sản giật và PAS, hai rối loạn bánh nhau có cơ chế sinh lý bệnh hoàn toàn khác biệt."
     },
     {
       "sid": "s-151",
       "en": "The main limitations were the small PAS group ( n = 16), marked group imbalance, and single-center design, which reduced the precision and generalizability of PAS estimates.",
-      "vi": "Những hạn chế chính là kích thước nhóm bệnh nhau cài răng lược (PAS) nhỏ (n = 16), sự mất cân bằng nhóm rõ rệt, và thiết kế nghiên cứu đơn trung tâm, làm giảm độ chính xác và khả năng ngoại suy của các ước tính về PAS."
+      "vi": "Các hạn chế chính bao gồm cỡ mẫu nhóm bệnh lý phổ nhau cài răng lược (PAS) còn nhỏ (n = 16), sự mất cân đối rõ rệt giữa các nhóm và thiết kế nghiên cứu đơn trung tâm, làm giảm độ chính xác cũng như khả năng khái quát hóa của các ước tính liên quan đến PAS."
     },
     {
       "sid": "s-152",
       "en": "PAS findings should therefore be considered exploratory and hypothesis-generating.",
-      "vi": "Do đó, các phát hiện về PAS nên được xem là mang tính khám phá và tạo dựng giả thuyết."
+      "vi": "Do đó, các phát hiện về PAS nên được xem là mang tính khám phá và gợi mở giả thuyết nghiên cứu."
     },
     {
       "sid": "s-153",
       "en": "Biomarkers were measured at a single time point, preventing assessment of longitudinal changes.",
-      "vi": "Các dấu ấn sinh học được đo lường tại một thời điểm duy nhất, điều này ngăn cản việc đánh giá các thay đổi dọc theo thời gian."
+      "vi": "Các dấu ấn sinh học chỉ được định lượng tại một thời điểm duy nhất, cản trở việc đánh giá, nhận định lâm sàng các thay đổi theo thời gian."
     },
     {
       "sid": "s-154",
       "en": "No multivariable adjustment was performed for maternal age, gestational age at testing, socioeconomic status, disease severity, placenta previa, prior cesarean delivery, or other PAS risk factors.",
-      "vi": "Không có sự hiệu chỉnh đa biến nào được thực hiện đối với tuổi mẹ, tuổi thai tại thời điểm xét nghiệm, tình trạng kinh tế xã hội, mức độ nặng của bệnh, nhau tiền đạo, tiền sử sinh mổ, hoặc các yếu tố nguy cơ PAS khác."
+      "vi": "Chưa có hiệu chỉnh đa biến cho Tuổi mẹ, Gestational Age tại thời điểm xét nghiệm, tình trạng kinh tế - xã hội, mức độ nghiêm trọng của bệnh, nhau tiền đạo, tiền sử sinh mổ, hoặc các yếu tố nguy cơ PAS khác."
     },
     {
       "sid": "s-155",
       "en": "The cohort-derived cutoffs were not externally validated, and fetal outcomes involving the PAS group should be interpreted cautiously.",
-      "vi": "Các giá trị cắt lấy từ thuần tập không được thẩm định ngoại vi, và các kết cục thai nhi liên quan đến nhóm PAS cần được diễn giải một cách thận trọng."
+      "vi": "Các ngưỡng giá trị cắt được rút ra từ chính đoàn hệ nghiên cứu vẫn chưa được kiểm định ngoại kiểm, đồng thời các kết cục thai kỳ liên quan đến nhóm PAS cần được phiên giải một cách thận trọng."
     },
     {
       "sid": "s-156",
       "en": "Larger multicenter studies with balanced group sizes, serial biomarker measurements, multivariable modelling, and external validation are required.",
-      "vi": "Cần có các nghiên cứu đa trung tâm lớn hơn với quy mô nhóm cân bằng, đo lường dấu ấn sinh học nối tiếp, mô hình hóa đa biến và thẩm định ngoại vi."
+      "vi": "Cần có các nghiên cứu đa trung tâm với quy mô lớn hơn, cỡ mẫu giữa các nhóm cân bằng, định lượng dấu ấn sinh học theo chuỗi thời gian, xây dựng mô hình đa biến và tiến hành kiểm định ngoại kiểm."
     },
     {
       "sid": "s-157",
       "en": "Future studies should evaluate whether angiogenic biomarkers provide incremental diagnostic value when combined with established clinical risk factors and imaging rather than assessing them as stand-alone tests for PAS.",
-      "vi": "Các nghiên cứu trong tương lai nên đánh giá xem liệu các dấu ấn sinh học tạo mạch có cung cấp giá trị chẩn đoán gia tăng khi kết hợp với các yếu tố nguy cơ lâm sàng đã thiết lập và chẩn đoán hình ảnh hay không, thay vì đánh giá chúng như các xét nghiệm đơn lẻ đối với PAS."
+      "vi": "Các nghiên cứu trong tương lai cần đánh giá xem liệu các dấu ấn sinh học hình thành mạch có mang lại giá trị chẩn đoán gia tăng khi kết hợp với các yếu tố nguy cơ lâm sàng đã xác lập cùng chẩn đoán hình ảnh hay không, thay vì chỉ đánh giá chúng như các xét nghiệm đơn độc đối với PAS."
     },
     {
       "sid": "s-158",
       "en": "This study shows that angiogenic biomarkers, particularly the sFlt-1/PlGF ratio, have strong discriminatory value for preeclampsia but limited diagnostic value for PAS.",
-      "vi": "Nghiên cứu này cho thấy các dấu ấn sinh học tạo mạch, đặc biệt là tỷ số sFlt-1/PlGF, có giá trị phân biệt mạnh mẽ đối với tiền sản giật nhưng giá trị chẩn đoán đối với PAS còn hạn chế."
+      "vi": "Nghiên cứu này chỉ ra rằng các dấu ấn sinh học hình thành mạch, đặc biệt là Tỷ số sFlt-1/PlGF, có giá trị phân biệt mạnh đối với tiền sản giật nhưng lại có giá trị chẩn đoán hạn chế đối với PAS."
     },
     {
       "sid": "s-159",
       "en": "Among the evaluated markers, the sFlt-1/PlGF ratio showed the highest sensitivity, specificity, PPV, NPV, and diagnostic accuracy for preeclampsia.",
-      "vi": "Trong số các dấu ấn được đánh giá, tỷ số sFlt-1/PlGF cho thấy độ nhạy, độ đặc hiệu, giá trị dự đoán dương tính (PPV), giá trị dự đoán âm tính (NPV), và độ chính xác chẩn đoán cao nhất đối với tiền sản giật."
+      "vi": "Trong số các chỉ dấu được đánh giá, Tỷ số sFlt-1/PlGF thể hiện độ nhạy, độ đặc hiệu, giá trị dự đoán dương tính (PPV), giá trị dự đoán âm tính (NPV) và độ chính xác chẩn đoán cao nhất đối với tiền sản giật."
     },
     {
       "sid": "s-160",
       "en": "These findings support its use as an adjunct to blood pressure assessment, proteinuria testing, laboratory evaluation, and fetal surveillance rather than as an isolated diagnostic test.",
-      "vi": "Những phát hiện này củng cố việc sử dụng tỷ số này như một phương pháp hỗ trợ cho việc đánh giá huyết áp, xét nghiệm protein niệu, đánh giá cận lâm sàng và theo dõi sức khỏe thai nhi, thay vì là một xét nghiệm chẩn đoán đơn độc."
+      "vi": "Những phát hiện này ủng hộ việc ứng dụng tỷ số như một công cụ bổ trợ cho đánh giá, nhận định lâm sàng huyết áp, xét nghiệm Protein niệu (Đạm niệu), xét nghiệm cận lâm sàng và giám sát sức khỏe thai nhi, hơn là một xét nghiệm chẩn đoán độc lập."
     },
     {
       "sid": "s-161",
       "en": "Fetal growth restriction, oligohydramnios, intrauterine demise, and NICU admission were more frequent among women with preeclampsia, emphasizing the importance of early detection and close monitoring.",
-      "vi": "Tình trạng thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai lưu, và nhập khoa hồi sức tích cực sơ sinh (NICU) xảy ra thường xuyên hơn ở phụ nữ bị tiền sản giật, nhấn mạnh tầm quan trọng của việc phát hiện sớm và theo dõi sát sao."
+      "vi": "Thai chậm tăng trưởng trong tử cung (FGR), thiểu ối, thai chết lưu trong tử cung và tỷ lệ nhập khoa hồi sức tích cực sơ sinh (NICU) xuất hiện thường xuyên hơn ở thai phụ mắc tiền sản giật, nhấn mạnh tầm quan trọng của việc phát hiện sớm và theo dõi sát sao."
     },
     {
       "sid": "s-162",
       "en": "For PAS, the sFlt-1/PlGF ratio showed high sensitivity and NPV but low specificity, low PPV, and weak overall discriminatory performance.",
-      "vi": "Đối với PAS, tỷ số sFlt-1/PlGF cho thấy độ nhạy và giá trị dự đoán âm tính (NPV) cao nhưng độ đặc hiệu thấp, giá trị dự đoán dương tính (PPV) thấp và hiệu năng phân biệt tổng thể kém."
+      "vi": "Đối với PAS, Tỷ số sFlt-1/PlGF cho thấy độ nhạy và NPV cao nhưng độ đặc hiệu thấp, PPV thấp và hiệu năng phân biệt tổng thể kém."
     },
     {
       "sid": "s-163",
       "en": "Given the small PAS sample, group imbalance, absence of multivariable adjustment, and cohort-derived cutoff values, these findings should be considered exploratory and hypothesis-generating rather than practice-changing.",
-      "vi": "Với mẫu PAS nhỏ, sự mất cân bằng nhóm, việc thiếu sự hiệu chỉnh đa biến, và các giá trị cắt lấy từ thuần tập, những phát hiện này nên được xem là mang tính khám phá và tạo dựng giả thuyết hơn là làm thay đổi thực hành lâm sàng."
+      "vi": "Xét đến cỡ mẫu PAS nhỏ, sự mất cân đối giữa các nhóm, việc thiếu hiệu chỉnh đa biến và các ngưỡng cắt được xác lập nội bộ từ đoàn hệ, những phát hiện này nên được xem là mang tính khám phá và gợi mở giả thuyết hơn là làm thay đổi thực hành lâm sàng."
     },
     {
       "sid": "s-164",
       "en": "PAS diagnosis should continue to rely primarily on established clinical risk factors and imaging.",
-      "vi": "Chẩn đoán PAS nên tiếp tục dựa chủ yếu vào các yếu tố nguy cơ lâm sàng đã được thiết lập và chẩn đoán hình ảnh."
+      "vi": "Chẩn đoán PAS vẫn nên tiếp tục dựa chủ yếu vào các yếu tố nguy cơ lâm sàng đã xác lập và chẩn đoán hình ảnh."
     },
     {
       "sid": "s-165",
       "en": "Larger multicenter studies with balanced groups, serial biomarker measurements, confounder adjustment, and external validation are required before these cutoffs can be applied clinically.",
-      "vi": "Cần có các nghiên cứu đa trung tâm lớn hơn với các nhóm cân bằng, đo lường dấu ấn sinh học nối tiếp, hiệu chỉnh các yếu tố gây nhiễu, và thẩm định ngoại vi trước khi các giá trị cắt này có thể được áp dụng trên lâm sàng."
+      "vi": "Cần có các nghiên cứu đa trung tâm quy mô lớn hơn với các nhóm cân bằng, định lượng dấu ấn sinh học theo chuỗi, hiệu chỉnh yếu tố gây nhiễu và kiểm định ngoại kiểm trước khi các ngưỡng cắt này có thể được áp dụng trên lâm sàng."
     }
   ],
   "glossary": {
@@ -20972,37 +20972,37 @@
       "vi": "Hướng dẫn Y khoa: Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study"
     },
     "summary": {
-      "en": "A prospective observational study evaluating the diagnostic performance of the sFlt-1/PlGF ratio in preeclampsia and placenta accreta spectrum (PAS) among 200 antenatal women.",
-      "vi": "Một nghiên cứu quan sát tiến cứu đánh giá hiệu suất chẩn đoán của tỷ số sFlt-1/PlGF trong tiền sản giật và phổ rau cài răng lược (PAS) trên 200 phụ nữ mang thai."
+      "en": "A prospective observational study evaluated the diagnostic performance of serum sFlt-1, PlGF, and the sFlt-1/PlGF ratio in 200 pregnant women (20–37 weeks gestation). The sFlt-1/PlGF ratio (cutoff 77.65) was an effective discriminator for preeclampsia (AUC 0.902, accuracy 88.0%), but showed low specificity (52.0%) and PPV (18.7%) for placenta accreta spectrum (PAS), indicating it cannot substitute imaging and clinical assessment in PAS.",
+      "vi": "Nghiên cứu quan sát tiến cứu đánh giá hiệu giá chẩn đoán của sFlt-1, PlGF và tỷ số sFlt-1/PlGF huyết thanh ở 200 thai phụ (20–37 tuần tuổi thai). Tỷ số sFlt-1/PlGF (ngưỡng cắt 77,65) phân biệt xuất sắc đối với tiền sản giật (AUC 0,902; độ chính xác 88,0%), nhưng độ đặc hiệu thấp (52,0%) và PPV thấp (18,7%) đối với phổ rau cài răng lược (PAS), không thể thay thế chẩn đoán hình ảnh và đánh giá lâm sàng trong PAS."
     },
     "key_points": [
       {
-        "en": "The study evaluated 200 antenatal women at 20-37 weeks of gestation, with 57 having preeclampsia and 16 having PAS.",
-        "vi": "Nghiên cứu đánh giá 200 phụ nữ mang thai ở tuần thai 20-37, trong đó 57 người mắc tiền sản giật và 16 người mắc PAS."
+        "en": "The study included 200 participants: 57 (28.5%) with preeclampsia, 16 (8.0%) with PAS, and 127 (63.5%) in the comparison group.",
+        "vi": "Nghiên cứu gồm 200 người tham gia: 57 ca (28,5%) tiền sản giật, 16 ca (8,0%) PAS và 127 ca (63,5%) thuộc nhóm đối chứng."
       },
       {
-        "en": "At a cutoff of 77.65, the sFlt-1/PlGF ratio showed an AUC of 0.902 and an accuracy of 88.0% for preeclampsia.",
-        "vi": "Ở ngưỡng 77,65, tỷ số sFlt-1/PlGF cho thấy AUC là 0,902 và độ chính xác 88,0% đối với tiền sản giật."
+        "en": "At an optimal cutoff of 77.65, the sFlt-1/PlGF ratio demonstrated strong diagnostic performance for preeclampsia (AUC 0.902, accuracy 88.0%, sensitivity 80.7%, PPV 80.7%, NPV 91.3%).",
+        "vi": "Tại ngưỡng cắt tối ưu 77,65, tỷ số sFlt-1/PlGF đạt hiệu năng chẩn đoán cao đối với tiền sản giật (AUC 0,902; độ chính xác 88,0%; độ nhạy 80,7%; PPV 80,7%; NPV 91,3%)."
       },
       {
-        "en": "For PAS, the sFlt-1/PlGF ratio demonstrated a high NPV of 97.1% but a low PPV of 18.7% and AUC of 0.678.",
-        "vi": "Đối với PAS, tỷ số sFlt-1/PlGF cho thấy NPV cao 97,1% nhưng PPV thấp 18,7% và AUC là 0,678."
+        "en": "For PAS, the sFlt-1/PlGF ratio showed high sensitivity (87.5%) and high NPV (97.1%), but low specificity (52.0%), low PPV (18.7%), and an AUC of 0.678.",
+        "vi": "Đối với PAS, tỷ số sFlt-1/PlGF có độ nhạy cao (87,5%) và NPV cao (97,1%), nhưng độ đặc hiệu thấp (52,0%), PPV thấp (18,7%) và AUC đạt 0,678."
       },
       {
-        "en": "The ratio is an excellent discriminator for preeclampsia but should not replace imaging and clinical assessment for PAS.",
-        "vi": "Tỷ số này là công cụ phân biệt xuất sắc đối với tiền sản giật nhưng không nên thay thế chẩn đoán hình ảnh và đánh giá lâm sàng đối với PAS."
+        "en": "While the sFlt-1/PlGF ratio helps identify and stratify risk for preeclampsia, it lacks specificity for PAS and should not replace imaging or clinical risk assessment.",
+        "vi": "Dù tỷ số sFlt-1/PlGF giúp nhận diện và phân tầng nguy cơ tiền sản giật, chỉ số này thiếu độ đặc hiệu cho PAS và không nên thay thế chẩn đoán hình ảnh hay nhận định nguy cơ lâm sàng."
       }
     ],
     "scope": {
-      "en": "Clinical evaluation of angiogenic biomarkers (sFlt-1, PlGF, and sFlt-1/PlGF ratio) for preeclampsia and PAS prediction in pregnant women at 20-37 weeks of gestation.",
-      "vi": "Đánh giá lâm sàng các dấu ấn sinh học tạo mạch (sFlt-1, PlGF và tỷ số sFlt-1/PlGF) để dự đoán tiền sản giật và PAS ở phụ nữ mang thai từ 20-37 tuần."
+      "en": "Diagnostic utility and performance of the sFlt-1/PlGF ratio for preeclampsia and placenta accreta spectrum in pregnant women at 20–37 weeks of gestation.",
+      "vi": "Giá trị ứng dụng và hiệu giá chẩn đoán của tỷ số sFlt-1/PlGF đối với tiền sản giật và phổ rau cài răng lược ở thai phụ tuổi thai 20–37 tuần."
     },
     "provenance": {
       "article_id": "PMC13526203",
       "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13526203&blobtype=pdf",
       "publication_route": "full_bilingual",
       "generated_by": "AI Minh Translate",
-      "generated_at": "2026-10-12T01:37:03"
+      "generated_at": "2026-10-12T01:46:57"
     }
   }
 }
