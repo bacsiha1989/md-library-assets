@@ -1,0 +1,325 @@
+{
+  "id": "pmc13565334",
+  "title": {
+    "en": "Intrauterine transfusion in monochorionic twins with parvovirus B19 infection: Evidence of intertwin blood exchange",
+    "vi": "Truyền máu trong tử cung ở song thai chung một bánh nhau nhiễm parvovirus B19: Bằng chứng y học về sự trao đổi máu giữa hai thai nhi"
+  },
+  "title_en": "Intrauterine transfusion in monochorionic twins with parvovirus B19 infection: Evidence of intertwin blood exchange",
+  "title_vi": "Truyền máu trong tử cung ở song thai chung một bánh nhau nhiễm parvovirus B19: Bằng chứng y học về sự trao đổi máu giữa hai thai",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản phụ khoa & Y học Bào thai",
+  "metadata": {
+    "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13565334&blobtype=pdf",
+    "license": "cc-by-nc-nd",
+    "license_url": "",
+    "license_decision": {
+      "allowed": false,
+      "status": "block_no_derivatives",
+      "route": "block",
+      "license": "cc-by-nc-nd",
+      "license_url": "",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13565334&blobtype=pdf",
+      "reason": "Giấy phép cấm tác phẩm phái sinh; không dịch hoặc viết lại tự động.",
+      "can_translate": false,
+      "can_publish_public": false,
+      "can_synthesize": false,
+      "can_reuse_figures": false,
+      "must_cite_source": true,
+      "copy_verbatim": false
+    },
+    "publication_route": "rewrite_citation",
+    "section_schema": "momdiary_clinical_evidence_v1",
+    "figures_reused": 0,
+    "tables_reused": 0,
+    "updated_at": "2026-10-12 02:39:09",
+    "medical_board_review": {
+      "enabled": true,
+      "status": "approved",
+      "reviewed_by": "Hội đồng y khoa MomDiary Clinical AI Engine"
+    }
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "citation-header",
+      "sentences": [
+        {
+          "id": "cit-meta-1",
+          "en": "Source for this original synthesis: Intrauterine transfusion in monochorionic twins with parvovirus B19 infection: Evidence of intertwin blood exchange.",
+          "vi": "Nguồn của bản tổng hợp nguyên bản này: Intrauterine transfusion in monochorionic twins with parvovirus B19 infection: Evidence of intertwin blood exchange."
+        },
+        {
+          "id": "cit-meta-2",
+          "en": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13565334&blobtype=pdf | Licence: cc-by-nc-nd",
+          "vi": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13565334&blobtype=pdf | Licence: cc-by-nc-nd"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "synthesis-heading",
+      "en": "Original clinical synthesis",
+      "vi": "Tổng hợp lâm sàng nguyên bản"
+    },
+    {
+      "type": "paragraph",
+      "id": "synthesis-summary",
+      "sentences": [
+        {
+          "id": "summary-1",
+          "en": "This report highlights the clinical implications of placental vascular anastomoses in monochorionic diamniotic (MCDA) twins affected by parvovirus B19-induced anemia. The study demonstrates that intrauterine transfusion in one fetus can lead to significant intertwin blood transfer, necessitating careful, individualized monitoring of both fetuses during and after intervention.",
+          "vi": "Báo cáo này làm rõ ý nghĩa lâm sàng của các cầu nối mạch máu bánh nhau ở song thai MCDA bị thiếu máu do nhiễm parvovirus B19. Nghiên cứu chứng minh rằng việc truyền máu trong tử cung cho một thai nhi có thể dẫn đến sự trao đổi máu đáng kể giữa hai thai, đòi hỏi sự theo dõi sát sao và cá thể hóa cho cả hai thai nhi trong và sau can thiệp."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "asset-rights-note",
+      "sentences": [
+        {
+          "id": "asset-note-1",
+          "en": "Original figures and tables are not reproduced; consult the cited source for those assets.",
+          "vi": "Không tái sử dụng hình và bảng gốc; muốn xem các tài sản đó, hãy mở nguồn đã trích dẫn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-1",
+      "sentences": [
+        {
+          "id": "point-1",
+          "en": "Parvovirus B19 infection in MCDA twins can induce severe, concurrent fetal anemia.",
+          "vi": "Nhiễm parvovirus B19 ở song thai MCDA có thể gây ra tình trạng thiếu máu thai nhi nghiêm trọng và đồng thời."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-2",
+      "sentences": [
+        {
+          "id": "point-2",
+          "en": "Intertwin vascular connections, specifically large arterio-arterial anastomoses, facilitate rapid blood exchange.",
+          "vi": "Các kết nối mạch máu giữa hai thai, đặc biệt là cầu nối động-động lớn, tạo điều kiện cho sự trao đổi máu nhanh chóng."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-3",
+      "sentences": [
+        {
+          "id": "point-3",
+          "en": "Intrauterine transfusion in one twin may spontaneously improve hemoglobin levels in the co-twin.",
+          "vi": "Truyền máu trong tử cung cho một thai nhi có thể làm cải thiện nồng độ hemoglobin tự phát ở thai còn lại."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-4",
+      "sentences": [
+        {
+          "id": "point-4",
+          "en": "Prenatal imaging may fail to identify all significant placental vascular anastomoses.",
+          "vi": "Chẩn đoán hình ảnh trước sinh có thể không phát hiện được tất cả các cầu nối mạch máu bánh nhau quan trọng."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-5",
+      "sentences": [
+        {
+          "id": "point-5",
+          "en": "Individualized assessment of both fetuses is mandatory before and after any intrauterine transfusion procedure.",
+          "vi": "Việc đánh giá riêng biệt cho cả hai thai nhi là bắt buộc trước và sau bất kỳ thủ thuật truyền máu trong tử cung nào."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-evidence",
+      "en": "Evidence",
+      "vi": "Bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-evidence",
+      "sentences": [
+        {
+          "id": "section-sentence-evidence",
+          "en": "A case study of an MCDA pregnancy at 21+6 weeks gestation with severe fetal anemia (hemoglobin 3 g/dL) in both fetuses due to parvovirus B19, confirmed by MCA-PSV elevation (2.32 MoM and 2.30 MoM).",
+          "vi": "Một ca lâm sàng song thai MCDA ở tuổi thai 21+6 tuần với tình trạng thiếu máu thai nhi nghiêm trọng (hemoglobin 3 g/dL) ở cả hai thai do parvovirus B19, được xác nhận qua chỉ số MCA-PSV tăng cao (2,32 MoM và 2,30 MoM)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-summary",
+      "en": "Summary",
+      "vi": "Tóm tắt"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-summary",
+      "sentences": [
+        {
+          "id": "section-sentence-summary",
+          "en": "The study documents a spontaneous hemoglobin rise in one twin following the transfusion of the other, confirming the functional impact of hidden placental arterio-arterial anastomoses.",
+          "vi": "Nghiên cứu ghi nhận sự gia tăng nồng độ hemoglobin tự phát ở một thai nhi sau khi truyền máu cho thai nhi kia, xác nhận tác động chức năng của các cầu nối động-động bánh nhau không được phát hiện trước đó."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-scope",
+      "en": "Scope",
+      "vi": "Phạm vi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-scope",
+      "sentences": [
+        {
+          "id": "section-sentence-scope",
+          "en": "The findings are specific to MCDA twin pregnancies complicated by parvovirus B19-induced anemia and the presence of significant placental vascular anastomoses.",
+          "vi": "Các phát hiện này đặc thù cho thai kỳ song thai MCDA bị biến chứng thiếu máu do parvovirus B19 và sự hiện diện của các cầu nối mạch máu bánh nhau đáng kể."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-mechanism_risk",
+      "en": "Mechanism and Risk",
+      "vi": "Cơ chế và Nguy cơ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-mechanism_risk",
+      "sentences": [
+        {
+          "id": "section-sentence-mechanism_risk",
+          "en": "Large arterio-arterial anastomoses, similar to those found in TTTS, allow for rapid intertwin blood exchange. This poses a risk of unpredictable hemodynamic shifts during intrauterine interventions.",
+          "vi": "Các cầu nối động-động lớn, tương tự như trong hội chứng truyền máu song thai (TTTS), cho phép sự trao đổi máu nhanh chóng giữa hai thai. Điều này gây ra nguy cơ thay đổi huyết động không thể dự đoán trước trong các can thiệp trong tử cung."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-diagnosis",
+      "en": "Diagnosis",
+      "vi": "Chẩn đoán"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-diagnosis",
+      "sentences": [
+        {
+          "id": "section-sentence-diagnosis",
+          "en": "Diagnosis involved monitoring MCA-PSV and identifying polyhydramnios and ascites. Postnatal diagnosis of the anastomosis was confirmed via dye injection into the placenta.",
+          "vi": "Chẩn đoán bao gồm theo dõi MCA-PSV và xác định tình trạng đa ối và cổ trướng. Chẩn đoán xác định cầu nối sau sinh được thực hiện thông qua kỹ thuật bơm thuốc nhuộm vào bánh nhau."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-management",
+      "en": "Management",
+      "vi": "Quản lý"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-management",
+      "sentences": [
+        {
+          "id": "section-sentence-management",
+          "en": "Intrauterine transfusion was performed at 22+1 weeks. Subsequent management required minimal additional transfusion for the co-twin and monitoring for preeclampsia.",
+          "vi": "Truyền máu trong tử cung được thực hiện ở tuần thai 22+1. Quản lý tiếp theo yêu cầu truyền máu bổ sung tối thiểu cho thai còn lại và theo dõi tiền sản giật."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-complications_followup",
+      "en": "Complications and Follow-up",
+      "vi": "Biến chứng và Theo dõi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-complications_followup",
+      "sentences": [
+        {
+          "id": "section-sentence-complications_followup",
+          "en": "The pregnancy was complicated by preeclampsia without severe features. Vaginal delivery occurred at 36+3 weeks with normal neonatal hemoglobin levels.",
+          "vi": "Thai kỳ có biến chứng tiền sản giật không kèm dấu hiệu nặng. Sinh ngả âm đạo diễn ra ở tuần 36+3 với nồng độ hemoglobin sơ sinh bình thường."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-references_glossary",
+      "en": "References and Glossary",
+      "vi": "Tài liệu tham khảo và Thuật ngữ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-references_glossary",
+      "sentences": [
+        {
+          "id": "section-sentence-references_glossary",
+          "en": "MCDA: Monochorionic Diamniotic; MCA-PSV: Middle Cerebral Artery Peak Systolic Velocity; MoM: Multiples of the Median; TTTS: Twin-to-Twin Transfusion Syndrome.",
+          "vi": "MCDA: Song thai chung một bánh nhau, hai buồng ối; MCA-PSV: Vận tốc đỉnh tâm thu động mạch não giữa; MoM: Số lần trung vị; TTTS: Hội chứng truyền máu song thai."
+        }
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": {},
+  "assistant_context": {
+    "visibility": "assistant_only",
+    "schema_version": "momdiary_assistant_context_v1",
+    "title": {
+      "en": "Intrauterine transfusion in monochorionic twins with parvovirus B19 infection: Evidence of intertwin blood exchange",
+      "vi": "Truyền máu trong tử cung ở song thai chung một bánh nhau nhiễm parvovirus B19: Bằng chứng y học về sự trao đổi máu giữa hai thai nhi"
+    },
+    "summary": {
+      "en": "This report highlights the clinical implications of placental vascular anastomoses in monochorionic diamniotic (MCDA) twins affected by parvovirus B19-induced anemia. The study demonstrates that intrauterine transfusion in one fetus can lead to significant intertwin blood transfer, necessitating careful, individualized monitoring of both fetuses during and after intervention.",
+      "vi": "Báo cáo này làm rõ ý nghĩa lâm sàng của các cầu nối mạch máu bánh nhau ở song thai MCDA bị thiếu máu do nhiễm parvovirus B19. Nghiên cứu chứng minh rằng việc truyền máu trong tử cung cho một thai nhi có thể dẫn đến sự trao đổi máu đáng kể giữa hai thai, đòi hỏi sự theo dõi sát sao và cá thể hóa cho cả hai thai nhi trong và sau can thiệp."
+    },
+    "key_points": [
+      {
+        "en": "Parvovirus B19 infection in MCDA twins can induce severe, concurrent fetal anemia.",
+        "vi": "Nhiễm parvovirus B19 ở song thai MCDA có thể gây ra tình trạng thiếu máu thai nhi nghiêm trọng và đồng thời."
+      },
+      {
+        "en": "Intertwin vascular connections, specifically large arterio-arterial anastomoses, facilitate rapid blood exchange.",
+        "vi": "Các kết nối mạch máu giữa hai thai, đặc biệt là cầu nối động-động lớn, tạo điều kiện cho sự trao đổi máu nhanh chóng."
+      },
+      {
+        "en": "Intrauterine transfusion in one twin may spontaneously improve hemoglobin levels in the co-twin.",
+        "vi": "Truyền máu trong tử cung cho một thai nhi có thể làm cải thiện nồng độ hemoglobin tự phát ở thai còn lại."
+      },
+      {
+        "en": "Prenatal imaging may fail to identify all significant placental vascular anastomoses.",
+        "vi": "Chẩn đoán hình ảnh trước sinh có thể không phát hiện được tất cả các cầu nối mạch máu bánh nhau quan trọng."
+      },
+      {
+        "en": "Individualized assessment of both fetuses is mandatory before and after any intrauterine transfusion procedure.",
+        "vi": "Việc đánh giá riêng biệt cho cả hai thai nhi là bắt buộc trước và sau bất kỳ thủ thuật truyền máu trong tử cung nào."
+      }
+    ],
+    "scope": {
+      "en": "See the cited source and full bilingual article for population and limitations.",
+      "vi": "Xem nguồn trích dẫn và toàn văn song ngữ để biết quần thể và giới hạn."
+    },
+    "provenance": {
+      "article_id": "pmc13565334",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13565334&blobtype=pdf",
+      "publication_route": "rewrite_citation",
+      "generated_by": "AI Minh Translate + AN read-only context",
+      "generated_at": "2026-10-12T02:39:09"
+    }
+  }
+}

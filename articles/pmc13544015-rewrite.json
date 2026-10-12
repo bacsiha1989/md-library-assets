@@ -1,0 +1,325 @@
+{
+  "id": "pmc13544015",
+  "title": {
+    "en": "Modulation of oxidative stress and angiogenic pathways by natural compounds in experimental preeclampsia: A narrative review focusing on MDA, sFlt-1, and PlGF",
+    "vi": "Điều hòa stress oxy hóa và các con đường tạo mạch bởi các hợp chất tự nhiên trong tiền sản giật thực nghiệm: Một bài tổng quan tường thuật tập trung vào MDA, Soluble fms-like tyrosine kinase-1 (sFlt-1) và Placental Growth Factor (PlGF)"
+  },
+  "title_en": "Modulation of oxidative stress and angiogenic pathways by natural compounds in experimental preeclampsia: A narrative review focusing on MDA, sFlt-1, and PlGF",
+  "title_vi": "Điều hòa stress oxy hóa và các con đường tạo mạch bởi các hợp chất tự nhiên trong tiền sản giật thực nghiệm: Một bài tổng quan tường thuật tập trung vào MDA, sFlt-1 (Soluble fms-like tyrosine kinase-1) và PlGF (Placental Growth Factor)",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản phụ khoa & Y học Bào thai",
+  "metadata": {
+    "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13544015&blobtype=pdf",
+    "license": "cc-by-nc",
+    "license_url": "",
+    "license_decision": {
+      "allowed": false,
+      "status": "block_noncommercial_policy",
+      "route": "rewrite_citation",
+      "license": "cc-by-nc",
+      "license_url": "",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13544015&blobtype=pdf",
+      "reason": "Nguồn chỉ cho phép phi thương mại; không dịch nguyên văn, chuyển sang tổng hợp nguyên bản và trích dẫn.",
+      "can_translate": false,
+      "can_publish_public": true,
+      "can_synthesize": true,
+      "can_reuse_figures": false,
+      "must_cite_source": true,
+      "copy_verbatim": false
+    },
+    "publication_route": "rewrite_citation",
+    "section_schema": "momdiary_clinical_evidence_v1",
+    "figures_reused": 0,
+    "tables_reused": 0,
+    "updated_at": "2026-10-12 02:38:48",
+    "medical_board_review": {
+      "enabled": true,
+      "status": "approved",
+      "reviewed_by": "Hội đồng y khoa MomDiary Clinical AI Engine"
+    }
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "citation-header",
+      "sentences": [
+        {
+          "id": "cit-meta-1",
+          "en": "Source for this original synthesis: Modulation of oxidative stress and angiogenic pathways by natural compounds in experimental preeclampsia: A narrative review focusing on MDA, sFlt-1, and PlGF.",
+          "vi": "Nguồn của bản tổng hợp nguyên bản này: Modulation of oxidative stress and angiogenic pathways by natural compounds in experimental preeclampsia: A narrative review focusing on MDA, sFlt-1, and PlGF."
+        },
+        {
+          "id": "cit-meta-2",
+          "en": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13544015&blobtype=pdf | Licence: cc-by-nc",
+          "vi": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13544015&blobtype=pdf | Licence: cc-by-nc"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "synthesis-heading",
+      "en": "Original clinical synthesis",
+      "vi": "Tổng hợp lâm sàng nguyên bản"
+    },
+    {
+      "type": "paragraph",
+      "id": "synthesis-summary",
+      "sentences": [
+        {
+          "id": "summary-1",
+          "en": "This narrative review evaluates the impact of various natural compounds on oxidative stress and angiogenic markers in preeclampsia animal models. Findings indicate that these interventions may mitigate placental ischemia-related pathology by lowering malondialdehyde (MDA) and soluble fms-like tyrosine kinase-1 (sFlt-1) while promoting placental growth factor (PlGF) expression.",
+          "vi": "Bài tổng quan này đánh giá tác động của các hợp chất tự nhiên lên tình trạng stress oxy hóa và các dấu ấn sinh học mạch máu trong mô hình tiền sản giật trên động vật. Kết quả cho thấy các can thiệp này có khả năng cải thiện bệnh lý do thiếu máu cục bộ bánh nhau thông qua việc giảm nồng độ malondialdehyde (MDA) và sFlt-1, đồng thời thúc đẩy biểu hiện của yếu tố tăng trưởng bánh nhau (PlGF)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "asset-rights-note",
+      "sentences": [
+        {
+          "id": "asset-note-1",
+          "en": "Original figures and tables are not reproduced; consult the cited source for those assets.",
+          "vi": "Không tái sử dụng hình và bảng gốc; muốn xem các tài sản đó, hãy mở nguồn đã trích dẫn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-1",
+      "sentences": [
+        {
+          "id": "point-1",
+          "en": "Natural compounds demonstrate potential in modulating oxidative stress and angiogenic pathways in experimental preeclampsia.",
+          "vi": "Các hợp chất tự nhiên cho thấy tiềm năng điều hòa stress oxy hóa và các con đường tạo mạch trong mô hình tiền sản giật thực nghiệm."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-2",
+      "sentences": [
+        {
+          "id": "point-2",
+          "en": "Interventions consistently reduced MDA levels, reflecting a decrease in systemic oxidative stress.",
+          "vi": "Các can thiệp giúp giảm ổn định nồng độ MDA, phản ánh sự suy giảm tình trạng stress oxy hóa toàn thân."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-3",
+      "sentences": [
+        {
+          "id": "point-3",
+          "en": "Reduction of sFlt-1 and elevation of PlGF suggest a restoration of the angiogenic balance essential for placental health.",
+          "vi": "Việc giảm sFlt-1 và tăng PlGF gợi ý sự phục hồi cân bằng tạo mạch, yếu tố thiết yếu cho sức khỏe bánh nhau."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-4",
+      "sentences": [
+        {
+          "id": "point-4",
+          "en": "Observed benefits include improved placental morphology, blood pressure regulation, and fetal outcomes in animal models.",
+          "vi": "Các lợi ích ghi nhận bao gồm cải thiện hình thái bánh nhau, điều hòa huyết áp và kết cục thai nhi trên mô hình động vật."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-5",
+      "sentences": [
+        {
+          "id": "point-5",
+          "en": "Clinical translation remains premature; human trials are required to validate efficacy and safety.",
+          "vi": "Việc ứng dụng lâm sàng còn quá sớm; cần các thử nghiệm trên người để xác nhận hiệu quả và độ an toàn."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-evidence",
+      "en": "Evidence Base",
+      "vi": "Cơ sở bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-evidence",
+      "sentences": [
+        {
+          "id": "section-sentence-evidence",
+          "en": "A narrative review of nine experimental animal studies published between 2016 and 2026, utilizing the Joanna Briggs Institute framework for quality assessment.",
+          "vi": "Tổng quan tường thuật dựa trên chín nghiên cứu thực nghiệm trên động vật được công bố từ năm 2016 đến 2026, sử dụng khung đánh giá chất lượng của Viện Joanna Briggs."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-summary",
+      "en": "Summary of Findings",
+      "vi": "Tóm tắt kết quả"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-summary",
+      "sentences": [
+        {
+          "id": "section-sentence-summary",
+          "en": "Natural compounds, including Astragalus spp., pomegranate, and others, showed efficacy in correcting angiogenic imbalance and oxidative stress markers in preeclampsia models.",
+          "vi": "Các hợp chất tự nhiên, bao gồm Astragalus spp., lựu và các loại khác, cho thấy hiệu quả trong việc điều chỉnh sự mất cân bằng tạo mạch và các dấu ấn stress oxy hóa trong các mô hình tiền sản giật."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-scope",
+      "en": "Scope of Interventions",
+      "vi": "Phạm vi can thiệp"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-scope",
+      "sentences": [
+        {
+          "id": "section-sentence-scope",
+          "en": "The review covered diverse botanical extracts such as young kopyor coconut water, soybean tempeh, Cosmos caudatus, Nigella sativa, Puerariae lobatae Radix, and olive leaf extract.",
+          "vi": "Bài tổng quan bao phủ các chiết xuất thực vật đa dạng như nước dừa kopyor non, tempeh đậu nành, chiết xuất Cosmos caudatus, Nigella sativa, Puerariae lobatae Radix và chiết xuất lá ô liu."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-mechanism_risk",
+      "en": "Mechanism and Pathophysiology",
+      "vi": "Cơ chế và Sinh lý bệnh"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-mechanism_risk",
+      "sentences": [
+        {
+          "id": "section-sentence-mechanism_risk",
+          "en": "Preeclampsia involves chronic placental ischemia due to impaired trophoblast invasion. Interventions target the reduction of anti-angiogenic sFlt-1 and oxidative marker MDA, while enhancing PlGF to support vascular development.",
+          "vi": "Tiền sản giật liên quan đến tình trạng thiếu máu cục bộ bánh nhau mạn tính do sự xâm nhập của nguyên bào nuôi bị khiếm khuyết. Các can thiệp nhắm vào việc giảm tác nhân chống tạo mạch sFlt-1 và dấu ấn oxy hóa MDA, đồng thời tăng cường PlGF để hỗ trợ sự phát triển mạch máu."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-diagnosis",
+      "en": "Diagnostic Markers",
+      "vi": "Dấu ấn chẩn đoán"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-diagnosis",
+      "sentences": [
+        {
+          "id": "section-sentence-diagnosis",
+          "en": "The study focused on MDA, sFlt-1, and PlGF as key biomarkers for monitoring the severity of experimental preeclampsia and the response to natural compound therapy.",
+          "vi": "Nghiên cứu tập trung vào MDA, sFlt-1 và PlGF như các dấu ấn sinh học then chốt để theo dõi mức độ nghiêm trọng của tiền sản giật thực nghiệm và đáp ứng với liệu pháp hợp chất tự nhiên."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-management",
+      "en": "Management Potential",
+      "vi": "Tiềm năng quản lý"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-management",
+      "sentences": [
+        {
+          "id": "section-sentence-management",
+          "en": "Natural compounds are proposed as potential adjunctive therapies to improve placental morphology, proteinuria, and blood pressure control in preeclampsia.",
+          "vi": "Các hợp chất tự nhiên được đề xuất như liệu pháp bổ trợ tiềm năng nhằm cải thiện hình thái bánh nhau, tình trạng protein niệu và kiểm soát huyết áp trong tiền sản giật."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-complications_followup",
+      "en": "Complications and Follow-up",
+      "vi": "Biến chứng và Theo dõi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-complications_followup",
+      "sentences": [
+        {
+          "id": "section-sentence-complications_followup",
+          "en": "Not reported in the abstract.",
+          "vi": "Chưa được báo cáo trong abstract."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-references_glossary",
+      "en": "References and Glossary",
+      "vi": "Tài liệu tham khảo và Thuật ngữ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-references_glossary",
+      "sentences": [
+        {
+          "id": "section-sentence-references_glossary",
+          "en": "The review highlights the need for further mechanistic studies and human clinical trials to confirm the safety and efficacy of these natural interventions.",
+          "vi": "Bài tổng quan nhấn mạnh nhu cầu thực hiện thêm các nghiên cứu cơ chế và thử nghiệm lâm sàng trên người để xác nhận tính an toàn và hiệu quả của các can thiệp tự nhiên này."
+        }
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": {},
+  "assistant_context": {
+    "visibility": "assistant_only",
+    "schema_version": "momdiary_assistant_context_v1",
+    "title": {
+      "en": "Modulation of oxidative stress and angiogenic pathways by natural compounds in experimental preeclampsia: A narrative review focusing on MDA, sFlt-1, and PlGF",
+      "vi": "Điều hòa stress oxy hóa và các con đường tạo mạch bởi các hợp chất tự nhiên trong tiền sản giật thực nghiệm: Một bài tổng quan tường thuật tập trung vào MDA, Soluble fms-like tyrosine kinase-1 (sFlt-1) và Placental Growth Factor (PlGF)"
+    },
+    "summary": {
+      "en": "This narrative review evaluates the impact of various natural compounds on oxidative stress and angiogenic markers in preeclampsia animal models. Findings indicate that these interventions may mitigate placental ischemia-related pathology by lowering malondialdehyde (MDA) and soluble fms-like tyrosine kinase-1 (sFlt-1) while promoting placental growth factor (PlGF) expression.",
+      "vi": "Bài tổng quan này đánh giá tác động của các hợp chất tự nhiên lên tình trạng stress oxy hóa và các dấu ấn sinh học mạch máu trong mô hình tiền sản giật trên động vật. Kết quả cho thấy các can thiệp này có khả năng cải thiện bệnh lý do thiếu máu cục bộ bánh nhau thông qua việc giảm nồng độ malondialdehyde (MDA) và sFlt-1, đồng thời thúc đẩy biểu hiện của yếu tố tăng trưởng bánh nhau (PlGF)."
+    },
+    "key_points": [
+      {
+        "en": "Natural compounds demonstrate potential in modulating oxidative stress and angiogenic pathways in experimental preeclampsia.",
+        "vi": "Các hợp chất tự nhiên cho thấy tiềm năng điều hòa stress oxy hóa và các con đường tạo mạch trong mô hình tiền sản giật thực nghiệm."
+      },
+      {
+        "en": "Interventions consistently reduced MDA levels, reflecting a decrease in systemic oxidative stress.",
+        "vi": "Các can thiệp giúp giảm ổn định nồng độ MDA, phản ánh sự suy giảm tình trạng stress oxy hóa toàn thân."
+      },
+      {
+        "en": "Reduction of sFlt-1 and elevation of PlGF suggest a restoration of the angiogenic balance essential for placental health.",
+        "vi": "Việc giảm sFlt-1 và tăng PlGF gợi ý sự phục hồi cân bằng tạo mạch, yếu tố thiết yếu cho sức khỏe bánh nhau."
+      },
+      {
+        "en": "Observed benefits include improved placental morphology, blood pressure regulation, and fetal outcomes in animal models.",
+        "vi": "Các lợi ích ghi nhận bao gồm cải thiện hình thái bánh nhau, điều hòa huyết áp và kết cục thai nhi trên mô hình động vật."
+      },
+      {
+        "en": "Clinical translation remains premature; human trials are required to validate efficacy and safety.",
+        "vi": "Việc ứng dụng lâm sàng còn quá sớm; cần các thử nghiệm trên người để xác nhận hiệu quả và độ an toàn."
+      }
+    ],
+    "scope": {
+      "en": "See the cited source and full bilingual article for population and limitations.",
+      "vi": "Xem nguồn trích dẫn và toàn văn song ngữ để biết quần thể và giới hạn."
+    },
+    "provenance": {
+      "article_id": "pmc13544015",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13544015&blobtype=pdf",
+      "publication_route": "rewrite_citation",
+      "generated_by": "AI Minh Translate + AN read-only context",
+      "generated_at": "2026-10-12T02:38:48"
+    }
+  }
+}

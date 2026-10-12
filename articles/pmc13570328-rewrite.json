@@ -1,0 +1,325 @@
+{
+  "id": "pmc13570328",
+  "title": {
+    "en": "Characteristics and outcomes of monochorionic diamniotic twin pregnancies complicated by selective fetal growth restriction with intermittent absent end diastolic flow",
+    "vi": "Đặc điểm và kết cục thai kỳ của các trường hợp song thai một bánh nhau hai buồng ối có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc kèm dòng chảy cuối tâm trương vắng mặt từng đợt"
+  },
+  "title_en": "Characteristics and outcomes of monochorionic diamniotic twin pregnancies complicated by selective fetal growth restriction with intermittent absent end diastolic flow",
+  "title_vi": "Đặc điểm và kết cục thai kỳ của các trường hợp song thai một bánh nhau hai buồng ối có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc kèm dòng chảy cuối tâm trương vắng mặt từng đợt",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản phụ khoa & Y học Bào thai",
+  "metadata": {
+    "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13570328&blobtype=pdf",
+    "license": "cc-by-nc-nd",
+    "license_url": "",
+    "license_decision": {
+      "allowed": false,
+      "status": "block_no_derivatives",
+      "route": "block",
+      "license": "cc-by-nc-nd",
+      "license_url": "",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13570328&blobtype=pdf",
+      "reason": "Giấy phép cấm tác phẩm phái sinh; không dịch hoặc viết lại tự động.",
+      "can_translate": false,
+      "can_publish_public": false,
+      "can_synthesize": false,
+      "can_reuse_figures": false,
+      "must_cite_source": true,
+      "copy_verbatim": false
+    },
+    "publication_route": "rewrite_citation",
+    "section_schema": "momdiary_clinical_evidence_v1",
+    "figures_reused": 0,
+    "tables_reused": 0,
+    "updated_at": "2026-10-12 02:37:51",
+    "medical_board_review": {
+      "enabled": true,
+      "status": "approved",
+      "reviewed_by": "Hội đồng y khoa MomDiary Clinical AI Engine"
+    }
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "citation-header",
+      "sentences": [
+        {
+          "id": "cit-meta-1",
+          "en": "Source for this original synthesis: Characteristics and outcomes of monochorionic diamniotic twin pregnancies complicated by selective fetal growth restriction with intermittent absent end diastolic flow.",
+          "vi": "Nguồn của bản tổng hợp nguyên bản này: Characteristics and outcomes of monochorionic diamniotic twin pregnancies complicated by selective fetal growth restriction with intermittent absent end diastolic flow."
+        },
+        {
+          "id": "cit-meta-2",
+          "en": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13570328&blobtype=pdf | Licence: cc-by-nc-nd",
+          "vi": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13570328&blobtype=pdf | Licence: cc-by-nc-nd"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "synthesis-heading",
+      "en": "Original clinical synthesis",
+      "vi": "Tổng hợp lâm sàng nguyên bản"
+    },
+    {
+      "type": "paragraph",
+      "id": "synthesis-summary",
+      "sentences": [
+        {
+          "id": "summary-1",
+          "en": "This retrospective study of 330 monochorionic diamniotic pregnancies with selective fetal growth restriction (sFGR) evaluates the clinical significance of intermittent umbilical artery Doppler patterns. Findings suggest that pregnancies with intermittent absent end-diastolic flow (iAEDF) exhibit distinct clinical trajectories and outcomes, more closely resembling those with persistent forward flow than those with intermittent reversed flow.",
+          "vi": "Nghiên cứu hồi cứu trên 330 thai kỳ song thai một bánh nhau hai buồng ối có thai chậm tăng trưởng trong tử cung (FGR) chọn lọc nhằm đánh giá ý nghĩa lâm sàng của các dạng phổ Doppler động mạch rốn không liên tục. Kết quả cho thấy các thai kỳ có dòng chảy cuối tâm trương vắng mặt không liên tục (iAEDF) biểu hiện các đặc điểm lâm sàng và kết cục riêng biệt, có xu hướng tương đồng với nhóm có dòng chảy xuôi chiều liên tục hơn là nhóm có dòng chảy đảo ngược không liên tục."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "asset-rights-note",
+      "sentences": [
+        {
+          "id": "asset-note-1",
+          "en": "Original figures and tables are not reproduced; consult the cited source for those assets.",
+          "vi": "Không tái sử dụng hình và bảng gốc; muốn xem các tài sản đó, hãy mở nguồn đã trích dẫn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-1",
+      "sentences": [
+        {
+          "id": "point-1",
+          "en": "sFGR in monochorionic twins is classified into four types based on umbilical artery Doppler flow patterns.",
+          "vi": "FGR chọn lọc ở song thai một bánh nhau được phân loại thành bốn nhóm dựa trên dạng phổ Doppler động mạch rốn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-2",
+      "sentences": [
+        {
+          "id": "point-2",
+          "en": "Type IIIa (iAEDF) pregnancies demonstrate delivery gestational ages comparable to Type I (persistent forward flow).",
+          "vi": "Thai kỳ nhóm IIIa (iAEDF) có tuổi thai lúc sinh tương đương với nhóm I (dòng chảy xuôi chiều liên tục)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-3",
+      "sentences": [
+        {
+          "id": "point-3",
+          "en": "Type II and Type IIIb cohorts experience significantly earlier delivery compared to Type I and Type IIIa.",
+          "vi": "Các nhóm II và IIIb có tuổi thai lúc sinh sớm hơn đáng kể so với nhóm I và IIIa."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-4",
+      "sentences": [
+        {
+          "id": "point-4",
+          "en": "Dual survival rates for Type IIIa and IIIb are not significantly different from Type I in expectantly managed cases.",
+          "vi": "Tỷ lệ sống sót của cả hai thai nhi ở nhóm IIIa và IIIb không khác biệt đáng kể so với nhóm I trong các trường hợp quản lý kỳ vọng."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-5",
+      "sentences": [
+        {
+          "id": "point-5",
+          "en": "iAEDF represents a distinct clinical cohort that warrants separate consideration from iAREDF in management strategies.",
+          "vi": "iAEDF đại diện cho một nhóm lâm sàng riêng biệt, cần được xem xét tách biệt với iAREDF trong các chiến lược quản lý."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-evidence",
+      "en": "Evidence Base",
+      "vi": "Cơ sở bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-evidence",
+      "sentences": [
+        {
+          "id": "section-sentence-evidence",
+          "en": "Retrospective analysis of 330 monochorionic diamniotic twin pregnancies with sFGR, evaluated between 2013 and 2024, categorized by Delphi-based consensus criteria.",
+          "vi": "Phân tích hồi cứu trên 330 thai kỳ song thai một bánh nhau hai buồng ối có FGR chọn lọc, được đánh giá từ năm 2013 đến 2024, phân loại theo tiêu chuẩn đồng thuận Delphi."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-summary",
+      "en": "Clinical Summary",
+      "vi": "Tóm tắt lâm sàng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-summary",
+      "sentences": [
+        {
+          "id": "section-sentence-summary",
+          "en": "The study identifies iAEDF (Type IIIa) as a unique clinical entity with outcomes distinct from iAREDF (Type IIIb), suggesting that intermittent flow patterns are not a homogenous group.",
+          "vi": "Nghiên cứu xác định iAEDF (nhóm IIIa) là một thực thể lâm sàng riêng biệt với các kết cục khác với iAREDF (nhóm IIIb), cho thấy các dạng dòng chảy không liên tục không phải là một nhóm đồng nhất."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-scope",
+      "en": "Scope of Study",
+      "vi": "Phạm vi nghiên cứu"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-scope",
+      "sentences": [
+        {
+          "id": "section-sentence-scope",
+          "en": "The cohort included 114 Type I, 70 Type II, 90 Type IIIa, and 56 Type IIIb cases, focusing on gestational age at delivery and dual survival rates.",
+          "vi": "Nhóm nghiên cứu bao gồm 114 ca nhóm I, 70 ca nhóm II, 90 ca nhóm IIIa và 56 ca nhóm IIIb, tập trung vào tuổi thai lúc sinh và tỷ lệ sống sót của cả hai thai nhi."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-mechanism_risk",
+      "en": "Mechanism and Risk Factors",
+      "vi": "Cơ chế và yếu tố nguy cơ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-mechanism_risk",
+      "sentences": [
+        {
+          "id": "section-sentence-mechanism_risk",
+          "en": "Intermittent flow changes are hypothesized to be influenced by placental anastomoses, distinguishing them from persistent flow abnormalities caused by placental insufficiency.",
+          "vi": "Các thay đổi dòng chảy không liên tục được giả thuyết là chịu ảnh hưởng bởi các miệng nối mạch máu bánh nhau, phân biệt với các bất thường dòng chảy liên tục do suy giảm vận chuyển qua bánh nhau."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-diagnosis",
+      "en": "Diagnosis",
+      "vi": "Chẩn đoán"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-diagnosis",
+      "sentences": [
+        {
+          "id": "section-sentence-diagnosis",
+          "en": "Diagnosis relies on umbilical artery Doppler assessment, classifying sFGR into Type I (+EDF), Type II (A/REDF), Type IIIa (iAEDF), and Type IIIb (iAREDF).",
+          "vi": "Chẩn đoán dựa trên đánh giá Doppler động mạch rốn, phân loại FGR chọn lọc thành nhóm I (+EDF), nhóm II (A/REDF), nhóm IIIa (iAEDF) và nhóm IIIb (iAREDF)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-management",
+      "en": "Management",
+      "vi": "Quản lý"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-management",
+      "sentences": [
+        {
+          "id": "section-sentence-management",
+          "en": "Expectant management was analyzed; fetal intervention was more frequent in cases with any absent or reversed EDF compared to persistent forward flow.",
+          "vi": "Quản lý kỳ vọng đã được phân tích; can thiệp thai nhi thường xuyên hơn ở các trường hợp có dòng chảy vắng mặt hoặc đảo ngược so với dòng chảy xuôi chiều liên tục."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-complications_followup",
+      "en": "Complications and Follow-up",
+      "vi": "Biến chứng và theo dõi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-complications_followup",
+      "sentences": [
+        {
+          "id": "section-sentence-complications_followup",
+          "en": "Median gestational age at delivery was significantly lower in Type II (27.4 weeks) and Type IIIb (29.1 weeks) compared to Type I (32.5 weeks) and Type IIIa (32.4 weeks).",
+          "vi": "Tuổi thai trung vị lúc sinh thấp hơn đáng kể ở nhóm II (27,4 tuần) và nhóm IIIb (29,1 tuần) so với nhóm I (32,5 tuần) và nhóm IIIa (32,4 tuần)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-references_glossary",
+      "en": "References and Glossary",
+      "vi": "Tài liệu tham khảo và Thuật ngữ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-references_glossary",
+      "sentences": [
+        {
+          "id": "section-sentence-references_glossary",
+          "en": "sFGR: selective fetal growth restriction; iAEDF: intermittent absent end-diastolic flow; iAREDF: intermittent absent and reversed end-diastolic flow; EDF: end-diastolic flow.",
+          "vi": "FGR chọn lọc: Thai chậm tăng trưởng trong tử cung chọn lọc; iAEDF: Dòng chảy cuối tâm trương vắng mặt không liên tục; iAREDF: Dòng chảy cuối tâm trương vắng mặt và đảo ngược không liên tục; EDF: Dòng chảy cuối tâm trương."
+        }
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": {},
+  "assistant_context": {
+    "visibility": "assistant_only",
+    "schema_version": "momdiary_assistant_context_v1",
+    "title": {
+      "en": "Characteristics and outcomes of monochorionic diamniotic twin pregnancies complicated by selective fetal growth restriction with intermittent absent end diastolic flow",
+      "vi": "Đặc điểm và kết cục thai kỳ của các trường hợp song thai một bánh nhau hai buồng ối có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc kèm dòng chảy cuối tâm trương vắng mặt từng đợt"
+    },
+    "summary": {
+      "en": "This retrospective study of 330 monochorionic diamniotic pregnancies with selective fetal growth restriction (sFGR) evaluates the clinical significance of intermittent umbilical artery Doppler patterns. Findings suggest that pregnancies with intermittent absent end-diastolic flow (iAEDF) exhibit distinct clinical trajectories and outcomes, more closely resembling those with persistent forward flow than those with intermittent reversed flow.",
+      "vi": "Nghiên cứu hồi cứu trên 330 thai kỳ song thai một bánh nhau hai buồng ối có thai chậm tăng trưởng trong tử cung (FGR) chọn lọc nhằm đánh giá ý nghĩa lâm sàng của các dạng phổ Doppler động mạch rốn không liên tục. Kết quả cho thấy các thai kỳ có dòng chảy cuối tâm trương vắng mặt không liên tục (iAEDF) biểu hiện các đặc điểm lâm sàng và kết cục riêng biệt, có xu hướng tương đồng với nhóm có dòng chảy xuôi chiều liên tục hơn là nhóm có dòng chảy đảo ngược không liên tục."
+    },
+    "key_points": [
+      {
+        "en": "sFGR in monochorionic twins is classified into four types based on umbilical artery Doppler flow patterns.",
+        "vi": "FGR chọn lọc ở song thai một bánh nhau được phân loại thành bốn nhóm dựa trên dạng phổ Doppler động mạch rốn."
+      },
+      {
+        "en": "Type IIIa (iAEDF) pregnancies demonstrate delivery gestational ages comparable to Type I (persistent forward flow).",
+        "vi": "Thai kỳ nhóm IIIa (iAEDF) có tuổi thai lúc sinh tương đương với nhóm I (dòng chảy xuôi chiều liên tục)."
+      },
+      {
+        "en": "Type II and Type IIIb cohorts experience significantly earlier delivery compared to Type I and Type IIIa.",
+        "vi": "Các nhóm II và IIIb có tuổi thai lúc sinh sớm hơn đáng kể so với nhóm I và IIIa."
+      },
+      {
+        "en": "Dual survival rates for Type IIIa and IIIb are not significantly different from Type I in expectantly managed cases.",
+        "vi": "Tỷ lệ sống sót của cả hai thai nhi ở nhóm IIIa và IIIb không khác biệt đáng kể so với nhóm I trong các trường hợp quản lý kỳ vọng."
+      },
+      {
+        "en": "iAEDF represents a distinct clinical cohort that warrants separate consideration from iAREDF in management strategies.",
+        "vi": "iAEDF đại diện cho một nhóm lâm sàng riêng biệt, cần được xem xét tách biệt với iAREDF trong các chiến lược quản lý."
+      }
+    ],
+    "scope": {
+      "en": "See the cited source and full bilingual article for population and limitations.",
+      "vi": "Xem nguồn trích dẫn và toàn văn song ngữ để biết quần thể và giới hạn."
+    },
+    "provenance": {
+      "article_id": "pmc13570328",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13570328&blobtype=pdf",
+      "publication_route": "rewrite_citation",
+      "generated_by": "AI Minh Translate + AN read-only context",
+      "generated_at": "2026-10-12T02:37:51"
+    }
+  }
+}
