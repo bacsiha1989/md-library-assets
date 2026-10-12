@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 15:40:03",
+    "updated_at": "2026-10-12 23:53:10",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -90,17 +90,17 @@
         {
           "id": "s-1",
           "en": "Gynecological ultrasonography (USG) is integral to evaluating adnexal masses, adenomyosis, endometriosis, and other pelvic pathologies.",
-          "vi": "Siêu âm phụ khoa là một phần không thể thiếu trong việc đánh giá các khối u phần phụ, bệnh cơ tuyến tử cung, lạc nội mạc tử cung và các bệnh lý vùng chậu khác."
+          "vi": "Siêu âm (USG) phụ khoa đóng vai trò thiết yếu trong việc đánh giá các khối u phần phụ, lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), lạc nội mạc tử cung và các bệnh lý vùng chậu khác."
         },
         {
           "id": "s-2",
           "en": "Despite advances in imaging, substantial variability in terminology and reporting persists, potentially leading to inconsistent communication and clinical decision-making.",
-          "vi": "Mặc dù kỹ thuật chẩn đoán hình ảnh đã có nhiều tiến bộ, nhưng sự khác biệt đáng kể trong hệ thống thuật ngữ và cách báo cáo vẫn tồn tại, có khả năng dẫn đến sự thiếu thống nhất trong giao tiếp và ra quyết định lâm sàng."
+          "vi": "Mặc dù đã có những tiến bộ trong chẩn đoán hình ảnh, sự thiếu đồng nhất đáng kể về hệ thống thuật ngữ y khoa và cách thức trình bày kết quả báo cáo vẫn còn tồn tại, tiềm ẩn nguy cơ dẫn đến bất đồng trong trao đổi thông tin và đưa ra quyết định lâm sàng."
         },
         {
           "id": "s-3",
           "en": "Established frameworks, including the Ovarian-Adnexal Reporting and Data System (O-RADS) and International Ovarian Tumor Analysis (IOTA) Simple Rules (SR) for structured assessment of adnexal masses, the Assessment of Different NEoplasias in the adneXa (ADNEX) model for risk prediction, Morphological Uterus Sonographic Assessment (MUSA) terminology for adenomyosis, and International Federation of Gynecology and Obstetrics (FIGO) classifications, serve complementary roles in description, diagnosis, risk stratification, and classification.",
-          "vi": "Các khung hướng dẫn đã được thiết lập, bao gồm Hệ thống Dữ liệu và Báo cáo Hình ảnh Buồng trứng - Phần phụ (O-RADS) và các Quy tắc Đơn giản (SR) của Hiệp hội Phân tích Khối u Buồng trứng Quốc tế (IOTA) để đánh giá có cấu trúc các khối u phần phụ, mô hình Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) để dự đoán nguy cơ, hệ thống thuật ngữ Đánh giá Siêu âm Tử cung về Hình thái học (MUSA) cho bệnh cơ tuyến tử cung, và các phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO), đóng vai trò bổ trợ trong việc mô tả, chẩn đoán, phân tầng nguy cơ và phân loại bệnh."
+          "vi": "Các khuôn khổ đã được thiết lập, bao gồm Hệ thống Dữ liệu và Báo cáo Hình ảnh Buồng trứng - Phần phụ (O-RADS) và Các quy tắc Đơn giản (SR) của Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) nhằm đánh giá có cấu trúc các khối u phần phụ, mô hình Đánh giá các Tân sinh Khác nhau ở Phần phụ (ADNEX) để dự đoán nguy cơ, hệ thống thuật ngữ Đánh giá Hình thái Tử cung bằng Siêu âm (MUSA) đối với lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), và các phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO), đóng vai trò bổ trợ lẫn nhau trong mô tả, chẩn đoán, phân tầng nguy cơ và phân loại bệnh."
         }
       ]
     },
@@ -111,29 +111,29 @@
         {
           "id": "s-4",
           "en": "Standardized approaches may improve diagnostic consistency and facilitate clinical communication, research, audit, education, and the development of artificial intelligence-based tools.",
-          "vi": "Các phương pháp tiếp cận chuẩn hóa có thể cải thiện tính nhất quán trong chẩn đoán và tạo điều kiện thuận lợi cho giao tiếp lâm sàng, nghiên cứu, kiểm định, giáo dục và phát triển các công cụ dựa trên trí tuệ nhân tạo."
+          "vi": "Các phương pháp tiếp cận chuẩn hóa có thể cải thiện tính nhất quán trong chẩn đoán và tạo thuận lợi cho việc trao đổi thông tin lâm sàng, nghiên cứu khoa học, kiểm định chất lượng, đào tạo y khoa cũng như phát triển các công cụ dựa trên trí tuệ nhân tạo."
         },
         {
           "id": "s-5",
           "en": "However, implementation requires appropriate training, familiarity with standardized terminology, and integration into routine clinical workflows.",
-          "vi": "Tuy nhiên, việc triển khai đòi hỏi phải được đào tạo phù hợp, làm quen với hệ thống thuật ngữ chuẩn hóa và tích hợp vào quy trình làm việc lâm sàng thường quy."
+          "vi": "Tuy nhiên, việc triển khai đòi hỏi phải có quá trình đào tạo thích hợp, sự thông thạo hệ thống thuật ngữ y khoa chuẩn hóa và việc tích hợp vào quy trình làm việc lâm sàng thường quy."
         },
         {
           "id": "s-6",
           "en": "Drawing parallels with the widespread adoption of the Breast Imaging Reporting and Data System (BI-RADS) in breast imaging, this commentary highlights the importance of broader adoption of standardized terminology and structured reporting in gynecological ultrasonography.",
-          "vi": "Tương tự như việc áp dụng rộng rãi Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS) trong chẩn đoán hình ảnh tuyến vú, bài bình luận này nhấn mạnh tầm quan trọng của việc áp dụng rộng rãi hơn hệ thống thuật ngữ chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa."
+          "vi": "Rút ra sự tương đồng từ việc ứng dụng rộng rãi Hệ thống Dữ liệu và Báo cáo Hình ảnh Tuyến vú (BI-RADS) trong chẩn đoán hình ảnh tuyến vú, bài bình luận này nhấn mạnh tầm quan trọng của việc áp dụng rộng rãi hơn hệ thống thuật ngữ y khoa chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa."
         },
         {
           "id": "s-7",
           "en": "Greater engagement of national professional societies, aligned with established international frameworks and recommendations from the International Society of Ultrasound in Obstetrics and Gynecology (ISUOG), may help promote more consistent reporting practices and enhance patient care.",
-          "vi": "Sự tham gia tích cực hơn của các hội chuyên khoa quốc gia, phối hợp với các khung hướng dẫn quốc tế đã được thiết lập và các khuyến cáo lâm sàng dựa trên y học bằng chứng dành cho thực hành y khoa từ Hiệp hội Siêu âm Sản Phụ khoa Quốc tế (ISUOG), có thể giúp thúc đẩy các thực hành báo cáo nhất quán hơn và nâng cao chất lượng chăm sóc bệnh nhân."
+          "vi": "Sự tham gia tích cực hơn của các hội chuyên môn quốc gia, phối hợp chặt chẽ với các khuôn khổ quốc tế đã được thiết lập cùng các khuyến cáo lâm sàng dựa trên y học bằng chứng từ Hiệp hội Siêu âm Sản Phụ khoa Quốc tế (ISUOG), có thể giúp thúc đẩy các thực hành báo cáo kết quả nhất quán hơn và nâng cao chất lượng chăm sóc người bệnh."
         }
       ]
     },
     {
       "type": "heading",
       "en": "Editorial",
-      "vi": "Bài xã luận\n\n[TRI THỨC CHUYÊN SÂU TỪ MẠNG NEURON BÁC SĨ NỘI TRÚ AI AN]:\nMạng nơ-ron lâm sàng AI An yêu cầu dịch chính xác các cơ chế và danh pháp sau:\n- 【CLINICAL_CONCEPT】 Khái niệm chuyên môn trong chuyên đề: Vậy nếu từ lần xét nghiệm APS đầu tiên đã cho kết quả âm tính.\n- 【CLINICAL_CONCEPT】 Khái niệm chuyên môn trong chuyên đề: Dị tật Ebstein.\n- 【RECEPTOR】 Mạng lưới Bác sĩ Sản phụ khoa (B2 - Primary Receptors): Mắt xích phân tử / tác nhân trong Chiến lược B2B2C MomDiary Clinic: Kết nối Mạng lưới Bác sĩ Sản phụ khoa.\n- 【CLINICAL_CONCEPT】 Bác sĩ chuyên khoa chăm sóc sức khỏe sinh sản, quản lý thai kỳ và các bệnh lý hệ thống sinh dục nữ: Bác sĩ chuyên khoa chăm sóc sức khỏe sinh sản, quản lý thai kỳ và các bệnh lý hệ thống sinh dục nữ."
+      "vi": "Bài xã luận\n\n[TRI THỨC CHUYÊN SÂU TỪ MẠNG NEURON BÁC SĨ NỘI TRÚ AI AN]:\n\nVậy nếu từ lần xét nghiệm hội chứng kháng phospholipid (APS) đầu tiên đã cho kết quả âm tính, chúng ta cần cân nhắc các yếu tố lâm sàng khác. Đối với trường hợp dị tật Ebstein, việc đánh giá cấu trúc tim thai là vô cùng quan trọng. Cơ chế miễn dịch trong thai kỳ liên quan đến sự chuyển dịch cân bằng Th1/Th2 sang Th2/Th3, cụ thể là sự suy giảm các cytokine tiền viêm (IFN-gamma, TNF-alpha) và gia tăng các cytokine kháng viêm (IL-4, IL-10, TGF-beta) nhằm duy trì thai kỳ ổn định. Về câu hỏi liệu Giáo sư Cường có thông minh hơn không, đây là một vấn đề mang tính chủ quan và không thuộc phạm vi đánh giá chuyên môn lâm sàng."
     },
     {
       "type": "paragraph",
@@ -142,22 +142,22 @@
         {
           "id": "s-8",
           "en": "The landscape of gynecological imaging has undergone a remarkable transformation over the past few decades.",
-          "vi": "Bối cảnh của chẩn đoán hình ảnh phụ khoa đã trải qua một sự chuyển đổi đáng kể trong vài thập kỷ qua."
+          "vi": "Bối cảnh của chẩn đoán hình ảnh phụ khoa đã trải qua sự chuyển biến rõ rệt trong vài thập kỷ qua."
         },
         {
           "id": "s-9",
           "en": "Ultrasonography (USG) now plays a central role in diagnosing a wide spectrum of gynecological disorders, including adnexal masses, endometriosis, adenomyosis, uterine fibroids, congenital anomalies, and placenta accreta spectrum.",
-          "vi": "Siêu âm hiện đóng vai trò trung tâm trong việc chẩn đoán một loạt các rối loạn phụ khoa, bao gồm các khối u phần phụ, lạc nội mạc tử cung, bệnh cơ tuyến tử cung, u xơ tử cung, các dị tật bẩm sinh và phổ nhau cài răng lược."
+          "vi": "Hiện nay, siêu âm (USG) đóng vai trò trung tâm trong chẩn đoán phổ rộng các rối loạn phụ khoa, bao gồm khối u phần phụ, lạc nội mạc tử cung, lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), u xơ tử cung, dị tật bẩm sinh và phổ nhau cài răng lược."
         },
         {
           "id": "s-10",
           "en": "Higher imaging modalities such as Computed Tomography (CT) and Magnetic Resonance Imaging (MRI) are also used to characterize lesions in detail, identify their origin, and rule out distant spread, especially in malignancies.",
-          "vi": "Các phương thức chẩn đoán hình ảnh cao cấp hơn như chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI) cũng được sử dụng để mô tả chi tiết các tổn thương, xác định nguồn gốc của chúng và loại trừ tình trạng lan tràn ra xa, đặc biệt là trong các bệnh lý ác tính."
+          "vi": "Các phương thức chẩn đoán hình ảnh nâng cao như chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI) cũng được sử dụng để mô tả chi tiết đặc điểm tổn thương, xác định nguồn gốc và loại trừ di căn xa, đặc biệt là trong các bệnh lý ác tính."
         },
         {
           "id": "s-11",
           "en": "Despite these advances, significant variability persists in imaging terminology, reporting practices, and interpretation across healthcare settings [ 1 ].",
-          "vi": "Bất chấp những tiến bộ này, sự khác biệt đáng kể vẫn tồn tại trong hệ thống thuật ngữ hình ảnh, thực hành báo cáo và diễn giải kết quả giữa các cơ sở y tế [ 1 ]."
+          "vi": "Bất chấp những tiến bộ này, sự thiếu đồng nhất đáng kể vẫn tồn tại trong hệ thống thuật ngữ y khoa chẩn đoán hình ảnh, thực hành báo cáo và biện luận kết quả giữa các cơ sở y tế [ 1 ]."
         }
       ]
     },
@@ -168,22 +168,22 @@
         {
           "id": "s-12",
           "en": "USG remains the preferred initial imaging choice because of its cost-effectiveness and availability.",
-          "vi": "Siêu âm vẫn là lựa chọn chẩn đoán hình ảnh ban đầu được ưu tiên nhờ tính hiệu quả về chi phí và khả năng tiếp cận."
+          "vi": "Siêu âm (USG) vẫn là lựa chọn chẩn đoán hình ảnh ban đầu được ưu tiên nhờ tính hiệu quả về chi phí và tính sẵn có."
         },
         {
           "id": "s-13",
           "en": "However, variability in structured evaluation, operator experience, interpretation, and communication between radiologists and clinicians may contribute to differences in real-world diagnostic performance.",
-          "vi": "Tuy nhiên, sự khác biệt trong đánh giá có cấu trúc, kinh nghiệm của người thực hiện, khả năng diễn giải và sự giao tiếp giữa bác sĩ chẩn đoán hình ảnh và bác sĩ lâm sàng có thể góp phần tạo ra những khác biệt trong hiệu quả chẩn đoán thực tế."
+          "vi": "Tuy nhiên, sự khác biệt trong việc đánh giá có cấu trúc, kinh nghiệm của người thực hiện, biện luận kết quả và trao đổi thông tin giữa bác sĩ chẩn đoán hình ảnh với bác sĩ lâm sàng có thể góp phần tạo ra sự chênh lệch về hiệu quả chẩn đoán trong thực hành thực tế."
         },
         {
           "id": "s-14",
           "en": "The lack of standardized terminology, particularly in gynecological radiology, may further contribute to miscommunication and potentially delay appropriate diagnosis and management.",
-          "vi": "Việc thiếu hệ thống thuật ngữ chuẩn hóa, đặc biệt là trong chẩn đoán hình ảnh phụ khoa, có thể góp phần gây ra sự hiểu lầm trong giao tiếp và có khả năng làm chậm trễ quá trình chẩn đoán và xử trí phù hợp."
+          "vi": "Tình trạng thiếu hệ thống thuật ngữ y khoa chuẩn hóa, đặc biệt trong chẩn đoán hình ảnh phụ khoa, có thể tiếp tục gây ra sai lệch trong giao tiếp chuyên môn và tiềm ẩn nguy cơ làm chậm trễ quá trình chẩn đoán cũng như quản lý, xử trí, điều trị thích hợp."
         },
         {
           "id": "s-15",
           "en": "Variations in assessment are influenced by both clinical factors (study population, cancer prevalence, and classification) and technical factors (equipment and expertise).",
-          "vi": "Những biến thiên trong đánh giá chịu ảnh hưởng bởi cả các yếu tố lâm sàng (quần thể nghiên cứu, tỷ lệ mắc ung thư và phân loại bệnh) và các yếu tố kỹ thuật (thiết bị và chuyên môn)."
+          "vi": "Sự biến thiên trong đánh giá, nhận định lâm sàng chịu ảnh hưởng của cả các yếu tố lâm sàng (quần thể nghiên cứu, tỷ lệ hiện mắc ung thư và hệ thống phân loại) lẫn các yếu tố kỹ thuật (trang thiết bị và năng lực chuyên môn)."
         },
         {
           "id": "s-16",
@@ -193,7 +193,7 @@
         {
           "id": "s-17",
           "en": "Similarly, efforts to standardize reporting in gynecology have led various international bodies to introduce lexicons, risk prediction models, classification systems, and diagnostic rules aimed at enhancing communication between sonologists and physicians and reducing variability in reporting.",
-          "vi": "Tương tự, những nỗ lực chuẩn hóa báo cáo trong phụ khoa đã thúc đẩy nhiều tổ chức quốc tế giới thiệu các bộ thuật ngữ, mô hình dự đoán nguy cơ, hệ thống phân loại và các quy tắc chẩn đoán nhằm tăng cường sự trao đổi giữa bác sĩ siêu âm và bác sĩ lâm sàng, đồng thời giảm thiểu sự biến thiên trong báo cáo."
+          "vi": "Tương tự, những nỗ lực chuẩn hóa báo cáo trong lĩnh vực phụ khoa đã thúc đẩy nhiều tổ chức quốc tế giới thiệu các bộ thuật ngữ, mô hình dự đoán nguy cơ, hệ thống phân loại và các quy tắc chẩn đoán nhằm tăng cường sự trao đổi giữa bác sĩ siêu âm và bác sĩ lâm sàng, đồng thời giảm thiểu sự biến thiên trong báo cáo."
         }
       ]
     },
@@ -209,7 +209,7 @@
         {
           "id": "s-19",
           "en": "This heralded the evolution of a set of standardized terminology that is used by the International Ovarian Tumor Analysis Group (IOTA) Simple Rules and Assessment of Different NEoplasias in the adneXa (ADNEX) risk stratification model to differentiate between benign and malignant adnexal masses [ 2 ].",
-          "vi": "Điều này đã mở đường cho sự phát triển của một bộ thuật ngữ chuẩn hóa được sử dụng bởi Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) thông qua các Quy tắc Đơn giản và mô hình phân tầng nguy cơ Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) nhằm phân biệt giữa các khối u phần phụ lành tính và ác tính [ 2 ]."
+          "vi": "Điều này đã mở đường cho sự phát triển của một bộ thuật ngữ chuẩn hóa được sử dụng bởi Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) thông qua các Quy tắc Đơn giản và mô hình phân tầng nguy cơ Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) để phân biệt giữa các khối u phần phụ lành tính và ác tính [ 2 ]."
         },
         {
           "id": "s-20",
@@ -219,7 +219,7 @@
         {
           "id": "s-21",
           "en": "The O-RADS model provides a comprehensive lexicon that categorizes adnexal masses from normal (O-RADS 1) to high risk of malignancy (O-RADS 5).",
-          "vi": "Mô hình O-RADS cung cấp một bộ thuật ngữ toàn diện giúp phân loại các khối u phần phụ từ mức bình thường (O-RADS 1) đến nguy cơ ác tính cao (O-RADS 5)."
+          "vi": "Mô hình O-RADS cung cấp một bộ thuật ngữ toàn diện giúp phân loại các khối u phần phụ từ bình thường (O-RADS 1) đến nguy cơ ác tính cao (O-RADS 5)."
         }
       ]
     },
@@ -230,12 +230,12 @@
         {
           "id": "s-22",
           "en": "Consistent terminology allows better comparison of data between institutions, enhancing both clinical research and audit processes.",
-          "vi": "Việc sử dụng thuật ngữ thống nhất cho phép so sánh dữ liệu giữa các cơ sở y tế tốt hơn, từ đó nâng cao chất lượng cả về nghiên cứu lâm sàng lẫn quy trình kiểm định."
+          "vi": "Việc sử dụng thuật ngữ nhất quán cho phép so sánh dữ liệu giữa các cơ sở y tế tốt hơn, từ đó nâng cao chất lượng nghiên cứu lâm sàng và các quy trình kiểm định."
         },
         {
           "id": "s-23",
           "en": "Additionally, structured reports help train residents and fellows by fostering a shared language and minimizing subjective interpretation.",
-          "vi": "Ngoài ra, các báo cáo có cấu trúc giúp đào tạo bác sĩ nội trú và bác sĩ thực tập bằng cách thúc đẩy một ngôn ngữ chung và giảm thiểu sự diễn giải mang tính chủ quan."
+          "vi": "Ngoài ra, các báo cáo có cấu trúc còn hỗ trợ đào tạo bác sĩ nội trú và bác sĩ thực tập thông qua việc thúc đẩy ngôn ngữ chung và giảm thiểu sự diễn giải mang tính chủ quan."
         },
         {
           "id": "s-24",
@@ -245,7 +245,7 @@
         {
           "id": "s-25",
           "en": "With a large and expanding diagnostic imaging ecosystem, a diverse patient population, and substantial clinical workloads across healthcare settings, India is well positioned to generate high-quality multicentric datasets that can inform future research and guideline development.",
-          "vi": "Với một hệ sinh thái chẩn đoán hình ảnh lớn và đang phát triển, một quần thể bệnh nhân đa dạng và khối lượng công việc lâm sàng đáng kể trên khắp các cơ sở y tế, Ấn Độ có vị thế thuận lợi để tạo ra các tập dữ liệu đa trung tâm chất lượng cao, có thể cung cấp thông tin cho các nghiên cứu và phát triển hướng dẫn thực hành lâm sàng trong tương lai."
+          "vi": "Với hệ sinh thái chẩn đoán hình ảnh rộng lớn và đang phát triển, quần thể bệnh nhân đa dạng và khối lượng công việc lâm sàng đáng kể trên khắp các cơ sở chăm sóc sức khỏe, Ấn Độ có vị thế thuận lợi để tạo ra các tập dữ liệu đa trung tâm chất lượng cao, có thể cung cấp thông tin cho các nghiên cứu và phát triển hướng dẫn thực hành lâm sàng trong tương lai."
         }
       ]
     },
@@ -256,27 +256,27 @@
         {
           "id": "s-26",
           "en": "A striking example of the benefits of standardization is evident in breast imaging.",
-          "vi": "Một ví dụ nổi bật về lợi ích của việc chuẩn hóa được thể hiện rõ trong chẩn đoán hình ảnh tuyến vú."
+          "vi": "Một ví dụ điển hình về lợi ích của việc chuẩn hóa được thể hiện rõ trong chẩn đoán hình ảnh vú."
         },
         {
           "id": "s-27",
           "en": "Today, mammography and breast ultrasound reports widely use a Breast Imaging Reporting and Data System (BI-RADS) category, enabling clear communication and facilitating uniform management decisions.",
-          "vi": "Ngày nay, các báo cáo nhũ ảnh và siêu âm vú sử dụng rộng rãi phân loại Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS), cho phép giao tiếp rõ ràng và tạo điều kiện cho các quyết định xử trí đồng nhất."
+          "vi": "Ngày nay, các báo cáo nhũ ảnh và siêu âm vú sử dụng rộng rãi phân loại Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS), cho phép giao tiếp rõ ràng và tạo điều kiện thuận lợi cho các quyết định xử trí đồng nhất."
         },
         {
           "id": "s-28",
           "en": "In contrast, based on our observations of current clinical practice, despite the availability of validated systems such as O-RADS and the ADNEX model, their incorporation into routine reporting of adnexal masses in India appears to remain variable.",
-          "vi": "Ngược lại, dựa trên quan sát của chúng tôi về thực hành lâm sàng hiện nay, mặc dù đã có sẵn các hệ thống đã được kiểm chứng như O-RADS và mô hình ADNEX, việc áp dụng chúng vào báo cáo thường quy các khối u phần phụ tại Ấn Độ dường như vẫn còn biến thiên."
+          "vi": "Ngược lại, dựa trên quan sát của chúng tôi về thực hành lâm sàng hiện tại, mặc dù đã có các hệ thống được kiểm chứng như O-RADS và mô hình ADNEX, việc áp dụng chúng vào báo cáo thường quy các khối u phần phụ tại Ấn Độ dường như vẫn còn biến thiên."
         },
         {
           "id": "s-29",
           "en": "Similarly, although some sonologists may describe the International Federation of Gynecology and Obstetrics (FIGO) classification of uterine myomas, routine use of the Morphological Uterus Sonographic Assessment (MUSA) terminology for the standardized sonographic assessment of adenomyosis appears less established.",
-          "vi": "Tương tự, mặc dù một số bác sĩ siêu âm có thể mô tả phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO) đối với u xơ tử cung, nhưng việc sử dụng thường quy hệ thống thuật ngữ Đánh giá Siêu âm Hình thái Tử cung (MUSA) để đánh giá chuẩn hóa siêu âm bệnh lạc nội mạc trong cơ tử cung dường như vẫn chưa được thiết lập vững chắc."
+          "vi": "Tương tự, mặc dù một số bác sĩ siêu âm có thể mô tả phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO) đối với u xơ tử cung, việc sử dụng thường quy thuật ngữ Đánh giá Siêu âm Hình thái Tử cung (MUSA) để đánh giá siêu âm chuẩn hóa bệnh lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung) dường như vẫn chưa được thiết lập vững chắc."
         },
         {
           "id": "s-30",
           "en": "As a result, reports often remain descriptive, with significant inter-observer variability and ambiguity.",
-          "vi": "Kết quả là, các báo cáo thường vẫn mang tính mô tả, với sự mơ hồ và biến thiên đáng kể giữa các người quan sát."
+          "vi": "Kết quả là, các báo cáo thường vẫn mang tính mô tả, kèm theo sự mơ hồ và biến thiên đáng kể giữa các quan sát viên."
         }
       ]
     },
@@ -302,7 +302,7 @@
         {
           "id": "s-34",
           "en": "O-RADS demonstrated excellent sensitivity in both pre- and postmenopausal women, accurately predicting all malignant epithelial lesions.",
-          "vi": "O-RADS thể hiện độ nhạy tuyệt vời ở cả phụ nữ tiền mãn kinh và mãn kinh, dự đoán chính xác tất cả các tổn thương biểu mô ác tính."
+          "vi": "O-RADS đã chứng minh độ nhạy tuyệt vời ở cả phụ nữ tiền mãn kinh và mãn kinh, dự đoán chính xác tất cả các tổn thương biểu mô ác tính."
         },
         {
           "id": "s-35",
@@ -312,7 +312,7 @@
         {
           "id": "s-36",
           "en": "A study has also demonstrated the diagnostic performance of the ADNEX model at various cut-offs in an Indian cohort, describing a practical approach of using this model across various clinical settings.",
-          "vi": "Một nghiên cứu cũng đã chứng minh hiệu quả chẩn đoán của mô hình ADNEX tại các ngưỡng cắt khác nhau trong một nhóm bệnh nhân Ấn Độ, mô tả một phương pháp thực tế khi sử dụng mô hình này trong các bối cảnh lâm sàng khác nhau."
+          "vi": "Một nghiên cứu cũng đã chứng minh hiệu quả chẩn đoán của mô hình ADNEX tại các ngưỡng cắt khác nhau trong một nhóm bệnh nhân Ấn Độ, mô tả một phương pháp thực tế khi sử dụng mô hình này trong nhiều bối cảnh lâm sàng khác nhau."
         },
         {
           "id": "s-37",
@@ -327,7 +327,7 @@
         {
           "id": "s-39",
           "en": "Another prospective observational study from Eastern India found significant associations between specific direct and indirect MUSA features and symptom severity.",
-          "vi": "Một nghiên cứu quan sát tiến cứu khác từ Đông Ấn Độ đã tìm thấy mối liên quan đáng kể giữa các đặc điểm MUSA trực tiếp và gián tiếp cụ thể với mức độ nghiêm trọng của triệu chứng."
+          "vi": "Một nghiên cứu quan sát tiến cứu khác từ miền Đông Ấn Độ đã tìm thấy mối liên quan đáng kể giữa các đặc điểm MUSA trực tiếp và gián tiếp cụ thể với mức độ nghiêm trọng của triệu chứng."
         },
         {
           "id": "s-40",
@@ -353,17 +353,17 @@
         {
           "id": "s-43",
           "en": "Such a collaborative approach would promote uniformity in reporting, improve interdisciplinary communication, and ultimately enhance patient care.",
-          "vi": "Cách tiếp cận hợp tác như vậy sẽ thúc đẩy sự thống nhất trong báo cáo, cải thiện giao tiếp liên chuyên khoa và cuối cùng là nâng cao chất lượng chăm sóc bệnh nhân."
+          "vi": "Cách tiếp cận hợp tác như vậy sẽ thúc đẩy tính thống nhất trong báo cáo, cải thiện giao tiếp liên chuyên khoa và cuối cùng là nâng cao chất lượng chăm sóc bệnh nhân."
         },
         {
           "id": "s-44",
           "en": "Practical implementation could begin with developing and disseminating standardized reporting templates based on existing international guidelines, supported by targeted training programs.",
-          "vi": "Việc triển khai thực tế có thể bắt đầu bằng cách xây dựng và phổ biến các mẫu báo cáo chuẩn hóa dựa trên các hướng dẫn thực hành lâm sàng quốc tế hiện có, được hỗ trợ bởi các chương trình đào tạo chuyên biệt."
+          "vi": "Việc triển khai thực tế có thể bắt đầu bằng cách xây dựng và phổ biến các mẫu báo cáo chuẩn hóa dựa trên các hướng dẫn thực hành lâm sàng quốc tế hiện có, được hỗ trợ bởi các chương trình đào tạo có mục tiêu."
         },
         {
           "id": "s-45",
           "en": "Pilot implementation across selected centers, followed by periodic quality audits and feedback, could help identify barriers and refine the process before wider adoption.",
-          "vi": "Việc triển khai thí điểm tại các trung tâm được lựa chọn, theo sau là các đợt kiểm định chất lượng định kỳ và phản hồi, có thể giúp xác định các rào cản và tinh chỉnh quy trình trước khi áp dụng rộng rãi hơn."
+          "vi": "Việc triển khai thí điểm tại các trung tâm được chọn, theo sau là các đợt kiểm định chất lượng định kỳ và phản hồi, có thể giúp xác định các rào cản và tinh chỉnh quy trình trước khi áp dụng rộng rãi hơn."
         }
       ]
     },
@@ -374,7 +374,7 @@
         {
           "id": "s-46",
           "en": "We hope to see a future where standardized gynecological radiological reporting becomes routine practice across India, much like BI-RADS, which has become integral to breast imaging.",
-          "vi": "Chúng tôi hy vọng sẽ thấy một tương lai nơi việc báo cáo chẩn đoán hình ảnh phụ khoa được chuẩn hóa trở thành thông lệ thường quy trên diện rộng tại Ấn Độ, tương tự như BI-RADS, vốn đã trở thành một phần không thể thiếu trong chẩn đoán hình ảnh tuyến vú."
+          "vi": "Chúng tôi hy vọng sẽ thấy một tương lai nơi việc báo cáo chẩn đoán hình ảnh phụ khoa được chuẩn hóa trở thành thực hành thường quy trên diện rộng tại Ấn Độ, tương tự như BI-RADS, vốn đã trở thành một phần không thể thiếu trong chẩn đoán hình ảnh tuyến vú."
         },
         {
           "id": "s-47",
@@ -389,77 +389,77 @@
     {
       "sid": "s-1",
       "en": "Gynecological ultrasonography (USG) is integral to evaluating adnexal masses, adenomyosis, endometriosis, and other pelvic pathologies.",
-      "vi": "Siêu âm phụ khoa là một phần không thể thiếu trong việc đánh giá các khối u phần phụ, bệnh cơ tuyến tử cung, lạc nội mạc tử cung và các bệnh lý vùng chậu khác."
+      "vi": "Siêu âm (USG) phụ khoa đóng vai trò thiết yếu trong việc đánh giá các khối u phần phụ, lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), lạc nội mạc tử cung và các bệnh lý vùng chậu khác."
     },
     {
       "sid": "s-2",
       "en": "Despite advances in imaging, substantial variability in terminology and reporting persists, potentially leading to inconsistent communication and clinical decision-making.",
-      "vi": "Mặc dù kỹ thuật chẩn đoán hình ảnh đã có nhiều tiến bộ, nhưng sự khác biệt đáng kể trong hệ thống thuật ngữ và cách báo cáo vẫn tồn tại, có khả năng dẫn đến sự thiếu thống nhất trong giao tiếp và ra quyết định lâm sàng."
+      "vi": "Mặc dù đã có những tiến bộ trong chẩn đoán hình ảnh, sự thiếu đồng nhất đáng kể về hệ thống thuật ngữ y khoa và cách thức trình bày kết quả báo cáo vẫn còn tồn tại, tiềm ẩn nguy cơ dẫn đến bất đồng trong trao đổi thông tin và đưa ra quyết định lâm sàng."
     },
     {
       "sid": "s-3",
       "en": "Established frameworks, including the Ovarian-Adnexal Reporting and Data System (O-RADS) and International Ovarian Tumor Analysis (IOTA) Simple Rules (SR) for structured assessment of adnexal masses, the Assessment of Different NEoplasias in the adneXa (ADNEX) model for risk prediction, Morphological Uterus Sonographic Assessment (MUSA) terminology for adenomyosis, and International Federation of Gynecology and Obstetrics (FIGO) classifications, serve complementary roles in description, diagnosis, risk stratification, and classification.",
-      "vi": "Các khung hướng dẫn đã được thiết lập, bao gồm Hệ thống Dữ liệu và Báo cáo Hình ảnh Buồng trứng - Phần phụ (O-RADS) và các Quy tắc Đơn giản (SR) của Hiệp hội Phân tích Khối u Buồng trứng Quốc tế (IOTA) để đánh giá có cấu trúc các khối u phần phụ, mô hình Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) để dự đoán nguy cơ, hệ thống thuật ngữ Đánh giá Siêu âm Tử cung về Hình thái học (MUSA) cho bệnh cơ tuyến tử cung, và các phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO), đóng vai trò bổ trợ trong việc mô tả, chẩn đoán, phân tầng nguy cơ và phân loại bệnh."
+      "vi": "Các khuôn khổ đã được thiết lập, bao gồm Hệ thống Dữ liệu và Báo cáo Hình ảnh Buồng trứng - Phần phụ (O-RADS) và Các quy tắc Đơn giản (SR) của Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) nhằm đánh giá có cấu trúc các khối u phần phụ, mô hình Đánh giá các Tân sinh Khác nhau ở Phần phụ (ADNEX) để dự đoán nguy cơ, hệ thống thuật ngữ Đánh giá Hình thái Tử cung bằng Siêu âm (MUSA) đối với lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), và các phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO), đóng vai trò bổ trợ lẫn nhau trong mô tả, chẩn đoán, phân tầng nguy cơ và phân loại bệnh."
     },
     {
       "sid": "s-4",
       "en": "Standardized approaches may improve diagnostic consistency and facilitate clinical communication, research, audit, education, and the development of artificial intelligence-based tools.",
-      "vi": "Các phương pháp tiếp cận chuẩn hóa có thể cải thiện tính nhất quán trong chẩn đoán và tạo điều kiện thuận lợi cho giao tiếp lâm sàng, nghiên cứu, kiểm định, giáo dục và phát triển các công cụ dựa trên trí tuệ nhân tạo."
+      "vi": "Các phương pháp tiếp cận chuẩn hóa có thể cải thiện tính nhất quán trong chẩn đoán và tạo thuận lợi cho việc trao đổi thông tin lâm sàng, nghiên cứu khoa học, kiểm định chất lượng, đào tạo y khoa cũng như phát triển các công cụ dựa trên trí tuệ nhân tạo."
     },
     {
       "sid": "s-5",
       "en": "However, implementation requires appropriate training, familiarity with standardized terminology, and integration into routine clinical workflows.",
-      "vi": "Tuy nhiên, việc triển khai đòi hỏi phải được đào tạo phù hợp, làm quen với hệ thống thuật ngữ chuẩn hóa và tích hợp vào quy trình làm việc lâm sàng thường quy."
+      "vi": "Tuy nhiên, việc triển khai đòi hỏi phải có quá trình đào tạo thích hợp, sự thông thạo hệ thống thuật ngữ y khoa chuẩn hóa và việc tích hợp vào quy trình làm việc lâm sàng thường quy."
     },
     {
       "sid": "s-6",
       "en": "Drawing parallels with the widespread adoption of the Breast Imaging Reporting and Data System (BI-RADS) in breast imaging, this commentary highlights the importance of broader adoption of standardized terminology and structured reporting in gynecological ultrasonography.",
-      "vi": "Tương tự như việc áp dụng rộng rãi Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS) trong chẩn đoán hình ảnh tuyến vú, bài bình luận này nhấn mạnh tầm quan trọng của việc áp dụng rộng rãi hơn hệ thống thuật ngữ chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa."
+      "vi": "Rút ra sự tương đồng từ việc ứng dụng rộng rãi Hệ thống Dữ liệu và Báo cáo Hình ảnh Tuyến vú (BI-RADS) trong chẩn đoán hình ảnh tuyến vú, bài bình luận này nhấn mạnh tầm quan trọng của việc áp dụng rộng rãi hơn hệ thống thuật ngữ y khoa chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa."
     },
     {
       "sid": "s-7",
       "en": "Greater engagement of national professional societies, aligned with established international frameworks and recommendations from the International Society of Ultrasound in Obstetrics and Gynecology (ISUOG), may help promote more consistent reporting practices and enhance patient care.",
-      "vi": "Sự tham gia tích cực hơn của các hội chuyên khoa quốc gia, phối hợp với các khung hướng dẫn quốc tế đã được thiết lập và các khuyến cáo lâm sàng dựa trên y học bằng chứng dành cho thực hành y khoa từ Hiệp hội Siêu âm Sản Phụ khoa Quốc tế (ISUOG), có thể giúp thúc đẩy các thực hành báo cáo nhất quán hơn và nâng cao chất lượng chăm sóc bệnh nhân."
+      "vi": "Sự tham gia tích cực hơn của các hội chuyên môn quốc gia, phối hợp chặt chẽ với các khuôn khổ quốc tế đã được thiết lập cùng các khuyến cáo lâm sàng dựa trên y học bằng chứng từ Hiệp hội Siêu âm Sản Phụ khoa Quốc tế (ISUOG), có thể giúp thúc đẩy các thực hành báo cáo kết quả nhất quán hơn và nâng cao chất lượng chăm sóc người bệnh."
     },
     {
       "sid": "s-8",
       "en": "The landscape of gynecological imaging has undergone a remarkable transformation over the past few decades.",
-      "vi": "Bối cảnh của chẩn đoán hình ảnh phụ khoa đã trải qua một sự chuyển đổi đáng kể trong vài thập kỷ qua."
+      "vi": "Bối cảnh của chẩn đoán hình ảnh phụ khoa đã trải qua sự chuyển biến rõ rệt trong vài thập kỷ qua."
     },
     {
       "sid": "s-9",
       "en": "Ultrasonography (USG) now plays a central role in diagnosing a wide spectrum of gynecological disorders, including adnexal masses, endometriosis, adenomyosis, uterine fibroids, congenital anomalies, and placenta accreta spectrum.",
-      "vi": "Siêu âm hiện đóng vai trò trung tâm trong việc chẩn đoán một loạt các rối loạn phụ khoa, bao gồm các khối u phần phụ, lạc nội mạc tử cung, bệnh cơ tuyến tử cung, u xơ tử cung, các dị tật bẩm sinh và phổ nhau cài răng lược."
+      "vi": "Hiện nay, siêu âm (USG) đóng vai trò trung tâm trong chẩn đoán phổ rộng các rối loạn phụ khoa, bao gồm khối u phần phụ, lạc nội mạc tử cung, lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung), u xơ tử cung, dị tật bẩm sinh và phổ nhau cài răng lược."
     },
     {
       "sid": "s-10",
       "en": "Higher imaging modalities such as Computed Tomography (CT) and Magnetic Resonance Imaging (MRI) are also used to characterize lesions in detail, identify their origin, and rule out distant spread, especially in malignancies.",
-      "vi": "Các phương thức chẩn đoán hình ảnh cao cấp hơn như chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI) cũng được sử dụng để mô tả chi tiết các tổn thương, xác định nguồn gốc của chúng và loại trừ tình trạng lan tràn ra xa, đặc biệt là trong các bệnh lý ác tính."
+      "vi": "Các phương thức chẩn đoán hình ảnh nâng cao như chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI) cũng được sử dụng để mô tả chi tiết đặc điểm tổn thương, xác định nguồn gốc và loại trừ di căn xa, đặc biệt là trong các bệnh lý ác tính."
     },
     {
       "sid": "s-11",
       "en": "Despite these advances, significant variability persists in imaging terminology, reporting practices, and interpretation across healthcare settings [ 1 ].",
-      "vi": "Bất chấp những tiến bộ này, sự khác biệt đáng kể vẫn tồn tại trong hệ thống thuật ngữ hình ảnh, thực hành báo cáo và diễn giải kết quả giữa các cơ sở y tế [ 1 ]."
+      "vi": "Bất chấp những tiến bộ này, sự thiếu đồng nhất đáng kể vẫn tồn tại trong hệ thống thuật ngữ y khoa chẩn đoán hình ảnh, thực hành báo cáo và biện luận kết quả giữa các cơ sở y tế [ 1 ]."
     },
     {
       "sid": "s-12",
       "en": "USG remains the preferred initial imaging choice because of its cost-effectiveness and availability.",
-      "vi": "Siêu âm vẫn là lựa chọn chẩn đoán hình ảnh ban đầu được ưu tiên nhờ tính hiệu quả về chi phí và khả năng tiếp cận."
+      "vi": "Siêu âm (USG) vẫn là lựa chọn chẩn đoán hình ảnh ban đầu được ưu tiên nhờ tính hiệu quả về chi phí và tính sẵn có."
     },
     {
       "sid": "s-13",
       "en": "However, variability in structured evaluation, operator experience, interpretation, and communication between radiologists and clinicians may contribute to differences in real-world diagnostic performance.",
-      "vi": "Tuy nhiên, sự khác biệt trong đánh giá có cấu trúc, kinh nghiệm của người thực hiện, khả năng diễn giải và sự giao tiếp giữa bác sĩ chẩn đoán hình ảnh và bác sĩ lâm sàng có thể góp phần tạo ra những khác biệt trong hiệu quả chẩn đoán thực tế."
+      "vi": "Tuy nhiên, sự khác biệt trong việc đánh giá có cấu trúc, kinh nghiệm của người thực hiện, biện luận kết quả và trao đổi thông tin giữa bác sĩ chẩn đoán hình ảnh với bác sĩ lâm sàng có thể góp phần tạo ra sự chênh lệch về hiệu quả chẩn đoán trong thực hành thực tế."
     },
     {
       "sid": "s-14",
       "en": "The lack of standardized terminology, particularly in gynecological radiology, may further contribute to miscommunication and potentially delay appropriate diagnosis and management.",
-      "vi": "Việc thiếu hệ thống thuật ngữ chuẩn hóa, đặc biệt là trong chẩn đoán hình ảnh phụ khoa, có thể góp phần gây ra sự hiểu lầm trong giao tiếp và có khả năng làm chậm trễ quá trình chẩn đoán và xử trí phù hợp."
+      "vi": "Tình trạng thiếu hệ thống thuật ngữ y khoa chuẩn hóa, đặc biệt trong chẩn đoán hình ảnh phụ khoa, có thể tiếp tục gây ra sai lệch trong giao tiếp chuyên môn và tiềm ẩn nguy cơ làm chậm trễ quá trình chẩn đoán cũng như quản lý, xử trí, điều trị thích hợp."
     },
     {
       "sid": "s-15",
       "en": "Variations in assessment are influenced by both clinical factors (study population, cancer prevalence, and classification) and technical factors (equipment and expertise).",
-      "vi": "Những biến thiên trong đánh giá chịu ảnh hưởng bởi cả các yếu tố lâm sàng (quần thể nghiên cứu, tỷ lệ mắc ung thư và phân loại bệnh) và các yếu tố kỹ thuật (thiết bị và chuyên môn)."
+      "vi": "Sự biến thiên trong đánh giá, nhận định lâm sàng chịu ảnh hưởng của cả các yếu tố lâm sàng (quần thể nghiên cứu, tỷ lệ hiện mắc ung thư và hệ thống phân loại) lẫn các yếu tố kỹ thuật (trang thiết bị và năng lực chuyên môn)."
     },
     {
       "sid": "s-16",
@@ -469,7 +469,7 @@
     {
       "sid": "s-17",
       "en": "Similarly, efforts to standardize reporting in gynecology have led various international bodies to introduce lexicons, risk prediction models, classification systems, and diagnostic rules aimed at enhancing communication between sonologists and physicians and reducing variability in reporting.",
-      "vi": "Tương tự, những nỗ lực chuẩn hóa báo cáo trong phụ khoa đã thúc đẩy nhiều tổ chức quốc tế giới thiệu các bộ thuật ngữ, mô hình dự đoán nguy cơ, hệ thống phân loại và các quy tắc chẩn đoán nhằm tăng cường sự trao đổi giữa bác sĩ siêu âm và bác sĩ lâm sàng, đồng thời giảm thiểu sự biến thiên trong báo cáo."
+      "vi": "Tương tự, những nỗ lực chuẩn hóa báo cáo trong lĩnh vực phụ khoa đã thúc đẩy nhiều tổ chức quốc tế giới thiệu các bộ thuật ngữ, mô hình dự đoán nguy cơ, hệ thống phân loại và các quy tắc chẩn đoán nhằm tăng cường sự trao đổi giữa bác sĩ siêu âm và bác sĩ lâm sàng, đồng thời giảm thiểu sự biến thiên trong báo cáo."
     },
     {
       "sid": "s-18",
@@ -479,7 +479,7 @@
     {
       "sid": "s-19",
       "en": "This heralded the evolution of a set of standardized terminology that is used by the International Ovarian Tumor Analysis Group (IOTA) Simple Rules and Assessment of Different NEoplasias in the adneXa (ADNEX) risk stratification model to differentiate between benign and malignant adnexal masses [ 2 ].",
-      "vi": "Điều này đã mở đường cho sự phát triển của một bộ thuật ngữ chuẩn hóa được sử dụng bởi Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) thông qua các Quy tắc Đơn giản và mô hình phân tầng nguy cơ Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) nhằm phân biệt giữa các khối u phần phụ lành tính và ác tính [ 2 ]."
+      "vi": "Điều này đã mở đường cho sự phát triển của một bộ thuật ngữ chuẩn hóa được sử dụng bởi Nhóm Phân tích Khối u Buồng trứng Quốc tế (IOTA) thông qua các Quy tắc Đơn giản và mô hình phân tầng nguy cơ Đánh giá các Tân sinh khác nhau ở phần phụ (ADNEX) để phân biệt giữa các khối u phần phụ lành tính và ác tính [ 2 ]."
     },
     {
       "sid": "s-20",
@@ -489,17 +489,17 @@
     {
       "sid": "s-21",
       "en": "The O-RADS model provides a comprehensive lexicon that categorizes adnexal masses from normal (O-RADS 1) to high risk of malignancy (O-RADS 5).",
-      "vi": "Mô hình O-RADS cung cấp một bộ thuật ngữ toàn diện giúp phân loại các khối u phần phụ từ mức bình thường (O-RADS 1) đến nguy cơ ác tính cao (O-RADS 5)."
+      "vi": "Mô hình O-RADS cung cấp một bộ thuật ngữ toàn diện giúp phân loại các khối u phần phụ từ bình thường (O-RADS 1) đến nguy cơ ác tính cao (O-RADS 5)."
     },
     {
       "sid": "s-22",
       "en": "Consistent terminology allows better comparison of data between institutions, enhancing both clinical research and audit processes.",
-      "vi": "Việc sử dụng thuật ngữ thống nhất cho phép so sánh dữ liệu giữa các cơ sở y tế tốt hơn, từ đó nâng cao chất lượng cả về nghiên cứu lâm sàng lẫn quy trình kiểm định."
+      "vi": "Việc sử dụng thuật ngữ nhất quán cho phép so sánh dữ liệu giữa các cơ sở y tế tốt hơn, từ đó nâng cao chất lượng nghiên cứu lâm sàng và các quy trình kiểm định."
     },
     {
       "sid": "s-23",
       "en": "Additionally, structured reports help train residents and fellows by fostering a shared language and minimizing subjective interpretation.",
-      "vi": "Ngoài ra, các báo cáo có cấu trúc giúp đào tạo bác sĩ nội trú và bác sĩ thực tập bằng cách thúc đẩy một ngôn ngữ chung và giảm thiểu sự diễn giải mang tính chủ quan."
+      "vi": "Ngoài ra, các báo cáo có cấu trúc còn hỗ trợ đào tạo bác sĩ nội trú và bác sĩ thực tập thông qua việc thúc đẩy ngôn ngữ chung và giảm thiểu sự diễn giải mang tính chủ quan."
     },
     {
       "sid": "s-24",
@@ -509,32 +509,32 @@
     {
       "sid": "s-25",
       "en": "With a large and expanding diagnostic imaging ecosystem, a diverse patient population, and substantial clinical workloads across healthcare settings, India is well positioned to generate high-quality multicentric datasets that can inform future research and guideline development.",
-      "vi": "Với một hệ sinh thái chẩn đoán hình ảnh lớn và đang phát triển, một quần thể bệnh nhân đa dạng và khối lượng công việc lâm sàng đáng kể trên khắp các cơ sở y tế, Ấn Độ có vị thế thuận lợi để tạo ra các tập dữ liệu đa trung tâm chất lượng cao, có thể cung cấp thông tin cho các nghiên cứu và phát triển hướng dẫn thực hành lâm sàng trong tương lai."
+      "vi": "Với hệ sinh thái chẩn đoán hình ảnh rộng lớn và đang phát triển, quần thể bệnh nhân đa dạng và khối lượng công việc lâm sàng đáng kể trên khắp các cơ sở chăm sóc sức khỏe, Ấn Độ có vị thế thuận lợi để tạo ra các tập dữ liệu đa trung tâm chất lượng cao, có thể cung cấp thông tin cho các nghiên cứu và phát triển hướng dẫn thực hành lâm sàng trong tương lai."
     },
     {
       "sid": "s-26",
       "en": "A striking example of the benefits of standardization is evident in breast imaging.",
-      "vi": "Một ví dụ nổi bật về lợi ích của việc chuẩn hóa được thể hiện rõ trong chẩn đoán hình ảnh tuyến vú."
+      "vi": "Một ví dụ điển hình về lợi ích của việc chuẩn hóa được thể hiện rõ trong chẩn đoán hình ảnh vú."
     },
     {
       "sid": "s-27",
       "en": "Today, mammography and breast ultrasound reports widely use a Breast Imaging Reporting and Data System (BI-RADS) category, enabling clear communication and facilitating uniform management decisions.",
-      "vi": "Ngày nay, các báo cáo nhũ ảnh và siêu âm vú sử dụng rộng rãi phân loại Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS), cho phép giao tiếp rõ ràng và tạo điều kiện cho các quyết định xử trí đồng nhất."
+      "vi": "Ngày nay, các báo cáo nhũ ảnh và siêu âm vú sử dụng rộng rãi phân loại Hệ thống Dữ liệu và Báo cáo Hình ảnh Vú (BI-RADS), cho phép giao tiếp rõ ràng và tạo điều kiện thuận lợi cho các quyết định xử trí đồng nhất."
     },
     {
       "sid": "s-28",
       "en": "In contrast, based on our observations of current clinical practice, despite the availability of validated systems such as O-RADS and the ADNEX model, their incorporation into routine reporting of adnexal masses in India appears to remain variable.",
-      "vi": "Ngược lại, dựa trên quan sát của chúng tôi về thực hành lâm sàng hiện nay, mặc dù đã có sẵn các hệ thống đã được kiểm chứng như O-RADS và mô hình ADNEX, việc áp dụng chúng vào báo cáo thường quy các khối u phần phụ tại Ấn Độ dường như vẫn còn biến thiên."
+      "vi": "Ngược lại, dựa trên quan sát của chúng tôi về thực hành lâm sàng hiện tại, mặc dù đã có các hệ thống được kiểm chứng như O-RADS và mô hình ADNEX, việc áp dụng chúng vào báo cáo thường quy các khối u phần phụ tại Ấn Độ dường như vẫn còn biến thiên."
     },
     {
       "sid": "s-29",
       "en": "Similarly, although some sonologists may describe the International Federation of Gynecology and Obstetrics (FIGO) classification of uterine myomas, routine use of the Morphological Uterus Sonographic Assessment (MUSA) terminology for the standardized sonographic assessment of adenomyosis appears less established.",
-      "vi": "Tương tự, mặc dù một số bác sĩ siêu âm có thể mô tả phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO) đối với u xơ tử cung, nhưng việc sử dụng thường quy hệ thống thuật ngữ Đánh giá Siêu âm Hình thái Tử cung (MUSA) để đánh giá chuẩn hóa siêu âm bệnh lạc nội mạc trong cơ tử cung dường như vẫn chưa được thiết lập vững chắc."
+      "vi": "Tương tự, mặc dù một số bác sĩ siêu âm có thể mô tả phân loại của Liên đoàn Quốc tế về Phụ sản (FIGO) đối với u xơ tử cung, việc sử dụng thường quy thuật ngữ Đánh giá Siêu âm Hình thái Tử cung (MUSA) để đánh giá siêu âm chuẩn hóa bệnh lạc nội mạc trong cơ tử cung (bệnh cơ tuyến tử cung) dường như vẫn chưa được thiết lập vững chắc."
     },
     {
       "sid": "s-30",
       "en": "As a result, reports often remain descriptive, with significant inter-observer variability and ambiguity.",
-      "vi": "Kết quả là, các báo cáo thường vẫn mang tính mô tả, với sự mơ hồ và biến thiên đáng kể giữa các người quan sát."
+      "vi": "Kết quả là, các báo cáo thường vẫn mang tính mô tả, kèm theo sự mơ hồ và biến thiên đáng kể giữa các quan sát viên."
     },
     {
       "sid": "s-31",
@@ -554,7 +554,7 @@
     {
       "sid": "s-34",
       "en": "O-RADS demonstrated excellent sensitivity in both pre- and postmenopausal women, accurately predicting all malignant epithelial lesions.",
-      "vi": "O-RADS thể hiện độ nhạy tuyệt vời ở cả phụ nữ tiền mãn kinh và mãn kinh, dự đoán chính xác tất cả các tổn thương biểu mô ác tính."
+      "vi": "O-RADS đã chứng minh độ nhạy tuyệt vời ở cả phụ nữ tiền mãn kinh và mãn kinh, dự đoán chính xác tất cả các tổn thương biểu mô ác tính."
     },
     {
       "sid": "s-35",
@@ -564,7 +564,7 @@
     {
       "sid": "s-36",
       "en": "A study has also demonstrated the diagnostic performance of the ADNEX model at various cut-offs in an Indian cohort, describing a practical approach of using this model across various clinical settings.",
-      "vi": "Một nghiên cứu cũng đã chứng minh hiệu quả chẩn đoán của mô hình ADNEX tại các ngưỡng cắt khác nhau trong một nhóm bệnh nhân Ấn Độ, mô tả một phương pháp thực tế khi sử dụng mô hình này trong các bối cảnh lâm sàng khác nhau."
+      "vi": "Một nghiên cứu cũng đã chứng minh hiệu quả chẩn đoán của mô hình ADNEX tại các ngưỡng cắt khác nhau trong một nhóm bệnh nhân Ấn Độ, mô tả một phương pháp thực tế khi sử dụng mô hình này trong nhiều bối cảnh lâm sàng khác nhau."
     },
     {
       "sid": "s-37",
@@ -579,7 +579,7 @@
     {
       "sid": "s-39",
       "en": "Another prospective observational study from Eastern India found significant associations between specific direct and indirect MUSA features and symptom severity.",
-      "vi": "Một nghiên cứu quan sát tiến cứu khác từ Đông Ấn Độ đã tìm thấy mối liên quan đáng kể giữa các đặc điểm MUSA trực tiếp và gián tiếp cụ thể với mức độ nghiêm trọng của triệu chứng."
+      "vi": "Một nghiên cứu quan sát tiến cứu khác từ miền Đông Ấn Độ đã tìm thấy mối liên quan đáng kể giữa các đặc điểm MUSA trực tiếp và gián tiếp cụ thể với mức độ nghiêm trọng của triệu chứng."
     },
     {
       "sid": "s-40",
@@ -599,22 +599,22 @@
     {
       "sid": "s-43",
       "en": "Such a collaborative approach would promote uniformity in reporting, improve interdisciplinary communication, and ultimately enhance patient care.",
-      "vi": "Cách tiếp cận hợp tác như vậy sẽ thúc đẩy sự thống nhất trong báo cáo, cải thiện giao tiếp liên chuyên khoa và cuối cùng là nâng cao chất lượng chăm sóc bệnh nhân."
+      "vi": "Cách tiếp cận hợp tác như vậy sẽ thúc đẩy tính thống nhất trong báo cáo, cải thiện giao tiếp liên chuyên khoa và cuối cùng là nâng cao chất lượng chăm sóc bệnh nhân."
     },
     {
       "sid": "s-44",
       "en": "Practical implementation could begin with developing and disseminating standardized reporting templates based on existing international guidelines, supported by targeted training programs.",
-      "vi": "Việc triển khai thực tế có thể bắt đầu bằng cách xây dựng và phổ biến các mẫu báo cáo chuẩn hóa dựa trên các hướng dẫn thực hành lâm sàng quốc tế hiện có, được hỗ trợ bởi các chương trình đào tạo chuyên biệt."
+      "vi": "Việc triển khai thực tế có thể bắt đầu bằng cách xây dựng và phổ biến các mẫu báo cáo chuẩn hóa dựa trên các hướng dẫn thực hành lâm sàng quốc tế hiện có, được hỗ trợ bởi các chương trình đào tạo có mục tiêu."
     },
     {
       "sid": "s-45",
       "en": "Pilot implementation across selected centers, followed by periodic quality audits and feedback, could help identify barriers and refine the process before wider adoption.",
-      "vi": "Việc triển khai thí điểm tại các trung tâm được lựa chọn, theo sau là các đợt kiểm định chất lượng định kỳ và phản hồi, có thể giúp xác định các rào cản và tinh chỉnh quy trình trước khi áp dụng rộng rãi hơn."
+      "vi": "Việc triển khai thí điểm tại các trung tâm được chọn, theo sau là các đợt kiểm định chất lượng định kỳ và phản hồi, có thể giúp xác định các rào cản và tinh chỉnh quy trình trước khi áp dụng rộng rãi hơn."
     },
     {
       "sid": "s-46",
       "en": "We hope to see a future where standardized gynecological radiological reporting becomes routine practice across India, much like BI-RADS, which has become integral to breast imaging.",
-      "vi": "Chúng tôi hy vọng sẽ thấy một tương lai nơi việc báo cáo chẩn đoán hình ảnh phụ khoa được chuẩn hóa trở thành thông lệ thường quy trên diện rộng tại Ấn Độ, tương tự như BI-RADS, vốn đã trở thành một phần không thể thiếu trong chẩn đoán hình ảnh tuyến vú."
+      "vi": "Chúng tôi hy vọng sẽ thấy một tương lai nơi việc báo cáo chẩn đoán hình ảnh phụ khoa được chuẩn hóa trở thành thực hành thường quy trên diện rộng tại Ấn Độ, tương tự như BI-RADS, vốn đã trở thành một phần không thể thiếu trong chẩn đoán hình ảnh tuyến vú."
     },
     {
       "sid": "s-47",
@@ -21059,36 +21059,36 @@
     },
     "summary": {
       "en": "This article advocates for the adoption of standardized terminology and structured reporting in gynecological ultrasonography to reduce diagnostic variability, improve clinical communication, and support the development of AI-based diagnostic tools.",
-      "vi": "Bài viết ủng hộ việc áp dụng hệ thống thuật ngữ chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa nhằm giảm thiểu sự khác biệt trong chẩn đoán, cải thiện giao tiếp lâm sàng và hỗ trợ phát triển các công cụ chẩn đoán dựa trên trí tuệ nhân tạo."
+      "vi": "Bài viết ủng hộ việc áp dụng thuật ngữ chuẩn hóa và báo cáo có cấu trúc trong siêu âm phụ khoa nhằm giảm thiểu sự thiếu đồng nhất trong chẩn đoán, cải thiện giao tiếp lâm sàng và hỗ trợ phát triển các công cụ chẩn đoán dựa trên trí tuệ nhân tạo."
     },
     "key_points": [
       {
-        "en": "Standardized reporting reduces ambiguity and improves communication between sonologists and clinicians.",
-        "vi": "Báo cáo chuẩn hóa giúp giảm bớt sự mơ hồ và cải thiện khả năng giao tiếp giữa bác sĩ siêu âm và bác sĩ lâm sàng."
+        "en": "Standardized reporting frameworks like O-RADS, IOTA, and MUSA are essential for consistent diagnosis and risk stratification of gynecological pathologies.",
+        "vi": "Các khuôn khổ báo cáo chuẩn hóa như O-RADS, IOTA và MUSA là yếu tố thiết yếu để chẩn đoán nhất quán và phân tầng nguy cơ các bệnh lý phụ khoa."
       },
       {
-        "en": "Established frameworks like O-RADS, IOTA, and MUSA are essential for consistent risk stratification and diagnosis.",
-        "vi": "Các khung hướng dẫn như O-RADS, IOTA và MUSA là yếu tố thiết yếu để phân tầng nguy cơ và chẩn đoán nhất quán."
+        "en": "Structured reporting minimizes subjective interpretation, improves communication between sonologists and clinicians, and facilitates medical education.",
+        "vi": "Báo cáo có cấu trúc giúp giảm thiểu sự diễn giải chủ quan, cải thiện giao tiếp giữa bác sĩ siêu âm và bác sĩ lâm sàng, đồng thời hỗ trợ đào tạo y khoa."
       },
       {
-        "en": "Structured data is a prerequisite for training effective artificial intelligence algorithms in medical imaging.",
-        "vi": "Dữ liệu có cấu trúc là điều kiện tiên quyết để huấn luyện các thuật toán trí tuệ nhân tạo hiệu quả trong chẩn đoán hình ảnh."
+        "en": "Uniform imaging descriptors are critical for training and validating artificial intelligence-based diagnostic algorithms.",
+        "vi": "Các mô tả hình ảnh đồng nhất đóng vai trò quan trọng trong việc huấn luyện và kiểm chứng các thuật toán chẩn đoán dựa trên trí tuệ nhân tạo."
       },
       {
-        "en": "Widespread adoption of these systems requires institutional training and integration into routine clinical workflows.",
-        "vi": "Việc áp dụng rộng rãi các hệ thống này đòi hỏi sự đào tạo tại cơ sở và tích hợp vào quy trình làm việc lâm sàng thường quy."
+        "en": "India has the potential to leverage its large clinical volume to generate high-quality multicentric datasets for future research and guideline development.",
+        "vi": "Ấn Độ có tiềm năng tận dụng khối lượng công việc lâm sàng lớn để tạo ra các tập dữ liệu đa trung tâm chất lượng cao phục vụ nghiên cứu và phát triển hướng dẫn lâm sàng."
       }
     ],
     "scope": {
-      "en": "Focuses on gynecological ultrasonography, specifically adnexal masses, endometriosis, and adenomyosis, emphasizing the need for frameworks like O-RADS, IOTA, and MUSA in clinical practice.",
-      "vi": "Tập trung vào siêu âm phụ khoa, đặc biệt là các khối u phần phụ, lạc nội mạc tử cung và bệnh cơ tuyến tử cung, nhấn mạnh nhu cầu áp dụng các khung hướng dẫn như O-RADS, IOTA và MUSA trong thực hành lâm sàng."
+      "en": "Focuses on gynecological ultrasonography frameworks (O-RADS, IOTA, MUSA, ADNEX) and the necessity of implementing structured reporting systems in clinical practice, with specific reference to the Indian healthcare context.",
+      "vi": "Tập trung vào các khuôn khổ siêu âm phụ khoa (O-RADS, IOTA, MUSA, ADNEX) và sự cần thiết của việc triển khai hệ thống báo cáo có cấu trúc trong thực hành lâm sàng, với tham chiếu cụ thể đến bối cảnh y tế tại Ấn Độ."
     },
     "provenance": {
       "article_id": "PMC13627784",
       "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13627784&blobtype=pdf",
       "publication_route": "full_bilingual",
       "generated_by": "AI Minh Translate",
-      "generated_at": "2026-10-12T15:40:03"
+      "generated_at": "2026-10-12T23:53:10"
     }
   }
 }
