@@ -2,10 +2,10 @@
   "id": "PMC13538889",
   "title": {
     "en": "Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study",
-    "vi": "Hướng dẫn Y khoa: Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study"
+    "vi": "Xây dựng mô hình dự đoán trước sinh đối với Postpartum Hemorrhage trong các trường hợp Chấm dứt thai kỳ non tháng: một nghiên cứu khoa học bệnh chứng có đối chứng hồi cứu"
   },
   "title_en": "Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study",
-  "title_vi": "Hướng dẫn Y khoa: Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study",
+  "title_vi": "Xây dựng mô hình dự đoán trước sinh đối với Postpartum Hemorrhage trong các trường hợp Chấm dứt thai kỳ non tháng: một nghiên cứu khoa học bệnh chứng có đối chứng hồi cứu",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 02:26:36",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study",
-      "vi": "Hướng dẫn Y khoa: Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study"
+      "vi": "Xây dựng mô hình dự đoán trước sinh đối với Postpartum Hemorrhage trong các trường hợp Chấm dứt thai kỳ non tháng: một nghiên cứu khoa học bệnh chứng có đối chứng hồi cứu"
     },
     {
       "type": "heading",
@@ -22162,7 +22162,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study",
-      "vi": "Hướng dẫn Y khoa: Establishment of an antepartum predictive model for postpartum hemorrhage in preterm delivery: a retrospective matched case-control study"
+      "vi": "Xây dựng mô hình dự đoán trước sinh đối với Postpartum Hemorrhage trong các trường hợp Chấm dứt thai kỳ non tháng: một nghiên cứu khoa học bệnh chứng có đối chứng hồi cứu"
     },
     "summary": {
       "en": "This retrospective study developed an antepartum predictive model using logistic regression and a BP neural network to identify risk factors for postpartum hemorrhage (PPH) in preterm deliveries among 728 singleton pregnancies.",

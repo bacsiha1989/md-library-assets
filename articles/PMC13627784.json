@@ -2,10 +2,10 @@
   "id": "PMC13627784",
   "title": {
     "en": "Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour",
-    "vi": "Hướng dẫn Y khoa: Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour"
+    "vi": "Chuẩn hóa Báo cáo Kết quả Siêu âm Phụ khoa tại Ấn Độ: Nhu cầu Cấp thiết Hiện nay"
   },
   "title_en": "Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour",
-  "title_vi": "Hướng dẫn Y khoa: Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour",
+  "title_vi": "Chuẩn hóa Báo cáo Kết quả Siêu âm Phụ khoa tại Ấn Độ: Nhu cầu Cấp thiết Hiện nay",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 08:40:08",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour",
-      "vi": "Hướng dẫn Y khoa: Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour"
+      "vi": "Chuẩn hóa Báo cáo Kết quả Siêu âm Phụ khoa tại Ấn Độ: Nhu cầu Cấp thiết Hiện nay"
     },
     {
       "type": "heading",
@@ -20950,7 +20950,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour",
-      "vi": "Hướng dẫn Y khoa: Standardized Reporting in Gynecological Ultrasonography in India: The Need of the Hour"
+      "vi": "Chuẩn hóa Báo cáo Kết quả Siêu âm Phụ khoa tại Ấn Độ: Nhu cầu Cấp thiết Hiện nay"
     },
     "summary": {
       "en": "Gynecological ultrasound is crucial for diagnosing pelvic disorders, yet significant reporting and terminology variability persists. Standardized systems (such as O-RADS, IOTA Simple Rules, ADNEX, MUSA, and FIGO) enhance diagnostic consistency, communication, education, and AI development, but their routine adoption in India remains variable and requires training and professional society engagement.",

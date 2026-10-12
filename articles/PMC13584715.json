@@ -2,10 +2,10 @@
   "id": "PMC13584715",
   "title": {
     "en": "Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives",
-    "vi": "Hướng dẫn Y khoa: Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives"
+    "vi": "Rối loạn chức năng bánh nhau thúc đẩy tình trạng thai chậm tăng trưởng trong tử cung (FGR): các cơ chế và triển vọng chuyển dịch"
   },
   "title_en": "Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives",
-  "title_vi": "Hướng dẫn Y khoa: Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives",
+  "title_vi": "Rối loạn chức năng bánh nhau thúc đẩy tình trạng thai chậm tăng trưởng trong tử cung (FGR): các cơ chế và triển vọng chuyển dịch",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 08:26:50",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives",
-      "vi": "Hướng dẫn Y khoa: Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives"
+      "vi": "Rối loạn chức năng bánh nhau thúc đẩy tình trạng thai chậm tăng trưởng trong tử cung (FGR): các cơ chế và triển vọng chuyển dịch"
     },
     {
       "type": "heading",
@@ -23998,7 +23998,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives",
-      "vi": "Hướng dẫn Y khoa: Placental dysfunction drives fetal growth restriction: mechanisms and translational perspectives"
+      "vi": "Rối loạn chức năng bánh nhau thúc đẩy tình trạng thai chậm tăng trưởng trong tử cung (FGR): các cơ chế và triển vọng chuyển dịch"
     },
     "summary": {
       "en": "This review explores the molecular mechanisms of placental dysfunction driving fetal growth restriction (FGR), highlighting the transition from single-pathway models to integrated, network-based approaches in precision obstetrics.",

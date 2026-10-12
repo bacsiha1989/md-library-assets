@@ -2,10 +2,10 @@
   "id": "PMC13526203",
   "title": {
     "en": "Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
-    "vi": "Hướng dẫn Y khoa: Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study"
+    "vi": "Giá trị dự báo của tỷ số Soluble fms-like tyrosine kinase-1/Yếu tố tăng trưởng nhau thai (sFlt-1/PlGF) trong tiền sản giật và phổ nhau cài răng lược: Một nghiên cứu quan sát tiến cứu"
   },
   "title_en": "Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
-  "title_vi": "Hướng dẫn Y khoa: Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
+  "title_vi": "Giá trị dự báo của tỷ số Soluble fms-like tyrosine kinase-1/Yếu tố tăng trưởng nhau thai (sFlt-1/PlGF) trong tiền sản giật và phổ nhau cài răng lược: Một nghiên cứu quan sát tiến cứu",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 08:37:35",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
-      "vi": "Hướng dẫn Y khoa: Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study"
+      "vi": "Giá trị dự báo của tỷ số Soluble fms-like tyrosine kinase-1/Yếu tố tăng trưởng nhau thai (sFlt-1/PlGF) trong tiền sản giật và phổ nhau cài răng lược: Một nghiên cứu quan sát tiến cứu"
     },
     {
       "type": "heading",
@@ -22390,7 +22390,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study",
-      "vi": "Hướng dẫn Y khoa: Predictive Value of the Soluble fms-Like Tyrosine Kinase-1/Placental Growth Factor Ratio in Preeclampsia and Placenta Accreta Spectrum: A Prospective Observational Study"
+      "vi": "Giá trị dự báo của tỷ số Soluble fms-like tyrosine kinase-1/Yếu tố tăng trưởng nhau thai (sFlt-1/PlGF) trong tiền sản giật và phổ nhau cài răng lược: Một nghiên cứu quan sát tiến cứu"
     },
     "summary": {
       "en": "This prospective observational study evaluates the diagnostic utility of the sFlt-1/PlGF ratio in preeclampsia and placenta accreta spectrum (PAS) among 200 pregnant women.",

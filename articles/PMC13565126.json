@@ -2,10 +2,10 @@
   "id": "PMC13565126",
   "title": {
     "en": "Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review",
-    "vi": "Hướng dẫn Y khoa: Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review"
+    "vi": "Sàng lọc siêu âm trước sinh các bất thường thể chai: Một bài tổng quan tường thuật"
   },
   "title_en": "Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review",
-  "title_vi": "Hướng dẫn Y khoa: Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review",
+  "title_vi": "Sàng lọc siêu âm trước sinh các bất thường thể chai: Một bài tổng quan tường thuật",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 02:15:49",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review",
-      "vi": "Hướng dẫn Y khoa: Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review"
+      "vi": "Sàng lọc siêu âm trước sinh các bất thường thể chai: Một bài tổng quan tường thuật"
     },
     {
       "type": "heading",
@@ -21884,7 +21884,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review",
-      "vi": "Hướng dẫn Y khoa: Prenatal Ultrasound Screening for Corpus Callosum Anomalies: A Narrative Review"
+      "vi": "Sàng lọc siêu âm trước sinh các bất thường thể chai: Một bài tổng quan tường thuật"
     },
     "summary": {
       "en": "This narrative review examines prenatal ultrasound screening methods for corpus callosum (CC) anomalies, highlighting the diagnostic challenges and the clinical importance of detecting these common central nervous system malformations.",

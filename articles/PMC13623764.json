@@ -2,10 +2,10 @@
   "id": "PMC13623764",
   "title": {
     "en": "A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins",
-    "vi": "Hướng dẫn Y khoa: A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins"
+    "vi": "Một trường hợp hiếm gặp về thai không tim không đầu trong song thai chung một bánh nhau"
   },
   "title_en": "A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins",
-  "title_vi": "Hướng dẫn Y khoa: A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins",
+  "title_vi": "Một trường hợp hiếm gặp về thai không tim không đầu trong song thai chung một bánh nhau",
   "authors": "MomDiary Clinical Research & Academic Network",
   "category": "Sản phụ khoa & Y học Bào thai",
   "metadata": {
@@ -31,7 +31,7 @@
     "publisher": "MomDiary Clinical Research & Academic Network",
     "verified_by": "Hội đồng y khoa MomDiary Clinical AI Engine",
     "version": "2.0-Autonomous-Gold",
-    "updated_at": "2026-10-12 02:18:35",
+    "updated_at": "2026-10-12 08:44:52",
     "medical_board_review": {
       "enabled": true,
       "status": "approved",
@@ -76,7 +76,7 @@
       "type": "heading",
       "id": "main-title-heading",
       "en": "A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins",
-      "vi": "Hướng dẫn Y khoa: A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins"
+      "vi": "Một trường hợp hiếm gặp về thai không tim không đầu trong song thai chung một bánh nhau"
     },
     {
       "type": "heading",
@@ -20271,7 +20271,7 @@
     "schema_version": "momdiary_assistant_context_v1",
     "title": {
       "en": "A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins",
-      "vi": "Hướng dẫn Y khoa: A Rare Case of Acardiac Acephalus Fetus in Monochorionic Twins"
+      "vi": "Một trường hợp hiếm gặp về thai không tim không đầu trong song thai chung một bánh nhau"
     },
     "summary": {
       "en": "This report details a rare case of Twin Reversed Arterial Perfusion (TRAP) sequence in a monochorionic pregnancy, where an acardiac acephalus fetus was hemodynamically supported by a pump twin. Despite a high acardiac-to-pump weight ratio of 0.78, the pump twin remained stable, leading to a successful delivery at 36 weeks.",
