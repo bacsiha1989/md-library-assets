@@ -1,0 +1,325 @@
+{
+  "id": "pmc13532164",
+  "title": {
+    "en": "Prognostic performance of umbilical artery Doppler-based classification in monochorionic pregnancies complicated by selective fetal growth restriction",
+    "vi": "Hiệu quả tiên lượng của phân loại dựa trên Đoppler động mạch rốn trong các thai kỳ song thai một bánh nhau có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc"
+  },
+  "title_en": "Prognostic performance of umbilical artery Doppler-based classification in monochorionic pregnancies complicated by selective fetal growth restriction",
+  "title_vi": "Hiệu quả tiên lượng của phân loại dựa trên Đoppler động mạch rốn trong các thai kỳ song thai một bánh nhau có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc",
+  "authors": "MomDiary Clinical Research & Academic Network",
+  "category": "Sản phụ khoa & Y học Bào thai",
+  "metadata": {
+    "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13532164&blobtype=pdf",
+    "license": "unknown",
+    "license_url": "",
+    "license_decision": {
+      "allowed": false,
+      "status": "rewrite_only_unknown_license",
+      "route": "rewrite_citation",
+      "license": "unknown",
+      "license_url": "",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13532164&blobtype=pdf",
+      "reason": "Không có giấy phép phái sinh đủ rõ; chỉ dùng cho bài tổng hợp nguyên bản, có trích dẫn, không sao chép hình/bảng.",
+      "can_translate": false,
+      "can_publish_public": true,
+      "can_synthesize": true,
+      "can_reuse_figures": false,
+      "must_cite_source": true,
+      "copy_verbatim": false
+    },
+    "publication_route": "rewrite_citation",
+    "section_schema": "momdiary_clinical_evidence_v1",
+    "figures_reused": 0,
+    "tables_reused": 0,
+    "updated_at": "2026-10-12 10:26:05",
+    "medical_board_review": {
+      "enabled": true,
+      "status": "approved",
+      "reviewed_by": "Hội đồng y khoa MomDiary Clinical AI Engine"
+    }
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "id": "citation-header",
+      "sentences": [
+        {
+          "id": "cit-meta-1",
+          "en": "Source for this original synthesis: Prognostic performance of umbilical artery Doppler-based classification in monochorionic pregnancies complicated by selective fetal growth restriction.",
+          "vi": "Nguồn của bản tổng hợp nguyên bản này: Prognostic performance of umbilical artery Doppler-based classification in monochorionic pregnancies complicated by selective fetal growth restriction."
+        },
+        {
+          "id": "cit-meta-2",
+          "en": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13532164&blobtype=pdf | Licence: unknown",
+          "vi": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13532164&blobtype=pdf | Licence: unknown"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "synthesis-heading",
+      "en": "Original clinical synthesis",
+      "vi": "Tổng hợp lâm sàng nguyên bản"
+    },
+    {
+      "type": "paragraph",
+      "id": "synthesis-summary",
+      "sentences": [
+        {
+          "id": "summary-1",
+          "en": "This retrospective cohort study evaluated the prognostic utility of the Gratacós et al. umbilical artery (UA) Doppler classification for selective fetal growth restriction (sFGR) in monochorionic diamniotic (MCDA) pregnancies. While the classification effectively stratified the risk of superimposed twin-twin transfusion syndrome and intact survival, it demonstrated limited individual predictive power for composite adverse perinatal outcomes (CAPO). Integrating this classification with additional clinical parameters significantly enhances predictive accuracy.",
+          "vi": "Nghiên cứu đoàn hệ hồi cứu này đánh giá giá trị tiên lượng của hệ thống phân loại dựa trên Doppler động mạch rốn (UA) theo Gratacós et al. đối với tình trạng thai chậm tăng trưởng trong tử cung chọn lọc (sFGR) trong thai kỳ song thai một bánh nhau hai buồng ối (MCDA). Mặc dù hệ thống phân loại này phân tầng hiệu quả nguy cơ hội chứng truyền máu song thai chồng lấp và tỷ lệ sống sót nguyên vẹn, nó cho thấy khả năng dự báo hạn chế đối với các kết cục chu sinh bất lợi tổng hợp (CAPO). Việc kết hợp phân loại này với các thông số lâm sàng bổ sung giúp cải thiện đáng kể độ chính xác dự báo."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "asset-rights-note",
+      "sentences": [
+        {
+          "id": "asset-note-1",
+          "en": "Original figures and tables are not reproduced; consult the cited source for those assets.",
+          "vi": "Không tái sử dụng hình và bảng gốc; muốn xem các tài sản đó, hãy mở nguồn đã trích dẫn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-1",
+      "sentences": [
+        {
+          "id": "point-1",
+          "en": "The Gratacós et al. classification system for sFGR in MCDA pregnancies shows limited individual predictive value for composite adverse perinatal outcomes.",
+          "vi": "Hệ thống phân loại Gratacós et al. cho sFGR trong thai kỳ MCDA có giá trị dự báo riêng lẻ hạn chế đối với các kết cục chu sinh bất lợi tổng hợp."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-2",
+      "sentences": [
+        {
+          "id": "point-2",
+          "en": "Type-I sFGR cases demonstrated significantly higher rates of intact survival compared to Type-II cases.",
+          "vi": "Các trường hợp sFGR loại I cho thấy tỷ lệ sống sót nguyên vẹn cao hơn đáng kể so với các trường hợp loại II."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-3",
+      "sentences": [
+        {
+          "id": "point-3",
+          "en": "The risk of superimposed twin-twin transfusion syndrome increases progressively from Type-I to Type-III sFGR.",
+          "vi": "Nguy cơ hội chứng truyền máu song thai chồng lấp tăng dần từ sFGR loại I đến loại III."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-4",
+      "sentences": [
+        {
+          "id": "point-4",
+          "en": "Individual UA Doppler classification alone yielded a low AUC (0.615) for predicting CAPO in the smaller twin.",
+          "vi": "Phân loại Doppler động mạch rốn đơn thuần cho AUC thấp (0,615) trong việc dự báo CAPO ở thai nhi nhỏ hơn."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "id": "key-point-5",
+      "sentences": [
+        {
+          "id": "point-5",
+          "en": "Combining Doppler classification with fetal weight discordance and early diagnosis improves predictive performance (AUC > 0.9).",
+          "vi": "Kết hợp phân loại Doppler với mức độ chênh lệch cân nặng thai nhi và chẩn đoán sớm giúp cải thiện hiệu suất dự báo (AUC > 0,9)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-evidence",
+      "en": "Evidence",
+      "vi": "Bằng chứng"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-evidence",
+      "sentences": [
+        {
+          "id": "section-sentence-evidence",
+          "en": "Retrospective cohort study of 107 MCDA pregnancies complicated by sFGR, conducted at a tertiary center between 2000 and 2024, utilizing Delphi consensus diagnostic criteria.",
+          "vi": "Nghiên cứu đoàn hệ hồi cứu trên 107 thai kỳ MCDA có biến chứng sFGR, thực hiện tại một trung tâm tuyến cuối từ năm 2000 đến 2024, sử dụng tiêu chuẩn chẩn đoán đồng thuận Delphi."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-summary",
+      "en": "Summary",
+      "vi": "Tóm lược"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-summary",
+      "sentences": [
+        {
+          "id": "section-sentence-summary",
+          "en": "The study assessed the prognostic performance of the UA Doppler-based classification for sFGR. While it correlates with specific complications, it is insufficient as a standalone tool for predicting adverse perinatal outcomes.",
+          "vi": "Nghiên cứu đánh giá hiệu suất tiên lượng của hệ thống phân loại dựa trên Doppler động mạch rốn cho sFGR. Mặc dù có tương quan với các biến chứng cụ thể, hệ thống này chưa đủ mạnh để làm công cụ độc lập dự báo kết cục chu sinh bất lợi."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-scope",
+      "en": "Scope",
+      "vi": "Phạm vi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-scope",
+      "sentences": [
+        {
+          "id": "section-sentence-scope",
+          "en": "Focuses on MCDA pregnancies with sFGR, comparing perinatal outcomes across Gratacós et al. classification types (I, II, and III).",
+          "vi": "Tập trung vào các thai kỳ MCDA có sFGR, so sánh kết cục chu sinh giữa các nhóm phân loại theo Gratacós et al. (loại I, II và III)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-mechanism_risk",
+      "en": "Mechanism and Risk",
+      "vi": "Cơ chế và Nguy cơ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-mechanism_risk",
+      "sentences": [
+        {
+          "id": "section-sentence-mechanism_risk",
+          "en": "Superimposed twin-twin transfusion syndrome rates were 6.0% (Type-I), 18.8% (Type-II), and 37.5% (Type-III). No significant differences were observed in double intrauterine fetal demise or isolated demise of the smaller twin.",
+          "vi": "Tỷ lệ hội chứng truyền máu song thai chồng lấp lần lượt là 6,0% (loại I), 18,8% (loại II) và 37,5% (loại III). Không ghi nhận sự khác biệt đáng kể về tỷ lệ thai chết lưu cả hai thai hoặc thai chết lưu đơn thuần ở thai nhi nhỏ hơn."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-diagnosis",
+      "en": "Diagnosis",
+      "vi": "Chẩn đoán"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-diagnosis",
+      "sentences": [
+        {
+          "id": "section-sentence-diagnosis",
+          "en": "sFGR diagnosed via Delphi consensus criteria; fetal growth assessed using twin-specific growth charts.",
+          "vi": "sFGR được chẩn đoán qua tiêu chuẩn đồng thuận Delphi; tăng trưởng thai nhi được đánh giá bằng biểu đồ tăng trưởng dành riêng cho song thai."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-management",
+      "en": "Management",
+      "vi": "Quản lý"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-management",
+      "sentences": [
+        {
+          "id": "section-sentence-management",
+          "en": "Predictive models for CAPO were improved by incorporating gestational age at delivery, laser photocoagulation, and classification stage progression.",
+          "vi": "Các mô hình dự báo CAPO được cải thiện bằng cách kết hợp tuổi thai lúc sinh, phẫu thuật laser quang đông và sự tiến triển của giai đoạn phân loại."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-complications_followup",
+      "en": "Complications and Follow-up",
+      "vi": "Biến chứng và Theo dõi"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-complications_followup",
+      "sentences": [
+        {
+          "id": "section-sentence-complications_followup",
+          "en": "Intact survival of both twins was significantly higher in Type-I (54.2%) compared to Type-II (18.8%) cases.",
+          "vi": "Tỷ lệ sống sót nguyên vẹn của cả hai thai nhi cao hơn đáng kể ở nhóm loại I (54,2%) so với nhóm loại II (18,8%)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "section-references_glossary",
+      "en": "References and Glossary",
+      "vi": "Tài liệu tham khảo và Thuật ngữ"
+    },
+    {
+      "type": "paragraph",
+      "id": "section-body-references_glossary",
+      "sentences": [
+        {
+          "id": "section-sentence-references_glossary",
+          "en": "sFGR: Selective Fetal Growth Restriction; MCDA: Monochorionic Diamniotic; CAPO: Composite Adverse Perinatal Outcome; UA: Umbilical Artery.",
+          "vi": "sFGR: Thai chậm tăng trưởng trong tử cung chọn lọc; MCDA: Song thai một bánh nhau hai buồng ối; CAPO: Kết cục chu sinh bất lợi tổng hợp; UA: Động mạch rốn."
+        }
+      ]
+    }
+  ],
+  "figures": [],
+  "glossary": {},
+  "assistant_context": {
+    "visibility": "assistant_only",
+    "schema_version": "momdiary_assistant_context_v1",
+    "title": {
+      "en": "Prognostic performance of umbilical artery Doppler-based classification in monochorionic pregnancies complicated by selective fetal growth restriction",
+      "vi": "Hiệu quả tiên lượng của phân loại dựa trên Đoppler động mạch rốn trong các thai kỳ song thai một bánh nhau có biến chứng thai chậm tăng trưởng trong tử cung (FGR) chọn lọc"
+    },
+    "summary": {
+      "en": "This retrospective cohort study evaluated the prognostic utility of the Gratacós et al. umbilical artery (UA) Doppler classification for selective fetal growth restriction (sFGR) in monochorionic diamniotic (MCDA) pregnancies. While the classification effectively stratified the risk of superimposed twin-twin transfusion syndrome and intact survival, it demonstrated limited individual predictive power for composite adverse perinatal outcomes (CAPO). Integrating this classification with additional clinical parameters significantly enhances predictive accuracy.",
+      "vi": "Nghiên cứu đoàn hệ hồi cứu này đánh giá giá trị tiên lượng của hệ thống phân loại dựa trên Doppler động mạch rốn (UA) theo Gratacós et al. đối với tình trạng thai chậm tăng trưởng trong tử cung chọn lọc (sFGR) trong thai kỳ song thai một bánh nhau hai buồng ối (MCDA). Mặc dù hệ thống phân loại này phân tầng hiệu quả nguy cơ hội chứng truyền máu song thai chồng lấp và tỷ lệ sống sót nguyên vẹn, nó cho thấy khả năng dự báo hạn chế đối với các kết cục chu sinh bất lợi tổng hợp (CAPO). Việc kết hợp phân loại này với các thông số lâm sàng bổ sung giúp cải thiện đáng kể độ chính xác dự báo."
+    },
+    "key_points": [
+      {
+        "en": "The Gratacós et al. classification system for sFGR in MCDA pregnancies shows limited individual predictive value for composite adverse perinatal outcomes.",
+        "vi": "Hệ thống phân loại Gratacós et al. cho sFGR trong thai kỳ MCDA có giá trị dự báo riêng lẻ hạn chế đối với các kết cục chu sinh bất lợi tổng hợp."
+      },
+      {
+        "en": "Type-I sFGR cases demonstrated significantly higher rates of intact survival compared to Type-II cases.",
+        "vi": "Các trường hợp sFGR loại I cho thấy tỷ lệ sống sót nguyên vẹn cao hơn đáng kể so với các trường hợp loại II."
+      },
+      {
+        "en": "The risk of superimposed twin-twin transfusion syndrome increases progressively from Type-I to Type-III sFGR.",
+        "vi": "Nguy cơ hội chứng truyền máu song thai chồng lấp tăng dần từ sFGR loại I đến loại III."
+      },
+      {
+        "en": "Individual UA Doppler classification alone yielded a low AUC (0.615) for predicting CAPO in the smaller twin.",
+        "vi": "Phân loại Doppler động mạch rốn đơn thuần cho AUC thấp (0,615) trong việc dự báo CAPO ở thai nhi nhỏ hơn."
+      },
+      {
+        "en": "Combining Doppler classification with fetal weight discordance and early diagnosis improves predictive performance (AUC > 0.9).",
+        "vi": "Kết hợp phân loại Doppler với mức độ chênh lệch cân nặng thai nhi và chẩn đoán sớm giúp cải thiện hiệu suất dự báo (AUC > 0,9)."
+      }
+    ],
+    "scope": {
+      "en": "See the cited source and full bilingual article for population and limitations.",
+      "vi": "Xem nguồn trích dẫn và toàn văn song ngữ để biết quần thể và giới hạn."
+    },
+    "provenance": {
+      "article_id": "pmc13532164",
+      "source_url": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC13532164&blobtype=pdf",
+      "publication_route": "rewrite_citation",
+      "generated_by": "AI Minh Translate + AN read-only context",
+      "generated_at": "2026-10-12T10:26:05"
+    }
+  }
+}
